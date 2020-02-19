@@ -2,7 +2,9 @@
 
 |  __Model__  |  __Lead Partner__  |  __Main Objective__|
 |-------------|--------------------|--------------------|
-| EMPIRE      | NTNU               | Optimize power plants operation and investments in power generation and transmission capacity               |
+| EMPIRE      | NTNU               | Optimize power plants operation 
+                                     and investments in power generation 
+                                     and transmission capacity               |
 | e-Transport | SINTEF             | SINTEF             |
 | EXIOMOD     | TNO                | TNO                |
 | FanSi       | SINTEF             | SINTEF             |
