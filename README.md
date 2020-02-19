@@ -49,7 +49,7 @@ The model suite:
 |-------------|---------------|
 | EMPIRE      |               |
 | e-Transport |               |
-| EXIOMOD     | 2.0           |
+| EXIOMOD     | 2.0.0        |
 | FanSi       |               |
 | FRESH:COM   |               |
 | GENeSYS-MOD |               |
