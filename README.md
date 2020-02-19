@@ -14,7 +14,7 @@ Copyright 2020 openENTRANCE consortium
    See the License for the specific language governing permissions and
    limitations under the License.
 
-## Model linkage mappings and definitions 
+## Model linkage mappings and definitions
 
 <p align="center">
   <img width="195" height="195" src="https://github.com/openENTRANCE/model-linkage/blob/master/assets/Models.png">
@@ -26,7 +26,7 @@ This repository aims to share the mapping of some models to be used in [openENTR
 * Define a set of consistent names, definitions, and meanings for the different concepts
 
 The first rule is to define a single set of pre-defined reserved words to be used in the data-exchange platform. A reserved word can’t be used for two different concepts in the platform.
-The **common data format** are thought to be valid both for dynamic data, changing over time (e.g., hourly data), and static data (e.g., yearly data). Besides, we will need to represent both deterministic data (those for which there is certainty over the evolution of the corresponding data) and stochastic data, which depend on uncertain scenarios. 
+The **common data format** are thought to be valid both for dynamic data, changing over time (e.g., hourly data), and static data (e.g., yearly data). Besides, we will need to represent both deterministic data (those for which there is certainty over the evolution of the corresponding data) and stochastic data, which depend on uncertain scenarios.
 Within the **common data format**, there are six dimensions:
 
 1.	Model
@@ -58,7 +58,7 @@ This dictionary of model can be linked through this exchange format. Given the i
 
 ## 2. Scenario
 
-<table>
+<!-- <table>
 <tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
 <tr><td>
 
@@ -68,8 +68,8 @@ This dictionary of model can be linked through this exchange format. Given the i
 
 </td><td>
 
-|b|1|2|3| 
+|b|1|2|3|
 |--|--|--|--|
 |a|s|d|f|
 
-</td></tr> </table>
+</td></tr> </table> -->
