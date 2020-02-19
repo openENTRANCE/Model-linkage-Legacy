@@ -14,8 +14,10 @@ Copyright 2020 openENTRANCE consortium
    See the License for the specific language governing permissions and
    limitations under the License.
 
-## Model linkage mappings and definitions <p align="right">
-  <img width="195" height="195" src="https://github.com/openENTRANCE/model-linkage/blob/master/assets/Models.png">
+## Model linkage mappings and definitions 
+
+<p align="center">
+  <img width="150" height="150" src="https://github.com/openENTRANCE/model-linkage/blob/master/assets/Models.png">
 </p>
 
 This repository aims to share the mapping of some models to be used in [openENTRANCE](https://openentrance.eu/) is based on these three principles:
