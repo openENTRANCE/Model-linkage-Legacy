@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="345" height="195" src="https://github.com/erikfilias/Power-Systems-Optimization-using-Julia-Language/blob/master/assets/LogoGit.png">
+  <img width="345" height="195" src="https://github.com/openENTRANCE/model-linkage/blob/master/assets/Models.png">
 </p>
 
 
