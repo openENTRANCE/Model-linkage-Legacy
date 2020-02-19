@@ -16,14 +16,14 @@ Copyright 2020 openENTRANCE consortium
 
 ## Model linkage mappings and definitions
 
-This repository aims to share the mapping of some models to be used in openENTRANCE is based on these three principles:
+This repository aims to share the mapping of some models to be used in [openENTRANCE](https://openentrance.eu/) is based on these three principles:
 
 * Define the hierarchical relations among the different concepts used for variable and region domains of the **common data format**
 * Define a set of consistent names, definitions, and meanings for the different concepts
 
 The first rule is to define a single set of pre-defined reserved words to be used in the data-exchange platform. A reserved word can’t be used for two different concepts in the platform.
 The **common data format** are thought to be valid both for dynamic data, changing over time (e.g., hourly data), and static data (e.g., yearly data). Besides, we will need to represent both deterministic data (those for which there is certainty over the evolution of the corresponding data) and stochastic data, which depend on uncertain scenarios. 
-Within the IAMC format, there are six dimensions:
+Within the **common data format**, there are six dimensions:
 
 1.	Model
 2.	Scenario
