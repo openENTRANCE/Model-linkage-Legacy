@@ -16,7 +16,7 @@
 | SCOPE-SD    | Fraunhofer IEE     |
 
 
-| **Animals** | **Sports** | **Fruits** |
+<!-- | **Animals** | **Sports** | **Fruits** |
 | :---------- | :--------- | :--------- |
 | Cat         | Soccer     | Apple      |
-| Dog         | Basketball | Orange     |
+| Dog         | Basketball | Orange     | -->
