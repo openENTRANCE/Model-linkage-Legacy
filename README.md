@@ -41,6 +41,10 @@ Next, we describe in detail the information to be provided in each dimension. Th
 ## 1. Model
 This dictionary of model can be linked through this exchange format. Given the intended openness of the exchange format, models inside and outside the openENTRANCE consortium are welcome. A brief description of the model is provided in the next link. Model name and version will be specified as follows:
 
+* openTEPES|1.6.12
+
+The model suite:
+
 |  __Model__  |  __Version__  |
 |-------------|---------------|
 | EMPIRE      |               |
