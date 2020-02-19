@@ -17,7 +17,7 @@ Copyright 2020 openENTRANCE consortium
 ## Model linkage mappings and definitions 
 
 <p align="center">
-  <img width="175" height="175" src="https://github.com/openENTRANCE/model-linkage/blob/master/assets/Models.png">
+  <img width="195" height="195" src="https://github.com/openENTRANCE/model-linkage/blob/master/assets/Models.png">
 </p>
 
 This repository aims to share the mapping of some models to be used in [openENTRANCE](https://openentrance.eu/) is based on these three principles:
@@ -39,17 +39,17 @@ Within the **common data format**, there are six dimensions:
 Next, we describe in detail the information to be provided in each dimension. This definition must be exhaustive (cover all the data in the models considered) and avoid duplicities that might lead to inconsistencies. That is, all data should be defined once and just once.
 
 
-|  __Models__  | 
-|--------------|
-| EMPIRE       |
-| e-Transport  |
-| EXIOMOD      |
-| FanSi        |
-| FRESH:COM    |
-| GENeSYS-MOD  |
-| HERO         |
-| openTEPES    |
-| OSCARS       |
-| Plan4EU      |
-| REMES-EU     |
-| SCOPE-SD     |
+|  __Models__  |  |  __Models__  |
+|--------------|  |--------------|
+| EMPIRE       |  | EMPIRE       |
+| e-Transport  |  | e-Transport  |
+| EXIOMOD      |  | EXIOMOD      |
+| FanSi        |  | FanSi        |
+| FRESH:COM    |  | FRESH:COM    |
+| GENeSYS-MOD  |  | GENeSYS-MOD  |
+| HERO         |  | HERO         |
+| openTEPES    |  | openTEPES    |
+| OSCARS       |  | OSCARS       |
+| Plan4EU      |  | Plan4EU      |
+| REMES-EU     |  | REMES-EU     |
+| SCOPE-SD     |  | SCOPE-SD     |
