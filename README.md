@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="345" height="195" src="https://github.com/erikfilias/Power-Systems-Optimization-using-Julia-Language/blob/master/assets/LogoGit.png">
+</p>
+
+
 # openENTRANCE: model linkage mappings and definitions
 
 Copyright 2020 openENTRANCE consortium
