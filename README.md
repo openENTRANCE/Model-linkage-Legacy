@@ -60,6 +60,8 @@ The model suite:
 | REMES-EU    |               |
 | SCOPE-SD    |               |
 
+More details could be found [here](Model/ModelDictionary.md).
+
 ## 2. Scenario
 
 <!-- <table>
