@@ -38,6 +38,8 @@ Within the **common data format**, there are six dimensions:
 
 Next, we describe in detail the information to be provided in each dimension. This definition must be exhaustive (cover all the data in the models considered) and avoid duplicities that might lead to inconsistencies. That is, all data should be defined once and just once.
 
+## 1. Model
+This dictionary of model can be linked through this exchange format. Given the intended openness of the exchange format, models inside and outside the openENTRANCE consortium are welcome. A brief description of the model is provided in the next link. Model name and version will be specified:
 
 |  __Model__  |  __Lead Partner__  |
 |-------------|--------------------|
@@ -54,7 +56,7 @@ Next, we describe in detail the information to be provided in each dimension. Th
 | REMES-EU    | NTNU/SINTEF        |
 | SCOPE-SD    | Fraunhofer IEE     |
 
-
+## 2. Scenario
 
 <table>
 <tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
