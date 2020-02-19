@@ -45,12 +45,12 @@ This dictionary of model can be linked through this exchange format. Given the i
 |-------------|---------------|
 | EMPIRE      |               |
 | e-Transport |               |
-| EXIOMOD     |               |
+| EXIOMOD     | 2.0           |
 | FanSi       |               |
 | FRESH:COM   |               |
 | GENeSYS-MOD |               |
 | HERO        |               |
-| openTEPES   |               |
+| openTEPES   | 1.6.12        |
 | OSCARS      |               |
 | Plan4EU     |               |
 | REMES-EU    |               |
