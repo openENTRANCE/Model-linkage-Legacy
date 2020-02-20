@@ -47,14 +47,14 @@ More details could be found [here](Model/ModelDictionary.md).
 
 
 ## 2. Scenario
-The analysis/case scenario name describes the type of analysis to be carried out and its context, as used in the openENTRANCE project. For example, scenario **GreenGrowth** or **Distributed PV all over Europe** or **Centralized utility-scale PV in southern Europe** can be possible names of scenarios. ***Any name is valid here***.
+The analysis/case scenario name describes the type of analysis to be carried out and its context, as used in the openENTRANCE project. For example, analysis/case scenario **GreenGrowth** or **Distributed PV all over Europe** or **Centralized utility-scale PV in southern Europe** can be possible names. ***Any name is valid here***.
 
-This field can be extended to refer to the fact that the scenario considered is stochastic/random to account, for example, for the spatial correlation of wind/solar generation, or demand, in different regions/countries. Stochastic/random data are usually time dependent.
-Thus, stochastic/random scenario names can be used. For example, possible names can be:
+This field can be extended to refer to the fact that the analysis/case scenario considered is stochastic/random to account, for example, for the spatial correlation of wind/solar generation, or demand, in different regions/countries. Stochastic/random data are usually time dependent.
+Thus, stochastic/random scenario names can be used. For example, possible forms can be used:
 
 > Distributed PV all over Europe|Scen001
 
-Where the data given belong to the random scenario **Scen001** of the analysis scenario **Distributed PV all over Europe**.
+Where the data given belong to the random scenario **Scen001** of the analysis/case scenario **Distributed PV all over Europe**.
 
 
 More details can be found [here](Scenario/ScenarioDictionary.md).
