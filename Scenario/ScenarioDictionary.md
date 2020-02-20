@@ -4,8 +4,8 @@
 <tr><th> Study </th><th> Scenario </th></tr>
 <tr><td>
 
-|:-----:|
 |  CS1  |
+|:-----:|
 |  CS2  |
 |  CS3  |
 |  CS4  |
@@ -17,16 +17,16 @@
 
 </td><td>
 
-|:--------:|
-|  Scen001 |
-|  Scen002 |
-|  Scen003 |
-|  Scen004 |
-|  Scen005 |
-|  Scen006 |
-|  Scen007 |
-|  Scen008 |
-|  Scen009 |
+| Scen001 |
+|:-------:|
+| Scen002 |
+| Scen003 |
+| Scen004 |
+| Scen005 |
+| Scen006 |
+| Scen007 |
+| Scen008 |
+| Scen009 |
 
 </td></tr> </table>
 
