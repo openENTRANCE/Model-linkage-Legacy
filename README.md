@@ -43,23 +43,6 @@ This dictionary of model can be linked through this exchange format. Given the i
 
 > openTEPES|1.6.12
 
-The model suite:
-
-|  __Model__  |  __Version__  |
-|-------------|---------------|
-| EMPIRE      |               |
-| e-Transport |               |
-| EXIOMOD     | 2.0.0         |
-| FanSi       |               |
-| FRESH:COM   |               |
-| GENeSYS-MOD |               |
-| HERO        |               |
-| openTEPES   | 1.6.12        |
-| OSCARS      |               |
-| Plan4EU     |               |
-| REMES-EU    |               |
-| SCOPE-SD    |               |
-
 More details could be found [here](Model/ModelDictionary.md).
 
 ## 2. Scenario
