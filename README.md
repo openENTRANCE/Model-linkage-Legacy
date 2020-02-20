@@ -58,3 +58,33 @@ Where the data given belong to the random scenario **Scen001** of the analysis s
 
 
 More details can be found [here](Scenario/ScenarioDictionary.md).
+
+
+## 2. Region
+Column ‘Region’ of the IAMC format must be used to define the geographical mapping of the variable (location that the variable refers to). For that purpose, we propose the definition of the set of regions to be considered in the extended format by combining the possible geographical levels, in the order defined next, using pipes (|).
+This geographical mapping information will be publicly available in an open repository where it will be easily accessible to modelers, who could develop their data processing tools taking it into account.
+We propose the following levels for the definition of the locations to be considered:
+
+* Continent: Europe
+* Region: Continental_Central_East (CCE)
+* Country: countries (DE.Germany, FR.France, etc.)
+* Area (NUTS 1): large regions inside a country
+* Zone (NUTS 2): smaller regions inside a country
+* Node (NUTS 3): physical (electrical, gas) nodes or provinces in the corresponding global grid
+* District: municipal utility district
+* Community: city block
+* EndUser: end user
+* Circuit: circuit/link of a line (electric or gas)
+
+A **greater than** sign (>) is used to express the direction of links. For example, **node1 > node2 > circuit1** indicates that we refer to circuit1 connecting node1 and node2, from the former to the latter. Bidirectional data must be declared separately for each direction but using only the greater sign.
+Names separated by dots (.), as DE.Germany for example, means that they are synonyms, and this is defined in the repository. This allows easier data conversion among the different models and users.
+Besides, to enable the geographical aggregation/disaggregation, any value of a certain column must belong to the category defined in the previous one on the left, i.e., all the countries must be included in a region, all the areas in a country, and so on.
+For example, possible values can be:
+
+*	Munich where only the city of Munich is defined.
+*	DE where only the country is defined
+*	Munich>Salzburg>AC01 defines the electrical circuit AC01 between Munich and Salzburg
+
+
+
+More details can be found [here](Scenario/ScenarioDictionary.md).
