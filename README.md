@@ -43,24 +43,8 @@ This dictionary of model can be linked through this exchange format. Given the i
 
 > openTEPES|1.6.12
 
-The model suite:
+More details could be found [here](Model/ModelDictionary.md).
 
-|  __Model__  |  __Version__  |
-|-------------|---------------|
-| EMPIRE      |               |
-| e-Transport |               |
-| EXIOMOD     | 2.0.0         |
-| FanSi       |               |
-| FRESH:COM   |               |
-| GENeSYS-MOD |               |
-| HERO        |               |
-| openTEPES   | 1.6.12        |
-| OSCARS      |               |
-| Plan4EU     |               |
-| REMES-EU    |               |
-| SCOPE-SD    |               |
-
-More details can be found [here](Model/ModelDictionary.md).
 
 ## 2. Scenario
 The analysis/case scenario name describes the type of analysis to be carried out and its context, as used in the openENTRANCE project. For example, scenario **GreenGrowth** or **Distributed PV all over Europe** or **Centralized utility-scale PV in southern Europe** can be possible names of scenarios. ***Any name is valid here***.

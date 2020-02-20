@@ -1,3 +1,22 @@
+## Dictionary of models
+
+The model suite:
+
+|  __Model__  |  __Version__  |
+|-------------|---------------|
+| EMPIRE      |               |
+| e-Transport |               |
+| EXIOMOD     | 2.0.0         |
+| FanSi       |               |
+| FRESH:COM   |               |
+| GENeSYS-MOD |               |
+| HERO        |               |
+| openTEPES   | 1.6.12        |
+| OSCARS      |               |
+| Plan4EU     |               |
+| REMES-EU    |               |
+| SCOPE-SD    |               |
+
 ## Description of models
 
 |  __Model__  |  __Lead Partner__  |  __Main Objective__|  __Special Characteristics__|      __STATUS__    |

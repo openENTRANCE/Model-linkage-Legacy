@@ -1,8 +1,7 @@
 ## Dictionary of Scenario
 
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
-<tr><td>
+<tr><th>Study </th><th>Scenario</th></tr>
 
 |Table 1| Middle | Table 2|
 |--|--|--|
