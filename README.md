@@ -88,7 +88,7 @@ Where only the zone of **Oberbayern** is defined.
 
 >	CCE|DE|Bayern
 
-Where only the zone of **Bayern** is defined.
+Where only the area of **Bayern** is defined.
 
 >	CCE|DE
 
@@ -100,7 +100,8 @@ Where only the region is defined
 
 >	Munich>Salzburg-und-Umgebung>AC01
 
-Defines the electrical circuit **AC01** between **Munich** and **Salzburg-und-Umgebung**
+Defines the electrical circuit **AC01** between **Munich** and **Salzburg-und-Umgebung**.
+For the geographical links (such as electrical circuits), it is important to connect locations at the same level. I.e. NUTS 1 with NUTS 1 or district with district.
 
 
 
