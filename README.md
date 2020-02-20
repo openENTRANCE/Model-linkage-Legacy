@@ -58,3 +58,51 @@ Where the data given belong to the random scenario **Scen001** of the analysis/c
 
 
 More details can be found [here](Scenario/ScenarioDictionary.md).
+
+
+## 3. Region
+It refers to the geographical mapping of the variable. For that purpose, a definition of the set of regions is proposed by combining the possible geographical levels, in the order defined next, using pipes (|). Note that the [NUTS 2021 Nomenclature](https://ec.europa.eu/eurostat/web/nuts/background) is considered.
+We propose the following levels for the definition of the locations to be considered:
+
+* Continent: Europe
+* Region: Continental-Central-East (CCE)
+* Country: countries (DE, FR, etc.)
+* Area (NUTS 1): large regions inside a country
+* Zone (NUTS 2): smaller regions inside a country
+* Node (NUTS 3): physical (electrical, gas) nodes or provinces in the corresponding global grid
+* District: municipal utility district
+* Community: city block
+* EndUser: end user
+* Circuit: circuit/link of a line (electric or gas)
+
+A **greater than** sign (>) is used to express the direction of links. For example, **node1 > node2 > circuit1** indicates that we refer to circuit1 connecting node1 and node2, from the former to the latter. Bidirectional data must be declared separately for each direction but using only the greater sign.
+For example, possible values can be:
+
+>	CCE|DE|Bayern|Oberbayern|München|Node001
+
+Where only the **Node001** that belongs to the city of München is defined.
+
+>	CCE|DE|Bayern|Oberbayern
+
+Where only the zone of **Oberbayern** is defined.
+
+>	CCE|DE|Bayern
+
+Where only the area of **Bayern** is defined.
+
+>	CCE|DE
+
+Where only the country is defined
+
+>	CCE
+
+Where only the region is defined
+
+>	Munich>Salzburg-und-Umgebung>AC01
+
+Defines the electrical circuit **AC01** between **Munich** and **Salzburg-und-Umgebung**.
+For the geographical links (such as electrical circuits), it is important to connect locations at the same level. I.e. NUTS 1 with NUTS 1 or district with district.
+
+
+
+More details can be found [here](Scenario/ScenarioDictionary.md).
