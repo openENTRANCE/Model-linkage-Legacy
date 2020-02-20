@@ -76,4 +76,37 @@ NL1,Netherlands,North Netherlands
 NL2,Netherlands,East Holland
 NL3,Netherlands,West Netherlands
 NL4,Netherlands,South of the Netherlands
-NO,,
+NO0,Norway,Norway
+PL2,Poland,Southern macroregion
+PL4,Poland,Northwestern Macroregion
+PL5,Poland,Southwestern macroregion
+PL6,Poland,Northern macroregion
+PL7,Poland,Central macroregion
+PL8,Poland,Eastern macroregion
+PL9,Poland,Macroregion Mazowieckie Province
+PT1,Portugal,Continente
+PT2,Portugal,Região Autónoma dos Açores
+PT3,Portugal,Região Autónoma da Madeira
+RO1,Romania,Macroregion One
+RO2,Romania,Macroregion Two
+RO3,Romania,Macroregion Three
+RO4,Romania,Macroregion Four
+RS1,Serbia,Serbia - North
+RS2,Serbia,Serbia - South
+SE1,Sweden,East Sweden
+SE2,Sweden,Southern Sweden
+SE3,Sweden,North Sweden
+SI0,Slovenia,Slovenia
+SK0,Slovakia,Slovakia
+UKC,United Kingdom,North East (England)
+UKD,United Kingdom,North West (England)
+UKE,United Kingdom,Yorkshire and the Humber
+UKF,United Kingdom,East Midlands (England)
+UKG,United Kingdom,West Midlands (England)
+UKH,United Kingdom,East of England
+UKI,United Kingdom,London
+UKJ,United Kingdom,South East (England)
+UKK,United Kingdom,South West (England)
+UKL,United Kingdom,Wales
+UKM,United Kingdom,Scotland
+UKN,United Kingdom,Northern Ireland
