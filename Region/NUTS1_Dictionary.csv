@@ -1,12 +1,15 @@
 Code,Country,NUTS level 1
+AL0,Albania,Albania
 AT1,Austria,Ostösterreich
 AT2,Austria,Südösterreich
 AT3,Austria,Westösterreich
+BA0,Bosnia And Herzegovina,Bosnia And Herzegovina
 BE1,Belgium,Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest
 BE2,Belgium,Vlaams Gewest
 BE3,Belgium,Région wallonne
 BG3,Bulgaria,North and Southeast Bulgaria
 BG4,Bulgaria,Southwest and South Central Bulgaria
+CH0,Switzerland,Switzerland
 CY0,Cyprus,Cyprus
 CZ0,Czech Republic,Czech Republic
 DE1,Germany,Baden-Württemberg
@@ -67,4 +70,10 @@ ITI,Italy,Center
 LT0,Lithuania,Lietuva
 LU0,Luxembourg,Luxembourg
 LV0,Latvia,Latvia
+ME0,Montenegro,Montenegro
 MT0,Malta,Malta
+NL1,Netherlands,North Netherlands
+NL2,Netherlands,East Holland
+NL3,Netherlands,West Netherlands
+NL4,Netherlands,South of the Netherlands
+NO,,
