@@ -61,8 +61,7 @@ More details can be found [here](Scenario/ScenarioDictionary.md).
 
 
 ## 3. Region
-Column **Region** of the IAMC format must be used to define the geographical mapping of the variable (location that the variable refers to). For that purpose, we propose the definition of the set of regions to be considered in the extended format by combining the possible geographical levels, in the order defined next, using pipes (|).
-This geographical mapping information will be publicly available in an open repository where it will be easily accessible to modelers, who could develop their data processing tools taking it into account.
+It refers to the geographical mapping of the variable. For that purpose, a definition of the set of regions is proposed by combining the possible geographical levels, in the order defined next, using pipes (|).
 We propose the following levels for the definition of the locations to be considered:
 
 * Continent: Europe
