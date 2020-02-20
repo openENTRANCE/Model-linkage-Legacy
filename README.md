@@ -1,4 +1,4 @@
-# openENTRANCE: model linkage mappings and definitions
+# openENTRANCE: Model linkage mappings and definitions
 
 Copyright 2020 openENTRANCE consortium
 
