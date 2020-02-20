@@ -43,7 +43,7 @@ This dictionary of model can be linked through this exchange format. Given the i
 
 > openTEPES|1.6.12
 
-More details could be found [here](Model/ModelDictionary.md).
+More details could be found [here](Model/README.md).
 
 
 ## 2. Scenario
@@ -57,7 +57,7 @@ Thus, stochastic/random scenario names can be used. For example, possible forms 
 Where the data given belong to the random scenario **Scen001** of the analysis/case scenario **Distributed PV all over Europe**.
 
 
-More details can be found [here](Scenario/ScenarioDictionary.md).
+More details can be found [here](Scenario/README.md).
 
 
 ## 3. Region
@@ -105,4 +105,4 @@ For the geographical links (such as electrical circuits), it is important to con
 
 
 
-More details can be found [here](Scenario/ScenarioDictionary.md).
+More details can be found [here](Region/README.md).
