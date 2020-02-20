@@ -61,12 +61,12 @@ More details can be found [here](Scenario/ScenarioDictionary.md).
 
 
 ## 3. Region
-It refers to the geographical mapping of the variable. For that purpose, a definition of the set of regions is proposed by combining the possible geographical levels, in the order defined next, using pipes (|).
+It refers to the geographical mapping of the variable. For that purpose, a definition of the set of regions is proposed by combining the possible geographical levels, in the order defined next, using pipes (|). Note that the [NUTS 2021 Nomenclature](https://ec.europa.eu/eurostat/web/nuts/background) is considered.
 We propose the following levels for the definition of the locations to be considered:
 
 * Continent: Europe
-* Region: Continental_Central_East (CCE)
-* Country: countries (DE.Germany, FR.France, etc.)
+* Region: Continental-Central-East (CCE)
+* Country: countries (DE, FR, etc.)
 * Area (NUTS 1): large regions inside a country
 * Zone (NUTS 2): smaller regions inside a country
 * Node (NUTS 3): physical (electrical, gas) nodes or provinces in the corresponding global grid
@@ -76,13 +76,31 @@ We propose the following levels for the definition of the locations to be consid
 * Circuit: circuit/link of a line (electric or gas)
 
 A **greater than** sign (>) is used to express the direction of links. For example, **node1 > node2 > circuit1** indicates that we refer to circuit1 connecting node1 and node2, from the former to the latter. Bidirectional data must be declared separately for each direction but using only the greater sign.
-Names separated by dots (.), as DE.Germany for example, means that they are synonyms, and this is defined in the repository. This allows easier data conversion among the different models and users.
-Besides, to enable the geographical aggregation/disaggregation, any value of a certain column must belong to the category defined in the previous one on the left, i.e., all the countries must be included in a region, all the areas in a country, and so on.
 For example, possible values can be:
 
-*	Munich where only the city of Munich is defined.
-*	DE where only the country is defined
-*	Munich>Salzburg>AC01 defines the electrical circuit AC01 between Munich and Salzburg
+>	CCE|DE|Bayern|Oberbayern|München|Node001
+
+Where only the **Node001** that belongs to the city of München is defined.
+
+>	CCE|DE|Bayern|Oberbayern
+
+Where only the zone of **Oberbayern** is defined.
+
+>	CCE|DE|Bayern
+
+Where only the zone of **Bayern** is defined.
+
+>	CCE|DE
+
+Where only the country is defined
+
+>	CCE
+
+Where only the region is defined
+
+>	Munich>Salzburg-und-Umgebung>AC01
+
+Defines the electrical circuit **AC01** between **Munich** and **Salzburg-und-Umgebung**
 
 
 
