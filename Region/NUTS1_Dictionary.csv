@@ -1,0 +1,29 @@
+Code,Country,NUTS level 1
+AT1,Austria,Ostösterreich
+AT2,Austria,Südösterreich
+AT3,Austria,Westösterreich
+BE1,Belgium,Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest
+BE2,Belgium,Vlaams Gewest
+BE3,Belgium,Région wallonne
+BG3,Bulgaria,North and Southeast Bulgaria
+BG4,Bulgaria,Southwest and South Central Bulgaria
+CY0,Cyprus,Cyprus
+CZ0,Czech Republic,Czech Republic
+DE1,Germany,Baden-Württemberg
+DE2,Germany,Bayern
+DE3,Germany,Berlin
+DE4,Germany,Brandenburg
+DE5,Germany,Bremen
+DE6,Germany,Hamburg
+DE7,Germany,Hessen
+DE8,Germany,Mecklenburg-Vorpommern
+DE9,Germany,Niedersachsen
+DEA,Germany,Nordrhein-Westfalen
+DEB,Germany,Rheinland-Pfalz
+DEC,Germany,Saarland
+DED,Germany,Sachsen
+DEE,Germany,Sachsen-Anhalt
+DEF,Germany,Schleswig-Holstein
+DEG,Germany,Thüringen
+DK0,Denmark,Denmark
+EE0,Estonia,Estonia
