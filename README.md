@@ -68,11 +68,11 @@ The analysis/case scenario name describes the type of analysis to be carried out
 This field can be extended to refer to the fact that the scenario considered is stochastic/random to account, for example, for the spatial correlation of wind/solar generation, or demand, in different regions/countries. Stochastic/random data are usually time dependent.
 Thus, stochastic/random scenario names can be used. For example, possible names can be:
 
-> Distributed PV all over Europe|Scen001 
+> Distributed PV all over Europe|Scen001
 
 Where the data given belong to the random scenario **Scen001** of the analysis scenario **Distributed PV all over Europe**.
 
-<!-- <table>
+<table>
 <tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
 <tr><td>
 
@@ -86,4 +86,4 @@ Where the data given belong to the random scenario **Scen001** of the analysis s
 |--|--|--|--|
 |a|s|d|f|
 
-</td></tr> </table> -->
+</td></tr> </table>
