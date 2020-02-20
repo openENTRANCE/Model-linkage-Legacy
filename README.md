@@ -60,7 +60,7 @@ The model suite:
 | REMES-EU    |               |
 | SCOPE-SD    |               |
 
-More details could be found [here](Model/ModelDictionary.md).
+More details can be found [here](Model/ModelDictionary.md).
 
 ## 2. Scenario
 The analysis/case scenario name describes the type of analysis to be carried out and its context, as used in the openENTRANCE project. For example, scenario **GreenGrowth** or **Distributed PV all over Europe** or **Centralized utility-scale PV in southern Europe** can be possible names of scenarios. ***Any name is valid here***.
