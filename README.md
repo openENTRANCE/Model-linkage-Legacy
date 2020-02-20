@@ -72,18 +72,5 @@ Thus, stochastic/random scenario names can be used. For example, possible names 
 
 Where the data given belong to the random scenario **Scen001** of the analysis scenario **Distributed PV all over Europe**.
 
-<table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
-<tr><td>
 
-|Table 1| Middle | Table 2|
-|--|--|--|
-|a| not b|and c |
-
-</td><td>
-
-|b|1|2|3|
-|--|--|--|--|
-|a|s|d|f|
-
-</td></tr> </table>
+More details can be found [here](Model/ScenarioDictionary.md).
