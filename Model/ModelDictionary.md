@@ -2,7 +2,7 @@
 
 |  __Model__  |  __Lead Partner__  |  __Main Objective__|  __Special Characteristics__|      __STATUS__    |
 |-------------|--------------------|--------------------|-----------------------------|--------------------|
-| EMPIRE      | NTNU               | NTNU               | NTNU                        | Finished           |
+| EMPIRE      | NTNU               | Optimize power plants operation and investments in power generation and transmission capacity              | EMPIRE incorporates long-term and short-term system dynamics, while optimizing investments under operational uncertainty. By decoupling the optimization of system operation at each investment period from future investment in transmission infrastructure and operation periods, a computationally tractable optimization problem is produced                        | Finished           |
 | e-Transport | SINTEF             | SINTEF             | SINTEF                      | Finished           |
 | EXIOMOD     | TNO                | TNO                | TNO                         | Finished           |
 | FanSi       | SINTEF             | SINTEF             | SINTEF                      | Finished           |
