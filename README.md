@@ -45,20 +45,10 @@ This dictionary of model can be linked through this exchange format. Given the i
 
 The model suite:
 
-|  __Model__  |  __Version__  |
-|-------------|---------------|
-| EMPIRE      |               |
-| e-Transport |               |
-| EXIOMOD     | 2.0.0        |
-| FanSi       |               |
-| FRESH:COM   |               |
-| GENeSYS-MOD |               |
-| HERO        |               |
-| openTEPES   | 1.6.12        |
-| OSCARS      |               |
-| Plan4EU     |               |
-| REMES-EU    |               |
-| SCOPE-SD    |               |
+|         |        |             |         |       |           |             |      |           |        |         |          |          |
+| :-----: | :----: | :---------: | :-----: | :---: | :-------: | :---------: | :--: | :-------: | :----: | :-----: | :------: | :------: |
+|  Model  | EMPIRE | e-Transport | EXIOMOD | FanSi | FRESH:COM | GENeSYS:MOD | HERO | openTEPES | OSCARS | Plan4EU | REMES-EU | SCOPE-SD |
+| Version |        |             |  2.0.0  |       |           |             |      |  1.6.12   |        |         |          |          |
 
 More details can be found [here](Model/ModelDictionary.md).
 
