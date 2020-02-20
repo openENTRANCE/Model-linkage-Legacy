@@ -15,7 +15,6 @@
 | REMES-EU    | NTNU/SINTEF        | NTNU/SINTEF        | NTNU/SINTEF                 | Finished           |
 | SCOPE-SD    | Fraunhofer IEE     | Fraunhofer IEE     | Fraunhofer IEE              | Finished           |
 
-
 <!-- | **Animals** | **Sports** | **Fruits** |
 | :---------- | :--------- | :--------- |
 | Cat         | Soccer     | Apple      |
