@@ -1,4 +1,4 @@
-# openENTRANCE: model linkage mappings and definitions
+# openENTRANCE: Model linkage mappings and definitions
 
 Copyright 2020 openENTRANCE consortium
 
@@ -45,20 +45,16 @@ This dictionary of model can be linked through this exchange format. Given the i
 
 More details could be found [here](Model/ModelDictionary.md).
 
+
 ## 2. Scenario
+The analysis/case scenario name describes the type of analysis to be carried out and its context, as used in the openENTRANCE project. For example, scenario **GreenGrowth** or **Distributed PV all over Europe** or **Centralized utility-scale PV in southern Europe** can be possible names of scenarios. ***Any name is valid here***.
 
-<!-- <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
-<tr><td>
+This field can be extended to refer to the fact that the scenario considered is stochastic/random to account, for example, for the spatial correlation of wind/solar generation, or demand, in different regions/countries. Stochastic/random data are usually time dependent.
+Thus, stochastic/random scenario names can be used. For example, possible names can be:
 
-|Table 1| Middle | Table 2|
-|--|--|--|
-|a| not b|and c |
+> Distributed PV all over Europe|Scen001
 
-</td><td>
+Where the data given belong to the random scenario **Scen001** of the analysis scenario **Distributed PV all over Europe**.
 
-|b|1|2|3|
-|--|--|--|--|
-|a|s|d|f|
 
-</td></tr> </table> -->
+More details can be found [here](Scenario/ScenarioDictionary.md).
