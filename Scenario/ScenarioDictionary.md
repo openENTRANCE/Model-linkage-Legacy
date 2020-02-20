@@ -2,7 +2,6 @@
 
 <table>
 <tr><th>Study </th><th>Scenario</th></tr>
-<tr><td>
 
 |Table 1| Middle | Table 2|
 |--|--|--|
