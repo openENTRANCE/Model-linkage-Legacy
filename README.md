@@ -73,4 +73,4 @@ Thus, stochastic/random scenario names can be used. For example, possible names 
 Where the data given belong to the random scenario **Scen001** of the analysis scenario **Distributed PV all over Europe**.
 
 
-More details can be found [here](Model/ScenarioDictionary.md).
+More details can be found [here](Scenario/ScenarioDictionary.md).
