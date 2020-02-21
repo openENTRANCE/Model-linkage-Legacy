@@ -852,11 +852,30 @@ ES708,,,,Lanzarote
 ES709,,,,Tenerife
 FI1,Finland,Manner-Suomi,,
 FI19,,,Länsi-Suomi,
+FI193,,,,Keski-Suomi
+FI194,,,,Etelä-Pohjanmaa
+FI195,,,,Pohjanmaa
+FI196,,,,Satakunta
+FI197,,,,Pirkanmaa
 FI1B,,,Helsinki-Uusimaa,
+FI1B1,,,,Helsinki-Uusimaa
 FI1C,,,Etelä-Suomi,
+FI1C1,,,,Varsinais-Suomi
+FI1C2,,,,Kanta-Häme
+FI1C3,,,,Päijät-Häme
+FI1C4,,,,Kymenlaakso
+FI1C5,,,,Etelä-Karjala
 FI1D,,,Pohjois- ja Itä-Suomi,
+FI1D1,,,,Etelä-Savo
+FI1D2,,,,Pohjois-Savo
+FI1D3,,,,Pohjois-Karjala
+FI1D5,,,,Keski-Pohjanmaa
+FI1D7,,,,Lappi
+FI1D8,,,,Kainuu
+FI1D9,,,,Pohjois-Pohjanmaa
 FI2,Finland,Åland,,
-FI20,,,,
+FI20,,,Åland,
+FI200,,,,Åland
 FR1,France,Ile-de-France,,
 FR10,,,,
 FRB,France,Centre — Val de Loire,,
