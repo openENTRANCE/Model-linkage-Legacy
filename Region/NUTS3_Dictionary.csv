@@ -159,18 +159,49 @@ BG424,,,,Smolyan
 BG425,,,,Kardzhali
 CH0,Switzerland,Switzerland,,
 CH01,,,Région lémanique,
+CH011,,,,Vaud
+CH012,,,,Valais
+CH013,,,,Genève
 CH02,,,Espace Mittelland,
+CH021,,,,Bern
+CH022,,,,Freiburg
+CH023,,,,Solothurn
+CH024,,,,Neuchâtel
+CH025,,,,Jura
 CH03,,,Nordwestschweiz,
+CH031,,,,Basel-Stadt
+CH032,,,,Basel-Landschaft
+CH033,,,,Aargau
 CH04,,,Zürich,
+CH040,,,,
 CH05,,,Ostschweiz,
+CH051,,,,Glarus
+CH052,,,,Schaffhausen
+CH053,,,,Appenzell Ausserrhoden
+CH054,,,,Appenzell Innerrhoden
+CH055,,,,St. Gallen
+CH056,,,,Graubünden
+CH057,,,,Thurgau
 CH06,,,Zentralschweiz,
+CH061,,,,Luzern
+CH062,,,,Uri
+CH063,,,,Schwyz
+CH064,,,,Obwalden
+CH065,,,,Nidwalden
+CH066,,,,Zug
 CH07,,,Ticino,
+CH070,,,,
 CY0,Cyprus,Cyprus,,
 CY00,,,,
+CY000,,,,
 CZ0,Czech Republic,Czech Republic,,
 CZ01,,,Prague,
+CZ010,,,,Capital City of Prague
 CZ02,,,Middle Bohemia,
+CZ020,,,,Central Bohemian Region
 CZ03,,,Southwest,
+CZ031,,,,Jiho?eský kraj
+CZ032,,,,Pilsen Region
 CZ04,,,Northwest,
 CZ05,,,Northeast,
 CZ06,,,Southeast,
