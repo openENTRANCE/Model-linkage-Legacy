@@ -44,9 +44,24 @@ AT225,,,,West- und Südsteiermark
 AT226,,,,Westliche Obersteiermark
 AT3,Austria,Westösterreich,,
 AT31,,,Oberösterreich,
+AT311,,,,Innviertel
+AT312,,,,Linz-Wels
+AT313,,,,Mühlviertel
+AT314,,,,Steyr-Kirchdorf
+AT315,,,,Traunviertel
 AT32,,,Salzburg,
+AT321,,,,Lungau
+AT322,,,,Pinzgau-Pongau
+AT323,,,,Salzburg und Umgebung
 AT33,,,Tirol,
+AT331,,,,Außerfern
+AT332,,,,Innsbruck
+AT333,,,,Osttirol
+AT334,,,,Tiroler Oberland
+AT335,,,,Tiroler Unterland
 AT34,,,Vorarlberg,
+AT341,,,,Bludenz-Bregenzer Wald
+AT342,,,,Rheintal-Bodenseegebiet
 BA0,Bosnia And Herzegovina,Bosnia And Herzegovina,,
 BA00,,,,
 BE1,Belgium,Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,,
