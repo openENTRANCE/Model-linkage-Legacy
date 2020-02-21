@@ -1221,31 +1221,91 @@ ITI44,,,,Latina
 ITI45,,,,Frosinone
 LT0,Lithuania,Lietuva,,
 LT01,,,Capital Region,
+LT011,,,,Vilnius County
 LT02,,,Central and Western Lithuania region,
+LT021,,,,Alytus county
+LT022,,,,Kaunas County
+LT023,,,,Klaipeda county
+LT024,,,,Marijampole County
+LT025,,,,Panevezys county
+LT026,,,,Siauliai county
+LT027,,,,Taurage county
+LT028,,,,Telšiai county
+LT029,,,,Utena county
 LU0,Luxembourg,Luxembourg,,
-LU00,,,,
+LU00,,,Luxembourg,
+,,,,Luxembourg
 LV0,Latvia,Latvia,,
-LV00,,,,
+LV00,,,Latvia,
+,,,,Kurzeme
+,,,,Latgale
+,,,,R?ga
+,,,,Pier?ga
+,,,,Vidzeme
+,,,,Zemgale
 ME0,Montenegro,Montenegro,,
-ME00,,,,
+ME00,,,Montenegro,
+ME000,,,,Montenegro
 MT0,Malta,Malta,,
-MT00,,,,
+MT00,,,Malta,
+MT001,,,,malta
+MT002,,,,Gozo and Comino / Gozo and Comino
 NL1,Netherlands,North Netherlands,,
 NL11,,,Groningen,
+NL111,,,,Oost-Groningen
+NL112,,,,Delfzijl en omgeving
+NL113,,,,Overig Groningen
 NL12,,,Friesland (NL),
+NL124,,,,Noord-Friesland
+NL125,,,,Zuidwest-Friesland
+NL126,,,,Zuidoost-Friesland
 NL13,,,Drenthe,
+NL131,,,,Noord-Drenthe
+NL132,,,,Zuidoost-Drenthe
+NL133,,,,Zuidwest-Drenthe
 NL2,Netherlands,East Holland,,
 NL21,,,Overijssel,
+NL211,,,,Noord-Overijssel
+NL212,,,,Zuidwest-Overijssel
+NL213,,,,Twente
 NL22,,,Gelderland,
+NL221,,,,Veluwe
+NL224,,,,Zuidwest-Gelderland
+NL225,,,,Achterhoek
+NL226,,,,Arnhem/Nijmegen
 NL23,,,Flevoland,
+NL230,,,,Flevoland
 NL3,Netherlands,West Netherlands,,
 NL31,,,Utrecht,
+NL310,,,,Utrecht
 NL32,,,Noord-Holland,
+NL321,,,,Kop van Noord-Holland
+NL323,,,,IJmond
+NL324,,,,Agglomeratie Haarlem
+NL325,,,,Zaanstreek
+NL327,,,,Het Gooi en Vechtstreek
+NL328,,,,Alkmaar en omgeving
+NL329,,,,Groot-Amsterdam
 NL33,,,Zuid-Holland,
+NL332,,,,Agglomeratie ’s-Gravenhage
+NL333,,,,Delft en Westland
+NL337,,,,Agglomeratie Leiden en Bollenstreek
+NL33A,,,,Zuidoost-Zuid-Holland
+NL33B,,,,Oost-Zuid-Holland
+NL33C,,,,Groot-Rijnmond
 NL34,,,Zeeland,
+NL341,,,,Zeeuwsch-Vlaanderen
+NL342,,,,Overig Zeeland
 NL4,Netherlands,South of the Netherlands,,
 NL41,,,Noord-Brabant,
+NL411,,,,West-Noord-Brabant
+NL412,,,,Midden-Noord-Brabant
+NL413,,,,Noordoost-Noord-Brabant
+NL414,,,,Zuidoost-Noord-Brabant
 NL42,,,Limburg (NL),
+NL421,,,,Noord-Limburg
+NL422,,,,Midden-Limburg
+NL423,,,,Zuid-Limburg
 NO0,Norway,Norway,,
 NO02,,,Innlandet,
 NO06,,,Trøndelag,
