@@ -1308,11 +1308,22 @@ NL422,,,,Midden-Limburg
 NL423,,,,Zuid-Limburg
 NO0,Norway,Norway,,
 NO02,,,Innlandet,
+NO020,,,,Innlandet
 NO06,,,Trøndelag,
+NO060,,,,Trøndelag
 NO07,,,Nord-Norge,
+NO071,,,,Nordland
+NO074,,,,Troms og Finnmark
 NO08,,,Oslo og Viken,
+NO081,,,,Oslo
+NO082,,,,Viken
 NO09,,,Agder og Sør-Østlandet,
+NO091,,,,Vestfold og Telemark
+NO092,,,,Agder
 NO0A,,,Vestlandet,
+NO0A1,,,,Rogaland
+NO0A2,,,,Vestland
+NO0A3,,,,Møre og Romsdal
 PL2,Poland,Southern macroregion,,
 PL21,,,Ma?opolskie,
 PL22,,,?l?skie,
