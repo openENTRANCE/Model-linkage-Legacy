@@ -233,53 +233,403 @@ DE11B,,,,Main-Tauber-Kreis
 DE11C,,,,Heidenheim
 DE11D,,,,Ostalbkreis
 DE12,,,Karlsruhe,
+DE121,,,,"Baden-Baden, Stadtkreis"
+DE122,,,,"Karlsruhe, Stadtkreis"
+DE123,,,,"Karlsruhe, Landkreis"
+DE124,,,,Rastatt
+DE125,,,,"Heidelberg, Stadtkreis"
+DE126,,,,"Mannheim, Stadtkreis"
+DE127,,,,Neckar-Odenwald-Kreis
+DE128,,,,Rhein-Neckar-Kreis
+DE129,,,,"Pforzheim, Stadtkreis"
+DE12A,,,,Calw
+DE12B,,,,Enzkreis
+DE12C,,,,Freudenstadt
 DE13,,,Freiburg,
+DE131,,,,"Freiburg im Breisgau, Stadtkreis"
+DE132,,,,Breisgau-Hochschwarzwald
+DE133,,,,Emmendingen
+DE134,,,,Ortenaukreis
+DE135,,,,Rottweil
+DE136,,,,Schwarzwald-Baar-Kreis
+DE137,,,,Tuttlingen
+DE138,,,,Konstanz
+DE139,,,,Lörrach
+DE13A,,,,Waldshut
 DE14,,,Tübingen,
+DE141,,,,Reutlingen
+DE142,,,,"Tübingen, Landkreis"
+DE143,,,,Zollernalbkreis
+DE144,,,,"Ulm, Stadtkreis"
+DE145,,,,Alb-Donau-Kreis
+DE146,,,,Biberach
+DE147,,,,Bodenseekreis
+DE148,,,,Ravensburg
+DE149,,,,Sigmaringen
 DE2,Germany,Bayern,,
 DE21,,,Oberbayern,
+DE211,,,,"Ingolstadt, Kreisfreie Stadt"
+DE212,,,,"München, Kreisfreie Stadt"
+DE213,,,,"Rosenheim, Kreisfreie Stadt"
+DE214,,,,Altötting
+DE215,,,,Berchtesgadener Land
+DE216,,,,Bad Tölz-Wolfratshausen
+DE217,,,,Dachau
+DE218,,,,Ebersberg
+DE219,,,,Eichstätt
+DE21A,,,,Erding
+DE21B,,,,Freising
+DE21C,,,,Fürstenfeldbruck
+DE21D,,,,Garmisch-Partenkirchen
+DE21E,,,,Landsberg am Lech
+DE21F,,,,Miesbach
+DE21G,,,,Mühldorf a. Inn
+DE21H,,,,"München, Landkreis"
+DE21I,,,,Neuburg-Schrobenhausen
+DE21J,,,,Pfaffenhofen a. d. Ilm
+DE21K,,,,"Rosenheim, Landkreis"
+DE21L,,,,Starnberg
+DE21M,,,,Traunstein
+DE21N,,,,Weilheim-Schongau
 DE22,,,Niederbayern,
+DE221,,,,"Landshut, Kreisfreie Stadt"
+DE222,,,,"Passau, Kreisfreie Stadt"
+DE223,,,,"Straubing, Kreisfreie Stadt"
+DE224,,,,Deggendorf
+DE225,,,,Freyung-Grafenau
+DE226,,,,Kelheim
+DE227,,,,"Landshut, Landkreis"
+DE228,,,,"Passau, Landkreis"
+DE229,,,,Regen
+DE22A,,,,Rottal-Inn
+DE22B,,,,Straubing-Bogen
+DE22C,,,,Dingolfing-Landau
 DE23,,,Oberpfalz,
+DE231,,,,"Amberg, Kreisfreie Stadt"
+DE232,,,,"Regensburg, Kreisfreie Stadt"
+DE233,,,,"Weiden i. d. Opf, Kreisfreie Stadt"
+DE234,,,,Amberg-Sulzbach
+DE235,,,,Cham
+DE236,,,,Neumarkt i. d. OPf.
+DE237,,,,Neustadt a. d. Waldnaab
+DE238,,,,"Regensburg, Landkreis"
+DE239,,,,Schwandorf
+DE23A,,,,Tirschenreuth
 DE24,,,Oberfranken,
+DE241,,,,"Bamberg, Kreisfreie Stadt"
+DE242,,,,"Bayreuth, Kreisfreie Stadt"
+DE243,,,,"Coburg, Kreisfreie Stadt"
+DE244,,,,"Hof, Kreisfreie Stadt"
+DE245,,,,"Bamberg, Landkreis"
+DE246,,,,"Bayreuth, Landkreis"
+DE247,,,,"Coburg, Landkreis"
+DE248,,,,Forchheim
+DE249,,,,"Hof, Landkreis"
+DE24A,,,,Kronach
+DE24B,,,,Kulmbach
+DE24C,,,,Lichtenfels
+DE24D,,,,Wunsiedel i. Fichtelgebirge
 DE25,,,Mittelfranken,
+DE251,,,,"Ansbach, Kreisfreie Stadt"
+DE252,,,,"Erlangen, Kreisfreie Stadt"
+DE253,,,,"Fürth, Kreisfreie Stadt"
+DE254,,,,"Nürnberg, Kreisfreie Stadt"
+DE255,,,,"Schwabach, Kreisfreie Stadt"
+DE256,,,,"Ansbach, Landkreis"
+DE257,,,,Erlangen-Höchstadt
+DE258,,,,"Fürth, Landkreis"
+DE259,,,,Nürnberger Land
+DE25A,,,,Neustadt a. d. Aisch-Bad Windsheim
+DE25B,,,,Roth
+DE25C,,,,Weißenburg-Gunzenhausen
 DE26,,,Unterfranken,
+DE261,,,,"Aschaffenburg, Kreisfreie Stadt"
+DE262,,,,"Schweinfurt, Kreisfreie Stadt"
+DE263,,,,"Würzburg, Kreisfreie Stadt"
+DE264,,,,"Aschaffenburg, Landkreis"
+DE265,,,,Bad Kissingen
+DE266,,,,Rhön-Grabfeld
+DE267,,,,Haßberge
+DE268,,,,Kitzingen
+DE269,,,,Miltenberg
+DE26A,,,,Main-Spessart
+DE26B,,,,"Schweinfurt, Landkreis"
+DE26C,,,,"Würzburg, Landkreis"
 DE27,,,Schwaben,
+DE271,,,,"Augsburg, Kreisfreie Stadt"
+DE272,,,,"Kaufbeuren, Kreisfreie Stadt"
+DE273,,,,"Kempten (Allgäu), Kreisfreie Stadt"
+DE274,,,,"Memmingen, Kreisfreie Stadt"
+DE275,,,,Aichach-Friedberg
+DE276,,,,"Augsburg, Landkreis"
+DE277,,,,Dillingen a.d. Donau
+DE278,,,,Günzburg
+DE279,,,,Neu-Ulm
+DE27A,,,,Lindau (Bodensee)
+DE27B,,,,Ostallgäu
+DE27C,,,,Unterallgäu
+DE27D,,,,Donau-Ries
+DE27E,,,,Oberallgäu
 DE3,Germany,Berlin,,
 DE30,,,,
+DE300,,,,
 DE4,Germany,Brandenburg,,
 DE40,,,,
+DE401,,,,"Brandenburg an der Havel, Kreisfreie Stadt"
+DE402,,,,"Cottbus, Kreisfreie Stadt"
+DE403,,,,"Frankfurt (Oder), Kreisfreie Stadt"
+DE404,,,,"Potsdam, Kreisfreie Stadt"
+DE405,,,,Barnim
+DE406,,,,Dahme-Spreewald
+DE407,,,,Elbe-Elster
+DE408,,,,Havelland
+DE409,,,,Märkisch-Oderland
+DE40A,,,,Oberhavel
+DE40B,,,,Oberspreewald-Lausitz
+DE40C,,,,Oder-Spree
+DE40D,,,,Ostprignitz-Ruppin
+DE40E,,,,Potsdam-Mittelmark
+DE40F,,,,Prignitz
+DE40G,,,,Spree-Neiße
+DE40H,,,,Teltow-Fläming
+DE40I,,,,Uckermark
 DE5,Germany,Bremen,,
 DE50,,,,
+DE501,,,,"Bremen, Kreisfreie Stadt"
+DE502,,,,"Bremerhaven, Kreisfreie Stadt"
 DE6,Germany,Hamburg,,
 DE60,,,,
+DE600,,,,
 DE7,Germany,Hessen,,
 DE71,,,Darmstadt,
+DE711,,,,"Darmstadt, Kreisfreie Stadt"
+DE712,,,,"Frankfurt am Main, Kreisfreie Stadt"
+DE713,,,,"Offenbach am Main, Kreisfreie Stadt"
+DE714,,,,"Wiesbaden, Kreisfreie Stadt"
+DE715,,,,Bergstraße
+DE716,,,,Darmstadt-Dieburg
+DE717,,,,Groß-Gerau
+DE718,,,,Hochtaunuskreis
+DE719,,,,Main-Kinzig-Kreis
+DE71A,,,,Main-Taunus-Kreis
+DE71B,,,,Odenwaldkreis
+DE71C,,,,"Offenbach, Landkreis"
+DE71D,,,,Rheingau-Taunus-Kreis
+DE71E,,,,Wetteraukreis
 DE72,,,Gießen,
+DE721,,,,"Gießen, Landkreis"
+DE722,,,,Lahn-Dill-Kreis
+DE723,,,,Limburg-Weilburg
+DE724,,,,Marburg-Biedenkopf
+DE725,,,,Vogelsbergkreis
 DE73,,,Kassel,
+DE731,,,,"Kassel, Kreisfreie Stadt"
+DE732,,,,Fulda
+DE733,,,,Hersfeld-Rotenburg
+DE734,,,,"Kassel, Landkreis"
+DE735,,,,Schwalm-Eder-Kreis
+DE736,,,,Waldeck-Frankenberg
+DE737,,,,Werra-Meißner-Kreis
 DE8,Germany,Mecklenburg-Vorpommern,,
 DE80,,,,
+DE803,,,,"Rostock, Kreisfreie Stadt"
+DE804,,,,"Schwerin, Kreisfreie Stadt"
+DE80J,,,,Mecklenburgische Seenplatte
+DE80K,,,,Landkreis Rostock
+DE80L,,,,Vorpommern-Rügen
+DE80M,,,,Nordwestmecklenburg
+DE80N,,,,Vorpommern-Greifswald
+DE80O,,,,Ludwigslust-Parchim
 DE9,Germany,Niedersachsen,,
 DE91,,,Braunschweig,
+DE911,,,,"Braunschweig, Kreisfreie Stadt"
+DE912,,,,"Salzgitter, Kreisfreie Stadt"
+DE913,,,,"Wolfsburg, Kreisfreie Stadt"
+DE914,,,,Gifhorn
+DE916,,,,Goslar
+DE917,,,,Helmstedt
+DE918,,,,Northeim
+DE91A,,,,Peine
+DE91B,,,,Wolfenbüttel
+DE91C,,,,Göttingen
 DE92,,,Hannover,
+DE922,,,,Diepholz
+DE923,,,,Hameln-Pyrmont
+DE925,,,,Hildesheim
+DE926,,,,Holzminden
+DE927,,,,Nienburg (Weser)
+DE928,,,,Schaumburg
+DE929,,,,Region Hannover
 DE93,,,Lüneburg,
+DE931,,,,Celle
+DE932,,,,Cuxhaven
+DE933,,,,Harburg
+DE934,,,,Lüchow-Dannenberg
+DE935,,,,"Lüneburg, Landkreis"
+DE936,,,,Osterholz
+DE937,,,,Rotenburg (Wümme)
+DE938,,,,Heidekreis
+DE939,,,,Stade
+DE93A,,,,Uelzen
+DE93B,,,,Verden
 DE94,,,Weser-Ems,
+DE941,,,,"Delmenhorst, Kreisfreie Stadt"
+DE942,,,,"Emden, Kreisfreie Stadt"
+DE943,,,,"Oldenburg (Oldenburg), Kreisfreie Stadt"
+DE944,,,,"Osnabrück, Kreisfreie Stadt"
+DE945,,,,"Wilhelmshaven, Kreisfreie Stadt"
+DE946,,,,Ammerland
+DE947,,,,Aurich
+DE948,,,,Cloppenburg
+DE949,,,,Emsland
+DE94A,,,,Friesland (DE)
+DE94B,,,,Grafschaft Bentheim
+DE94C,,,,Leer
+DE94D,,,,"Oldenburg, Landkreis"
+DE94E,,,,"Osnabrück, Landkreis"
+DE94F,,,,Vechta
+DE94G,,,,Wesermarsch
+DE94H,,,,Wittmund
 DEA,Germany,Nordrhein-Westfalen,,
 DEA1,,,Düsseldorf,
+DEA11,,,,"Düsseldorf, Kreisfreie Stadt"
+DEA12,,,,"Duisburg, Kreisfreie Stadt"
+DEA13,,,,"Essen, Kreisfreie Stadt"
+DEA14,,,,"Krefeld, Kreisfreie Stadt"
+DEA15,,,,"Mönchengladbach, Kreisfreie Stadt"
+DEA16,,,,"Mülheim an der Ruhr, Kreisfreie Stadt"
+DEA17,,,,"Oberhausen, Kreisfreie Stadt"
+DEA18,,,,"Remscheid, Kreisfreie Stadt"
+DEA19,,,,"Solingen, Kreisfreie Stadt"
+DEA1A,,,,"Wuppertal, Kreisfreie Stadt"
+DEA1B,,,,Kleve
+DEA1C,,,,Mettmann
+DEA1D,,,,Rhein-Kreis Neuss
+DEA1E,,,,Viersen
+DEA1F,,,,Wesel
 DEA2,,,Köln,
+DEA22,,,,"Bonn, Kreisfreie Stadt"
+DEA23,,,,"Köln, Kreisfreie Stadt"
+DEA24,,,,"Leverkusen, Kreisfreie Stadt"
+DEA26,,,,Düren
+DEA27,,,,Rhein-Erft-Kreis
+DEA28,,,,Euskirchen
+DEA29,,,,Heinsberg
+DEA2A,,,,Oberbergischer Kreis
+DEA2B,,,,Rheinisch-Bergischer Kreis
+DEA2C,,,,Rhein-Sieg-Kreis
+DEA2D,,,,Städteregion Aachen
 DEA3,,,Münster,
+DEA31,,,,"Bottrop, Kreisfreie Stadt"
+DEA32,,,,"Gelsenkirchen, Kreisfreie Stadt"
+DEA33,,,,"Münster, Kreisfreie Stadt"
+DEA34,,,,Borken
+DEA35,,,,Coesfeld
+DEA36,,,,Recklinghausen
+DEA37,,,,Steinfurt
+DEA38,,,,Warendorf
 DEA4,,,Detmold,
+DEA41,,,,"Bielefeld, Kreisfreie Stadt"
+DEA42,,,,Gütersloh
+DEA43,,,,Herford
+DEA44,,,,Höxter
+DEA45,,,,Lippe
+DEA46,,,,Minden-Lübbecke
+DEA47,,,,Paderborn
 DEA5,,,Arnsberg,
+DEA51,,,,"Bochum, Kreisfreie Stadt"
+DEA52,,,,"Dortmund, Kreisfreie Stadt"
+DEA53,,,,"Hagen, Kreisfreie Stadt"
+DEA54,,,,"Hamm, Kreisfreie Stadt"
+DEA55,,,,"Herne, Kreisfreie Stadt"
+DEA56,,,,Ennepe-Ruhr-Kreis
+DEA57,,,,Hochsauerlandkreis
+DEA58,,,,Märkischer Kreis
+DEA59,,,,Olpe
+DEA5A,,,,Siegen-Wittgenstein
+DEA5B,,,,Soest
+DEA5C,,,,Unna
 DEB,Germany,Rheinland-Pfalz,,
 DEB1,,,Koblenz,
+DEB11,,,,"Koblenz, Kreisfreie Stadt"
+DEB12,,,,Ahrweiler
+DEB13,,,,Altenkirchen (Westerwald)
+DEB14,,,,Bad Kreuznach
+DEB15,,,,Birkenfeld
+DEB17,,,,Mayen-Koblenz
+DEB18,,,,Neuwied
+DEB1A,,,,Rhein-Lahn-Kreis
+DEB1B,,,,Westerwaldkreis
+DEB1C,,,,Cochem-Zell
+DEB1D,,,,Rhein-Hunsrück-Kreis
 DEB2,,,Trier,
+DEB21,,,,"Trier, Kreisfreie Stadt"
+DEB22,,,,Bernkastel-Wittlich
+DEB23,,,,Eifelkreis Bitburg-Prüm
+DEB24,,,,Vulkaneifel
+DEB25,,,,Trier-Saarburg
 DEB3,,,Rheinhessen-Pfalz,
+DEB31,,,,"Frankenthal (Pfalz), Kreisfreie Stadt"
+DEB32,,,,"Kaiserslautern, Kreisfreie Stadt"
+DEB33,,,,"Landau in der Pfalz, Kreisfreie Stadt"
+DEB34,,,,"Ludwigshafen am Rhein, Kreisfreie Stadt"
+DEB35,,,,"Mainz, Kreisfreie Stadt"
+DEB36,,,,"Neustadt an der Weinstraße, Kreisfreie Stadt"
+DEB37,,,,"Pirmasens, Kreisfreie Stadt"
+DEB38,,,,"Speyer, Kreisfreie Stadt"
+DEB39,,,,"Worms, Kreisfreie Stadt"
+DEB3A,,,,"Zweibrücken, Kreisfreie Stadt"
+DEB3B,,,,Alzey-Worms
+DEB3C,,,,Bad Dürkheim
+DEB3D,,,,Donnersbergkreis
+DEB3E,,,,Germersheim
+DEB3F,,,,"Kaiserslautern, Landkreis"
+DEB3G,,,,Kusel
+DEB3H,,,,Südliche Weinstraße
+DEB3I,,,,Rhein-Pfalz-Kreis
+DEB3J,,,,Mainz-Bingen
+DEB3K,,,,Südwestpfalz
 DEC,Germany,Saarland,,
-Dec-00,,,,
+DEC0,,,,
+DEC01,,,,Regionalverband Saarbrücken
+DEC02,,,,Merzig-Wadern
+DEC03,,,,Neunkirchen
+DEC04,,,,Saarlouis
+DEC05,,,,Saarpfalz-Kreis
+DEC06,,,,St. Wendel
 DED,Germany,Sachsen,,
 DED2,,,Dresden,
+DED21,,,,"Dresden, Kreisfreie Stadt"
+DED2C,,,,Bautzen
+DED2D,,,,Görlitz
+DED2E,,,,Meißen
+DED2F,,,,Sächsische Schweiz-Osterzgebirge
 DED4,,,Chemnitz,
+DED41,,,,"Chemnitz, Kreisfreie Stadt"
+DED42,,,,Erzgebirgskreis
+DED43,,,,Mittelsachsen
+DED44,,,,Vogtlandkreis
+DED45,,,,Zwickau
 DED5,,,Leipzig,
+DED51,,,,"Leipzig, Kreisfreie Stadt"
+DED52,,,,Leipzig
+DED53,,,,Nordsachsen
 DEE,Germany,Sachsen-Anhalt,,
 DEE0,,,,
+DEE01,,,,"Dessau-Roßlau, Kreisfreie Stadt"
+DEE02,,,,"Halle (Saale), Kreisfreie Stadt"
+DEE03,,,,"Magdeburg, Kreisfreie Stadt"
+DEE04,,,,Altmarkkreis Salzwedel
+DEE05,,,,Anhalt-Bitterfeld
+DEE06,,,,Jerichower Land
+DEE07,,,,Börde
+DEE08,,,,Burgenlandkreis
+DEE09,,,,Harz
+DEE0A,,,,Mansfeld-Südharz
+DEE0B,,,,Saalekreis
+DEE0C,,,,Salzlandkreis
+DEE0D,,,,Stendal
+DEE0E,,,,Wittenberg
 DEF,Germany,Schleswig-Holstein,,
 DEF0,,,,
 DEG,Germany,Thüringen,,
