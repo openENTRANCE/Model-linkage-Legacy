@@ -64,17 +64,47 @@ AT341,,,,Bludenz-Bregenzer Wald
 AT342,,,,Rheintal-Bodenseegebiet
 BA0,Bosnia And Herzegovina,Bosnia And Herzegovina,,
 BA00,,,,
-BE1,Belgium,Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,,
+BA000,,,,
+BE1,Belgium,Région de Bruxelles-Capitale,,
 BE10,,,,
+BE100,,,,
 BE2,Belgium,Vlaams Gewest,,
 BE21,,,Prov. Antwerpen,
+BE211,,,,Arr. Antwerpen
+BE212,,,,Arr. Mechelen
+BE213,,,,Arr. Turnhout
 BE22,,,Prov. Limburg (BE),
+BE223,,,,Arr. Tongeren
+BE224,,,,Arr. Hasselt
+BE225,,,,Arr. Maaseik
 BE23,,,Prov. Oost-Vlaanderen,
+BE231,,,,Arr. Aalst
+BE232,,,,Arr. Dendermonde
+BE233,,,,Arr. Eeklo
+BE234,,,,Arr. Gent
+BE235,,,,Arr. Oudenaarde
+BE236,,,,Arr. Sint-Niklaas
 BE24,,,Prov. Vlaams-Brabant,
+BE241,,,,Arr. Halle-Vilvoorde
+BE242,,,,Arr. Leuven
 BE25,,,Prov. West-Vlaanderen,
+BE251,,,,Arr. Brugge
+BE252,,,,Arr. Diksmuide
+BE253,,,,Arr. Ieper
+BE254,,,,Arr. Kortrijk
+BE255,,,,Arr. Oostende
+BE256,,,,Arr. Roeselare
+BE257,,,,Arr. Tielt
+BE258,,,,Arr. Veurne
 BE3,Belgium,Région wallonne,,
 BE31,,,Prov. Brabant Wallon,
+BE310,,,,Arr. Nivelles
 BE32,,,Prov. Hainaut,
+BE323,,,,Arr. Mons
+BE32A,,,,Arr. Ath
+BE32B,,,,Arr. Charleroi
+BE32C,,,,Arr. Soignies
+BE32D,,,,Arr. Thuin
 BE33,,,Prov. Liège,
 BE34,,,Prov. Luxembourg (BE),
 BE35,,,Prov. Namur,
