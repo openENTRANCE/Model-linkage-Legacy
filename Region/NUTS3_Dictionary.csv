@@ -690,7 +690,12 @@ DK042,,,,ÿstjylland
 DK05,,,Nordjylland,
 DK050,,,,
 EE0,Estonia,Estonia,,
-EE00,,,,
+EE00,,,Estonia,
+EE001,,,,Pıhja-Eesti
+EE004,,,,L‰‰ne-Eesti
+EE008,,,,Lıuna-Eesti
+EE009,,,,Kesk-Eesti
+EE00A,,,,Kirde-Eesti
 EL3,Greece,Attica,,
 EL30,,,,
 EL4,Greece,"Aegean Islands, Crete",,
