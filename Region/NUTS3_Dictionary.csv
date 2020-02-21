@@ -1048,14 +1048,33 @@ HU1,Hungary,Közép-Magyarország,,
 HU11,,,Budapest,
 HU110,,,,Budapest
 HU12,,,Pest,
+HU120,,,,Pest
 HU2,Hungary,Dunántúl,,
 HU21,,,Közép-Dunántúl,
+HU211,,,,Fejér
+HU212,,,,Komárom-Esztergom
+HU213,,,,Veszprém
 HU22,,,Nyugat-Dunántúl,
+HU221,,,,Gy?r-Moson-Sopron
+HU222,,,,Vas
+HU223,,,,Zala
 HU23,,,Dél-Dunántúl,
+HU231,,,,Baranya
+HU232,,,,Somogy
+HU233,,,,Tolna
 HU3,Hungary,Alföld és Észak,,
 HU31,,,Észak-Magyarország,
+HU311,,,,Borsod-Abaúj-Zemplén
+HU312,,,,Heves
+HU313,,,,Nógrád
 HU32,,,Észak-Alföld,
+HU321,,,,Hajdú-Bihar
+HU322,,,,Jász-Nagykun-Szolnok
+HU323,,,,Szabolcs-Szatmár-Bereg
 HU33,,,Dél-Alföld,
+HU331,,,,Bács-Kiskun
+HU332,,,,Békés
+HU333,,,,Csongrád
 IE0,Ireland,Ireland,,
 IE04,,,Northern and Western,
 IE05,,,Southern,
