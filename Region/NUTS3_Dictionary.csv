@@ -1325,8 +1325,14 @@ NO0A1,,,,Rogaland
 NO0A2,,,,Vestland
 NO0A3,,,,Møre og Romsdal
 PL2,Poland,Southern macroregion,,
-PL21,,,Ma?opolskie,
-PL22,,,?l?skie,
+PL21,,,Lesser,
+PL213,,,,Miasto Kraków
+PL214,,,,Krakowski
+PL217,,,,Tarnowski
+PL218,,,,Nowos?decki
+PL219,,,,Nowotarski
+PL21A,,,,O?wi?cimski
+PL22,,,Silesian,
 PL4,Poland,Northwestern Macroregion,,
 PL41,,,Wielkopolskie,
 PL42,,,Zachodniopomorskie,
