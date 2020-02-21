@@ -1100,28 +1100,125 @@ ITC18,,,,Alessandria
 ITC2,,,Valle d’Aosta/Vallée d’Aoste,
 ITC20,,,,Valle d’Aosta/Vallée d’Aoste
 ITC3,,,Liguria,
+ITC31,,,,Imperia
+ITC32,,,,Savona
+ITC33,,,,Genova
+ITC34,,,,La Spezia
 ITC4,,,Lombardia,
+ITC41,,,,Varese
+ITC42,,,,Como
+ITC43,,,,Lecco
+ITC44,,,,Sondrio
+ITC46,,,,Bergamo
+ITC47,,,,Brescia
+ITC48,,,,Pavia
+ITC49,,,,Lodi
+ITC4A,,,,Cremona
+ITC4B,,,,Mantova
+ITC4C,,,,Milano
+ITC4D,,,,Monza e della Brianza
 ITF,Italy,South,,
 ITF1,,,Abruzzo,
+ITF11,,,,L’Aquila
+ITF12,,,,Teramo
+ITF13,,,,Pescara
+ITF14,,,,Chieti
 ITF2,,,Molise,
+ITF21,,,,Isernia
+ITF22,,,,Campobasso
 ITF3,,,Campania,
+ITF31,,,,Caserta
+ITF32,,,,Benevento
+ITF33,,,,Napoli
+ITF34,,,,Avellino
+ITF35,,,,Salerno
 ITF4,,,Puglia,
+ITF43,,,,Taranto
+ITF44,,,,Brindisi
+ITF45,,,,Lecce
+ITF46,,,,Foggia
+ITF47,,,,Bari
+ITF48,,,,Barletta-Andria-Trani
 ITF5,,,Basilicata,
+ITF51,,,,Potenza
+ITF52,,,,Matera
 ITF6,,,Calabria,
+ITF61,,,,Cosenza
+ITF62,,,,Crotone
+ITF63,,,,Catanzaro
+ITF64,,,,Vibo Valentia
+ITF65,,,,Reggio di Calabria
 ITG,Italy,Islands,,
 ITG1,,,Sicilia,
+ITG11,,,,Trapani
+ITG12,,,,Palermo
+ITG13,,,,Messina
+ITG14,,,,Agrigento
+ITG15,,,,Caltanissetta
+ITG16,,,,Enna
+ITG17,,,,Catania
+ITG18,,,,Ragusa
+ITG19,,,,Siracusa
 ITG2,,,Sardegna,
+ITG2D,,,,Sassari
+ITG2E,,,,Nuoro
+ITG2F,,,,Cagliari
+ITG2G,,,,Oristano
+ITG2H,,,,Sud Sardegna
 ITH,Italy,North East,,
 ITH1,,,Provincia Autonoma di Bolzano/Bozen,
+ITH10,,,,Bolzano-Bozen
 ITH2,,,Provincia Autonoma di Trento,
+ITH20,,,,Trento
 ITH3,,,Veneto,
+ITH31,,,,Verona
+ITH32,,,,Vicenza
+ITH33,,,,Belluno
+ITH34,,,,Treviso
+ITH35,,,,Venezia
+ITH36,,,,Padova
+ITH37,,,,Rovigo
 ITH4,,,Friuli-Venezia Giulia,
+ITH41,,,,Pordenone
+ITH42,,,,Udine
+ITH43,,,,Gorizia
+ITH44,,,,Trieste
 ITH5,,,Emilia-Romagna,
-ITI,Italy,Center,,
+ITH51,,,,Piacenza
+ITH52,,,,Parma
+ITH53,,,,Reggio nell’Emilia
+ITH54,,,,Modena
+ITH55,,,,Bologna
+ITH56,,,,Ferrara
+ITH57,,,,Ravenna
+ITH58,,,,Forlì-Cesena
+ITH59,,,,Rimini
 ITI1,,,Toscana,
+ITI11,,,,Massa-Carrara
+ITI12,,,,Lucca
+ITI13,,,,Pistoia
+ITI14,,,,Firenze
+ITI15,,,,Prato
+ITI16,,,,Livorno
+ITI17,,,,Pisa
+ITI18,,,,Arezzo
+ITI19,,,,Siena
+ITI1A,,,,Grosseto
 ITI2,,,Umbria,
+ITI21,,,,Perugia
+ITI22,,,,Terni
 ITI3,,,Marche,
+ITI31,,,,Pesaro e Urbino
+ITI32,,,,Ancona
+ITI33,,,,Macerata
+ITI34,,,,Ascoli Piceno
+ITI35,,,,Fermo
 ITI4,,,Lazio,
+ITI41,,,,Viterbo
+ITI42,,,,Rieti
+ITI43,,,,Roma
+ITI44,,,,Latina
+ITI45,,,,Frosinone
 LT0,Lithuania,Lietuva,,
 LT01,,,Capital Region,
 LT02,,,Central and Western Lithuania region,
