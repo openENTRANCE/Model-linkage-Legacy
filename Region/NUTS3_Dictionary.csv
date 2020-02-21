@@ -106,16 +106,57 @@ BE32B,,,,Arr. Charleroi
 BE32C,,,,Arr. Soignies
 BE32D,,,,Arr. Thuin
 BE33,,,Prov. Liège,
+BE331,,,,Arr. Huy
+BE332,,,,Arr. Liège
+BE334,,,,Arr. Waremme
+BE335,,,,Arr. Verviers — communes francophones
+BE336,,,,Bezirk Verviers — Deutschsprachige Gemeinschaft
 BE34,,,Prov. Luxembourg (BE),
+BE341,,,,Arr. Arlon
+BE342,,,,Arr. Bastogne
+BE343,,,,Arr. Marche-en-Famenne
+BE344,,,,Arr. Neufchâteau
+BE345,,,,Arr. Virton
 BE35,,,Prov. Namur,
+BE351,,,,Arr. Dinant
+BE352,,,,Arr. Namur
+BE353,,,,Arr. Philippeville
 BG3,Bulgaria,North and Southeast Bulgaria,,
 BG31,,,Northwest,
+BG311,,,,Vidin
+BG312,,,,Montana
+BG313,,,,Vratsa
+BG314,,,,Pleven
+BG315,,,,Lovech
 BG32,,,North Central,
+BG321,,,,Veliko Tarnovo
+BG322,,,,Gabrovo
+BG323,,,,ruse
+BG324,,,,Razgrad
+BG325,,,,Silistra
 BG33,,,Northeast,
+BG331,,,,Varna
+BG332,,,,Dobrich
+BG333,,,,Shumen
+BG334,,,,Targovishte
 BG34,,,Southeast,
+BG341,,,,Burgas
+BG342,,,,Sliven
+BG343,,,,Yambol
+BG344,,,,Stara Zagora
 BG4,Bulgaria,Southwest and South Central Bulgaria,,
 BG41,,,Southwestern,
+BG411,,,,Sofia (capital)
+BG412,,,,Sofia
+BG413,,,,Blagoevgrad
+BG414,,,,Gingerbread
+BG415,,,,Kyustendil
 BG42,,,South central,
+BG421,,,,Plovdiv
+BG422,,,,Haskovo
+BG423,,,,Pazardzhik
+BG424,,,,Smolyan
+BG425,,,,Kardzhali
 CH0,Switzerland,Switzerland,,
 CH01,,,Région lémanique,
 CH02,,,Espace Mittelland,
