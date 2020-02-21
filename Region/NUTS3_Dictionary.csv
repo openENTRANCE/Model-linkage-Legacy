@@ -17,11 +17,31 @@ AL034,,,,Korcë
 AL035,,,,Vlorë
 AT1,Austria,Ostösterreich,,
 AT11,,,Burgenland,
+AT111,,,,Mittelburgenland
+AT112,,,,Nordburgenland
+AT113,,,,Südburgenland
 AT12,,,Niederösterreich,
+AT121,,,,Mostviertel-Eisenwurzen
+AT122,,,,Niederösterreich-Süd
+AT123,,,,Sankt Pölten
+AT124,,,,Waldviertel
+AT125,,,,Weinviertel
+AT126,,,,Wiener Umland/Nordteil
+AT127,,,,Wiener Umland/Südteil
 AT13,,,Wien,
+AT130,,,,
 AT2,Austria,Südösterreich,,
 AT21,,,Kärnten,
+AT211,,,,Klagenfurt-Villach
+AT212,,,,Oberkärnten
+AT213,,,,Unterkärnten
 AT22,,,Steiermark,
+AT221,,,,Graz
+AT222,,,,Liezen
+AT223,,,,Östliche Obersteiermark
+AT224,,,,Oststeiermark
+AT225,,,,West- und Südsteiermark
+AT226,,,,Westliche Obersteiermark
 AT3,Austria,Westösterreich,,
 AT31,,,Oberösterreich,
 AT32,,,Salzburg,
