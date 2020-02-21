@@ -698,21 +698,73 @@ EE009,,,,Kesk-Eesti
 EE00A,,,,Kirde-Eesti
 EL3,Greece,Attica,,
 EL30,,,,
+EL301,,,,Northern Division of Athens
+EL302,,,,Western Sector of Athens
+EL303,,,,Athens Central Sector
+EL304,,,,Southern Section of Athens
+EL305,,,,East Attica
+EL306,,,,West Attica
+EL307,,,,"Piraeus, Islands"
 EL4,Greece,"Aegean Islands, Crete",,
 EL41,,,Northern Aegean,
+EL411,,,,"Lesvos, Lemnos"
+EL412,,,,"Ikaria, Samos"
+EL413,,,,Chios
 EL42,,,Southern Aegean Sea,
+EL421,,,,"Kalymnos, Karpathos - Heroic Island of Kasos, Kos, Rhodes"
+EL422,,,,"Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros, Syros, Tinos"
 EL43,,,Crete,
+EL431,,,,Heraklion
+EL432,,,,Lasithi
+EL433,,,,Rethimno
+EL434,,,,Chania
 EL5,Greece,Northern Greece,,
 EL51,,,"Eastern Macedonia, Thrace",
+EL511,,,,Evros
+EL512,,,,Blonde
+EL513,,,,Rhodope
+EL514,,,,Drama
+EL515,,,,"Thasos, Kavala"
 EL52,,,Central Macedonia,
+EL521,,,,Imathia
+EL522,,,,Thessaloniki
+EL523,,,,Kilkis
+EL524,,,,Pella
+EL525,,,,Pieria
+EL526,,,,Serres
+EL527,,,,Chalcidice
 EL53,,,West Macedonia,
+EL531,,,,"Grevena, Kozani"
+EL532,,,,Kastoria
+EL533,,,,Florina
 EL54,,,Continent,
+EL541,,,,"Arta, Preveza"
+EL542,,,,Thesprotia
+EL543,,,,Janina
 EL6,Greece,Central Greece,,
 EL61,,,Thessalia,
+EL611,,,,"Karditsa, Trikala"
+EL612,,,,Larissa
+EL613,,,,"Magnesia, Sporades"
 EL62,,,Ionia Nisia,
+EL621,,,,Zante
+EL622,,,,Corfu
+EL623,,,,"Ithaca, Kefallinia"
+EL624,,,,Lefkada
 EL63,,,Dytiki Elláda,
+EL631,,,,???????????????
+EL632,,,,?????
+EL633,,,,?????
 EL64,,,Sterea Elláda,
+EL641,,,,Boeotia
+EL642,,,,Euboea
+EL643,,,,Evritania
+EL644,,,,Phthiotis
+EL645,,,,Seal
 EL65,,,Peloponnisos,
+EL651,,,,"Argolida, Arcadia"
+EL652,,,,Corinthia
+EL653,,,,"Laconia, Messinia"
 ES1,Spain,Northwest,,
 ES11,,,Galicia,
 ES12,,,Principado de Asturias,
