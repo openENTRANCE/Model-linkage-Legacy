@@ -63,11 +63,11 @@ AT34,,,Vorarlberg,
 AT341,,,,Bludenz-Bregenzer Wald
 AT342,,,,Rheintal-Bodenseegebiet
 BA0,Bosnia And Herzegovina,Bosnia And Herzegovina,,
-BA00,,,,
-BA000,,,,
+BA00,,,Bosnia And Herzegovina,
+BA000,,,,Bosnia And Herzegovina
 BE1,Belgium,Région de Bruxelles-Capitale,,
-BE10,,,,
-BE100,,,,
+BE10,,,Région de Bruxelles-Capitale,
+BE100,,,,Région de Bruxelles-Capitale
 BE2,Belgium,Vlaams Gewest,,
 BE21,,,Prov. Antwerpen,
 BE211,,,,Arr. Antwerpen
@@ -192,8 +192,8 @@ CH066,,,,Zug
 CH07,,,Ticino,
 CH070,,,,
 CY0,Cyprus,Cyprus,,
-CY00,,,,
-CY000,,,,
+CY00,,,Cyprus,
+CY000,,,,Cyprus
 CZ0,Czech Republic,Czech Republic,,
 CZ01,,,Prague,
 CZ010,,,,Capital City of Prague
@@ -371,10 +371,10 @@ DE27C,,,,Unterallgäu
 DE27D,,,,Donau-Ries
 DE27E,,,,Oberallgäu
 DE3,Germany,Berlin,,
-DE30,,,,
-DE300,,,,
+DE30,,,Berlin,
+DE300,,,,Berlin
 DE4,Germany,Brandenburg,,
-DE40,,,,
+DE40,,,Brandenburg,
 DE401,,,,"Brandenburg an der Havel, Kreisfreie Stadt"
 DE402,,,,"Cottbus, Kreisfreie Stadt"
 DE403,,,,"Frankfurt (Oder), Kreisfreie Stadt"
@@ -394,12 +394,12 @@ DE40G,,,,Spree-Neiße
 DE40H,,,,Teltow-Fläming
 DE40I,,,,Uckermark
 DE5,Germany,Bremen,,
-DE50,,,,
+DE50,,,Bremen,
 DE501,,,,"Bremen, Kreisfreie Stadt"
 DE502,,,,"Bremerhaven, Kreisfreie Stadt"
 DE6,Germany,Hamburg,,
-DE60,,,,
-DE600,,,,
+DE60,,,Hamburg,
+DE600,,,,Hamburg
 DE7,Germany,Hessen,,
 DE71,,,Darmstadt,
 DE711,,,,"Darmstadt, Kreisfreie Stadt"
@@ -431,7 +431,7 @@ DE735,,,,Schwalm-Eder-Kreis
 DE736,,,,Waldeck-Frankenberg
 DE737,,,,Werra-Meißner-Kreis
 DE8,Germany,Mecklenburg-Vorpommern,,
-DE80,,,,
+DE80,,,Mecklenburg-Vorpommern,
 DE803,,,,"Rostock, Kreisfreie Stadt"
 DE804,,,,"Schwerin, Kreisfreie Stadt"
 DE80J,,,,Mecklenburgische Seenplatte
@@ -590,7 +590,7 @@ DEB3I,,,,Rhein-Pfalz-Kreis
 DEB3J,,,,Mainz-Bingen
 DEB3K,,,,Südwestpfalz
 DEC,Germany,Saarland,,
-DEC0,,,,
+DEC0,,,Saarland,
 DEC01,,,,Regionalverband Saarbrücken
 DEC02,,,,Merzig-Wadern
 DEC03,,,,Neunkirchen
@@ -615,7 +615,7 @@ DED51,,,,"Leipzig, Kreisfreie Stadt"
 DED52,,,,Leipzig
 DED53,,,,Nordsachsen
 DEE,Germany,Sachsen-Anhalt,,
-DEE0,,,,
+DEE0,,,Sachsen-Anhalt,
 DEE01,,,,"Dessau-Roßlau, Kreisfreie Stadt"
 DEE02,,,,"Halle (Saale), Kreisfreie Stadt"
 DEE03,,,,"Magdeburg, Kreisfreie Stadt"
@@ -631,7 +631,7 @@ DEE0C,,,,Salzlandkreis
 DEE0D,,,,Stendal
 DEE0E,,,,Wittenberg
 DEF,Germany,Schleswig-Holstein,,
-DEF0,,,,
+DEF0,,,Schleswig-Holstein,
 DEF01,,,,"Flensburg, Kreisfreie Stadt"
 DEF02,,,,"Kiel, Kreisfreie Stadt"
 DEF03,,,,"Lübeck, Kreisfreie Stadt"
@@ -648,7 +648,7 @@ DEF0D,,,,Segeberg
 DEF0E,,,,Steinburg
 DEF0F,,,,Stormarn
 DEG,Germany,Thüringen,,
-DEG0,,,,
+DEG0,,,Thüringen,
 DEG01,,,,"Erfurt, Kreisfreie Stadt"
 DEG02,,,,"Gera, Kreisfreie Stadt"
 DEG03,,,,"Jena, Kreisfreie Stadt"
@@ -697,7 +697,7 @@ EE008,,,,Lõuna-Eesti
 EE009,,,,Kesk-Eesti
 EE00A,,,,Kirde-Eesti
 EL3,Greece,Attica,,
-EL30,,,,
+EL30,,,Attica,
 EL301,,,,Northern Division of Athens
 EL302,,,,Western Sector of Athens
 EL303,,,,Athens Central Sector
@@ -789,7 +789,7 @@ ES241,,,,Huesca
 ES242,,,,Teruel
 ES243,,,,Zaragoza
 ES3,Spain,Madrid's community,,
-ES30,,,,
+ES30,,,Madrid,
 ES300,,,,Madrid
 ES4,Spain,Center,,
 ES41,,,Castilla y León,
@@ -842,7 +842,7 @@ ES630,,,,Ceuta
 ES64,,,Ciudad de Melilla,
 ES640,,,,Melilla
 ES7,Spain,Canary Islands,,
-ES70,,,,
+ES70,,,Canary Islands,
 ES703,,,,El Hierro
 ES704,,,,Fuerteventura
 ES705,,,,Gran Canaria
