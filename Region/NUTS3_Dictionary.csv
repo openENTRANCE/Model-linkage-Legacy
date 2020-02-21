@@ -1077,11 +1077,28 @@ HU332,,,,Békés
 HU333,,,,Csongrád
 IE0,Ireland,Ireland,,
 IE04,,,Northern and Western,
+IE041,,,,Border
+IE042,,,,West
 IE05,,,Southern,
+IE051,,,,Mid-West 
+IE052,,,,South-East 
+IE053,,,,South-West 
 IE06,,,Eastern and Midland,
+IE061,,,,Dublin
+IE062,,,,Mid-East
+IE063,,,,Midland
 ITC,Italy,Northwest,,
 ITC1,,,Piemonte,
+ITC11,,,,Torino
+ITC12,,,,Vercelli
+ITC13,,,,Biella
+ITC14,,,,Verbano-Cusio-Ossola
+ITC15,,,,Novara
+ITC16,,,,Cuneo
+ITC17,,,,Asti
+ITC18,,,,Alessandria
 ITC2,,,Valle d’Aosta/Vallée d’Aoste,
+ITC20,,,,Valle d’Aosta/Vallée d’Aoste
 ITC3,,,Liguria,
 ITC4,,,Lombardia,
 ITF,Italy,South,,
