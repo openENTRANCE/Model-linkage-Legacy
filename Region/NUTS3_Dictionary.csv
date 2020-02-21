@@ -767,30 +767,89 @@ EL652,,,,Corinthia
 EL653,,,,"Laconia, Messinia"
 ES1,Spain,Northwest,,
 ES11,,,Galicia,
+ES111,,,,A Coruña
+ES112,,,,Lugo
+ES113,,,,Ourense
+ES114,,,,Pontevedra
 ES12,,,Principado de Asturias,
+ES120,,,,Asturias
 ES13,,,Cantabria,
+ES130,,,,Cantabria
 ES2,Spain,Northeast,,
 ES21,,,País Vasco,
+ES211,,,,Araba/Álava
+ES212,,,,Gipuzkoa
+ES213,,,,Bizkaia
 ES22,,,Comunidad Foral de Navarra,
+ES220,,,,Navarra
 ES23,,,La Rioja,
+ES230,,,,La Rioja
 ES24,,,Aragón,
+ES241,,,,Huesca
+ES242,,,,Teruel
+ES243,,,,Zaragoza
 ES3,Spain,Madrid's community,,
 ES30,,,,
+ES300,,,,Madrid
 ES4,Spain,Center,,
 ES41,,,Castilla y León,
+ES411,,,,Ávila
+ES412,,,,Burgos
+ES413,,,,León
+ES414,,,,Palencia
+ES415,,,,Salamanca
+ES416,,,,Segovia
+ES417,,,,Soria
+ES418,,,,Valladolid
+ES419,,,,Zamora
 ES42,,,Castilla-La Mancha,
+ES421,,,,Albacete
+ES422,,,,Ciudad Real
+ES423,,,,Cuenca
+ES424,,,,Guadalajara
+ES425,,,,Toledo
 ES43,,,Extremadura,
+ES431,,,,Badajoz
+ES432,,,,Cáceres
 ES5,Spain,East,,
 ES51,,,Cataluña,
+ES511,,,,Barcelona
+ES512,,,,Girona
+ES513,,,,Lleida
+ES514,,,,Tarragona
 ES52,,,Comunitat Valenciana ,
+ES521,,,,Alicante/Alacant
+ES522,,,,Castellón/Castelló
+ES523,,,,Valencia/València
 ES53,,,Illes Balears,
+ES531,,,,Eivissa y Formentera
+ES532,,,,Mallorca
+ES533,,,,Menorca
 ES6,Spain,South,,
 ES61,,,Andalucía,
+ES611,,,,Almería
+ES612,,,,Cádiz
+ES613,,,,Córdoba
+ES614,,,,Granada
+ES615,,,,Huelva
+ES616,,,,Jaén
+ES617,,,,Málaga
+ES618,,,,Sevilla
 ES62,,,Región de Murcia,
+ES620,,,,Murcia
 ES63,,,Ciudad de Ceuta,
+ES630,,,,Ceuta
 ES64,,,Ciudad de Melilla,
+ES640,,,,Melilla
 ES7,Spain,Canary Islands,,
 ES70,,,,
+ES703,,,,El Hierro
+ES704,,,,Fuerteventura
+ES705,,,,Gran Canaria
+ES706,,,,La Gomera
+ES707,,,,La Palma
+ES708,,,,Lanzarote
+ES709,,,,Tenerife
 FI1,Finland,Manner-Suomi,,
 FI19,,,Länsi-Suomi,
 FI1B,,,Helsinki-Uusimaa,
