@@ -632,14 +632,63 @@ DEE0D,,,,Stendal
 DEE0E,,,,Wittenberg
 DEF,Germany,Schleswig-Holstein,,
 DEF0,,,,
+DEF01,,,,"Flensburg, Kreisfreie Stadt"
+DEF02,,,,"Kiel, Kreisfreie Stadt"
+DEF03,,,,"Lübeck, Kreisfreie Stadt"
+DEF04,,,,"Neumünster, Kreisfreie Stadt"
+DEF05,,,,Dithmarschen
+DEF06,,,,Herzogtum Lauenburg
+DEF07,,,,Nordfriesland
+DEF08,,,,Ostholstein
+DEF09,,,,Pinneberg
+DEF0A,,,,Plön
+DEF0B,,,,Rendsburg-Eckernförde
+DEF0C,,,,Schleswig-Flensburg
+DEF0D,,,,Segeberg
+DEF0E,,,,Steinburg
+DEF0F,,,,Stormarn
 DEG,Germany,Thüringen,,
 DEG0,,,,
+DEG01,,,,"Erfurt, Kreisfreie Stadt"
+DEG02,,,,"Gera, Kreisfreie Stadt"
+DEG03,,,,"Jena, Kreisfreie Stadt"
+DEG04,,,,"Suhl, Kreisfreie Stadt"
+DEG05,,,,"Weimar, Kreisfreie Stadt"
+DEG06,,,,Eichsfeld
+DEG07,,,,Nordhausen
+DEG09,,,,Unstrut-Hainich-Kreis
+DEG0A,,,,Kyffhäuserkreis
+DEG0B,,,,Schmalkalden-Meiningen
+DEG0C,,,,Gotha
+DEG0D,,,,Sömmerda
+DEG0E,,,,Hildburghausen
+DEG0F,,,,Ilm-Kreis
+DEG0G,,,,Weimarer Land
+DEG0H,,,,Sonneberg
+DEG0I,,,,Saalfeld-Rudolstadt
+DEG0J,,,,Saale-Holzland-Kreis
+DEG0K,,,,Saale-Orla-Kreis
+DEG0L,,,,Greiz
+DEG0M,,,,Altenburger Land
+DEG0N,,,,"Eisenach, Kreisfreie Stadt"
+DEG0P,,,,Wartburgkreis
 DK0,Denmark,Denmark,,
 DK01,,,Hovedstaden,
+DK011,,,,Byen København
+DK012,,,,Københavns omegn
+DK013,,,,Nordsjælland
+DK014,,,,Bornholm
 DK02,,,Sjælland,
+DK021,,,,Østsjælland
+DK022,,,,Vest- og Sydsjælland
 DK03,,,Syddanmark,
+DK031,,,,Fyn
+DK032,,,,Sydjylland
 DK04,,,Midtjylland,
+DK041,,,,Vestjylland
+DK042,,,,Østjylland
 DK05,,,Nordjylland,
+DK050,,,,
 EE0,Estonia,Estonia,,
 EE00,,,,
 EL3,Greece,Attica,,
