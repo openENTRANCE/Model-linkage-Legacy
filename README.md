@@ -75,7 +75,7 @@ We propose the following levels for the definition of the locations to be consid
 * EndUser: end user
 * Circuit: circuit/link of a line (electric or gas)
 
-A **greater than** sign (>) is used to express the direction of links. For example, **node1 > node2 > circuit1** indicates that we refer to circuit1 connecting node1 and node2, from the former to the latter. Bidirectional data must be declared separately for each direction but using only the greater sign.
+A **greater than** sign (>) is used to express the direction of links. For example, **node1 > node2 | circuit1** indicates that we refer to circuit1 connecting node1 and node2, from the former to the latter. Bidirectional data must be declared separately for each direction but using only the greater sign.
 For example, possible values can be:
 
 >	CCE|DE|Bayern|Oberbayern|München|Node001
@@ -98,7 +98,7 @@ Where only the country is defined
 
 Where only the region is defined
 
->	Munich>Salzburg-und-Umgebung>AC01
+>	Munich>Salzburg-und-Umgebung|AC01
 
 Defines the electrical circuit **AC01** between **Munich** and **Salzburg-und-Umgebung**.
 For the geographical links (such as electrical circuits), it is important to connect locations at the same level. I.e. NUTS 1 with NUTS 1 or district with district.
