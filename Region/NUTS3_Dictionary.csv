@@ -1350,93 +1350,342 @@ PL416,,,,Kaliski
 PL417,,,,Leszczynski
 PL418,,,,Poznanski
 PL42,,,Zachodniopomorskie,
+PL424,,,,Miasto Szczecin
+PL426,,,,Koszali?ski
+PL427,,,,Szczecinecko-pyrzycki
+PL428,,,,Szczeci?ski
 PL43,,,Lubuskie,
+PL431,,,,Gorzowski
+PL432,,,,Zielonogórski
 PL5,Poland,Southwestern macroregion,,
 PL51,,,Dolnoslaskie,
+PL514,,,,Wroclaw city
+PL515,,,,jeleniogórski
+PL516,,,,Legnica-G?ogów
+PL517,,,,walbrzyski
+PL518,,,,Wroclaw
 PL52,,,Opolskie,
+PL523,,,,Nyski
+PL524,,,,Opolski
 PL6,Poland,Northern macroregion,,
 PL61,,,Kujawsko-pomorskie,
+PL613,,,,Bydgosko-torunski
+PL616,,,,Grudziadzki
+PL617,,,,Inowroclawski
+PL618,,,,Swiecki
+PL619,,,,Wloclawski
 PL62,,,Warminsko-mazurskie,
+PL621,,,,Elblaski
+PL622,,,,Olsztynski
+PL623,,,,Elcki
 PL63,,,Pomorskie,
+PL633,,,,Trójmiejski
+PL634,,,,Gdanski
+PL636,,,,Slupski
+PL637,,,,Chojnicki
+PL638,,,,Starogardzki
 PL7,Poland,Central macroregion,,
 PL71,,,tódzkie,
+PL711,,,,Lódz City
+PL712,,,,Lódzki
+PL713,,,,Piotrkowski
+PL714,,,,Sieradzki
+PL715,,,,Skierniewicki
 PL72,,,Swietokrzyskie,
+PL721,,,,Kielecki
+PL722,,,,Sandomiersko-jedrzejowski
 PL8,Poland,Eastern macroregion,,
 PL81,,,Lubelskie,
+PL811,,,,Bialski
+PL812,,,,Chelmsko-zamojski
+PL814,,,,Lubelski
+PL815,,,,Pulawski
 PL82,,,Podkarpackie,
+PL821,,,,Krosnienski
+PL822,,,,Przemyski
+PL823,,,,Rzeszowski
+PL824,,,,Tarnobrzeski
 PL84,,,Podlaskie,
+PL841,,,,Bialostocki
+PL842,,,,Lomzynski
+PL843,,,,Suwalski
 PL9,Poland,Macroregion Mazowieckie Province,,
 PL91,,,Warszawski stoleczny,
+PL911,,,,Miasto Warszawa
+PL912,,,,Warszawski wschodni
+PL913,,,,Warszawski zachodni
 PL92,,,Mazowiecki regionalny,
+PL921,,,,Radomski
+PL922,,,,Ciechanowski
+PL923,,,,Plocki
+PL924,,,,Ostrolecki
+PL925,,,,Siedlecki
+PL926,,,,Zyrardowski
 PT1,Portugal,Continente,,
 PT11,,,Norte,
+PT111,,,,Alto Minho
+PT112,,,,Cávado
+PT119,,,,Ave
+PT11A,,,,Área Metropolitana do Porto
+PT11B,,,,Alto Tâmega
+PT11C,,,,Tâmega e Sousa
+PT11D,,,,Douro
+PT11E,,,,Terras de Trás-os-Montes
 PT15,,,Algarve,
+PT150,,,,Algarve
 PT16,,,Centro (PT),
+PT16B,,,,Oeste
+PT16D,,,,Região de Aveiro
+PT16E,,,,Região de Coimbra
+PT16F,,,,Região de Leiria
+PT16G,,,,Viseu Dão Lafões
+PT16H,,,,Beira Baixa
+PT16I,,,,Médio Tejo
+PT16J,,,,Beiras e Serra da Estrela
 PT17,,,Área Metropolitana de Lisboa,
+PT170,,,,Área Metropolitana de Lisboa
 PT18,,,Alentejo,
+PT181,,,,Alentejo Litoral
+PT184,,,,Baixo Alentejo
+PT185,,,,Lezíria do Tejo
+PT186,,,,Alto Alentejo
+PT187,,,,Alentejo Central
 PT2,Portugal,Região Autónoma dos Açores,,
-PT20,,,,
+PT20,,,Região Autónoma dos Açores,
+PT200,,,,Região Autónoma dos Açores
 PT3,Portugal,Região Autónoma da Madeira,,
-PT30,,,,
+PT30,,,Região Autónoma da Madeira,
+PT300,,,,Região Autónoma da Madeira
 RO1,Romania,Macroregion One,,
 RO11,,,Nord-Vest,
+RO111,,,,Bihor
+RO112,,,,Bistrita-Nasaud
+RO113,,,,Cluj
+RO114,,,,Maramures
+RO115,,,,Satu Mare
+RO116,,,,Salaj
 RO12,,,Centru,
+RO121,,,,Alba
+RO122,,,,Brasov
+RO123,,,,Covasna
+RO124,,,,Harghita
+RO125,,,,Mures
+RO126,,,,Sibiu
 RO2,Romania,Macroregion Two,,
 RO21,,,Nord-Est,
+RO211,,,,Bacau
+RO212,,,,Botosani
+RO213,,,,Iasi
+RO214,,,,Neamt
+RO215,,,,Suceava
+RO216,,,,Vaslui
 RO22,,,Sud-Est,
+RO221,,,,Braila
+RO222,,,,Buzau
+RO223,,,,Constanta
+RO224,,,,Galati
+RO225,,,,Tulcea
+RO226,,,,Vrancea
 RO3,Romania,Macroregion Three,,
 RO31,,,Sud-Muntenia,
-RO32,,,Bucure?ti-Ilfov,
+RO311,,,,Arges
+RO312,,,,Calarasi
+RO313,,,,Dâmbovita
+RO314,,,,Giurgiu
+RO315,,,,Ialomita
+RO316,,,,Prahova
+RO317,,,,Teleorman
+RO32,,,Bucuresti-Ilfov,
+RO321,,,,Bucuresti
+RO322,, ,,Ilfov
 RO4,Romania,Macroregion Four,,
 RO41,,,Sud-Vest Oltenia,
+RO411,,,,Dolj
+RO412,,,,Gorj
+RO413,,,,Mehedinti
+RO414,,,,Olt
+RO415,,,,Vâlcea
 RO42,,,Vest,
+RO421,,,,Arad
+RO422,,,,Caras-Severin
+RO423,,,,Hunedoara
+RO424,,,,Timis
 RS1,Serbia,Serbia - North,,
 RS11,,,Belgrade region,
+RS110,,,,Belgrade area
 RS12,,,Region of Vojvodina,
+RS121,,,,West Backa oblast
+RS122,,,,South Banat area
+RS123,,,,South Backa oblast
+RS124,,,,North Banat area
+RS125,,,,North Backa oblast
+RS126,,,,Central Banat area
+RS127,,,,Srem region
 RS2,Serbia,Serbia - South,,
 RS21,,,Sumadija and Western Serbia region,
+RS211,,,,Zlatibor area
+RS212,,,,Kolubarska oblast
+RS213,,,,Macvan region
+RS214,,,,Moravian Region
+RS215,,,,Maritime Region
+RS216,,,,Rasinska oblast
+RS217,,,,Raska Region
+RS218,,,,Sumadia area
 RS22,,,Region of Southern and Eastern Serbia,
+RS221,,,,Bor area
+RS222,,,,Branicevskaya oblast
+RS223,,,,Zajecar area
+RS224,,,,Jablanica area
+RS225,,,,Nišava region
+RS226,,,,Pirot Oblast
+RS227,,,,Danube Region
+RS228,,,,P?inja Region
+RS229,,,,Toplica oblast
 SE1,Sweden,East Sweden,,
 SE11,,,Stockholm,
+SE110,,,,Stockholms län
 SE12,,,Östra Mellansverige,
+SE121,,,,Uppsala län
+SE122,,,,Södermanlands län
+SE123,,,,Östergötlands län
+SE124,,,,Örebro län
+SE125,,,,Västmanlands län
 SE2,Sweden,Southern Sweden,,
 SE21,,,Småland med öarna,
+SE211,,,,Jönköpings län
+SE212,,,,Kronobergs län
+SE213,,,,Kalmar län
+SE214,,,,Gotlands län
 SE22,,,Sydsverige,
+SE221,,,,Blekinge län
+SE224,,,,Skåne län
 SE23,,,Västsverige,
+SE231,,,,Hallands län
+SE232,,,,Västra Götalands län
 SE3,Sweden,North Sweden,,
 SE31,,,Norra Mellansverige,
+SE311,,,,Värmlands län
+SE312,,,,Dalarnas län
+SE313,,,,Gävleborgs län
 SE32,,,Mellersta Norrland,
+SE321,,,,Västernorrlands län
+SE322,,,,Jämtlands län
 SE33,,,Övre Norrland,
+SE331,,,,Västerbottens län
+SE332,,,,Norrbottens län
 SI0,Slovenia,Slovenia,,
 SI03,,,Vzhodna Slovenija,
+SI031,,,,Pomurska
+SI032,,,,Podravska
+SI033,,,,Koroška
+SI034,,,,Savinjska
+SI035,,,,Zasavska
+SI036,,,,Posavska
+SI037,,,,Jugovzhodna Slovenija
+SI038,,,,Primorsko-notranjska
 SI04,,,Zahodna Slovenija,
+SI041,,,,Osrednjeslovenska
+SI042,,,,Gorenjska
+SI043,,,,Goriška
+SI044,,,,Obalno-kraška
 SK0,Slovakia,Slovakia,,
 SK01,,,Bratislavský kraj,
+SK010,,,,Bratislavský kraj
 SK02,,,Západné Slovensko,
+SK021,,,,Trnavský kraj
+SK022,,,,Tren?iansky kraj
+SK023,,,,Nitriansky kraj
 SK03,,,Stredné Slovensko,
+SK031,,,,Žilinský kraj
+SK032,,,,Banskobystrický kraj
 SK04,,,Východné Slovensko,
+SK041,,,,Prešovský kraj
+SK042,,,,Košický kraj
 UKC,United Kingdom,North East (England),,
 UKC1,,,Tees Valley and Durham,
+UKC11,,,,Hartlepool and Stockton-on-Tees
+UKC12,,,,South Teesside
+UKC13,,,,Darlington
+UKC14,,,,Durham CC
 UKC2,,,Northumberland and Tyne and Wear,
+UKC21,,,,Northumberland
+UKC22,,,,Tyneside
+UKC23,,,,Sunderland
 UKD,United Kingdom,North West (England),,
 UKD1,,,Cumbria,
+UKD11,,,,West Cumbria
+UKD12,,,,East Cumbria
 UKD3,,,Greater Manchester,
+UKD33,,,,Manchester
+UKD34,,,,Greater Manchester South West
+UKD35,,,,Greater Manchester South East
+UKD36,,,,Greater Manchester North West
+UKD37,,,,Greater Manchester North East
 UKD4,,,Lancashire,
+UKD41,,,,Blackburn with Darwen
+UKD42,,,,Blackpool
+UKD44,,,,Lancaster and Wyre
+UKD45,,,,Mid Lancashire
+UKD46,,,,East Lancashire
+UKD47,,,,Chorley and West Lancashire
 UKD6,,,Cheshire,
+UKD61,,,,Warrington
+UKD62,,,,Cheshire East
+UKD63,,,,Cheshire West and Chester
 UKD7,,,Merseyside,
+UKD71,,,,East Merseyside
+UKD72,,,,Liverpool
+UKD73,,,,Sefton
+UKD74,,,,Wirral
 UKE,United Kingdom,Yorkshire and the Humber,,
 UKE1,,,East Yorkshire and Northern Lincolnshire,
+UKE11,,,,"Kingston upon Hull, City of"
+UKE12,,,,East Riding of Yorkshire
+UKE13,,,,North and North East Lincolnshire
 UKE2,,,North Yorkshire,
+UKE21,,,,York
+UKE22,,,,North Yorkshire CC
 UKE3,,,South Yorkshire,
+UKE31,,,,"Barnsley, Doncaster and Rotherham"
+UKE32,,,,Sheffield
 UKE4,,,West Yorkshire,
+UKE41,,,,Bradford
+UKE42,,,,Leeds
+UKE44,,,,Calderdale and Kirklees
+UKE45,,,,Wakefield
 UKF,United Kingdom,East Midlands (England),,
 UKF1,,,Derbyshire and Nottinghamshire,
+UKF11,,,,Derby
+UKF12,,,,East Derbyshire
+UKF13,,,,South and West Derbyshire
+UKF14,,,,Nottingham
+UKF15,,,,North Nottinghamshire
+UKF16,,,,South Nottinghamshire
 UKF2,,,"Leicestershire, Rutland and Northamptonshire",
+UKF21,,,,Leicester
+UKF22,,,,Leicestershire CC and Rutland
+UKF24,,,,West Northamptonshire
+UKF25,,,,North Northamptonshire
 UKF3,,,Lincolnshire,
+UKF30,,,,Lincolnshire
 UKG,United Kingdom,West Midlands (England),,
 UKG1,,,"Herefordshire, Worcestershire and Warwickshire",
+UKG11,,,,"Herefordshire, County of"
+UKG12,,,,Worcestershire
+UKG13,,,,Warwickshire
 UKG2,,,Shropshire and Staffordshire,
+UKG21,,,,Telford and Wrekin
+UKG22,,,,Shropshire CC
+UKG23,,,,Stoke-on-Trent
+UKG24,,,,Staffordshire CC
 UKG3,,,West Midlands,
+UKG31,,,,Birmingham
+UKG32,,,,Solihull
+UKG33,,,,Coventry
+UKG36,,,,Dudley
+UKG37,,,,Sandwell
+UKG38,,,,Walsall
+UKG39,,,,Wolverhampton
 UKH,United Kingdom,East of England,,
 UKH1,,,East Anglia,
 UKH2,,,Bedfordshire and Hertfordshire,
