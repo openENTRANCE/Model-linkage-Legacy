@@ -66,7 +66,7 @@ We propose the following levels for the definition of the locations to be consid
 
 * Continent: Europe
 * Region: Continental-Central-East (CCE)
-* Country: countries (DE, FR, etc.)
+* Country: countries (Germany, France, etc.)
 * Area (NUTS 1): large regions inside a country
 * Zone (NUTS 2): smaller regions inside a country
 * Node (NUTS 3): physical (electrical, gas) nodes or provinces in the corresponding global grid
@@ -86,7 +86,7 @@ Where only the **Node001** that belongs to the city of **München** through the 
 
 Where only the zone of **Oberbayern** is defined through the code *DE21*.
 
->	Bayern|DE2
+>	Germany|DE2
 
 Where only the area of **Bayern** is defined through the code *De2*.
 <!--
