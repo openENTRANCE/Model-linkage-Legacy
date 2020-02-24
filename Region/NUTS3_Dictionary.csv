@@ -1603,26 +1603,89 @@ SK041,,,,Prešovský kraj
 SK042,,,,Košický kraj
 UKC,United Kingdom,North East (England),,
 UKC1,,,Tees Valley and Durham,
+UKC11,,,,Hartlepool and Stockton-on-Tees
+UKC12,,,,South Teesside
+UKC13,,,,Darlington
+UKC14,,,,Durham CC
 UKC2,,,Northumberland and Tyne and Wear,
+UKC21,,,,Northumberland
+UKC22,,,,Tyneside
+UKC23,,,,Sunderland
 UKD,United Kingdom,North West (England),,
 UKD1,,,Cumbria,
+UKD11,,,,West Cumbria
+UKD12,,,,East Cumbria
 UKD3,,,Greater Manchester,
+UKD33,,,,Manchester
+UKD34,,,,Greater Manchester South West
+UKD35,,,,Greater Manchester South East
+UKD36,,,,Greater Manchester North West
+UKD37,,,,Greater Manchester North East
 UKD4,,,Lancashire,
+UKD41,,,,Blackburn with Darwen
+UKD42,,,,Blackpool
+UKD44,,,,Lancaster and Wyre
+UKD45,,,,Mid Lancashire
+UKD46,,,,East Lancashire
+UKD47,,,,Chorley and West Lancashire
 UKD6,,,Cheshire,
+UKD61,,,,Warrington
+UKD62,,,,Cheshire East
+UKD63,,,,Cheshire West and Chester
 UKD7,,,Merseyside,
+UKD71,,,,East Merseyside
+UKD72,,,,Liverpool
+UKD73,,,,Sefton
+UKD74,,,,Wirral
 UKE,United Kingdom,Yorkshire and the Humber,,
 UKE1,,,East Yorkshire and Northern Lincolnshire,
+UKE11,,,,"Kingston upon Hull, City of"
+UKE12,,,,East Riding of Yorkshire
+UKE13,,,,North and North East Lincolnshire
 UKE2,,,North Yorkshire,
+UKE21,,,,York
+UKE22,,,,North Yorkshire CC
 UKE3,,,South Yorkshire,
+UKE31,,,,"Barnsley, Doncaster and Rotherham"
+UKE32,,,,Sheffield
 UKE4,,,West Yorkshire,
+UKE41,,,,Bradford
+UKE42,,,,Leeds
+UKE44,,,,Calderdale and Kirklees
+UKE45,,,,Wakefield
 UKF,United Kingdom,East Midlands (England),,
 UKF1,,,Derbyshire and Nottinghamshire,
+UKF11,,,,Derby
+UKF12,,,,East Derbyshire
+UKF13,,,,South and West Derbyshire
+UKF14,,,,Nottingham
+UKF15,,,,North Nottinghamshire
+UKF16,,,,South Nottinghamshire
 UKF2,,,"Leicestershire, Rutland and Northamptonshire",
+UKF21,,,,Leicester
+UKF22,,,,Leicestershire CC and Rutland
+UKF24,,,,West Northamptonshire
+UKF25,,,,North Northamptonshire
 UKF3,,,Lincolnshire,
+UKF30,,,,Lincolnshire
 UKG,United Kingdom,West Midlands (England),,
 UKG1,,,"Herefordshire, Worcestershire and Warwickshire",
+UKG11,,,,"Herefordshire, County of"
+UKG12,,,,Worcestershire
+UKG13,,,,Warwickshire
 UKG2,,,Shropshire and Staffordshire,
+UKG21,,,,Telford and Wrekin
+UKG22,,,,Shropshire CC
+UKG23,,,,Stoke-on-Trent
+UKG24,,,,Staffordshire CC
 UKG3,,,West Midlands,
+UKG31,,,,Birmingham
+UKG32,,,,Solihull
+UKG33,,,,Coventry
+UKG36,,,,Dudley
+UKG37,,,,Sandwell
+UKG38,,,,Walsall
+UKG39,,,,Wolverhampton
 UKH,United Kingdom,East of England,,
 UKH1,,,East Anglia,
 UKH2,,,Bedfordshire and Hertfordshire,
