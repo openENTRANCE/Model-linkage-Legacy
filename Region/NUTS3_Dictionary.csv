@@ -1590,9 +1590,17 @@ SI043,,,,Goriška
 SI044,,,,Obalno-kraška
 SK0,Slovakia,Slovakia,,
 SK01,,,Bratislavský kraj,
+SK010,,,,Bratislavský kraj
 SK02,,,Západné Slovensko,
+SK021,,,,Trnavský kraj
+SK022,,,,Tren?iansky kraj
+SK023,,,,Nitriansky kraj
 SK03,,,Stredné Slovensko,
+SK031,,,,Žilinský kraj
+SK032,,,,Banskobystrický kraj
 SK04,,,Východné Slovensko,
+SK041,,,,Prešovský kraj
+SK042,,,,Košický kraj
 UKC,United Kingdom,North East (England),,
 UKC1,,,Tees Valley and Durham,
 UKC2,,,Northumberland and Tyne and Wear,
