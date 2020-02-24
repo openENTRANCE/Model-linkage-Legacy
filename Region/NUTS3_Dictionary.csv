@@ -1,694 +1,694 @@
 Code,Country,NUTS level 1,NUTS level 2,NUTS level 3
 AL0,Albania,Albania,,
-AL01,,,north,
-AL011,,,,Dibër
-AL012,,,,Durrës
-AL013,,,,Kukës
-AL014,,,,Lezhë
-AL015,,,,Shkodër
-AL02,,,center,
-AL021,,,,Elbasan
-AL022,,,,Tiranë
-AL03,,,south,
-AL031,,,,Berat
-AL032,,,,Fier
-AL033,,,,Gjirokastër
-AL034,,,,Korcë
-AL035,,,,Vlorë
+AL01,Albania,Albania,north,
+AL011,Albania,Albania,north,Dibër
+AL012,Albania,Albania,north,Durrës
+AL013,Albania,Albania,north,Kukës
+AL014,Albania,Albania,north,Lezhë
+AL015,Albania,Albania,north,Shkodër
+AL02,Albania,Albania,center,
+AL021,Albania,Albania,center,Elbasan
+AL022,Albania,Albania,center,Tiranë
+AL03,Albania,Albania,south,
+AL031,Albania,Albania,south,Berat
+AL032,Albania,Albania,south,Fier
+AL033,Albania,Albania,south,Gjirokastër
+AL034,Albania,Albania,south,Korcë
+AL035,Albania,Albania,south,Vlorë
 AT1,Austria,Ostösterreich,,
-AT11,,,Burgenland,
-AT111,,,,Mittelburgenland
-AT112,,,,Nordburgenland
-AT113,,,,Südburgenland
-AT12,,,Niederösterreich,
-AT121,,,,Mostviertel-Eisenwurzen
-AT122,,,,Niederösterreich-Süd
-AT123,,,,Sankt Pölten
-AT124,,,,Waldviertel
-AT125,,,,Weinviertel
-AT126,,,,Wiener Umland/Nordteil
-AT127,,,,Wiener Umland/Südteil
-AT13,,,Wien,
-AT130,,,,
+AT11,Austria,Ostösterreich,Burgenland,
+AT111,Austria,Ostösterreich,Burgenland,Mittelburgenland
+AT112,Austria,Ostösterreich,Burgenland,Nordburgenland
+AT113,Austria,Ostösterreich,Burgenland,Südburgenland
+AT12,Austria,Ostösterreich,Niederösterreich,
+AT121,Austria,Ostösterreich,Niederösterreich,Mostviertel-Eisenwurzen
+AT122,Austria,Ostösterreich,Niederösterreich,Niederösterreich-Süd
+AT123,Austria,Ostösterreich,Niederösterreich,Sankt Pölten
+AT124,Austria,Ostösterreich,Niederösterreich,Waldviertel
+AT125,Austria,Ostösterreich,Niederösterreich,Weinviertel
+AT126,Austria,Ostösterreich,Niederösterreich,Wiener Umland/Nordteil
+AT127,Austria,Ostösterreich,Niederösterreich,Wiener Umland/Südteil
+AT13,Austria,Ostösterreich,Wien,
+AT130,Austria,Ostösterreich,Wien,Wien
 AT2,Austria,Südösterreich,,
-AT21,,,Kärnten,
-AT211,,,,Klagenfurt-Villach
-AT212,,,,Oberkärnten
-AT213,,,,Unterkärnten
-AT22,,,Steiermark,
-AT221,,,,Graz
-AT222,,,,Liezen
-AT223,,,,Östliche Obersteiermark
-AT224,,,,Oststeiermark
-AT225,,,,West- und Südsteiermark
-AT226,,,,Westliche Obersteiermark
+AT21,Austria,Südösterreich,Kärnten,
+AT211,Austria,Südösterreich,Kärnten,Klagenfurt-Villach
+AT212,Austria,Südösterreich,Kärnten,Oberkärnten
+AT213,Austria,Südösterreich,Kärnten,Unterkärnten
+AT22,Austria,Südösterreich,Steiermark,
+AT221,Austria,Südösterreich,Steiermark,Graz
+AT222,Austria,Südösterreich,Steiermark,Liezen
+AT223,Austria,Südösterreich,Steiermark,Östliche Obersteiermark
+AT224,Austria,Südösterreich,Steiermark,Oststeiermark
+AT225,Austria,Südösterreich,Steiermark,West- und Südsteiermark
+AT226,Austria,Südösterreich,Steiermark,Westliche Obersteiermark
 AT3,Austria,Westösterreich,,
-AT31,,,Oberösterreich,
-AT311,,,,Innviertel
-AT312,,,,Linz-Wels
-AT313,,,,Mühlviertel
-AT314,,,,Steyr-Kirchdorf
-AT315,,,,Traunviertel
-AT32,,,Salzburg,
-AT321,,,,Lungau
-AT322,,,,Pinzgau-Pongau
-AT323,,,,Salzburg und Umgebung
-AT33,,,Tirol,
-AT331,,,,Außerfern
-AT332,,,,Innsbruck
-AT333,,,,Osttirol
-AT334,,,,Tiroler Oberland
-AT335,,,,Tiroler Unterland
-AT34,,,Vorarlberg,
-AT341,,,,Bludenz-Bregenzer Wald
-AT342,,,,Rheintal-Bodenseegebiet
+AT31,Austria,Westösterreich,Oberösterreich,
+AT311,Austria,Westösterreich,Oberösterreich,Innviertel
+AT312,Austria,Westösterreich,Oberösterreich,Linz-Wels
+AT313,Austria,Westösterreich,Oberösterreich,Mühlviertel
+AT314,Austria,Westösterreich,Oberösterreich,Steyr-Kirchdorf
+AT315,Austria,Westösterreich,Oberösterreich,Traunviertel
+AT32,Austria,Westösterreich,Salzburg,
+AT321,Austria,Westösterreich,Salzburg,Lungau
+AT322,Austria,Westösterreich,Salzburg,Pinzgau-Pongau
+AT323,Austria,Westösterreich,Salzburg,Salzburg und Umgebung
+AT33,Austria,Westösterreich,Tirol,
+AT331,Austria,Westösterreich,Tirol,Außerfern
+AT332,Austria,Westösterreich,Tirol,Innsbruck
+AT333,Austria,Westösterreich,Tirol,Osttirol
+AT334,Austria,Westösterreich,Tirol,Tiroler Oberland
+AT335,Austria,Westösterreich,Tirol,Tiroler Unterland
+AT34,Austria,Westösterreich,Vorarlberg,
+AT341,Austria,Westösterreich,Vorarlberg,Bludenz-Bregenzer Wald
+AT342,Austria,Westösterreich,Vorarlberg,Rheintal-Bodenseegebiet
 BA0,Bosnia And Herzegovina,Bosnia And Herzegovina,,
-BA00,,,Bosnia And Herzegovina,
-BA000,,,,Bosnia And Herzegovina
+BA00,Bosnia And Herzegovina,Bosnia And Herzegovina,Bosnia And Herzegovina,
+BA000,Bosnia And Herzegovina,Bosnia And Herzegovina,Bosnia And Herzegovina,Bosnia And Herzegovina
 BE1,Belgium,Région de Bruxelles-Capitale,,
-BE10,,,Région de Bruxelles-Capitale,
-BE100,,,,Région de Bruxelles-Capitale
+BE10,Belgium,Région de Bruxelles-Capitale,Région de Bruxelles-Capitale,
+BE100,Belgium,Région de Bruxelles-Capitale,Région de Bruxelles-Capitale,Région de Bruxelles-Capitale
 BE2,Belgium,Vlaams Gewest,,
-BE21,,,Prov. Antwerpen,
-BE211,,,,Arr. Antwerpen
-BE212,,,,Arr. Mechelen
-BE213,,,,Arr. Turnhout
-BE22,,,Prov. Limburg (BE),
-BE223,,,,Arr. Tongeren
-BE224,,,,Arr. Hasselt
-BE225,,,,Arr. Maaseik
-BE23,,,Prov. Oost-Vlaanderen,
-BE231,,,,Arr. Aalst
-BE232,,,,Arr. Dendermonde
-BE233,,,,Arr. Eeklo
-BE234,,,,Arr. Gent
-BE235,,,,Arr. Oudenaarde
-BE236,,,,Arr. Sint-Niklaas
-BE24,,,Prov. Vlaams-Brabant,
-BE241,,,,Arr. Halle-Vilvoorde
-BE242,,,,Arr. Leuven
-BE25,,,Prov. West-Vlaanderen,
-BE251,,,,Arr. Brugge
-BE252,,,,Arr. Diksmuide
-BE253,,,,Arr. Ieper
-BE254,,,,Arr. Kortrijk
-BE255,,,,Arr. Oostende
-BE256,,,,Arr. Roeselare
-BE257,,,,Arr. Tielt
-BE258,,,,Arr. Veurne
+BE21,Belgium,Vlaams Gewest,Prov. Antwerpen,
+BE211,Belgium,Vlaams Gewest,Prov. Antwerpen,Arr. Antwerpen
+BE212,Belgium,Vlaams Gewest,Prov. Antwerpen,Arr. Mechelen
+BE213,Belgium,Vlaams Gewest,Prov. Antwerpen,Arr. Turnhout
+BE22,Belgium,Vlaams Gewest,Prov. Limburg (BE),
+BE223,Belgium,Vlaams Gewest,Prov. Limburg (BE),Arr. Tongeren
+BE224,Belgium,Vlaams Gewest,Prov. Limburg (BE),Arr. Hasselt
+BE225,Belgium,Vlaams Gewest,Prov. Limburg (BE),Arr. Maaseik
+BE23,Belgium,Vlaams Gewest,Prov. Oost-Vlaanderen,
+BE231,Belgium,Vlaams Gewest,Prov. Oost-Vlaanderen,Arr. Aalst
+BE232,Belgium,Vlaams Gewest,Prov. Oost-Vlaanderen,Arr. Dendermonde
+BE233,Belgium,Vlaams Gewest,Prov. Oost-Vlaanderen,Arr. Eeklo
+BE234,Belgium,Vlaams Gewest,Prov. Oost-Vlaanderen,Arr. Gent
+BE235,Belgium,Vlaams Gewest,Prov. Oost-Vlaanderen,Arr. Oudenaarde
+BE236,Belgium,Vlaams Gewest,Prov. Oost-Vlaanderen,Arr. Sint-Niklaas
+BE24,Belgium,Vlaams Gewest,Prov. Vlaams-Brabant,
+BE241,Belgium,Vlaams Gewest,Prov. Vlaams-Brabant,Arr. Halle-Vilvoorde
+BE242,Belgium,Vlaams Gewest,Prov. Vlaams-Brabant,Arr. Leuven
+BE25,Belgium,Vlaams Gewest,Prov. West-Vlaanderen,
+BE251,Belgium,Vlaams Gewest,Prov. West-Vlaanderen,Arr. Brugge
+BE252,Belgium,Vlaams Gewest,Prov. West-Vlaanderen,Arr. Diksmuide
+BE253,Belgium,Vlaams Gewest,Prov. West-Vlaanderen,Arr. Ieper
+BE254,Belgium,Vlaams Gewest,Prov. West-Vlaanderen,Arr. Kortrijk
+BE255,Belgium,Vlaams Gewest,Prov. West-Vlaanderen,Arr. Oostende
+BE256,Belgium,Vlaams Gewest,Prov. West-Vlaanderen,Arr. Roeselare
+BE257,Belgium,Vlaams Gewest,Prov. West-Vlaanderen,Arr. Tielt
+BE258,Belgium,Vlaams Gewest,Prov. West-Vlaanderen,Arr. Veurne
 BE3,Belgium,Région wallonne,,
-BE31,,,Prov. Brabant Wallon,
-BE310,,,,Arr. Nivelles
-BE32,,,Prov. Hainaut,
-BE323,,,,Arr. Mons
-BE32A,,,,Arr. Ath
-BE32B,,,,Arr. Charleroi
-BE32C,,,,Arr. Soignies
-BE32D,,,,Arr. Thuin
-BE33,,,Prov. Liège,
-BE331,,,,Arr. Huy
-BE332,,,,Arr. Liège
-BE334,,,,Arr. Waremme
-BE335,,,,Arr. Verviers — communes francophones
-BE336,,,,Bezirk Verviers — Deutschsprachige Gemeinschaft
-BE34,,,Prov. Luxembourg (BE),
-BE341,,,,Arr. Arlon
-BE342,,,,Arr. Bastogne
-BE343,,,,Arr. Marche-en-Famenne
-BE344,,,,Arr. Neufchâteau
-BE345,,,,Arr. Virton
-BE35,,,Prov. Namur,
-BE351,,,,Arr. Dinant
-BE352,,,,Arr. Namur
-BE353,,,,Arr. Philippeville
+BE31,Belgium,Région wallonne,Prov. Brabant Wallon,
+BE310,Belgium,Région wallonne,Prov. Brabant Wallon,Arr. Nivelles
+BE32,Belgium,Région wallonne,Prov. Hainaut,
+BE323,Belgium,Région wallonne,Prov. Hainaut,Arr. Mons
+BE32A,Belgium,Région wallonne,Prov. Hainaut,Arr. Ath
+BE32B,Belgium,Région wallonne,Prov. Hainaut,Arr. Charleroi
+BE32C,Belgium,Région wallonne,Prov. Hainaut,Arr. Soignies
+BE32D,Belgium,Région wallonne,Prov. Hainaut,Arr. Thuin
+BE33,Belgium,Région wallonne,Prov. Liège,
+BE331,Belgium,Région wallonne,Prov. Liège,Arr. Huy
+BE332,Belgium,Région wallonne,Prov. Liège,Arr. Liège
+BE334,Belgium,Région wallonne,Prov. Liège,Arr. Waremme
+BE335,Belgium,Région wallonne,Prov. Liège,Arr. Verviers — communes francophones
+BE336,Belgium,Région wallonne,Prov. Liège,Bezirk Verviers — Deutschsprachige Gemeinschaft
+BE34,Belgium,Région wallonne,Prov. Luxembourg (BE),
+BE341,Belgium,Région wallonne,Prov. Luxembourg (BE),Arr. Arlon
+BE342,Belgium,Région wallonne,Prov. Luxembourg (BE),Arr. Bastogne
+BE343,Belgium,Région wallonne,Prov. Luxembourg (BE),Arr. Marche-en-Famenne
+BE344,Belgium,Région wallonne,Prov. Luxembourg (BE),Arr. Neufchâteau
+BE345,Belgium,Région wallonne,Prov. Luxembourg (BE),Arr. Virton
+BE35,Belgium,Région wallonne,Prov. Namur,
+BE351,Belgium,Région wallonne,Prov. Namur,Arr. Dinant
+BE352,Belgium,Région wallonne,Prov. Namur,Arr. Namur
+BE353,Belgium,Région wallonne,Prov. Namur,Arr. Philippeville
 BG3,Bulgaria,North and Southeast Bulgaria,,
-BG31,,,Northwest,
-BG311,,,,Vidin
-BG312,,,,Montana
-BG313,,,,Vratsa
-BG314,,,,Pleven
-BG315,,,,Lovech
-BG32,,,North Central,
-BG321,,,,Veliko Tarnovo
-BG322,,,,Gabrovo
-BG323,,,,ruse
-BG324,,,,Razgrad
-BG325,,,,Silistra
-BG33,,,Northeast,
-BG331,,,,Varna
-BG332,,,,Dobrich
-BG333,,,,Shumen
-BG334,,,,Targovishte
-BG34,,,Southeast,
-BG341,,,,Burgas
-BG342,,,,Sliven
-BG343,,,,Yambol
-BG344,,,,Stara Zagora
+BG31,Bulgaria,North and Southeast Bulgaria,Northwest,
+BG311,Bulgaria,North and Southeast Bulgaria,Northwest,Vidin
+BG312,Bulgaria,North and Southeast Bulgaria,Northwest,Montana
+BG313,Bulgaria,North and Southeast Bulgaria,Northwest,Vratsa
+BG314,Bulgaria,North and Southeast Bulgaria,Northwest,Pleven
+BG315,Bulgaria,North and Southeast Bulgaria,Northwest,Lovech
+BG32,Bulgaria,North and Southeast Bulgaria,North Central,
+BG321,Bulgaria,North and Southeast Bulgaria,North Central,Veliko Tarnovo
+BG322,Bulgaria,North and Southeast Bulgaria,North Central,Gabrovo
+BG323,Bulgaria,North and Southeast Bulgaria,North Central,ruse
+BG324,Bulgaria,North and Southeast Bulgaria,North Central,Razgrad
+BG325,Bulgaria,North and Southeast Bulgaria,North Central,Silistra
+BG33,Bulgaria,North and Southeast Bulgaria,Northeast,
+BG331,Bulgaria,North and Southeast Bulgaria,Northeast,Varna
+BG332,Bulgaria,North and Southeast Bulgaria,Northeast,Dobrich
+BG333,Bulgaria,North and Southeast Bulgaria,Northeast,Shumen
+BG334,Bulgaria,North and Southeast Bulgaria,Northeast,Targovishte
+BG34,Bulgaria,North and Southeast Bulgaria,Southeast,
+BG341,Bulgaria,North and Southeast Bulgaria,Southeast,Burgas
+BG342,Bulgaria,North and Southeast Bulgaria,Southeast,Sliven
+BG343,Bulgaria,North and Southeast Bulgaria,Southeast,Yambol
+BG344,Bulgaria,North and Southeast Bulgaria,Southeast,Stara Zagora
 BG4,Bulgaria,Southwest and South Central Bulgaria,,
-BG41,,,Southwestern,
-BG411,,,,Sofia (capital)
-BG412,,,,Sofia
-BG413,,,,Blagoevgrad
-BG414,,,,Gingerbread
-BG415,,,,Kyustendil
-BG42,,,South central,
-BG421,,,,Plovdiv
-BG422,,,,Haskovo
-BG423,,,,Pazardzhik
-BG424,,,,Smolyan
-BG425,,,,Kardzhali
+BG41,Bulgaria,Southwest and South Central Bulgaria,Southwestern,
+BG411,Bulgaria,Southwest and South Central Bulgaria,Southwestern,Sofia (capital)
+BG412,Bulgaria,Southwest and South Central Bulgaria,Southwestern,Sofia
+BG413,Bulgaria,Southwest and South Central Bulgaria,Southwestern,Blagoevgrad
+BG414,Bulgaria,Southwest and South Central Bulgaria,Southwestern,Gingerbread
+BG415,Bulgaria,Southwest and South Central Bulgaria,Southwestern,Kyustendil
+BG42,Bulgaria,Southwest and South Central Bulgaria,South central,
+BG421,Bulgaria,Southwest and South Central Bulgaria,South central,Plovdiv
+BG422,Bulgaria,Southwest and South Central Bulgaria,South central,Haskovo
+BG423,Bulgaria,Southwest and South Central Bulgaria,South central,Pazardzhik
+BG424,Bulgaria,Southwest and South Central Bulgaria,South central,Smolyan
+BG425,Bulgaria,Southwest and South Central Bulgaria,South central,Kardzhali
 CH0,Switzerland,Switzerland,,
-CH01,,,Région lémanique,
-CH011,,,,Vaud
-CH012,,,,Valais
-CH013,,,,Genève
-CH02,,,Espace Mittelland,
-CH021,,,,Bern
-CH022,,,,Freiburg
-CH023,,,,Solothurn
-CH024,,,,Neuchâtel
-CH025,,,,Jura
-CH03,,,Nordwestschweiz,
-CH031,,,,Basel-Stadt
-CH032,,,,Basel-Landschaft
-CH033,,,,Aargau
-CH04,,,Zürich,
-CH040,,,,
-CH05,,,Ostschweiz,
-CH051,,,,Glarus
-CH052,,,,Schaffhausen
-CH053,,,,Appenzell Ausserrhoden
-CH054,,,,Appenzell Innerrhoden
-CH055,,,,St. Gallen
-CH056,,,,Graubünden
-CH057,,,,Thurgau
-CH06,,,Zentralschweiz,
-CH061,,,,Luzern
-CH062,,,,Uri
-CH063,,,,Schwyz
-CH064,,,,Obwalden
-CH065,,,,Nidwalden
-CH066,,,,Zug
-CH07,,,Ticino,
-CH070,,,,
+CH01,Switzerland,Switzerland,Région lémanique,
+CH011,Switzerland,Switzerland,Région lémanique,Vaud
+CH012,Switzerland,Switzerland,Région lémanique,Valais
+CH013,Switzerland,Switzerland,Région lémanique,Genève
+CH02,Switzerland,Switzerland,Espace Mittelland,
+CH021,Switzerland,Switzerland,Espace Mittelland,Bern
+CH022,Switzerland,Switzerland,Espace Mittelland,Freiburg
+CH023,Switzerland,Switzerland,Espace Mittelland,Solothurn
+CH024,Switzerland,Switzerland,Espace Mittelland,Neuchâtel
+CH025,Switzerland,Switzerland,Espace Mittelland,Jura
+CH03,Switzerland,Switzerland,Nordwestschweiz,
+CH031,Switzerland,Switzerland,Nordwestschweiz,Basel-Stadt
+CH032,Switzerland,Switzerland,Nordwestschweiz,Basel-Landschaft
+CH033,Switzerland,Switzerland,Nordwestschweiz,Aargau
+CH04,Switzerland,Switzerland,Zürich,
+CH040,Switzerland,Switzerland,Zürich,Zürich
+CH05,Switzerland,Switzerland,Ostschweiz,
+CH051,Switzerland,Switzerland,Ostschweiz,Glarus
+CH052,Switzerland,Switzerland,Ostschweiz,Schaffhausen
+CH053,Switzerland,Switzerland,Ostschweiz,Appenzell Ausserrhoden
+CH054,Switzerland,Switzerland,Ostschweiz,Appenzell Innerrhoden
+CH055,Switzerland,Switzerland,Ostschweiz,St. Gallen
+CH056,Switzerland,Switzerland,Ostschweiz,Graubünden
+CH057,Switzerland,Switzerland,Ostschweiz,Thurgau
+CH06,Switzerland,Switzerland,Zentralschweiz,
+CH061,Switzerland,Switzerland,Zentralschweiz,Luzern
+CH062,Switzerland,Switzerland,Zentralschweiz,Uri
+CH063,Switzerland,Switzerland,Zentralschweiz,Schwyz
+CH064,Switzerland,Switzerland,Zentralschweiz,Obwalden
+CH065,Switzerland,Switzerland,Zentralschweiz,Nidwalden
+CH066,Switzerland,Switzerland,Zentralschweiz,Zug
+CH07,Switzerland,Switzerland,Ticino,
+CH070,Switzerland,Switzerland,Ticino,Ticino
 CY0,Cyprus,Cyprus,,
-CY00,,,Cyprus,
-CY000,,,,Cyprus
+CY00,Cyprus,Cyprus,Cyprus,
+CY000,Cyprus,Cyprus,Cyprus,Cyprus
 CZ0,Czech Republic,Czech Republic,,
-CZ01,,,Prague,
-CZ010,,,,Capital City of Prague
-CZ02,,,Middle Bohemia,
-CZ020,,,,Central Bohemian Region
-CZ03,,,Southwest,
-CZ031,,,,South Bohemian Region
-CZ032,,,,Pilsen Region
-CZ04,,,Northwest,
-CZ041,,,,Karlovy Vary Region
-CZ042,,,,Usti Region
-CZ05,,,Northeast,
-CZ051,,,,Liberec region
-CZ052,,,,Hradec Kralove region
-CZ053,,,,Pardubice Region
-CZ06,,,Southeast,
-CZ063,,,,Highlands region
-CZ064,,,,South-Moravian region
-CZ07,,,Central Moravia,
-CZ071,,,,Olomouc region
-CZ072,,,,Zlín Region
-CZ08,,,Moravskoslezsko,
-CZ080,,,,Moravian-Silesian Region
+CZ01,Czech Republic,Czech Republic,Prague,
+CZ010,Czech Republic,Czech Republic,Prague,Capital City of Prague
+CZ02,Czech Republic,Czech Republic,Middle Bohemia,
+CZ020,Czech Republic,Czech Republic,Middle Bohemia,Central Bohemian Region
+CZ03,Czech Republic,Czech Republic,Southwest,
+CZ031,Czech Republic,Czech Republic,Southwest,South Bohemian Region
+CZ032,Czech Republic,Czech Republic,Southwest,Pilsen Region
+CZ04,Czech Republic,Czech Republic,Northwest,
+CZ041,Czech Republic,Czech Republic,Northwest,Karlovy Vary Region
+CZ042,Czech Republic,Czech Republic,Northwest,Usti Region
+CZ05,Czech Republic,Czech Republic,Northeast,
+CZ051,Czech Republic,Czech Republic,Northeast,Liberec region
+CZ052,Czech Republic,Czech Republic,Northeast,Hradec Kralove region
+CZ053,Czech Republic,Czech Republic,Northeast,Pardubice Region
+CZ06,Czech Republic,Czech Republic,Southeast,
+CZ063,Czech Republic,Czech Republic,Southeast,Highlands region
+CZ064,Czech Republic,Czech Republic,Southeast,South-Moravian region
+CZ07,Czech Republic,Czech Republic,Central Moravia,
+CZ071,Czech Republic,Czech Republic,Central Moravia,Olomouc region
+CZ072,Czech Republic,Czech Republic,Central Moravia,Zlín Region
+CZ08,Czech Republic,Czech Republic,Moravskoslezsko,
+CZ080,Czech Republic,Czech Republic,Moravskoslezsko,Moravian-Silesian Region
 DE1,Germany,Baden-Württemberg,,
-DE11,,,Stuttgart,
-DE111,,,,"Stuttgart, Stadtkreis"
-DE112,,,,Böblingen
-DE113,,,,Esslingen
-DE114,,,,Göppingen
-DE115,,,,Ludwigsburg
-DE116,,,,Rems-Murr-Kreis
-DE117,,,,"Heilbronn, Stadtkreis"
-DE118,,,,"Heilbronn, Landkreis"
-DE119,,,,Hohenlohekreis
-DE11A,,,,Schwäbisch Hall
-DE11B,,,,Main-Tauber-Kreis
-DE11C,,,,Heidenheim
-DE11D,,,,Ostalbkreis
-DE12,,,Karlsruhe,
-DE121,,,,"Baden-Baden, Stadtkreis"
-DE122,,,,"Karlsruhe, Stadtkreis"
-DE123,,,,"Karlsruhe, Landkreis"
-DE124,,,,Rastatt
-DE125,,,,"Heidelberg, Stadtkreis"
-DE126,,,,"Mannheim, Stadtkreis"
-DE127,,,,Neckar-Odenwald-Kreis
-DE128,,,,Rhein-Neckar-Kreis
-DE129,,,,"Pforzheim, Stadtkreis"
-DE12A,,,,Calw
-DE12B,,,,Enzkreis
-DE12C,,,,Freudenstadt
-DE13,,,Freiburg,
-DE131,,,,"Freiburg im Breisgau, Stadtkreis"
-DE132,,,,Breisgau-Hochschwarzwald
-DE133,,,,Emmendingen
-DE134,,,,Ortenaukreis
-DE135,,,,Rottweil
-DE136,,,,Schwarzwald-Baar-Kreis
-DE137,,,,Tuttlingen
-DE138,,,,Konstanz
-DE139,,,,Lörrach
-DE13A,,,,Waldshut
-DE14,,,Tübingen,
-DE141,,,,Reutlingen
-DE142,,,,"Tübingen, Landkreis"
-DE143,,,,Zollernalbkreis
-DE144,,,,"Ulm, Stadtkreis"
-DE145,,,,Alb-Donau-Kreis
-DE146,,,,Biberach
-DE147,,,,Bodenseekreis
-DE148,,,,Ravensburg
-DE149,,,,Sigmaringen
+DE11,Germany,Baden-Württemberg,Stuttgart,
+DE111,Germany,Baden-Württemberg,Stuttgart,"Stuttgart, Stadtkreis"
+DE112,Germany,Baden-Württemberg,Stuttgart,Böblingen
+DE113,Germany,Baden-Württemberg,Stuttgart,Esslingen
+DE114,Germany,Baden-Württemberg,Stuttgart,Göppingen
+DE115,Germany,Baden-Württemberg,Stuttgart,Ludwigsburg
+DE116,Germany,Baden-Württemberg,Stuttgart,Rems-Murr-Kreis
+DE117,Germany,Baden-Württemberg,Stuttgart,"Heilbronn, Stadtkreis"
+DE118,Germany,Baden-Württemberg,Stuttgart,"Heilbronn, Landkreis"
+DE119,Germany,Baden-Württemberg,Stuttgart,Hohenlohekreis
+DE11A,Germany,Baden-Württemberg,Stuttgart,Schwäbisch Hall
+DE11B,Germany,Baden-Württemberg,Stuttgart,Main-Tauber-Kreis
+DE11C,Germany,Baden-Württemberg,Stuttgart,Heidenheim
+DE11D,Germany,Baden-Württemberg,Stuttgart,Ostalbkreis
+DE12,Germany,Baden-Württemberg,Karlsruhe,
+DE121,Germany,Baden-Württemberg,Karlsruhe,"Baden-Baden, Stadtkreis"
+DE122,Germany,Baden-Württemberg,Karlsruhe,"Karlsruhe, Stadtkreis"
+DE123,Germany,Baden-Württemberg,Karlsruhe,"Karlsruhe, Landkreis"
+DE124,Germany,Baden-Württemberg,Karlsruhe,Rastatt
+DE125,Germany,Baden-Württemberg,Karlsruhe,"Heidelberg, Stadtkreis"
+DE126,Germany,Baden-Württemberg,Karlsruhe,"Mannheim, Stadtkreis"
+DE127,Germany,Baden-Württemberg,Karlsruhe,Neckar-Odenwald-Kreis
+DE128,Germany,Baden-Württemberg,Karlsruhe,Rhein-Neckar-Kreis
+DE129,Germany,Baden-Württemberg,Karlsruhe,"Pforzheim, Stadtkreis"
+DE12A,Germany,Baden-Württemberg,Karlsruhe,Calw
+DE12B,Germany,Baden-Württemberg,Karlsruhe,Enzkreis
+DE12C,Germany,Baden-Württemberg,Karlsruhe,Freudenstadt
+DE13,Germany,Baden-Württemberg,Freiburg,
+DE131,Germany,Baden-Württemberg,Freiburg,"Freiburg im Breisgau, Stadtkreis"
+DE132,Germany,Baden-Württemberg,Freiburg,Breisgau-Hochschwarzwald
+DE133,Germany,Baden-Württemberg,Freiburg,Emmendingen
+DE134,Germany,Baden-Württemberg,Freiburg,Ortenaukreis
+DE135,Germany,Baden-Württemberg,Freiburg,Rottweil
+DE136,Germany,Baden-Württemberg,Freiburg,Schwarzwald-Baar-Kreis
+DE137,Germany,Baden-Württemberg,Freiburg,Tuttlingen
+DE138,Germany,Baden-Württemberg,Freiburg,Konstanz
+DE139,Germany,Baden-Württemberg,Freiburg,Lörrach
+DE13A,Germany,Baden-Württemberg,Freiburg,Waldshut
+DE14,Germany,Baden-Württemberg,Tübingen,
+DE141,Germany,Baden-Württemberg,Tübingen,Reutlingen
+DE142,Germany,Baden-Württemberg,Tübingen,"Tübingen, Landkreis"
+DE143,Germany,Baden-Württemberg,Tübingen,Zollernalbkreis
+DE144,Germany,Baden-Württemberg,Tübingen,"Ulm, Stadtkreis"
+DE145,Germany,Baden-Württemberg,Tübingen,Alb-Donau-Kreis
+DE146,Germany,Baden-Württemberg,Tübingen,Biberach
+DE147,Germany,Baden-Württemberg,Tübingen,Bodenseekreis
+DE148,Germany,Baden-Württemberg,Tübingen,Ravensburg
+DE149,Germany,Baden-Württemberg,Tübingen,Sigmaringen
 DE2,Germany,Bayern,,
-DE21,,,Oberbayern,
-DE211,,,,"Ingolstadt, Kreisfreie Stadt"
-DE212,,,,"München, Kreisfreie Stadt"
-DE213,,,,"Rosenheim, Kreisfreie Stadt"
-DE214,,,,Altötting
-DE215,,,,Berchtesgadener Land
-DE216,,,,Bad Tölz-Wolfratshausen
-DE217,,,,Dachau
-DE218,,,,Ebersberg
-DE219,,,,Eichstätt
-DE21A,,,,Erding
-DE21B,,,,Freising
-DE21C,,,,Fürstenfeldbruck
-DE21D,,,,Garmisch-Partenkirchen
-DE21E,,,,Landsberg am Lech
-DE21F,,,,Miesbach
-DE21G,,,,Mühldorf a. Inn
-DE21H,,,,"München, Landkreis"
-DE21I,,,,Neuburg-Schrobenhausen
-DE21J,,,,Pfaffenhofen a. d. Ilm
-DE21K,,,,"Rosenheim, Landkreis"
-DE21L,,,,Starnberg
-DE21M,,,,Traunstein
-DE21N,,,,Weilheim-Schongau
-DE22,,,Niederbayern,
-DE221,,,,"Landshut, Kreisfreie Stadt"
-DE222,,,,"Passau, Kreisfreie Stadt"
-DE223,,,,"Straubing, Kreisfreie Stadt"
-DE224,,,,Deggendorf
-DE225,,,,Freyung-Grafenau
-DE226,,,,Kelheim
-DE227,,,,"Landshut, Landkreis"
-DE228,,,,"Passau, Landkreis"
-DE229,,,,Regen
-DE22A,,,,Rottal-Inn
-DE22B,,,,Straubing-Bogen
-DE22C,,,,Dingolfing-Landau
-DE23,,,Oberpfalz,
-DE231,,,,"Amberg, Kreisfreie Stadt"
-DE232,,,,"Regensburg, Kreisfreie Stadt"
-DE233,,,,"Weiden i. d. Opf, Kreisfreie Stadt"
-DE234,,,,Amberg-Sulzbach
-DE235,,,,Cham
-DE236,,,,Neumarkt i. d. OPf.
-DE237,,,,Neustadt a. d. Waldnaab
-DE238,,,,"Regensburg, Landkreis"
-DE239,,,,Schwandorf
-DE23A,,,,Tirschenreuth
-DE24,,,Oberfranken,
-DE241,,,,"Bamberg, Kreisfreie Stadt"
-DE242,,,,"Bayreuth, Kreisfreie Stadt"
-DE243,,,,"Coburg, Kreisfreie Stadt"
-DE244,,,,"Hof, Kreisfreie Stadt"
-DE245,,,,"Bamberg, Landkreis"
-DE246,,,,"Bayreuth, Landkreis"
-DE247,,,,"Coburg, Landkreis"
-DE248,,,,Forchheim
-DE249,,,,"Hof, Landkreis"
-DE24A,,,,Kronach
-DE24B,,,,Kulmbach
-DE24C,,,,Lichtenfels
-DE24D,,,,Wunsiedel i. Fichtelgebirge
-DE25,,,Mittelfranken,
-DE251,,,,"Ansbach, Kreisfreie Stadt"
-DE252,,,,"Erlangen, Kreisfreie Stadt"
-DE253,,,,"Fürth, Kreisfreie Stadt"
-DE254,,,,"Nürnberg, Kreisfreie Stadt"
-DE255,,,,"Schwabach, Kreisfreie Stadt"
-DE256,,,,"Ansbach, Landkreis"
-DE257,,,,Erlangen-Höchstadt
-DE258,,,,"Fürth, Landkreis"
-DE259,,,,Nürnberger Land
-DE25A,,,,Neustadt a. d. Aisch-Bad Windsheim
-DE25B,,,,Roth
-DE25C,,,,Weißenburg-Gunzenhausen
-DE26,,,Unterfranken,
-DE261,,,,"Aschaffenburg, Kreisfreie Stadt"
-DE262,,,,"Schweinfurt, Kreisfreie Stadt"
-DE263,,,,"Würzburg, Kreisfreie Stadt"
-DE264,,,,"Aschaffenburg, Landkreis"
-DE265,,,,Bad Kissingen
-DE266,,,,Rhön-Grabfeld
-DE267,,,,Haßberge
-DE268,,,,Kitzingen
-DE269,,,,Miltenberg
-DE26A,,,,Main-Spessart
-DE26B,,,,"Schweinfurt, Landkreis"
-DE26C,,,,"Würzburg, Landkreis"
-DE27,,,Schwaben,
-DE271,,,,"Augsburg, Kreisfreie Stadt"
-DE272,,,,"Kaufbeuren, Kreisfreie Stadt"
-DE273,,,,"Kempten (Allgäu), Kreisfreie Stadt"
-DE274,,,,"Memmingen, Kreisfreie Stadt"
-DE275,,,,Aichach-Friedberg
-DE276,,,,"Augsburg, Landkreis"
-DE277,,,,Dillingen a.d. Donau
-DE278,,,,Günzburg
-DE279,,,,Neu-Ulm
-DE27A,,,,Lindau (Bodensee)
-DE27B,,,,Ostallgäu
-DE27C,,,,Unterallgäu
-DE27D,,,,Donau-Ries
-DE27E,,,,Oberallgäu
+DE21,Germany,Bayern,Oberbayern,
+DE211,Germany,Bayern,Oberbayern,"Ingolstadt, Kreisfreie Stadt"
+DE212,Germany,Bayern,Oberbayern,"München, Kreisfreie Stadt"
+DE213,Germany,Bayern,Oberbayern,"Rosenheim, Kreisfreie Stadt"
+DE214,Germany,Bayern,Oberbayern,Altötting
+DE215,Germany,Bayern,Oberbayern,Berchtesgadener Land
+DE216,Germany,Bayern,Oberbayern,Bad Tölz-Wolfratshausen
+DE217,Germany,Bayern,Oberbayern,Dachau
+DE218,Germany,Bayern,Oberbayern,Ebersberg
+DE219,Germany,Bayern,Oberbayern,Eichstätt
+DE21A,Germany,Bayern,Oberbayern,Erding
+DE21B,Germany,Bayern,Oberbayern,Freising
+DE21C,Germany,Bayern,Oberbayern,Fürstenfeldbruck
+DE21D,Germany,Bayern,Oberbayern,Garmisch-Partenkirchen
+DE21E,Germany,Bayern,Oberbayern,Landsberg am Lech
+DE21F,Germany,Bayern,Oberbayern,Miesbach
+DE21G,Germany,Bayern,Oberbayern,Mühldorf a. Inn
+DE21H,Germany,Bayern,Oberbayern,"München, Landkreis"
+DE21I,Germany,Bayern,Oberbayern,Neuburg-Schrobenhausen
+DE21J,Germany,Bayern,Oberbayern,Pfaffenhofen a. d. Ilm
+DE21K,Germany,Bayern,Oberbayern,"Rosenheim, Landkreis"
+DE21L,Germany,Bayern,Oberbayern,Starnberg
+DE21M,Germany,Bayern,Oberbayern,Traunstein
+DE21N,Germany,Bayern,Oberbayern,Weilheim-Schongau
+DE22,Germany,Bayern,Niederbayern,
+DE221,Germany,Bayern,Niederbayern,"Landshut, Kreisfreie Stadt"
+DE222,Germany,Bayern,Niederbayern,"Passau, Kreisfreie Stadt"
+DE223,Germany,Bayern,Niederbayern,"Straubing, Kreisfreie Stadt"
+DE224,Germany,Bayern,Niederbayern,Deggendorf
+DE225,Germany,Bayern,Niederbayern,Freyung-Grafenau
+DE226,Germany,Bayern,Niederbayern,Kelheim
+DE227,Germany,Bayern,Niederbayern,"Landshut, Landkreis"
+DE228,Germany,Bayern,Niederbayern,"Passau, Landkreis"
+DE229,Germany,Bayern,Niederbayern,Regen
+DE22A,Germany,Bayern,Niederbayern,Rottal-Inn
+DE22B,Germany,Bayern,Niederbayern,Straubing-Bogen
+DE22C,Germany,Bayern,Niederbayern,Dingolfing-Landau
+DE23,Germany,Bayern,Oberpfalz,
+DE231,Germany,Bayern,Oberpfalz,"Amberg, Kreisfreie Stadt"
+DE232,Germany,Bayern,Oberpfalz,"Regensburg, Kreisfreie Stadt"
+DE233,Germany,Bayern,Oberpfalz,"Weiden i. d. Opf, Kreisfreie Stadt"
+DE234,Germany,Bayern,Oberpfalz,Amberg-Sulzbach
+DE235,Germany,Bayern,Oberpfalz,Cham
+DE236,Germany,Bayern,Oberpfalz,Neumarkt i. d. OPf.
+DE237,Germany,Bayern,Oberpfalz,Neustadt a. d. Waldnaab
+DE238,Germany,Bayern,Oberpfalz,"Regensburg, Landkreis"
+DE239,Germany,Bayern,Oberpfalz,Schwandorf
+DE23A,Germany,Bayern,Oberpfalz,Tirschenreuth
+DE24,Germany,Bayern,Oberfranken,
+DE241,Germany,Bayern,Oberfranken,"Bamberg, Kreisfreie Stadt"
+DE242,Germany,Bayern,Oberfranken,"Bayreuth, Kreisfreie Stadt"
+DE243,Germany,Bayern,Oberfranken,"Coburg, Kreisfreie Stadt"
+DE244,Germany,Bayern,Oberfranken,"Hof, Kreisfreie Stadt"
+DE245,Germany,Bayern,Oberfranken,"Bamberg, Landkreis"
+DE246,Germany,Bayern,Oberfranken,"Bayreuth, Landkreis"
+DE247,Germany,Bayern,Oberfranken,"Coburg, Landkreis"
+DE248,Germany,Bayern,Oberfranken,Forchheim
+DE249,Germany,Bayern,Oberfranken,"Hof, Landkreis"
+DE24A,Germany,Bayern,Oberfranken,Kronach
+DE24B,Germany,Bayern,Oberfranken,Kulmbach
+DE24C,Germany,Bayern,Oberfranken,Lichtenfels
+DE24D,Germany,Bayern,Oberfranken,Wunsiedel i. Fichtelgebirge
+DE25,Germany,Bayern,Mittelfranken,
+DE251,Germany,Bayern,Mittelfranken,"Ansbach, Kreisfreie Stadt"
+DE252,Germany,Bayern,Mittelfranken,"Erlangen, Kreisfreie Stadt"
+DE253,Germany,Bayern,Mittelfranken,"Fürth, Kreisfreie Stadt"
+DE254,Germany,Bayern,Mittelfranken,"Nürnberg, Kreisfreie Stadt"
+DE255,Germany,Bayern,Mittelfranken,"Schwabach, Kreisfreie Stadt"
+DE256,Germany,Bayern,Mittelfranken,"Ansbach, Landkreis"
+DE257,Germany,Bayern,Mittelfranken,Erlangen-Höchstadt
+DE258,Germany,Bayern,Mittelfranken,"Fürth, Landkreis"
+DE259,Germany,Bayern,Mittelfranken,Nürnberger Land
+DE25A,Germany,Bayern,Mittelfranken,Neustadt a. d. Aisch-Bad Windsheim
+DE25B,Germany,Bayern,Mittelfranken,Roth
+DE25C,Germany,Bayern,Mittelfranken,Weißenburg-Gunzenhausen
+DE26,Germany,Bayern,Unterfranken,
+DE261,Germany,Bayern,Unterfranken,"Aschaffenburg, Kreisfreie Stadt"
+DE262,Germany,Bayern,Unterfranken,"Schweinfurt, Kreisfreie Stadt"
+DE263,Germany,Bayern,Unterfranken,"Würzburg, Kreisfreie Stadt"
+DE264,Germany,Bayern,Unterfranken,"Aschaffenburg, Landkreis"
+DE265,Germany,Bayern,Unterfranken,Bad Kissingen
+DE266,Germany,Bayern,Unterfranken,Rhön-Grabfeld
+DE267,Germany,Bayern,Unterfranken,Haßberge
+DE268,Germany,Bayern,Unterfranken,Kitzingen
+DE269,Germany,Bayern,Unterfranken,Miltenberg
+DE26A,Germany,Bayern,Unterfranken,Main-Spessart
+DE26B,Germany,Bayern,Unterfranken,"Schweinfurt, Landkreis"
+DE26C,Germany,Bayern,Unterfranken,"Würzburg, Landkreis"
+DE27,Germany,Bayern,Schwaben,
+DE271,Germany,Bayern,Schwaben,"Augsburg, Kreisfreie Stadt"
+DE272,Germany,Bayern,Schwaben,"Kaufbeuren, Kreisfreie Stadt"
+DE273,Germany,Bayern,Schwaben,"Kempten (Allgäu), Kreisfreie Stadt"
+DE274,Germany,Bayern,Schwaben,"Memmingen, Kreisfreie Stadt"
+DE275,Germany,Bayern,Schwaben,Aichach-Friedberg
+DE276,Germany,Bayern,Schwaben,"Augsburg, Landkreis"
+DE277,Germany,Bayern,Schwaben,Dillingen a.d. Donau
+DE278,Germany,Bayern,Schwaben,Günzburg
+DE279,Germany,Bayern,Schwaben,Neu-Ulm
+DE27A,Germany,Bayern,Schwaben,Lindau (Bodensee)
+DE27B,Germany,Bayern,Schwaben,Ostallgäu
+DE27C,Germany,Bayern,Schwaben,Unterallgäu
+DE27D,Germany,Bayern,Schwaben,Donau-Ries
+DE27E,Germany,Bayern,Schwaben,Oberallgäu
 DE3,Germany,Berlin,,
-DE30,,,Berlin,
-DE300,,,,Berlin
+DE30,Germany,Berlin,Berlin,
+DE300,Germany,Berlin,Berlin,Berlin
 DE4,Germany,Brandenburg,,
-DE40,,,Brandenburg,
-DE401,,,,"Brandenburg an der Havel, Kreisfreie Stadt"
-DE402,,,,"Cottbus, Kreisfreie Stadt"
-DE403,,,,"Frankfurt (Oder), Kreisfreie Stadt"
-DE404,,,,"Potsdam, Kreisfreie Stadt"
-DE405,,,,Barnim
-DE406,,,,Dahme-Spreewald
-DE407,,,,Elbe-Elster
-DE408,,,,Havelland
-DE409,,,,Märkisch-Oderland
-DE40A,,,,Oberhavel
-DE40B,,,,Oberspreewald-Lausitz
-DE40C,,,,Oder-Spree
-DE40D,,,,Ostprignitz-Ruppin
-DE40E,,,,Potsdam-Mittelmark
-DE40F,,,,Prignitz
-DE40G,,,,Spree-Neiße
-DE40H,,,,Teltow-Fläming
-DE40I,,,,Uckermark
+DE40,Germany,Brandenburg,Brandenburg,
+DE401,Germany,Brandenburg,Brandenburg,"Brandenburg an der Havel, Kreisfreie Stadt"
+DE402,Germany,Brandenburg,Brandenburg,"Cottbus, Kreisfreie Stadt"
+DE403,Germany,Brandenburg,Brandenburg,"Frankfurt (Oder), Kreisfreie Stadt"
+DE404,Germany,Brandenburg,Brandenburg,"Potsdam, Kreisfreie Stadt"
+DE405,Germany,Brandenburg,Brandenburg,Barnim
+DE406,Germany,Brandenburg,Brandenburg,Dahme-Spreewald
+DE407,Germany,Brandenburg,Brandenburg,Elbe-Elster
+DE408,Germany,Brandenburg,Brandenburg,Havelland
+DE409,Germany,Brandenburg,Brandenburg,Märkisch-Oderland
+DE40A,Germany,Brandenburg,Brandenburg,Oberhavel
+DE40B,Germany,Brandenburg,Brandenburg,Oberspreewald-Lausitz
+DE40C,Germany,Brandenburg,Brandenburg,Oder-Spree
+DE40D,Germany,Brandenburg,Brandenburg,Ostprignitz-Ruppin
+DE40E,Germany,Brandenburg,Brandenburg,Potsdam-Mittelmark
+DE40F,Germany,Brandenburg,Brandenburg,Prignitz
+DE40G,Germany,Brandenburg,Brandenburg,Spree-Neiße
+DE40H,Germany,Brandenburg,Brandenburg,Teltow-Fläming
+DE40I,Germany,Brandenburg,Brandenburg,Uckermark
 DE5,Germany,Bremen,,
-DE50,,,Bremen,
-DE501,,,,"Bremen, Kreisfreie Stadt"
-DE502,,,,"Bremerhaven, Kreisfreie Stadt"
+DE50,Germany,Bremen,Bremen,
+DE501,Germany,Bremen,Bremen,"Bremen, Kreisfreie Stadt"
+DE502,Germany,Bremen,Bremen,"Bremerhaven, Kreisfreie Stadt"
 DE6,Germany,Hamburg,,
-DE60,,,Hamburg,
-DE600,,,,Hamburg
+DE60,Germany,Hamburg,Hamburg,
+DE600,Germany,Hamburg,Hamburg,Hamburg
 DE7,Germany,Hessen,,
-DE71,,,Darmstadt,
-DE711,,,,"Darmstadt, Kreisfreie Stadt"
-DE712,,,,"Frankfurt am Main, Kreisfreie Stadt"
-DE713,,,,"Offenbach am Main, Kreisfreie Stadt"
-DE714,,,,"Wiesbaden, Kreisfreie Stadt"
-DE715,,,,Bergstraße
-DE716,,,,Darmstadt-Dieburg
-DE717,,,,Groß-Gerau
-DE718,,,,Hochtaunuskreis
-DE719,,,,Main-Kinzig-Kreis
-DE71A,,,,Main-Taunus-Kreis
-DE71B,,,,Odenwaldkreis
-DE71C,,,,"Offenbach, Landkreis"
-DE71D,,,,Rheingau-Taunus-Kreis
-DE71E,,,,Wetteraukreis
-DE72,,,Gießen,
-DE721,,,,"Gießen, Landkreis"
-DE722,,,,Lahn-Dill-Kreis
-DE723,,,,Limburg-Weilburg
-DE724,,,,Marburg-Biedenkopf
-DE725,,,,Vogelsbergkreis
-DE73,,,Kassel,
-DE731,,,,"Kassel, Kreisfreie Stadt"
-DE732,,,,Fulda
-DE733,,,,Hersfeld-Rotenburg
-DE734,,,,"Kassel, Landkreis"
-DE735,,,,Schwalm-Eder-Kreis
-DE736,,,,Waldeck-Frankenberg
-DE737,,,,Werra-Meißner-Kreis
+DE71,Germany,Hessen,Darmstadt,
+DE711,Germany,Hessen,Darmstadt,"Darmstadt, Kreisfreie Stadt"
+DE712,Germany,Hessen,Darmstadt,"Frankfurt am Main, Kreisfreie Stadt"
+DE713,Germany,Hessen,Darmstadt,"Offenbach am Main, Kreisfreie Stadt"
+DE714,Germany,Hessen,Darmstadt,"Wiesbaden, Kreisfreie Stadt"
+DE715,Germany,Hessen,Darmstadt,Bergstraße
+DE716,Germany,Hessen,Darmstadt,Darmstadt-Dieburg
+DE717,Germany,Hessen,Darmstadt,Groß-Gerau
+DE718,Germany,Hessen,Darmstadt,Hochtaunuskreis
+DE719,Germany,Hessen,Darmstadt,Main-Kinzig-Kreis
+DE71A,Germany,Hessen,Darmstadt,Main-Taunus-Kreis
+DE71B,Germany,Hessen,Darmstadt,Odenwaldkreis
+DE71C,Germany,Hessen,Darmstadt,"Offenbach, Landkreis"
+DE71D,Germany,Hessen,Darmstadt,Rheingau-Taunus-Kreis
+DE71E,Germany,Hessen,Darmstadt,Wetteraukreis
+DE72,Germany,Hessen,Gießen,
+DE721,Germany,Hessen,Gießen,"Gießen, Landkreis"
+DE722,Germany,Hessen,Gießen,Lahn-Dill-Kreis
+DE723,Germany,Hessen,Gießen,Limburg-Weilburg
+DE724,Germany,Hessen,Gießen,Marburg-Biedenkopf
+DE725,Germany,Hessen,Gießen,Vogelsbergkreis
+DE73,Germany,Hessen,Kassel,
+DE731,Germany,Hessen,Kassel,"Kassel, Kreisfreie Stadt"
+DE732,Germany,Hessen,Kassel,Fulda
+DE733,Germany,Hessen,Kassel,Hersfeld-Rotenburg
+DE734,Germany,Hessen,Kassel,"Kassel, Landkreis"
+DE735,Germany,Hessen,Kassel,Schwalm-Eder-Kreis
+DE736,Germany,Hessen,Kassel,Waldeck-Frankenberg
+DE737,Germany,Hessen,Kassel,Werra-Meißner-Kreis
 DE8,Germany,Mecklenburg-Vorpommern,,
-DE80,,,Mecklenburg-Vorpommern,
-DE803,,,,"Rostock, Kreisfreie Stadt"
-DE804,,,,"Schwerin, Kreisfreie Stadt"
-DE80J,,,,Mecklenburgische Seenplatte
-DE80K,,,,Landkreis Rostock
-DE80L,,,,Vorpommern-Rügen
-DE80M,,,,Nordwestmecklenburg
-DE80N,,,,Vorpommern-Greifswald
-DE80O,,,,Ludwigslust-Parchim
+DE80,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,
+DE803,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,"Rostock, Kreisfreie Stadt"
+DE804,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,"Schwerin, Kreisfreie Stadt"
+DE80J,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte
+DE80K,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Landkreis Rostock
+DE80L,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Vorpommern-Rügen
+DE80M,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Nordwestmecklenburg
+DE80N,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Vorpommern-Greifswald
+DE80O,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Ludwigslust-Parchim
 DE9,Germany,Niedersachsen,,
-DE91,,,Braunschweig,
-DE911,,,,"Braunschweig, Kreisfreie Stadt"
-DE912,,,,"Salzgitter, Kreisfreie Stadt"
-DE913,,,,"Wolfsburg, Kreisfreie Stadt"
-DE914,,,,Gifhorn
-DE916,,,,Goslar
-DE917,,,,Helmstedt
-DE918,,,,Northeim
-DE91A,,,,Peine
-DE91B,,,,Wolfenbüttel
-DE91C,,,,Göttingen
-DE92,,,Hannover,
-DE922,,,,Diepholz
-DE923,,,,Hameln-Pyrmont
-DE925,,,,Hildesheim
-DE926,,,,Holzminden
-DE927,,,,Nienburg (Weser)
-DE928,,,,Schaumburg
-DE929,,,,Region Hannover
-DE93,,,Lüneburg,
-DE931,,,,Celle
-DE932,,,,Cuxhaven
-DE933,,,,Harburg
-DE934,,,,Lüchow-Dannenberg
-DE935,,,,"Lüneburg, Landkreis"
-DE936,,,,Osterholz
-DE937,,,,Rotenburg (Wümme)
-DE938,,,,Heidekreis
-DE939,,,,Stade
-DE93A,,,,Uelzen
-DE93B,,,,Verden
-DE94,,,Weser-Ems,
-DE941,,,,"Delmenhorst, Kreisfreie Stadt"
-DE942,,,,"Emden, Kreisfreie Stadt"
-DE943,,,,"Oldenburg (Oldenburg), Kreisfreie Stadt"
-DE944,,,,"Osnabrück, Kreisfreie Stadt"
-DE945,,,,"Wilhelmshaven, Kreisfreie Stadt"
-DE946,,,,Ammerland
-DE947,,,,Aurich
-DE948,,,,Cloppenburg
-DE949,,,,Emsland
-DE94A,,,,Friesland (DE)
-DE94B,,,,Grafschaft Bentheim
-DE94C,,,,Leer
-DE94D,,,,"Oldenburg, Landkreis"
-DE94E,,,,"Osnabrück, Landkreis"
-DE94F,,,,Vechta
-DE94G,,,,Wesermarsch
-DE94H,,,,Wittmund
+DE91,Germany,Niedersachsen,Braunschweig,
+DE911,Germany,Niedersachsen,Braunschweig,"Braunschweig, Kreisfreie Stadt"
+DE912,Germany,Niedersachsen,Braunschweig,"Salzgitter, Kreisfreie Stadt"
+DE913,Germany,Niedersachsen,Braunschweig,"Wolfsburg, Kreisfreie Stadt"
+DE914,Germany,Niedersachsen,Braunschweig,Gifhorn
+DE916,Germany,Niedersachsen,Braunschweig,Goslar
+DE917,Germany,Niedersachsen,Braunschweig,Helmstedt
+DE918,Germany,Niedersachsen,Braunschweig,Northeim
+DE91A,Germany,Niedersachsen,Braunschweig,Peine
+DE91B,Germany,Niedersachsen,Braunschweig,Wolfenbüttel
+DE91C,Germany,Niedersachsen,Braunschweig,Göttingen
+DE92,Germany,Niedersachsen,Hannover,
+DE922,Germany,Niedersachsen,Hannover,Diepholz
+DE923,Germany,Niedersachsen,Hannover,Hameln-Pyrmont
+DE925,Germany,Niedersachsen,Hannover,Hildesheim
+DE926,Germany,Niedersachsen,Hannover,Holzminden
+DE927,Germany,Niedersachsen,Hannover,Nienburg (Weser)
+DE928,Germany,Niedersachsen,Hannover,Schaumburg
+DE929,Germany,Niedersachsen,Hannover,Region Hannover
+DE93,Germany,Niedersachsen,Lüneburg,
+DE931,Germany,Niedersachsen,Lüneburg,Celle
+DE932,Germany,Niedersachsen,Lüneburg,Cuxhaven
+DE933,Germany,Niedersachsen,Lüneburg,Harburg
+DE934,Germany,Niedersachsen,Lüneburg,Lüchow-Dannenberg
+DE935,Germany,Niedersachsen,Lüneburg,"Lüneburg, Landkreis"
+DE936,Germany,Niedersachsen,Lüneburg,Osterholz
+DE937,Germany,Niedersachsen,Lüneburg,Rotenburg (Wümme)
+DE938,Germany,Niedersachsen,Lüneburg,Heidekreis
+DE939,Germany,Niedersachsen,Lüneburg,Stade
+DE93A,Germany,Niedersachsen,Lüneburg,Uelzen
+DE93B,Germany,Niedersachsen,Lüneburg,Verden
+DE94,Germany,Niedersachsen,Weser-Ems,
+DE941,Germany,Niedersachsen,Weser-Ems,"Delmenhorst, Kreisfreie Stadt"
+DE942,Germany,Niedersachsen,Weser-Ems,"Emden, Kreisfreie Stadt"
+DE943,Germany,Niedersachsen,Weser-Ems,"Oldenburg (Oldenburg), Kreisfreie Stadt"
+DE944,Germany,Niedersachsen,Weser-Ems,"Osnabrück, Kreisfreie Stadt"
+DE945,Germany,Niedersachsen,Weser-Ems,"Wilhelmshaven, Kreisfreie Stadt"
+DE946,Germany,Niedersachsen,Weser-Ems,Ammerland
+DE947,Germany,Niedersachsen,Weser-Ems,Aurich
+DE948,Germany,Niedersachsen,Weser-Ems,Cloppenburg
+DE949,Germany,Niedersachsen,Weser-Ems,Emsland
+DE94A,Germany,Niedersachsen,Weser-Ems,Friesland (DE)
+DE94B,Germany,Niedersachsen,Weser-Ems,Grafschaft Bentheim
+DE94C,Germany,Niedersachsen,Weser-Ems,Leer
+DE94D,Germany,Niedersachsen,Weser-Ems,"Oldenburg, Landkreis"
+DE94E,Germany,Niedersachsen,Weser-Ems,"Osnabrück, Landkreis"
+DE94F,Germany,Niedersachsen,Weser-Ems,Vechta
+DE94G,Germany,Niedersachsen,Weser-Ems,Wesermarsch
+DE94H,Germany,Niedersachsen,Weser-Ems,Wittmund
 DEA,Germany,Nordrhein-Westfalen,,
-DEA1,,,Düsseldorf,
-DEA11,,,,"Düsseldorf, Kreisfreie Stadt"
-DEA12,,,,"Duisburg, Kreisfreie Stadt"
-DEA13,,,,"Essen, Kreisfreie Stadt"
-DEA14,,,,"Krefeld, Kreisfreie Stadt"
-DEA15,,,,"Mönchengladbach, Kreisfreie Stadt"
-DEA16,,,,"Mülheim an der Ruhr, Kreisfreie Stadt"
-DEA17,,,,"Oberhausen, Kreisfreie Stadt"
-DEA18,,,,"Remscheid, Kreisfreie Stadt"
-DEA19,,,,"Solingen, Kreisfreie Stadt"
-DEA1A,,,,"Wuppertal, Kreisfreie Stadt"
-DEA1B,,,,Kleve
-DEA1C,,,,Mettmann
-DEA1D,,,,Rhein-Kreis Neuss
-DEA1E,,,,Viersen
-DEA1F,,,,Wesel
-DEA2,,,Köln,
-DEA22,,,,"Bonn, Kreisfreie Stadt"
-DEA23,,,,"Köln, Kreisfreie Stadt"
-DEA24,,,,"Leverkusen, Kreisfreie Stadt"
-DEA26,,,,Düren
-DEA27,,,,Rhein-Erft-Kreis
-DEA28,,,,Euskirchen
-DEA29,,,,Heinsberg
-DEA2A,,,,Oberbergischer Kreis
-DEA2B,,,,Rheinisch-Bergischer Kreis
-DEA2C,,,,Rhein-Sieg-Kreis
-DEA2D,,,,Städteregion Aachen
-DEA3,,,Münster,
-DEA31,,,,"Bottrop, Kreisfreie Stadt"
-DEA32,,,,"Gelsenkirchen, Kreisfreie Stadt"
-DEA33,,,,"Münster, Kreisfreie Stadt"
-DEA34,,,,Borken
-DEA35,,,,Coesfeld
-DEA36,,,,Recklinghausen
-DEA37,,,,Steinfurt
-DEA38,,,,Warendorf
-DEA4,,,Detmold,
-DEA41,,,,"Bielefeld, Kreisfreie Stadt"
-DEA42,,,,Gütersloh
-DEA43,,,,Herford
-DEA44,,,,Höxter
-DEA45,,,,Lippe
-DEA46,,,,Minden-Lübbecke
-DEA47,,,,Paderborn
-DEA5,,,Arnsberg,
-DEA51,,,,"Bochum, Kreisfreie Stadt"
-DEA52,,,,"Dortmund, Kreisfreie Stadt"
-DEA53,,,,"Hagen, Kreisfreie Stadt"
-DEA54,,,,"Hamm, Kreisfreie Stadt"
-DEA55,,,,"Herne, Kreisfreie Stadt"
-DEA56,,,,Ennepe-Ruhr-Kreis
-DEA57,,,,Hochsauerlandkreis
-DEA58,,,,Märkischer Kreis
-DEA59,,,,Olpe
-DEA5A,,,,Siegen-Wittgenstein
-DEA5B,,,,Soest
-DEA5C,,,,Unna
+DEA1,Germany,Nordrhein-Westfalen,Düsseldorf,
+DEA11,Germany,Nordrhein-Westfalen,Düsseldorf,"Düsseldorf, Kreisfreie Stadt"
+DEA12,Germany,Nordrhein-Westfalen,Düsseldorf,"Duisburg, Kreisfreie Stadt"
+DEA13,Germany,Nordrhein-Westfalen,Düsseldorf,"Essen, Kreisfreie Stadt"
+DEA14,Germany,Nordrhein-Westfalen,Düsseldorf,"Krefeld, Kreisfreie Stadt"
+DEA15,Germany,Nordrhein-Westfalen,Düsseldorf,"Mönchengladbach, Kreisfreie Stadt"
+DEA16,Germany,Nordrhein-Westfalen,Düsseldorf,"Mülheim an der Ruhr, Kreisfreie Stadt"
+DEA17,Germany,Nordrhein-Westfalen,Düsseldorf,"Oberhausen, Kreisfreie Stadt"
+DEA18,Germany,Nordrhein-Westfalen,Düsseldorf,"Remscheid, Kreisfreie Stadt"
+DEA19,Germany,Nordrhein-Westfalen,Düsseldorf,"Solingen, Kreisfreie Stadt"
+DEA1A,Germany,Nordrhein-Westfalen,Düsseldorf,"Wuppertal, Kreisfreie Stadt"
+DEA1B,Germany,Nordrhein-Westfalen,Düsseldorf,Kleve
+DEA1C,Germany,Nordrhein-Westfalen,Düsseldorf,Mettmann
+DEA1D,Germany,Nordrhein-Westfalen,Düsseldorf,Rhein-Kreis Neuss
+DEA1E,Germany,Nordrhein-Westfalen,Düsseldorf,Viersen
+DEA1F,Germany,Nordrhein-Westfalen,Düsseldorf,Wesel
+DEA2,Germany,Nordrhein-Westfalen,Köln,
+DEA22,Germany,Nordrhein-Westfalen,Köln,"Bonn, Kreisfreie Stadt"
+DEA23,Germany,Nordrhein-Westfalen,Köln,"Köln, Kreisfreie Stadt"
+DEA24,Germany,Nordrhein-Westfalen,Köln,"Leverkusen, Kreisfreie Stadt"
+DEA26,Germany,Nordrhein-Westfalen,Köln,Düren
+DEA27,Germany,Nordrhein-Westfalen,Köln,Rhein-Erft-Kreis
+DEA28,Germany,Nordrhein-Westfalen,Köln,Euskirchen
+DEA29,Germany,Nordrhein-Westfalen,Köln,Heinsberg
+DEA2A,Germany,Nordrhein-Westfalen,Köln,Oberbergischer Kreis
+DEA2B,Germany,Nordrhein-Westfalen,Köln,Rheinisch-Bergischer Kreis
+DEA2C,Germany,Nordrhein-Westfalen,Köln,Rhein-Sieg-Kreis
+DEA2D,Germany,Nordrhein-Westfalen,Köln,Städteregion Aachen
+DEA3,Germany,Nordrhein-Westfalen,Münster,
+DEA31,Germany,Nordrhein-Westfalen,Münster,"Bottrop, Kreisfreie Stadt"
+DEA32,Germany,Nordrhein-Westfalen,Münster,"Gelsenkirchen, Kreisfreie Stadt"
+DEA33,Germany,Nordrhein-Westfalen,Münster,"Münster, Kreisfreie Stadt"
+DEA34,Germany,Nordrhein-Westfalen,Münster,Borken
+DEA35,Germany,Nordrhein-Westfalen,Münster,Coesfeld
+DEA36,Germany,Nordrhein-Westfalen,Münster,Recklinghausen
+DEA37,Germany,Nordrhein-Westfalen,Münster,Steinfurt
+DEA38,Germany,Nordrhein-Westfalen,Münster,Warendorf
+DEA4,Germany,Nordrhein-Westfalen,Detmold,
+DEA41,Germany,Nordrhein-Westfalen,Detmold,"Bielefeld, Kreisfreie Stadt"
+DEA42,Germany,Nordrhein-Westfalen,Detmold,Gütersloh
+DEA43,Germany,Nordrhein-Westfalen,Detmold,Herford
+DEA44,Germany,Nordrhein-Westfalen,Detmold,Höxter
+DEA45,Germany,Nordrhein-Westfalen,Detmold,Lippe
+DEA46,Germany,Nordrhein-Westfalen,Detmold,Minden-Lübbecke
+DEA47,Germany,Nordrhein-Westfalen,Detmold,Paderborn
+DEA5,Germany,Nordrhein-Westfalen,Arnsberg,
+DEA51,Germany,Nordrhein-Westfalen,Arnsberg,"Bochum, Kreisfreie Stadt"
+DEA52,Germany,Nordrhein-Westfalen,Arnsberg,"Dortmund, Kreisfreie Stadt"
+DEA53,Germany,Nordrhein-Westfalen,Arnsberg,"Hagen, Kreisfreie Stadt"
+DEA54,Germany,Nordrhein-Westfalen,Arnsberg,"Hamm, Kreisfreie Stadt"
+DEA55,Germany,Nordrhein-Westfalen,Arnsberg,"Herne, Kreisfreie Stadt"
+DEA56,Germany,Nordrhein-Westfalen,Arnsberg,Ennepe-Ruhr-Kreis
+DEA57,Germany,Nordrhein-Westfalen,Arnsberg,Hochsauerlandkreis
+DEA58,Germany,Nordrhein-Westfalen,Arnsberg,Märkischer Kreis
+DEA59,Germany,Nordrhein-Westfalen,Arnsberg,Olpe
+DEA5A,Germany,Nordrhein-Westfalen,Arnsberg,Siegen-Wittgenstein
+DEA5B,Germany,Nordrhein-Westfalen,Arnsberg,Soest
+DEA5C,Germany,Nordrhein-Westfalen,Arnsberg,Unna
 DEB,Germany,Rheinland-Pfalz,,
-DEB1,,,Koblenz,
-DEB11,,,,"Koblenz, Kreisfreie Stadt"
-DEB12,,,,Ahrweiler
-DEB13,,,,Altenkirchen (Westerwald)
-DEB14,,,,Bad Kreuznach
-DEB15,,,,Birkenfeld
-DEB17,,,,Mayen-Koblenz
-DEB18,,,,Neuwied
-DEB1A,,,,Rhein-Lahn-Kreis
-DEB1B,,,,Westerwaldkreis
-DEB1C,,,,Cochem-Zell
-DEB1D,,,,Rhein-Hunsrück-Kreis
-DEB2,,,Trier,
-DEB21,,,,"Trier, Kreisfreie Stadt"
-DEB22,,,,Bernkastel-Wittlich
-DEB23,,,,Eifelkreis Bitburg-Prüm
-DEB24,,,,Vulkaneifel
-DEB25,,,,Trier-Saarburg
-DEB3,,,Rheinhessen-Pfalz,
-DEB31,,,,"Frankenthal (Pfalz), Kreisfreie Stadt"
-DEB32,,,,"Kaiserslautern, Kreisfreie Stadt"
-DEB33,,,,"Landau in der Pfalz, Kreisfreie Stadt"
-DEB34,,,,"Ludwigshafen am Rhein, Kreisfreie Stadt"
-DEB35,,,,"Mainz, Kreisfreie Stadt"
-DEB36,,,,"Neustadt an der Weinstraße, Kreisfreie Stadt"
-DEB37,,,,"Pirmasens, Kreisfreie Stadt"
-DEB38,,,,"Speyer, Kreisfreie Stadt"
-DEB39,,,,"Worms, Kreisfreie Stadt"
-DEB3A,,,,"Zweibrücken, Kreisfreie Stadt"
-DEB3B,,,,Alzey-Worms
-DEB3C,,,,Bad Dürkheim
-DEB3D,,,,Donnersbergkreis
-DEB3E,,,,Germersheim
-DEB3F,,,,"Kaiserslautern, Landkreis"
-DEB3G,,,,Kusel
-DEB3H,,,,Südliche Weinstraße
-DEB3I,,,,Rhein-Pfalz-Kreis
-DEB3J,,,,Mainz-Bingen
-DEB3K,,,,Südwestpfalz
+DEB1,Germany,Rheinland-Pfalz,Koblenz,
+DEB11,Germany,Rheinland-Pfalz,Koblenz,"Koblenz, Kreisfreie Stadt"
+DEB12,Germany,Rheinland-Pfalz,Koblenz,Ahrweiler
+DEB13,Germany,Rheinland-Pfalz,Koblenz,Altenkirchen (Westerwald)
+DEB14,Germany,Rheinland-Pfalz,Koblenz,Bad Kreuznach
+DEB15,Germany,Rheinland-Pfalz,Koblenz,Birkenfeld
+DEB17,Germany,Rheinland-Pfalz,Koblenz,Mayen-Koblenz
+DEB18,Germany,Rheinland-Pfalz,Koblenz,Neuwied
+DEB1A,Germany,Rheinland-Pfalz,Koblenz,Rhein-Lahn-Kreis
+DEB1B,Germany,Rheinland-Pfalz,Koblenz,Westerwaldkreis
+DEB1C,Germany,Rheinland-Pfalz,Koblenz,Cochem-Zell
+DEB1D,Germany,Rheinland-Pfalz,Koblenz,Rhein-Hunsrück-Kreis
+DEB2,Germany,Rheinland-Pfalz,Trier,
+DEB21,Germany,Rheinland-Pfalz,Trier,"Trier, Kreisfreie Stadt"
+DEB22,Germany,Rheinland-Pfalz,Trier,Bernkastel-Wittlich
+DEB23,Germany,Rheinland-Pfalz,Trier,Eifelkreis Bitburg-Prüm
+DEB24,Germany,Rheinland-Pfalz,Trier,Vulkaneifel
+DEB25,Germany,Rheinland-Pfalz,Trier,Trier-Saarburg
+DEB3,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,
+DEB31,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,"Frankenthal (Pfalz), Kreisfreie Stadt"
+DEB32,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,"Kaiserslautern, Kreisfreie Stadt"
+DEB33,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,"Landau in der Pfalz, Kreisfreie Stadt"
+DEB34,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,"Ludwigshafen am Rhein, Kreisfreie Stadt"
+DEB35,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,"Mainz, Kreisfreie Stadt"
+DEB36,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,"Neustadt an der Weinstraße, Kreisfreie Stadt"
+DEB37,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,"Pirmasens, Kreisfreie Stadt"
+DEB38,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,"Speyer, Kreisfreie Stadt"
+DEB39,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,"Worms, Kreisfreie Stadt"
+DEB3A,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,"Zweibrücken, Kreisfreie Stadt"
+DEB3B,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Alzey-Worms
+DEB3C,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Bad Dürkheim
+DEB3D,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Donnersbergkreis
+DEB3E,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Germersheim
+DEB3F,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,"Kaiserslautern, Landkreis"
+DEB3G,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Kusel
+DEB3H,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Südliche Weinstraße
+DEB3I,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Rhein-Pfalz-Kreis
+DEB3J,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Mainz-Bingen
+DEB3K,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Südwestpfalz
 DEC,Germany,Saarland,,
-DEC0,,,Saarland,
-DEC01,,,,Regionalverband Saarbrücken
-DEC02,,,,Merzig-Wadern
-DEC03,,,,Neunkirchen
-DEC04,,,,Saarlouis
-DEC05,,,,Saarpfalz-Kreis
-DEC06,,,,St. Wendel
+DEC0,Germany,Saarland,Saarland,
+DEC01,Germany,Saarland,Saarland,Regionalverband Saarbrücken
+DEC02,Germany,Saarland,Saarland,Merzig-Wadern
+DEC03,Germany,Saarland,Saarland,Neunkirchen
+DEC04,Germany,Saarland,Saarland,Saarlouis
+DEC04,Germany,Saarland,Saarland,Saarpfalz-Kreis
+DEC05,Germany,Saarland,Saarland,St. Wendel
 DED,Germany,Sachsen,,
-DED2,,,Dresden,
-DED21,,,,"Dresden, Kreisfreie Stadt"
-DED2C,,,,Bautzen
-DED2D,,,,Görlitz
-DED2E,,,,Meißen
-DED2F,,,,Sächsische Schweiz-Osterzgebirge
-DED4,,,Chemnitz,
-DED41,,,,"Chemnitz, Kreisfreie Stadt"
-DED42,,,,Erzgebirgskreis
-DED43,,,,Mittelsachsen
-DED44,,,,Vogtlandkreis
-DED45,,,,Zwickau
-DED5,,,Leipzig,
-DED51,,,,"Leipzig, Kreisfreie Stadt"
-DED52,,,,Leipzig
-DED53,,,,Nordsachsen
+DED2,Germany,Sachsen,Dresden,
+DED21,Germany,Sachsen,Dresden,"Dresden, Kreisfreie Stadt"
+DED2C,Germany,Sachsen,Dresden,Bautzen
+DED2D,Germany,Sachsen,Dresden,Görlitz
+DED2E,Germany,Sachsen,Dresden,Meißen
+DED2F,Germany,Sachsen,Dresden,Sächsische Schweiz-Osterzgebirge
+DED4,Germany,Sachsen,Chemnitz,
+DED41,Germany,Sachsen,Chemnitz,"Chemnitz, Kreisfreie Stadt"
+DED42,Germany,Sachsen,Chemnitz,Erzgebirgskreis
+DED43,Germany,Sachsen,Chemnitz,Mittelsachsen
+DED44,Germany,Sachsen,Chemnitz,Vogtlandkreis
+DED45,Germany,Sachsen,Chemnitz,Zwickau
+DED5,Germany,Sachsen,Leipzig,
+DED51,Germany,Sachsen,Leipzig,"Leipzig, Kreisfreie Stadt"
+DED52,Germany,Sachsen,Leipzig,Leipzig
+DED53,Germany,Sachsen,Leipzig,Nordsachsen
 DEE,Germany,Sachsen-Anhalt,,
-DEE0,,,Sachsen-Anhalt,
-DEE01,,,,"Dessau-Roßlau, Kreisfreie Stadt"
-DEE02,,,,"Halle (Saale), Kreisfreie Stadt"
-DEE03,,,,"Magdeburg, Kreisfreie Stadt"
-DEE04,,,,Altmarkkreis Salzwedel
-DEE05,,,,Anhalt-Bitterfeld
-DEE06,,,,Jerichower Land
-DEE07,,,,Börde
-DEE08,,,,Burgenlandkreis
-DEE09,,,,Harz
-DEE0A,,,,Mansfeld-Südharz
-DEE0B,,,,Saalekreis
-DEE0C,,,,Salzlandkreis
-DEE0D,,,,Stendal
-DEE0E,,,,Wittenberg
+DEE0,Germany,Sachsen-Anhalt,Sachsen-Anhalt,
+DEE01,Germany,Sachsen-Anhalt,Sachsen-Anhalt,"Dessau-Roßlau, Kreisfreie Stadt"
+DEE02,Germany,Sachsen-Anhalt,Sachsen-Anhalt,"Halle (Saale), Kreisfreie Stadt"
+DEE03,Germany,Sachsen-Anhalt,Sachsen-Anhalt,"Magdeburg, Kreisfreie Stadt"
+DEE04,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Altmarkkreis Salzwedel
+DEE05,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Anhalt-Bitterfeld
+DEE06,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Jerichower Land
+DEE07,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Börde
+DEE08,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Burgenlandkreis
+DEE09,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Harz
+DEE0A,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Mansfeld-Südharz
+DEE0B,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Saalekreis
+DEE0C,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Salzlandkreis
+DEE0D,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Stendal
+DEE0E,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Wittenberg
 DEF,Germany,Schleswig-Holstein,,
-DEF0,,,Schleswig-Holstein,
-DEF01,,,,"Flensburg, Kreisfreie Stadt"
-DEF02,,,,"Kiel, Kreisfreie Stadt"
-DEF03,,,,"Lübeck, Kreisfreie Stadt"
-DEF04,,,,"Neumünster, Kreisfreie Stadt"
-DEF05,,,,Dithmarschen
-DEF06,,,,Herzogtum Lauenburg
-DEF07,,,,Nordfriesland
-DEF08,,,,Ostholstein
-DEF09,,,,Pinneberg
-DEF0A,,,,Plön
-DEF0B,,,,Rendsburg-Eckernförde
-DEF0C,,,,Schleswig-Flensburg
-DEF0D,,,,Segeberg
-DEF0E,,,,Steinburg
-DEF0F,,,,Stormarn
+DEF0,Germany,Schleswig-Holstein,Schleswig-Holstein,
+DEF01,Germany,Schleswig-Holstein,Schleswig-Holstein,"Flensburg, Kreisfreie Stadt"
+DEF02,Germany,Schleswig-Holstein,Schleswig-Holstein,"Kiel, Kreisfreie Stadt"
+DEF03,Germany,Schleswig-Holstein,Schleswig-Holstein,"Lübeck, Kreisfreie Stadt"
+DEF04,Germany,Schleswig-Holstein,Schleswig-Holstein,"Neumünster, Kreisfreie Stadt"
+DEF05,Germany,Schleswig-Holstein,Schleswig-Holstein,Dithmarschen
+DEF06,Germany,Schleswig-Holstein,Schleswig-Holstein,Herzogtum Lauenburg
+DEF07,Germany,Schleswig-Holstein,Schleswig-Holstein,Nordfriesland
+DEF08,Germany,Schleswig-Holstein,Schleswig-Holstein,Ostholstein
+DEF09,Germany,Schleswig-Holstein,Schleswig-Holstein,Pinneberg
+DEF0A,Germany,Schleswig-Holstein,Schleswig-Holstein,Plön
+DEF0B,Germany,Schleswig-Holstein,Schleswig-Holstein,Rendsburg-Eckernförde
+DEF0C,Germany,Schleswig-Holstein,Schleswig-Holstein,Schleswig-Flensburg
+DEF0D,Germany,Schleswig-Holstein,Schleswig-Holstein,Segeberg
+DEF0E,Germany,Schleswig-Holstein,Schleswig-Holstein,Steinburg
+DEF0F,Germany,Schleswig-Holstein,Schleswig-Holstein,Stormarn
 DEG,Germany,Thüringen,,
-DEG0,,,Thüringen,
-DEG01,,,,"Erfurt, Kreisfreie Stadt"
-DEG02,,,,"Gera, Kreisfreie Stadt"
-DEG03,,,,"Jena, Kreisfreie Stadt"
-DEG04,,,,"Suhl, Kreisfreie Stadt"
-DEG05,,,,"Weimar, Kreisfreie Stadt"
-DEG06,,,,Eichsfeld
-DEG07,,,,Nordhausen
-DEG09,,,,Unstrut-Hainich-Kreis
-DEG0A,,,,Kyffhäuserkreis
-DEG0B,,,,Schmalkalden-Meiningen
-DEG0C,,,,Gotha
-DEG0D,,,,Sömmerda
-DEG0E,,,,Hildburghausen
-DEG0F,,,,Ilm-Kreis
-DEG0G,,,,Weimarer Land
-DEG0H,,,,Sonneberg
-DEG0I,,,,Saalfeld-Rudolstadt
-DEG0J,,,,Saale-Holzland-Kreis
-DEG0K,,,,Saale-Orla-Kreis
-DEG0L,,,,Greiz
-DEG0M,,,,Altenburger Land
-DEG0N,,,,"Eisenach, Kreisfreie Stadt"
-DEG0P,,,,Wartburgkreis
+DEG0,Germany,Thüringen,Thüringen,
+DEG01,Germany,Thüringen,Thüringen,"Erfurt, Kreisfreie Stadt"
+DEG02,Germany,Thüringen,Thüringen,"Gera, Kreisfreie Stadt"
+DEG03,Germany,Thüringen,Thüringen,"Jena, Kreisfreie Stadt"
+DEG04,Germany,Thüringen,Thüringen,"Suhl, Kreisfreie Stadt"
+DEG05,Germany,Thüringen,Thüringen,"Weimar, Kreisfreie Stadt"
+DEG06,Germany,Thüringen,Thüringen,Eichsfeld
+DEG07,Germany,Thüringen,Thüringen,Nordhausen
+DEG09,Germany,Thüringen,Thüringen,Unstrut-Hainich-Kreis
+DEG0A,Germany,Thüringen,Thüringen,Kyffhäuserkreis
+DEG0B,Germany,Thüringen,Thüringen,Schmalkalden-Meiningen
+DEG0C,Germany,Thüringen,Thüringen,Gotha
+DEG0D,Germany,Thüringen,Thüringen,Sömmerda
+DEG0E,Germany,Thüringen,Thüringen,Hildburghausen
+DEG0F,Germany,Thüringen,Thüringen,Ilm-Kreis
+DEG0G,Germany,Thüringen,Thüringen,Weimarer Land
+DEG0H,Germany,Thüringen,Thüringen,Sonneberg
+DEG0I,Germany,Thüringen,Thüringen,Saalfeld-Rudolstadt
+DEG0J,Germany,Thüringen,Thüringen,Saale-Holzland-Kreis
+DEG0K,Germany,Thüringen,Thüringen,Saale-Orla-Kreis
+DEG0L,Germany,Thüringen,Thüringen,Greiz
+DEG0M,Germany,Thüringen,Thüringen,Altenburger Land
+DEG0N,Germany,Thüringen,Thüringen,"Eisenach, Kreisfreie Stadt"
+DEG0P,Germany,Thüringen,Thüringen,Wartburgkreis
 DK0,Denmark,Denmark,,
-DK01,,,Hovedstaden,
-DK011,,,,Byen København
-DK012,,,,Københavns omegn
-DK013,,,,Nordsjælland
-DK014,,,,Bornholm
-DK02,,,Sjælland,
-DK021,,,,Østsjælland
-DK022,,,,Vest- og Sydsjælland
-DK03,,,Syddanmark,
-DK031,,,,Fyn
-DK032,,,,Sydjylland
-DK04,,,Midtjylland,
-DK041,,,,Vestjylland
-DK042,,,,Østjylland
-DK05,,,Nordjylland,
-DK050,,,,
+DK01,Denmark,Denmark,Hovedstaden,
+DK011,Denmark,Denmark,Hovedstaden,Byen København
+DK012,Denmark,Denmark,Hovedstaden,Københavns omegn
+DK013,Denmark,Denmark,Hovedstaden,Nordsjælland
+DK014,Denmark,Denmark,Hovedstaden,Bornholm
+DK02,Denmark,Denmark,Sjælland,
+DK021,Denmark,Denmark,Sjælland,Østsjælland
+DK022,Denmark,Denmark,Sjælland,Vest- og Sydsjælland
+DK03,Denmark,Denmark,Syddanmark,
+DK031,Denmark,Denmark,Syddanmark,Fyn
+DK032,Denmark,Denmark,Syddanmark,Sydjylland
+DK04,Denmark,Denmark,Midtjylland,
+DK041,Denmark,Denmark,Midtjylland,Vestjylland
+DK042,Denmark,Denmark,Midtjylland,Østjylland
+DK05,Denmark,Denmark,Nordjylland,
+DK050,Denmark,Denmark,Nordjylland,Nordjylland
 EE0,Estonia,Estonia,,
 EE00,,,Estonia,
 EE001,,,,Põhja-Eesti
