@@ -1359,20 +1359,38 @@ PL431,,,,Gorzowski
 PL432,,,,Zielonogórski
 PL5,Poland,Southwestern macroregion,,
 PL51,,,Dolnoslaskie,
-PL514,,,,Miasto Wroc?aw
-PL515,,,,Jeleniogórski
-PL516,,,,Legnicko-g?ogowski
-PL517,,,,Wa?brzyski
-PL518,,,,Wroc?awski
+PL514,,,,Wroclaw city
+PL515,,,,jeleniogórski
+PL516,,,,Legnica-G?ogów
+PL517,,,,walbrzyski
+PL518,,,,Wroclaw
 PL52,,,Opolskie,
 PL523,,,,Nyski
 PL524,,,,Opolski
 PL6,Poland,Northern macroregion,,
 PL61,,,Kujawsko-pomorskie,
+PL613,,,,Bydgosko-toru?ski
+PL616,,,,Grudzi?dzki
+PL617,,,,Inowroc?awski
+PL618,,,,?wiecki
+PL619,,,,W?oc?awski
 PL62,,,Warminsko-mazurskie,
+PL621,,,,Elbl?ski
+PL622,,,,Olszty?ski
+PL623,,,,E?cki
 PL63,,,Pomorskie,
+PL633,,,,Trójmiejski
+PL634,,,,Gda?ski
+PL636,,,,S?upski
+PL637,,,,Chojnicki
+PL638,,,,Starogardzki
 PL7,Poland,Central macroregion,,
 PL71,,,tódzkie,
+PL711,,,,Miasto ?ód?
+PL712,,,,?ódzki
+PL713,,,,Piotrkowski
+PL714,,,,Sieradzki
+PL715,,,,Skierniewicki
 PL72,,,Swietokrzyskie,
 PL8,Poland,Eastern macroregion,,
 PL81,,,Lubelskie,
