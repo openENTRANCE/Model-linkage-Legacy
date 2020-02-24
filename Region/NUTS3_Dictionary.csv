@@ -1459,11 +1459,11 @@ PT300,,,,Região Autónoma da Madeira
 RO1,Romania,Macroregion One,,
 RO11,,,Nord-Vest,
 RO111,,,,Bihor
-RO112,,,,Bistrita-N?s?ud
+RO112,,,,Bistrita-Nasaud
 RO113,,,,Cluj
 RO114,,,,Maramures
 RO115,,,,Satu Mare
-RO116,,,,S?laj
+RO116,,,,Salaj
 RO12,,,Centru,
 RO121,,,,Alba
 RO122,,,,Brasov
@@ -1473,15 +1473,15 @@ RO125,,,,Mures
 RO126,,,,Sibiu
 RO2,Romania,Macroregion Two,,
 RO21,,,Nord-Est,
-RO211,,,,Bac?u
+RO211,,,,Bacau
 RO212,,,,Botosani
 RO213,,,,Iasi
 RO214,,,,Neamt
 RO215,,,,Suceava
 RO216,,,,Vaslui
 RO22,,,Sud-Est,
-RO221,,,,Br?ila
-RO222,,,,Buz?u
+RO221,,,,Braila
+RO222,,,,Buzau
 RO223,,,,Constanta
 RO224,,,,Galati
 RO225,,,,Tulcea
@@ -1489,7 +1489,7 @@ RO226,,,,Vrancea
 RO3,Romania,Macroregion Three,,
 RO31,,,Sud-Muntenia,
 RO311,,,,Arges
-RO312,,,,C?l?rasi
+RO312,,,,Calarasi
 RO313,,,,Dâmbovita
 RO314,,,,Giurgiu
 RO315,,,,Ialomita
