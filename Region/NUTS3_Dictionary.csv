@@ -1543,15 +1543,36 @@ RS228,,,,P?inja Region
 RS229,,,,Toplica oblast
 SE1,Sweden,East Sweden,,
 SE11,,,Stockholm,
+SE110,,,,Stockholms län
 SE12,,,Östra Mellansverige,
+SE121,,,,Uppsala län
+SE122,,,,Södermanlands län
+SE123,,,,Östergötlands län
+SE124,,,,Örebro län
+SE125,,,,Västmanlands län
 SE2,Sweden,Southern Sweden,,
 SE21,,,Småland med öarna,
+SE211,,,,Jönköpings län
+SE212,,,,Kronobergs län
+SE213,,,,Kalmar län
+SE214,,,,Gotlands län
 SE22,,,Sydsverige,
+SE221,,,,Blekinge län
+SE224,,,,Skåne län
 SE23,,,Västsverige,
+SE231,,,,Hallands län
+SE232,,,,Västra Götalands län
 SE3,Sweden,North Sweden,,
 SE31,,,Norra Mellansverige,
+SE311,,,,Värmlands län
+SE312,,,,Dalarnas län
+SE313,,,,Gävleborgs län
 SE32,,,Mellersta Norrland,
+SE321,,,,Västernorrlands län
+SE322,,,,Jämtlands län
 SE33,,,Övre Norrland,
+SE331,,,,Västerbottens län
+SE332,,,,Norrbottens län
 SI0,Slovenia,Slovenia,,
 SI03,,,Vzhodna Slovenija,
 SI04,,,Zahodna Slovenija,
