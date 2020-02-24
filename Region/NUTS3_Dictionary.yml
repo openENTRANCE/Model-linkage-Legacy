@@ -1,1 +1,4140 @@
-
+-
+   Code: AL0
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: AL01
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: north
+   NUTS level 3:
+-
+   Code: AL011
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: north
+   NUTS level 3: Dibër
+-
+   Code: AL012
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: north
+   NUTS level 3: Durrës
+-
+   Code: AL013
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: north
+   NUTS level 3: Kukës
+-
+   Code: AL014
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: north
+   NUTS level 3: Lezhë
+-
+   Code: AL015
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: north
+   NUTS level 3: Shkodër
+-
+   Code: AL02
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: center
+   NUTS level 3:
+-
+   Code: AL021
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: center
+   NUTS level 3: Elbasan
+-
+   Code: AL022
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: center
+   NUTS level 3: Tiranë
+-
+   Code: AL03
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: south
+   NUTS level 3:
+-
+   Code: AL031
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: south
+   NUTS level 3: Berat
+-
+   Code: AL032
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: south
+   NUTS level 3: Fier
+-
+   Code: AL033
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: south
+   NUTS level 3: Gjirokastër
+-
+   Code: AL034
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: south
+   NUTS level 3: Korcë
+-
+   Code: AL035
+   Country: Albania
+   NUTS level 1: Albania
+   NUTS level 2: south
+   NUTS level 3: Vlorë
+-
+   Code: AT1
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: AT11
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Burgenland
+   NUTS level 3:
+-
+   Code: AT111
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Burgenland
+   NUTS level 3: Mittelburgenland
+-
+   Code: AT112
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Burgenland
+   NUTS level 3: Nordburgenland
+-
+   Code: AT113
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Burgenland
+   NUTS level 3: Südburgenland
+-
+   Code: AT12
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Niederösterreich
+   NUTS level 3:
+-
+   Code: AT121
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Niederösterreich
+   NUTS level 3: Mostviertel-Eisenwurzen
+-
+   Code: AT122
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Niederösterreich
+   NUTS level 3: Niederösterreich-Süd
+-
+   Code: AT123
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Niederösterreich
+   NUTS level 3: Sankt Pölten
+-
+   Code: AT124
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Niederösterreich
+   NUTS level 3: Waldviertel
+-
+   Code: AT125
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Niederösterreich
+   NUTS level 3: Weinviertel
+-
+   Code: AT126
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Niederösterreich
+   NUTS level 3: Wiener Umland/Nordteil
+-
+   Code: AT127
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Niederösterreich
+   NUTS level 3: Wiener Umland/Südteil
+-
+   Code: AT13
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Wien
+   NUTS level 3:
+-
+   Code: AT130
+   Country: Austria
+   NUTS level 1: Ostösterreich
+   NUTS level 2: Wien
+   NUTS level 3: Wien
+-
+   Code: AT2
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: AT21
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2: Kärnten
+   NUTS level 3:
+-
+   Code: AT211
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2: Kärnten
+   NUTS level 3: Klagenfurt-Villach
+-
+   Code: AT212
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2: Kärnten
+   NUTS level 3: Oberkärnten
+-
+   Code: AT213
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2: Kärnten
+   NUTS level 3: Unterkärnten
+-
+   Code: AT22
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2: Steiermark
+   NUTS level 3:
+-
+   Code: AT221
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2: Steiermark
+   NUTS level 3: Graz
+-
+   Code: AT222
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2: Steiermark
+   NUTS level 3: Liezen
+-
+   Code: AT223
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2: Steiermark
+   NUTS level 3: Östliche Obersteiermark
+-
+   Code: AT224
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2: Steiermark
+   NUTS level 3: Oststeiermark
+-
+   Code: AT225
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2: Steiermark
+   NUTS level 3: West- und Südsteiermark
+-
+   Code: AT226
+   Country: Austria
+   NUTS level 1: Südösterreich
+   NUTS level 2: Steiermark
+   NUTS level 3: Westliche Obersteiermark
+-
+   Code: AT3
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: AT31
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Oberösterreich
+   NUTS level 3:
+-
+   Code: AT311
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Oberösterreich
+   NUTS level 3: Innviertel
+-
+   Code: AT312
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Oberösterreich
+   NUTS level 3: Linz-Wels
+-
+   Code: AT313
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Oberösterreich
+   NUTS level 3: Mühlviertel
+-
+   Code: AT314
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Oberösterreich
+   NUTS level 3: Steyr-Kirchdorf
+-
+   Code: AT315
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Oberösterreich
+   NUTS level 3: Traunviertel
+-
+   Code: AT32
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Salzburg
+   NUTS level 3:
+-
+   Code: AT321
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Salzburg
+   NUTS level 3: Lungau
+-
+   Code: AT322
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Salzburg
+   NUTS level 3: Pinzgau-Pongau
+-
+   Code: AT323
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Salzburg
+   NUTS level 3: Salzburg und Umgebung
+-
+   Code: AT33
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Tirol
+   NUTS level 3:
+-
+   Code: AT331
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Tirol
+   NUTS level 3: Außerfern
+-
+   Code: AT332
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Tirol
+   NUTS level 3: Innsbruck
+-
+   Code: AT333
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Tirol
+   NUTS level 3: Osttirol
+-
+   Code: AT334
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Tirol
+   NUTS level 3: Tiroler Oberland
+-
+   Code: AT335
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Tirol
+   NUTS level 3: Tiroler Unterland
+-
+   Code: AT34
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Vorarlberg
+   NUTS level 3:
+-
+   Code: AT341
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Vorarlberg
+   NUTS level 3: Bludenz-Bregenzer Wald
+-
+   Code: AT342
+   Country: Austria
+   NUTS level 1: Westösterreich
+   NUTS level 2: Vorarlberg
+   NUTS level 3: Rheintal-Bodenseegebiet
+-
+   Code: BA0
+   Country: Bosnia And Herzegovina
+   NUTS level 1: Bosnia And Herzegovina
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: BA00
+   Country: Bosnia And Herzegovina
+   NUTS level 1: Bosnia And Herzegovina
+   NUTS level 2: Bosnia And Herzegovina
+   NUTS level 3:
+-
+   Code: BA000
+   Country: Bosnia And Herzegovina
+   NUTS level 1: Bosnia And Herzegovina
+   NUTS level 2: Bosnia And Herzegovina
+   NUTS level 3: Bosnia And Herzegovina
+-
+   Code: BE1
+   Country: Belgium
+   NUTS level 1: Région de Bruxelles-Capitale
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: BE10
+   Country: Belgium
+   NUTS level 1: Région de Bruxelles-Capitale
+   NUTS level 2: Région de Bruxelles-Capitale
+   NUTS level 3:
+-
+   Code: BE100
+   Country: Belgium
+   NUTS level 1: Région de Bruxelles-Capitale
+   NUTS level 2: Région de Bruxelles-Capitale
+   NUTS level 3: Région de Bruxelles-Capitale
+-
+   Code: BE2
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: BE21
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Antwerpen
+   NUTS level 3:
+-
+   Code: BE211
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Antwerpen
+   NUTS level 3: Arr. Antwerpen
+-
+   Code: BE212
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Antwerpen
+   NUTS level 3: Arr. Mechelen
+-
+   Code: BE213
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Antwerpen
+   NUTS level 3: Arr. Turnhout
+-
+   Code: BE22
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Limburg (BE)
+   NUTS level 3:
+-
+   Code: BE223
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Limburg (BE)
+   NUTS level 3: Arr. Tongeren
+-
+   Code: BE224
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Limburg (BE)
+   NUTS level 3: Arr. Hasselt
+-
+   Code: BE225
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Limburg (BE)
+   NUTS level 3: Arr. Maaseik
+-
+   Code: BE23
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Oost-Vlaanderen
+   NUTS level 3:
+-
+   Code: BE231
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Oost-Vlaanderen
+   NUTS level 3: Arr. Aalst
+-
+   Code: BE232
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Oost-Vlaanderen
+   NUTS level 3: Arr. Dendermonde
+-
+   Code: BE233
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Oost-Vlaanderen
+   NUTS level 3: Arr. Eeklo
+-
+   Code: BE234
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Oost-Vlaanderen
+   NUTS level 3: Arr. Gent
+-
+   Code: BE235
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Oost-Vlaanderen
+   NUTS level 3: Arr. Oudenaarde
+-
+   Code: BE236
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Oost-Vlaanderen
+   NUTS level 3: Arr. Sint-Niklaas
+-
+   Code: BE24
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Vlaams-Brabant
+   NUTS level 3:
+-
+   Code: BE241
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Vlaams-Brabant
+   NUTS level 3: Arr. Halle-Vilvoorde
+-
+   Code: BE242
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. Vlaams-Brabant
+   NUTS level 3: Arr. Leuven
+-
+   Code: BE25
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. West-Vlaanderen
+   NUTS level 3:
+-
+   Code: BE251
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. West-Vlaanderen
+   NUTS level 3: Arr. Brugge
+-
+   Code: BE252
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. West-Vlaanderen
+   NUTS level 3: Arr. Diksmuide
+-
+   Code: BE253
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. West-Vlaanderen
+   NUTS level 3: Arr. Ieper
+-
+   Code: BE254
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. West-Vlaanderen
+   NUTS level 3: Arr. Kortrijk
+-
+   Code: BE255
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. West-Vlaanderen
+   NUTS level 3: Arr. Oostende
+-
+   Code: BE256
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. West-Vlaanderen
+   NUTS level 3: Arr. Roeselare
+-
+   Code: BE257
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. West-Vlaanderen
+   NUTS level 3: Arr. Tielt
+-
+   Code: BE258
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+   NUTS level 2: Prov. West-Vlaanderen
+   NUTS level 3: Arr. Veurne
+-
+   Code: BE3
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: BE31
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Brabant Wallon
+   NUTS level 3:
+-
+   Code: BE310
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Brabant Wallon
+   NUTS level 3: Arr. Nivelles
+-
+   Code: BE32
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Hainaut
+   NUTS level 3:
+-
+   Code: BE323
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Hainaut
+   NUTS level 3: Arr. Mons
+-
+   Code: BE32A
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Hainaut
+   NUTS level 3: Arr. Ath
+-
+   Code: BE32B
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Hainaut
+   NUTS level 3: Arr. Charleroi
+-
+   Code: BE32C
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Hainaut
+   NUTS level 3: Arr. Soignies
+-
+   Code: BE32D
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Hainaut
+   NUTS level 3: Arr. Thuin
+-
+   Code: BE33
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Liège
+   NUTS level 3:
+-
+   Code: BE331
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Liège
+   NUTS level 3: Arr. Huy
+-
+   Code: BE332
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Liège
+   NUTS level 3: Arr. Liège
+-
+   Code: BE334
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Liège
+   NUTS level 3: Arr. Waremme
+-
+   Code: BE335
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Liège
+   NUTS level 3: Arr. Verviers — communes francophones
+-
+   Code: BE336
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Liège
+   NUTS level 3: Bezirk Verviers — Deutschsprachige Gemeinschaft
+-
+   Code: BE34
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Luxembourg (BE)
+   NUTS level 3:
+-
+   Code: BE341
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Luxembourg (BE)
+   NUTS level 3: Arr. Arlon
+-
+   Code: BE342
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Luxembourg (BE)
+   NUTS level 3: Arr. Bastogne
+-
+   Code: BE343
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Luxembourg (BE)
+   NUTS level 3: Arr. Marche-en-Famenne
+-
+   Code: BE344
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Luxembourg (BE)
+   NUTS level 3: Arr. Neufchâteau
+-
+   Code: BE345
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Luxembourg (BE)
+   NUTS level 3: Arr. Virton
+-
+   Code: BE35
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Namur
+   NUTS level 3:
+-
+   Code: BE351
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Namur
+   NUTS level 3: Arr. Dinant
+-
+   Code: BE352
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Namur
+   NUTS level 3: Arr. Namur
+-
+   Code: BE353
+   Country: Belgium
+   NUTS level 1: Région wallonne
+   NUTS level 2: Prov. Namur
+   NUTS level 3: Arr. Philippeville
+-
+   Code: BG3
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: BG31
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Northwest
+   NUTS level 3:
+-
+   Code: BG311
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Northwest
+   NUTS level 3: Vidin
+-
+   Code: BG312
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Northwest
+   NUTS level 3: Montana
+-
+   Code: BG313
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Northwest
+   NUTS level 3: Vratsa
+-
+   Code: BG314
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Northwest
+   NUTS level 3: Pleven
+-
+   Code: BG315
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Northwest
+   NUTS level 3: Lovech
+-
+   Code: BG32
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: North Central
+   NUTS level 3:
+-
+   Code: BG321
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: North Central
+   NUTS level 3: Veliko Tarnovo
+-
+   Code: BG322
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: North Central
+   NUTS level 3: Gabrovo
+-
+   Code: BG323
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: North Central
+   NUTS level 3: ruse
+-
+   Code: BG324
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: North Central
+   NUTS level 3: Razgrad
+-
+   Code: BG325
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: North Central
+   NUTS level 3: Silistra
+-
+   Code: BG33
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Northeast
+   NUTS level 3:
+-
+   Code: BG331
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Northeast
+   NUTS level 3: Varna
+-
+   Code: BG332
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Northeast
+   NUTS level 3: Dobrich
+-
+   Code: BG333
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Northeast
+   NUTS level 3: Shumen
+-
+   Code: BG334
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Northeast
+   NUTS level 3: Targovishte
+-
+   Code: BG34
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Southeast
+   NUTS level 3:
+-
+   Code: BG341
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Southeast
+   NUTS level 3: Burgas
+-
+   Code: BG342
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Southeast
+   NUTS level 3: Sliven
+-
+   Code: BG343
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Southeast
+   NUTS level 3: Yambol
+-
+   Code: BG344
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+   NUTS level 2: Southeast
+   NUTS level 3: Stara Zagora
+-
+   Code: BG4
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: BG41
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: Southwestern
+   NUTS level 3:
+-
+   Code: BG411
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: Southwestern
+   NUTS level 3: Sofia (capital)
+-
+   Code: BG412
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: Southwestern
+   NUTS level 3: Sofia
+-
+   Code: BG413
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: Southwestern
+   NUTS level 3: Blagoevgrad
+-
+   Code: BG414
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: Southwestern
+   NUTS level 3: Gingerbread
+-
+   Code: BG415
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: Southwestern
+   NUTS level 3: Kyustendil
+-
+   Code: BG42
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: South central
+   NUTS level 3:
+-
+   Code: BG421
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: South central
+   NUTS level 3: Plovdiv
+-
+   Code: BG422
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: South central
+   NUTS level 3: Haskovo
+-
+   Code: BG423
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: South central
+   NUTS level 3: Pazardzhik
+-
+   Code: BG424
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: South central
+   NUTS level 3: Smolyan
+-
+   Code: BG425
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+   NUTS level 2: South central
+   NUTS level 3: Kardzhali
+-
+   Code: CH0
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: CH01
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Région lémanique
+   NUTS level 3:
+-
+   Code: CH011
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Région lémanique
+   NUTS level 3: Vaud
+-
+   Code: CH012
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Région lémanique
+   NUTS level 3: Valais
+-
+   Code: CH013
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Région lémanique
+   NUTS level 3: Genève
+-
+   Code: CH02
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Espace Mittelland
+   NUTS level 3:
+-
+   Code: CH021
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Espace Mittelland
+   NUTS level 3: Bern
+-
+   Code: CH022
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Espace Mittelland
+   NUTS level 3: Freiburg
+-
+   Code: CH023
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Espace Mittelland
+   NUTS level 3: Solothurn
+-
+   Code: CH024
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Espace Mittelland
+   NUTS level 3: Neuchâtel
+-
+   Code: CH025
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Espace Mittelland
+   NUTS level 3: Jura
+-
+   Code: CH03
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Nordwestschweiz
+   NUTS level 3:
+-
+   Code: CH031
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Nordwestschweiz
+   NUTS level 3: Basel-Stadt
+-
+   Code: CH032
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Nordwestschweiz
+   NUTS level 3: Basel-Landschaft
+-
+   Code: CH033
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Nordwestschweiz
+   NUTS level 3: Aargau
+-
+   Code: CH04
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Zürich
+   NUTS level 3:
+-
+   Code: CH040
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Zürich
+   NUTS level 3: Zürich
+-
+   Code: CH05
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Ostschweiz
+   NUTS level 3:
+-
+   Code: CH051
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Ostschweiz
+   NUTS level 3: Glarus
+-
+   Code: CH052
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Ostschweiz
+   NUTS level 3: Schaffhausen
+-
+   Code: CH053
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Ostschweiz
+   NUTS level 3: Appenzell Ausserrhoden
+-
+   Code: CH054
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Ostschweiz
+   NUTS level 3: Appenzell Innerrhoden
+-
+   Code: CH055
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Ostschweiz
+   NUTS level 3: St. Gallen
+-
+   Code: CH056
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Ostschweiz
+   NUTS level 3: Graubünden
+-
+   Code: CH057
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Ostschweiz
+   NUTS level 3: Thurgau
+-
+   Code: CH06
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Zentralschweiz
+   NUTS level 3:
+-
+   Code: CH061
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Zentralschweiz
+   NUTS level 3: Luzern
+-
+   Code: CH062
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Zentralschweiz
+   NUTS level 3: Uri
+-
+   Code: CH063
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Zentralschweiz
+   NUTS level 3: Schwyz
+-
+   Code: CH064
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Zentralschweiz
+   NUTS level 3: Obwalden
+-
+   Code: CH065
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Zentralschweiz
+   NUTS level 3: Nidwalden
+-
+   Code: CH066
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Zentralschweiz
+   NUTS level 3: Zug
+-
+   Code: CH07
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Ticino
+   NUTS level 3:
+-
+   Code: CH070
+   Country: Switzerland
+   NUTS level 1: Switzerland
+   NUTS level 2: Ticino
+   NUTS level 3: Ticino
+-
+   Code: CY0
+   Country: Cyprus
+   NUTS level 1: Cyprus
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: CY00
+   Country: Cyprus
+   NUTS level 1: Cyprus
+   NUTS level 2: Cyprus
+   NUTS level 3:
+-
+   Code: CY000
+   Country: Cyprus
+   NUTS level 1: Cyprus
+   NUTS level 2: Cyprus
+   NUTS level 3: Cyprus
+-
+   Code: CZ0
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: CZ01
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Prague
+   NUTS level 3:
+-
+   Code: CZ010
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Prague
+   NUTS level 3: Capital City of Prague
+-
+   Code: CZ02
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Middle Bohemia
+   NUTS level 3:
+-
+   Code: CZ020
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Middle Bohemia
+   NUTS level 3: Central Bohemian Region
+-
+   Code: CZ03
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Southwest
+   NUTS level 3:
+-
+   Code: CZ031
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Southwest
+   NUTS level 3: South Bohemian Region
+-
+   Code: CZ032
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Southwest
+   NUTS level 3: Pilsen Region
+-
+   Code: CZ04
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Northwest
+   NUTS level 3:
+-
+   Code: CZ041
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Northwest
+   NUTS level 3: Karlovy Vary Region
+-
+   Code: CZ042
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Northwest
+   NUTS level 3: Usti Region
+-
+   Code: CZ05
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Northeast
+   NUTS level 3:
+-
+   Code: CZ051
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Northeast
+   NUTS level 3: Liberec region
+-
+   Code: CZ052
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Northeast
+   NUTS level 3: Hradec Kralove region
+-
+   Code: CZ053
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Northeast
+   NUTS level 3: Pardubice Region
+-
+   Code: CZ06
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Southeast
+   NUTS level 3:
+-
+   Code: CZ063
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Southeast
+   NUTS level 3: Highlands region
+-
+   Code: CZ064
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Southeast
+   NUTS level 3: South-Moravian region
+-
+   Code: CZ07
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Central Moravia
+   NUTS level 3:
+-
+   Code: CZ071
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Central Moravia
+   NUTS level 3: Olomouc region
+-
+   Code: CZ072
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Central Moravia
+   NUTS level 3: Zlín Region
+-
+   Code: CZ08
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Moravskoslezsko
+   NUTS level 3:
+-
+   Code: CZ080
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+   NUTS level 2: Moravskoslezsko
+   NUTS level 3: Moravian-Silesian Region
+-
+   Code: DE1
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DE11
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3:
+-
+   Code: DE111
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Stuttgart, Stadtkreis
+-
+   Code: DE112
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Böblingen
+-
+   Code: DE113
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Esslingen
+-
+   Code: DE114
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Göppingen
+-
+   Code: DE115
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Ludwigsburg
+-
+   Code: DE116
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Rems-Murr-Kreis
+-
+   Code: DE117
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Heilbronn, Stadtkreis
+-
+   Code: DE118
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Heilbronn, Landkreis
+-
+   Code: DE119
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Hohenlohekreis
+-
+   Code: DE11A
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Schwäbisch Hall
+-
+   Code: DE11B
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Main-Tauber-Kreis
+-
+   Code: DE11C
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Heidenheim
+-
+   Code: DE11D
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Stuttgart
+   NUTS level 3: Ostalbkreis
+-
+   Code: DE12
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3:
+-
+   Code: DE121
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Baden-Baden, Stadtkreis
+-
+   Code: DE122
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Karlsruhe, Stadtkreis
+-
+   Code: DE123
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Karlsruhe, Landkreis
+-
+   Code: DE124
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Rastatt
+-
+   Code: DE125
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Heidelberg, Stadtkreis
+-
+   Code: DE126
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Mannheim, Stadtkreis
+-
+   Code: DE127
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Neckar-Odenwald-Kreis
+-
+   Code: DE128
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Rhein-Neckar-Kreis
+-
+   Code: DE129
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Pforzheim, Stadtkreis
+-
+   Code: DE12A
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Calw
+-
+   Code: DE12B
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Enzkreis
+-
+   Code: DE12C
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Karlsruhe
+   NUTS level 3: Freudenstadt
+-
+   Code: DE13
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Freiburg
+   NUTS level 3:
+-
+   Code: DE131
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Freiburg
+   NUTS level 3: Freiburg im Breisgau, Stadtkreis
+-
+   Code: DE132
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Freiburg
+   NUTS level 3: Breisgau-Hochschwarzwald
+-
+   Code: DE133
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Freiburg
+   NUTS level 3: Emmendingen
+-
+   Code: DE134
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Freiburg
+   NUTS level 3: Ortenaukreis
+-
+   Code: DE135
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Freiburg
+   NUTS level 3: Rottweil
+-
+   Code: DE136
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Freiburg
+   NUTS level 3: Schwarzwald-Baar-Kreis
+-
+   Code: DE137
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Freiburg
+   NUTS level 3: Tuttlingen
+-
+   Code: DE138
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Freiburg
+   NUTS level 3: Konstanz
+-
+   Code: DE139
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Freiburg
+   NUTS level 3: Lörrach
+-
+   Code: DE13A
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Freiburg
+   NUTS level 3: Waldshut
+-
+   Code: DE14
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Tübingen
+   NUTS level 3:
+-
+   Code: DE141
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Tübingen
+   NUTS level 3: Reutlingen
+-
+   Code: DE142
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Tübingen
+   NUTS level 3: Tübingen, Landkreis
+-
+   Code: DE143
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Tübingen
+   NUTS level 3: Zollernalbkreis
+-
+   Code: DE144
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Tübingen
+   NUTS level 3: Ulm, Stadtkreis
+-
+   Code: DE145
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Tübingen
+   NUTS level 3: Alb-Donau-Kreis
+-
+   Code: DE146
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Tübingen
+   NUTS level 3: Biberach
+-
+   Code: DE147
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Tübingen
+   NUTS level 3: Bodenseekreis
+-
+   Code: DE148
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Tübingen
+   NUTS level 3: Ravensburg
+-
+   Code: DE149
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+   NUTS level 2: Tübingen
+   NUTS level 3: Sigmaringen
+-
+   Code: DE2
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DE21
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3:
+-
+   Code: DE211
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Ingolstadt, Kreisfreie Stadt
+-
+   Code: DE212
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: München, Kreisfreie Stadt
+-
+   Code: DE213
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Rosenheim, Kreisfreie Stadt
+-
+   Code: DE214
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Altötting
+-
+   Code: DE215
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Berchtesgadener Land
+-
+   Code: DE216
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Bad Tölz-Wolfratshausen
+-
+   Code: DE217
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Dachau
+-
+   Code: DE218
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Ebersberg
+-
+   Code: DE219
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Eichstätt
+-
+   Code: DE21A
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Erding
+-
+   Code: DE21B
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Freising
+-
+   Code: DE21C
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Fürstenfeldbruck
+-
+   Code: DE21D
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Garmisch-Partenkirchen
+-
+   Code: DE21E
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Landsberg am Lech
+-
+   Code: DE21F
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Miesbach
+-
+   Code: DE21G
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Mühldorf a. Inn
+-
+   Code: DE21H
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: München, Landkreis
+-
+   Code: DE21I
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Neuburg-Schrobenhausen
+-
+   Code: DE21J
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Pfaffenhofen a. d. Ilm
+-
+   Code: DE21K
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Rosenheim, Landkreis
+-
+   Code: DE21L
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Starnberg
+-
+   Code: DE21M
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Traunstein
+-
+   Code: DE21N
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberbayern
+   NUTS level 3: Weilheim-Schongau
+-
+   Code: DE22
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3:
+-
+   Code: DE221
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Landshut, Kreisfreie Stadt
+-
+   Code: DE222
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Passau, Kreisfreie Stadt
+-
+   Code: DE223
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Straubing, Kreisfreie Stadt
+-
+   Code: DE224
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Deggendorf
+-
+   Code: DE225
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Freyung-Grafenau
+-
+   Code: DE226
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Kelheim
+-
+   Code: DE227
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Landshut, Landkreis
+-
+   Code: DE228
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Passau, Landkreis
+-
+   Code: DE229
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Regen
+-
+   Code: DE22A
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Rottal-Inn
+-
+   Code: DE22B
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Straubing-Bogen
+-
+   Code: DE22C
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Niederbayern
+   NUTS level 3: Dingolfing-Landau
+-
+   Code: DE23
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberpfalz
+   NUTS level 3:
+-
+   Code: DE231
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberpfalz
+   NUTS level 3: Amberg, Kreisfreie Stadt
+-
+   Code: DE232
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberpfalz
+   NUTS level 3: Regensburg, Kreisfreie Stadt
+-
+   Code: DE233
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberpfalz
+   NUTS level 3: Weiden i. d. Opf, Kreisfreie Stadt
+-
+   Code: DE234
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberpfalz
+   NUTS level 3: Amberg-Sulzbach
+-
+   Code: DE235
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberpfalz
+   NUTS level 3: Cham
+-
+   Code: DE236
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberpfalz
+   NUTS level 3: Neumarkt i. d. OPf.
+-
+   Code: DE237
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberpfalz
+   NUTS level 3: Neustadt a. d. Waldnaab
+-
+   Code: DE238
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberpfalz
+   NUTS level 3: Regensburg, Landkreis
+-
+   Code: DE239
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberpfalz
+   NUTS level 3: Schwandorf
+-
+   Code: DE23A
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberpfalz
+   NUTS level 3: Tirschenreuth
+-
+   Code: DE24
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3:
+-
+   Code: DE241
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Bamberg, Kreisfreie Stadt
+-
+   Code: DE242
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Bayreuth, Kreisfreie Stadt
+-
+   Code: DE243
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Coburg, Kreisfreie Stadt
+-
+   Code: DE244
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Hof, Kreisfreie Stadt
+-
+   Code: DE245
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Bamberg, Landkreis
+-
+   Code: DE246
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Bayreuth, Landkreis
+-
+   Code: DE247
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Coburg, Landkreis
+-
+   Code: DE248
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Forchheim
+-
+   Code: DE249
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Hof, Landkreis
+-
+   Code: DE24A
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Kronach
+-
+   Code: DE24B
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Kulmbach
+-
+   Code: DE24C
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Lichtenfels
+-
+   Code: DE24D
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Oberfranken
+   NUTS level 3: Wunsiedel i. Fichtelgebirge
+-
+   Code: DE25
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3:
+-
+   Code: DE251
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Ansbach, Kreisfreie Stadt
+-
+   Code: DE252
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Erlangen, Kreisfreie Stadt
+-
+   Code: DE253
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Fürth, Kreisfreie Stadt
+-
+   Code: DE254
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Nürnberg, Kreisfreie Stadt
+-
+   Code: DE255
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Schwabach, Kreisfreie Stadt
+-
+   Code: DE256
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Ansbach, Landkreis
+-
+   Code: DE257
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Erlangen-Höchstadt
+-
+   Code: DE258
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Fürth, Landkreis
+-
+   Code: DE259
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Nürnberger Land
+-
+   Code: DE25A
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Neustadt a. d. Aisch-Bad Windsheim
+-
+   Code: DE25B
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Roth
+-
+   Code: DE25C
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Mittelfranken
+   NUTS level 3: Weißenburg-Gunzenhausen
+-
+   Code: DE26
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3:
+-
+   Code: DE261
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Aschaffenburg, Kreisfreie Stadt
+-
+   Code: DE262
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Schweinfurt, Kreisfreie Stadt
+-
+   Code: DE263
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Würzburg, Kreisfreie Stadt
+-
+   Code: DE264
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Aschaffenburg, Landkreis
+-
+   Code: DE265
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Bad Kissingen
+-
+   Code: DE266
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Rhön-Grabfeld
+-
+   Code: DE267
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Haßberge
+-
+   Code: DE268
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Kitzingen
+-
+   Code: DE269
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Miltenberg
+-
+   Code: DE26A
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Main-Spessart
+-
+   Code: DE26B
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Schweinfurt, Landkreis
+-
+   Code: DE26C
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Unterfranken
+   NUTS level 3: Würzburg, Landkreis
+-
+   Code: DE27
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3:
+-
+   Code: DE271
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Augsburg, Kreisfreie Stadt
+-
+   Code: DE272
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Kaufbeuren, Kreisfreie Stadt
+-
+   Code: DE273
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Kempten (Allgäu), Kreisfreie Stadt
+-
+   Code: DE274
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Memmingen, Kreisfreie Stadt
+-
+   Code: DE275
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Aichach-Friedberg
+-
+   Code: DE276
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Augsburg, Landkreis
+-
+   Code: DE277
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Dillingen a.d. Donau
+-
+   Code: DE278
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Günzburg
+-
+   Code: DE279
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Neu-Ulm
+-
+   Code: DE27A
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Lindau (Bodensee)
+-
+   Code: DE27B
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Ostallgäu
+-
+   Code: DE27C
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Unterallgäu
+-
+   Code: DE27D
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Donau-Ries
+-
+   Code: DE27E
+   Country: Germany
+   NUTS level 1: Bayern
+   NUTS level 2: Schwaben
+   NUTS level 3: Oberallgäu
+-
+   Code: DE3
+   Country: Germany
+   NUTS level 1: Berlin
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DE30
+   Country: Germany
+   NUTS level 1: Berlin
+   NUTS level 2: Berlin
+   NUTS level 3:
+-
+   Code: DE300
+   Country: Germany
+   NUTS level 1: Berlin
+   NUTS level 2: Berlin
+   NUTS level 3: Berlin
+-
+   Code: DE4
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DE40
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3:
+-
+   Code: DE401
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Brandenburg an der Havel, Kreisfreie Stadt
+-
+   Code: DE402
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Cottbus, Kreisfreie Stadt
+-
+   Code: DE403
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Frankfurt (Oder), Kreisfreie Stadt
+-
+   Code: DE404
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Potsdam, Kreisfreie Stadt
+-
+   Code: DE405
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Barnim
+-
+   Code: DE406
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Dahme-Spreewald
+-
+   Code: DE407
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Elbe-Elster
+-
+   Code: DE408
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Havelland
+-
+   Code: DE409
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Märkisch-Oderland
+-
+   Code: DE40A
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Oberhavel
+-
+   Code: DE40B
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Oberspreewald-Lausitz
+-
+   Code: DE40C
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Oder-Spree
+-
+   Code: DE40D
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Ostprignitz-Ruppin
+-
+   Code: DE40E
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Potsdam-Mittelmark
+-
+   Code: DE40F
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Prignitz
+-
+   Code: DE40G
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Spree-Neiße
+-
+   Code: DE40H
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Teltow-Fläming
+-
+   Code: DE40I
+   Country: Germany
+   NUTS level 1: Brandenburg
+   NUTS level 2: Brandenburg
+   NUTS level 3: Uckermark
+-
+   Code: DE5
+   Country: Germany
+   NUTS level 1: Bremen
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DE50
+   Country: Germany
+   NUTS level 1: Bremen
+   NUTS level 2: Bremen
+   NUTS level 3:
+-
+   Code: DE501
+   Country: Germany
+   NUTS level 1: Bremen
+   NUTS level 2: Bremen
+   NUTS level 3: Bremen, Kreisfreie Stadt
+-
+   Code: DE502
+   Country: Germany
+   NUTS level 1: Bremen
+   NUTS level 2: Bremen
+   NUTS level 3: Bremerhaven, Kreisfreie Stadt
+-
+   Code: DE6
+   Country: Germany
+   NUTS level 1: Hamburg
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DE60
+   Country: Germany
+   NUTS level 1: Hamburg
+   NUTS level 2: Hamburg
+   NUTS level 3:
+-
+   Code: DE600
+   Country: Germany
+   NUTS level 1: Hamburg
+   NUTS level 2: Hamburg
+   NUTS level 3: Hamburg
+-
+   Code: DE7
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DE71
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3:
+-
+   Code: DE711
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Darmstadt, Kreisfreie Stadt
+-
+   Code: DE712
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Frankfurt am Main, Kreisfreie Stadt
+-
+   Code: DE713
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Offenbach am Main, Kreisfreie Stadt
+-
+   Code: DE714
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Wiesbaden, Kreisfreie Stadt
+-
+   Code: DE715
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Bergstraße
+-
+   Code: DE716
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Darmstadt-Dieburg
+-
+   Code: DE717
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Groß-Gerau
+-
+   Code: DE718
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Hochtaunuskreis
+-
+   Code: DE719
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Main-Kinzig-Kreis
+-
+   Code: DE71A
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Main-Taunus-Kreis
+-
+   Code: DE71B
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Odenwaldkreis
+-
+   Code: DE71C
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Offenbach, Landkreis
+-
+   Code: DE71D
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Rheingau-Taunus-Kreis
+-
+   Code: DE71E
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Darmstadt
+   NUTS level 3: Wetteraukreis
+-
+   Code: DE72
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Gießen
+   NUTS level 3:
+-
+   Code: DE721
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Gießen
+   NUTS level 3: Gießen, Landkreis
+-
+   Code: DE722
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Gießen
+   NUTS level 3: Lahn-Dill-Kreis
+-
+   Code: DE723
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Gießen
+   NUTS level 3: Limburg-Weilburg
+-
+   Code: DE724
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Gießen
+   NUTS level 3: Marburg-Biedenkopf
+-
+   Code: DE725
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Gießen
+   NUTS level 3: Vogelsbergkreis
+-
+   Code: DE73
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Kassel
+   NUTS level 3:
+-
+   Code: DE731
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Kassel
+   NUTS level 3: Kassel, Kreisfreie Stadt
+-
+   Code: DE732
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Kassel
+   NUTS level 3: Fulda
+-
+   Code: DE733
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Kassel
+   NUTS level 3: Hersfeld-Rotenburg
+-
+   Code: DE734
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Kassel
+   NUTS level 3: Kassel, Landkreis
+-
+   Code: DE735
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Kassel
+   NUTS level 3: Schwalm-Eder-Kreis
+-
+   Code: DE736
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Kassel
+   NUTS level 3: Waldeck-Frankenberg
+-
+   Code: DE737
+   Country: Germany
+   NUTS level 1: Hessen
+   NUTS level 2: Kassel
+   NUTS level 3: Werra-Meißner-Kreis
+-
+   Code: DE8
+   Country: Germany
+   NUTS level 1: Mecklenburg-Vorpommern
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DE80
+   Country: Germany
+   NUTS level 1: Mecklenburg-Vorpommern
+   NUTS level 2: Mecklenburg-Vorpommern
+   NUTS level 3:
+-
+   Code: DE803
+   Country: Germany
+   NUTS level 1: Mecklenburg-Vorpommern
+   NUTS level 2: Mecklenburg-Vorpommern
+   NUTS level 3: Rostock, Kreisfreie Stadt
+-
+   Code: DE804
+   Country: Germany
+   NUTS level 1: Mecklenburg-Vorpommern
+   NUTS level 2: Mecklenburg-Vorpommern
+   NUTS level 3: Schwerin, Kreisfreie Stadt
+-
+   Code: DE80J
+   Country: Germany
+   NUTS level 1: Mecklenburg-Vorpommern
+   NUTS level 2: Mecklenburg-Vorpommern
+   NUTS level 3: Mecklenburgische Seenplatte
+-
+   Code: DE80K
+   Country: Germany
+   NUTS level 1: Mecklenburg-Vorpommern
+   NUTS level 2: Mecklenburg-Vorpommern
+   NUTS level 3: Landkreis Rostock
+-
+   Code: DE80L
+   Country: Germany
+   NUTS level 1: Mecklenburg-Vorpommern
+   NUTS level 2: Mecklenburg-Vorpommern
+   NUTS level 3: Vorpommern-Rügen
+-
+   Code: DE80M
+   Country: Germany
+   NUTS level 1: Mecklenburg-Vorpommern
+   NUTS level 2: Mecklenburg-Vorpommern
+   NUTS level 3: Nordwestmecklenburg
+-
+   Code: DE80N
+   Country: Germany
+   NUTS level 1: Mecklenburg-Vorpommern
+   NUTS level 2: Mecklenburg-Vorpommern
+   NUTS level 3: Vorpommern-Greifswald
+-
+   Code: DE80O
+   Country: Germany
+   NUTS level 1: Mecklenburg-Vorpommern
+   NUTS level 2: Mecklenburg-Vorpommern
+   NUTS level 3: Ludwigslust-Parchim
+-
+   Code: DE9
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DE91
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Braunschweig
+   NUTS level 3:
+-
+   Code: DE911
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Braunschweig
+   NUTS level 3: Braunschweig, Kreisfreie Stadt
+-
+   Code: DE912
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Braunschweig
+   NUTS level 3: Salzgitter, Kreisfreie Stadt
+-
+   Code: DE913
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Braunschweig
+   NUTS level 3: Wolfsburg, Kreisfreie Stadt
+-
+   Code: DE914
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Braunschweig
+   NUTS level 3: Gifhorn
+-
+   Code: DE916
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Braunschweig
+   NUTS level 3: Goslar
+-
+   Code: DE917
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Braunschweig
+   NUTS level 3: Helmstedt
+-
+   Code: DE918
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Braunschweig
+   NUTS level 3: Northeim
+-
+   Code: DE91A
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Braunschweig
+   NUTS level 3: Peine
+-
+   Code: DE91B
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Braunschweig
+   NUTS level 3: Wolfenbüttel
+-
+   Code: DE91C
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Braunschweig
+   NUTS level 3: Göttingen
+-
+   Code: DE92
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Hannover
+   NUTS level 3:
+-
+   Code: DE922
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Hannover
+   NUTS level 3: Diepholz
+-
+   Code: DE923
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Hannover
+   NUTS level 3: Hameln-Pyrmont
+-
+   Code: DE925
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Hannover
+   NUTS level 3: Hildesheim
+-
+   Code: DE926
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Hannover
+   NUTS level 3: Holzminden
+-
+   Code: DE927
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Hannover
+   NUTS level 3: Nienburg (Weser)
+-
+   Code: DE928
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Hannover
+   NUTS level 3: Schaumburg
+-
+   Code: DE929
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Hannover
+   NUTS level 3: Region Hannover
+-
+   Code: DE93
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3:
+-
+   Code: DE931
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3: Celle
+-
+   Code: DE932
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3: Cuxhaven
+-
+   Code: DE933
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3: Harburg
+-
+   Code: DE934
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3: Lüchow-Dannenberg
+-
+   Code: DE935
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3: Lüneburg, Landkreis
+-
+   Code: DE936
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3: Osterholz
+-
+   Code: DE937
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3: Rotenburg (Wümme)
+-
+   Code: DE938
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3: Heidekreis
+-
+   Code: DE939
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3: Stade
+-
+   Code: DE93A
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3: Uelzen
+-
+   Code: DE93B
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Lüneburg
+   NUTS level 3: Verden
+-
+   Code: DE94
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3:
+-
+   Code: DE941
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Delmenhorst, Kreisfreie Stadt
+-
+   Code: DE942
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Emden, Kreisfreie Stadt
+-
+   Code: DE943
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Oldenburg (Oldenburg), Kreisfreie Stadt
+-
+   Code: DE944
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Osnabrück, Kreisfreie Stadt
+-
+   Code: DE945
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Wilhelmshaven, Kreisfreie Stadt
+-
+   Code: DE946
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Ammerland
+-
+   Code: DE947
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Aurich
+-
+   Code: DE948
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Cloppenburg
+-
+   Code: DE949
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Emsland
+-
+   Code: DE94A
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Friesland (DE)
+-
+   Code: DE94B
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Grafschaft Bentheim
+-
+   Code: DE94C
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Leer
+-
+   Code: DE94D
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Oldenburg, Landkreis
+-
+   Code: DE94E
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Osnabrück, Landkreis
+-
+   Code: DE94F
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Vechta
+-
+   Code: DE94G
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Wesermarsch
+-
+   Code: DE94H
+   Country: Germany
+   NUTS level 1: Niedersachsen
+   NUTS level 2: Weser-Ems
+   NUTS level 3: Wittmund
+-
+   Code: DEA
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DEA1
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3:
+-
+   Code: DEA11
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Düsseldorf, Kreisfreie Stadt
+-
+   Code: DEA12
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Duisburg, Kreisfreie Stadt
+-
+   Code: DEA13
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Essen, Kreisfreie Stadt
+-
+   Code: DEA14
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Krefeld, Kreisfreie Stadt
+-
+   Code: DEA15
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Mönchengladbach, Kreisfreie Stadt
+-
+   Code: DEA16
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Mülheim an der Ruhr, Kreisfreie Stadt
+-
+   Code: DEA17
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Oberhausen, Kreisfreie Stadt
+-
+   Code: DEA18
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Remscheid, Kreisfreie Stadt
+-
+   Code: DEA19
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Solingen, Kreisfreie Stadt
+-
+   Code: DEA1A
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Wuppertal, Kreisfreie Stadt
+-
+   Code: DEA1B
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Kleve
+-
+   Code: DEA1C
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Mettmann
+-
+   Code: DEA1D
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Rhein-Kreis Neuss
+-
+   Code: DEA1E
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Viersen
+-
+   Code: DEA1F
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Düsseldorf
+   NUTS level 3: Wesel
+-
+   Code: DEA2
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3:
+-
+   Code: DEA22
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3: Bonn, Kreisfreie Stadt
+-
+   Code: DEA23
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3: Köln, Kreisfreie Stadt
+-
+   Code: DEA24
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3: Leverkusen, Kreisfreie Stadt
+-
+   Code: DEA26
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3: Düren
+-
+   Code: DEA27
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3: Rhein-Erft-Kreis
+-
+   Code: DEA28
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3: Euskirchen
+-
+   Code: DEA29
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3: Heinsberg
+-
+   Code: DEA2A
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3: Oberbergischer Kreis
+-
+   Code: DEA2B
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3: Rheinisch-Bergischer Kreis
+-
+   Code: DEA2C
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3: Rhein-Sieg-Kreis
+-
+   Code: DEA2D
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Köln
+   NUTS level 3: Städteregion Aachen
+-
+   Code: DEA3
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Münster
+   NUTS level 3:
+-
+   Code: DEA31
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Münster
+   NUTS level 3: Bottrop, Kreisfreie Stadt
+-
+   Code: DEA32
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Münster
+   NUTS level 3: Gelsenkirchen, Kreisfreie Stadt
+-
+   Code: DEA33
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Münster
+   NUTS level 3: Münster, Kreisfreie Stadt
+-
+   Code: DEA34
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Münster
+   NUTS level 3: Borken
+-
+   Code: DEA35
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Münster
+   NUTS level 3: Coesfeld
+-
+   Code: DEA36
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Münster
+   NUTS level 3: Recklinghausen
+-
+   Code: DEA37
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Münster
+   NUTS level 3: Steinfurt
+-
+   Code: DEA38
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Münster
+   NUTS level 3: Warendorf
+-
+   Code: DEA4
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Detmold
+   NUTS level 3:
+-
+   Code: DEA41
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Detmold
+   NUTS level 3: Bielefeld, Kreisfreie Stadt
+-
+   Code: DEA42
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Detmold
+   NUTS level 3: Gütersloh
+-
+   Code: DEA43
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Detmold
+   NUTS level 3: Herford
+-
+   Code: DEA44
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Detmold
+   NUTS level 3: Höxter
+-
+   Code: DEA45
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Detmold
+   NUTS level 3: Lippe
+-
+   Code: DEA46
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Detmold
+   NUTS level 3: Minden-Lübbecke
+-
+   Code: DEA47
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Detmold
+   NUTS level 3: Paderborn
+-
+   Code: DEA5
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3:
+-
+   Code: DEA51
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Bochum, Kreisfreie Stadt
+-
+   Code: DEA52
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Dortmund, Kreisfreie Stadt
+-
+   Code: DEA53
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Hagen, Kreisfreie Stadt
+-
+   Code: DEA54
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Hamm, Kreisfreie Stadt
+-
+   Code: DEA55
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Herne, Kreisfreie Stadt
+-
+   Code: DEA56
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Ennepe-Ruhr-Kreis
+-
+   Code: DEA57
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Hochsauerlandkreis
+-
+   Code: DEA58
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Märkischer Kreis
+-
+   Code: DEA59
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Olpe
+-
+   Code: DEA5A
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Siegen-Wittgenstein
+-
+   Code: DEA5B
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Soest
+-
+   Code: DEA5C
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+   NUTS level 2: Arnsberg
+   NUTS level 3: Unna
+-
+   Code: DEB
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DEB1
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3:
+-
+   Code: DEB11
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3: Koblenz, Kreisfreie Stadt
+-
+   Code: DEB12
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3: Ahrweiler
+-
+   Code: DEB13
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3: Altenkirchen (Westerwald)
+-
+   Code: DEB14
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3: Bad Kreuznach
+-
+   Code: DEB15
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3: Birkenfeld
+-
+   Code: DEB17
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3: Mayen-Koblenz
+-
+   Code: DEB18
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3: Neuwied
+-
+   Code: DEB1A
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3: Rhein-Lahn-Kreis
+-
+   Code: DEB1B
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3: Westerwaldkreis
+-
+   Code: DEB1C
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3: Cochem-Zell
+-
+   Code: DEB1D
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Koblenz
+   NUTS level 3: Rhein-Hunsrück-Kreis
+-
+   Code: DEB2
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Trier
+   NUTS level 3:
+-
+   Code: DEB21
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Trier
+   NUTS level 3: Trier, Kreisfreie Stadt
+-
+   Code: DEB22
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Trier
+   NUTS level 3: Bernkastel-Wittlich
+-
+   Code: DEB23
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Trier
+   NUTS level 3: Eifelkreis Bitburg-Prüm
+-
+   Code: DEB24
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Trier
+   NUTS level 3: Vulkaneifel
+-
+   Code: DEB25
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Trier
+   NUTS level 3: Trier-Saarburg
+-
+   Code: DEB3
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3:
+-
+   Code: DEB31
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Frankenthal (Pfalz), Kreisfreie Stadt
+-
+   Code: DEB32
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Kaiserslautern, Kreisfreie Stadt
+-
+   Code: DEB33
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Landau in der Pfalz, Kreisfreie Stadt
+-
+   Code: DEB34
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Ludwigshafen am Rhein, Kreisfreie Stadt
+-
+   Code: DEB35
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Mainz, Kreisfreie Stadt
+-
+   Code: DEB36
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Neustadt an der Weinstraße, Kreisfreie Stadt
+-
+   Code: DEB37
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Pirmasens, Kreisfreie Stadt
+-
+   Code: DEB38
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Speyer, Kreisfreie Stadt
+-
+   Code: DEB39
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Worms, Kreisfreie Stadt
+-
+   Code: DEB3A
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Zweibrücken, Kreisfreie Stadt
+-
+   Code: DEB3B
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Alzey-Worms
+-
+   Code: DEB3C
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Bad Dürkheim
+-
+   Code: DEB3D
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Donnersbergkreis
+-
+   Code: DEB3E
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Germersheim
+-
+   Code: DEB3F
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Kaiserslautern, Landkreis
+-
+   Code: DEB3G
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Kusel
+-
+   Code: DEB3H
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Südliche Weinstraße
+-
+   Code: DEB3I
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Rhein-Pfalz-Kreis
+-
+   Code: DEB3J
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Mainz-Bingen
+-
+   Code: DEB3K
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+   NUTS level 2: Rheinhessen-Pfalz
+   NUTS level 3: Südwestpfalz
+-
+   Code: DEC
+   Country: Germany
+   NUTS level 1: Saarland
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DEC0
+   Country: Germany
+   NUTS level 1: Saarland
+   NUTS level 2: Saarland
+   NUTS level 3:
+-
+   Code: DEC01
+   Country: Germany
+   NUTS level 1: Saarland
+   NUTS level 2: Saarland
+   NUTS level 3: Regionalverband Saarbrücken
+-
+   Code: DEC02
+   Country: Germany
+   NUTS level 1: Saarland
+   NUTS level 2: Saarland
+   NUTS level 3: Merzig-Wadern
+-
+   Code: DEC03
+   Country: Germany
+   NUTS level 1: Saarland
+   NUTS level 2: Saarland
+   NUTS level 3: Neunkirchen
+-
+   Code: DEC04
+   Country: Germany
+   NUTS level 1: Saarland
+   NUTS level 2: Saarland
+   NUTS level 3: Saarlouis
+-
+   Code: DEC04
+   Country: Germany
+   NUTS level 1: Saarland
+   NUTS level 2: Saarland
+   NUTS level 3: Saarpfalz-Kreis
+-
+   Code: DEC05
+   Country: Germany
+   NUTS level 1: Saarland
+   NUTS level 2: Saarland
+   NUTS level 3: St. Wendel
+-
+   Code: DED
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DED2
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Dresden
+   NUTS level 3:
+-
+   Code: DED21
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Dresden
+   NUTS level 3: Dresden, Kreisfreie Stadt
+-
+   Code: DED2C
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Dresden
+   NUTS level 3: Bautzen
+-
+   Code: DED2D
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Dresden
+   NUTS level 3: Görlitz
+-
+   Code: DED2E
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Dresden
+   NUTS level 3: Meißen
+-
+   Code: DED2F
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Dresden
+   NUTS level 3: Sächsische Schweiz-Osterzgebirge
+-
+   Code: DED4
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Chemnitz
+   NUTS level 3:
+-
+   Code: DED41
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Chemnitz
+   NUTS level 3: Chemnitz, Kreisfreie Stadt
+-
+   Code: DED42
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Chemnitz
+   NUTS level 3: Erzgebirgskreis
+-
+   Code: DED43
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Chemnitz
+   NUTS level 3: Mittelsachsen
+-
+   Code: DED44
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Chemnitz
+   NUTS level 3: Vogtlandkreis
+-
+   Code: DED45
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Chemnitz
+   NUTS level 3: Zwickau
+-
+   Code: DED5
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Leipzig
+   NUTS level 3:
+-
+   Code: DED51
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Leipzig
+   NUTS level 3: Leipzig, Kreisfreie Stadt
+-
+   Code: DED52
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Leipzig
+   NUTS level 3: Leipzig
+-
+   Code: DED53
+   Country: Germany
+   NUTS level 1: Sachsen
+   NUTS level 2: Leipzig
+   NUTS level 3: Nordsachsen
+-
+   Code: DEE
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DEE0
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3:
+-
+   Code: DEE01
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Dessau-Roßlau, Kreisfreie Stadt
+-
+   Code: DEE02
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Halle (Saale), Kreisfreie Stadt
+-
+   Code: DEE03
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Magdeburg, Kreisfreie Stadt
+-
+   Code: DEE04
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Altmarkkreis Salzwedel
+-
+   Code: DEE05
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Anhalt-Bitterfeld
+-
+   Code: DEE06
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Jerichower Land
+-
+   Code: DEE07
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Börde
+-
+   Code: DEE08
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Burgenlandkreis
+-
+   Code: DEE09
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Harz
+-
+   Code: DEE0A
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Mansfeld-Südharz
+-
+   Code: DEE0B
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Saalekreis
+-
+   Code: DEE0C
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Salzlandkreis
+-
+   Code: DEE0D
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Stendal
+-
+   Code: DEE0E
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+   NUTS level 2: Sachsen-Anhalt
+   NUTS level 3: Wittenberg
+-
+   Code: DEF
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DEF0
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3:
+-
+   Code: DEF01
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Flensburg, Kreisfreie Stadt
+-
+   Code: DEF02
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Kiel, Kreisfreie Stadt
+-
+   Code: DEF03
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Lübeck, Kreisfreie Stadt
+-
+   Code: DEF04
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Neumünster, Kreisfreie Stadt
+-
+   Code: DEF05
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Dithmarschen
+-
+   Code: DEF06
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Herzogtum Lauenburg
+-
+   Code: DEF07
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Nordfriesland
+-
+   Code: DEF08
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Ostholstein
+-
+   Code: DEF09
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Pinneberg
+-
+   Code: DEF0A
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Plön
+-
+   Code: DEF0B
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Rendsburg-Eckernförde
+-
+   Code: DEF0C
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Schleswig-Flensburg
+-
+   Code: DEF0D
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Segeberg
+-
+   Code: DEF0E
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Steinburg
+-
+   Code: DEF0F
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+   NUTS level 2: Schleswig-Holstein
+   NUTS level 3: Stormarn
+-
+   Code: DEG
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DEG0
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3:
+-
+   Code: DEG01
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Erfurt, Kreisfreie Stadt
+-
+   Code: DEG02
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Gera, Kreisfreie Stadt
+-
+   Code: DEG03
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Jena, Kreisfreie Stadt
+-
+   Code: DEG04
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Suhl, Kreisfreie Stadt
+-
+   Code: DEG05
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Weimar, Kreisfreie Stadt
+-
+   Code: DEG06
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Eichsfeld
+-
+   Code: DEG07
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Nordhausen
+-
+   Code: DEG09
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Unstrut-Hainich-Kreis
+-
+   Code: DEG0A
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Kyffhäuserkreis
+-
+   Code: DEG0B
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Schmalkalden-Meiningen
+-
+   Code: DEG0C
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Gotha
+-
+   Code: DEG0D
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Sömmerda
+-
+   Code: DEG0E
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Hildburghausen
+-
+   Code: DEG0F
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Ilm-Kreis
+-
+   Code: DEG0G
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Weimarer Land
+-
+   Code: DEG0H
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Sonneberg
+-
+   Code: DEG0I
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Saalfeld-Rudolstadt
+-
+   Code: DEG0J
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Saale-Holzland-Kreis
+-
+   Code: DEG0K
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Saale-Orla-Kreis
+-
+   Code: DEG0L
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Greiz
+-
+   Code: DEG0M
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Altenburger Land
+-
+   Code: DEG0N
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Eisenach, Kreisfreie Stadt
+-
+   Code: DEG0P
+   Country: Germany
+   NUTS level 1: Thüringen
+   NUTS level 2: Thüringen
+   NUTS level 3: Wartburgkreis
+-
+   Code: DK0
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2:
+   NUTS level 3:
+-
+   Code: DK01
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Hovedstaden
+   NUTS level 3:
+-
+   Code: DK011
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Hovedstaden
+   NUTS level 3: Byen København
+-
+   Code: DK012
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Hovedstaden
+   NUTS level 3: Københavns omegn
+-
+   Code: DK013
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Hovedstaden
+   NUTS level 3: Nordsjælland
+-
+   Code: DK014
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Hovedstaden
+   NUTS level 3: Bornholm
+-
+   Code: DK02
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Sjælland
+   NUTS level 3:
+-
+   Code: DK021
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Sjælland
+   NUTS level 3: Østsjælland
+-
+   Code: DK022
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Sjælland
+   NUTS level 3: Vest- og Sydsjælland
+-
+   Code: DK03
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Syddanmark
+   NUTS level 3:
+-
+   Code: DK031
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Syddanmark
+   NUTS level 3: Fyn
+-
+   Code: DK032
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Syddanmark
+   NUTS level 3: Sydjylland
+-
+   Code: DK04
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Midtjylland
+   NUTS level 3:
+-
+   Code: DK041
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Midtjylland
+   NUTS level 3: Vestjylland
+-
+   Code: DK042
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Midtjylland
+   NUTS level 3: Østjylland
+-
+   Code: DK05
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Nordjylland
+   NUTS level 3:
+-
+   Code: DK050
+   Country: Denmark
+   NUTS level 1: Denmark
+   NUTS level 2: Nordjylland
+   NUTS level 3: Nordjylland
