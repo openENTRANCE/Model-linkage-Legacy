@@ -1,3 +1,164 @@
----
-martin: {name: Martin D'vloper, job: Developer, skill: Elite}
-['Apple', 'Orange', 'Strawberry', 'Mango']
+-
+   Code: CCE
+   European: Continental-Central-Europe
+   Country: Austria
+-
+   Code: CCE
+   European: Continental-Central-Europe
+   Country: Czech Republic
+-
+   Code: CCE
+   European: Continental-Central-Europe
+   Country: Germany
+-
+   Code: CCE
+   European: Continental-Central-Europe
+   Country: Hungary
+-
+   Code: CCE
+   European: Continental-Central-Europe
+   Country: Liechtenstein
+-
+   Code: CCE
+   European: Continental-Central-Europe
+   Country: Poland
+-
+   Code: CCE
+   European: Continental-Central-Europe
+   Country: Slovakia
+-
+   Code: CCE
+   European: Continental-Central-Europe
+   Country: Switzerland
+-
+   Code: NEE
+   European: Northeastern-Europe
+   Country: Denmark
+-
+   Code: NEE
+   European: Northeastern-Europe
+   Country: Estonia
+-
+   Code: NEE
+   European: Northeastern-Europe
+   Country: Latvia
+-
+   Code: NEE
+   European: Northeastern-Europe
+   Country: Finland
+-
+   Code: NEE
+   European: Northeastern-Europe
+   Country: Germany
+-
+   Code: NEE
+   European: Northeastern-Europe
+   Country: Lithuania
+-
+   Code: NEE
+   European: Northeastern-Europe
+   Country: Poland
+-
+   Code: NEE
+   European: Northeastern-Europe
+   Country: Sweden
+-
+   Code: NEW
+   European: Northwestern-Europe
+   Country: Belgium
+-
+   Code: NEW
+   European: Northwestern-Europe
+   Country: Denmark
+-
+   Code: NEW
+   European: Northwestern-Europe
+   Country: France
+-
+   Code: NEW
+   European: Northwestern-Europe
+   Country: Germany
+-
+   Code: NEW
+   European: Northwestern-Europe
+   Country: Luxembourg
+-
+   Code: NEW
+   European: Northwestern-Europe
+   Country: Netherlands
+-
+   Code: NEW
+   European: Northwestern-Europe
+   Country: Norway
+-
+   Code: NEW
+   European: Northwestern-Europe
+   Country: Sweden
+-
+   Code: NEW
+   European: Northwestern-Europe
+   Country: United Kingdom
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Albania
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Bosnia and Herzegovina
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Croatia
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Cyprus
+-
+   Code: STE
+   European: Southern-Europe
+   Country: France
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Greece
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Italy
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Malta
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Montenegro
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Portugal
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Romania
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Serbia
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Slovenia
+-
+   Code: STE
+   European: Southern-Europe
+   Country: Spain
+-
+   Code: SWE
+   European: Southwestern-Europe
+   Country: Portugal
+-
+   Code: SWE
+   European: Southwestern-Europe
+   Country: Spain
