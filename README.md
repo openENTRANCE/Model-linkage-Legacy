@@ -78,29 +78,29 @@ We propose the following levels for the definition of the locations to be consid
 A **greater than** sign (>) is used to express the direction of links. For example, **node1 > node2 | circuit1** indicates that we refer to circuit1 connecting node1 and node2, from the former to the latter. Bidirectional data must be declared separately for each direction but using only the greater sign.
 For example, possible values can be:
 
->	CCE|DE|Bayern|Oberbayern|München|Node001
+>	Germany|DE21H|Node001
 
-Where only the **Node001** that belongs to the city of München is defined.
+Where only the **Node001** that belongs to the city of **München** through the code *DE21H* (and München is located in the zone of **Oberbayern**) is defined.
 
->	CCE|DE|Bayern|Oberbayern
+>	Germany|DE21
 
-Where only the zone of **Oberbayern** is defined.
+Where only the zone of **Oberbayern** is defined through the code *DE21*.
 
->	CCE|DE|Bayern
+>	Bayern|DE2
 
-Where only the area of **Bayern** is defined.
-
+Where only the area of **Bayern** is defined through the code *De2*.
+<!--
 >	CCE|DE
 
 Where only the country is defined
 
 >	CCE
 
-Where only the region is defined
+Where only the region is defined -->
 
->	Munich>Salzburg-und-Umgebung|AC01
+>	DE21H>AT323|AC01
 
-Defines the electrical circuit **AC01** between **Munich** and **Salzburg-und-Umgebung**.
+Defines the electrical circuit **AC01** between **Munich** (NUTS code: *DE21H*) and **Salzburg-und-Umgebung** (NUTS code: *AT323*).
 For the geographical links (such as electrical circuits), it is important to connect locations at the same level. I.e. NUTS 1 with NUTS 1 or district with district.
 
 
