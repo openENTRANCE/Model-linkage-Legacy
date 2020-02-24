@@ -43,7 +43,7 @@ This dictionary of model can be linked through this exchange format. Given the i
 
 > openTEPES|1.6.12
 
-More details could be found [here](Model/README.md).
+More details can be found [here](Model/README.md).
 
 
 ## 2. Scenario
