@@ -1451,22 +1451,65 @@ PT185,,,,Lezíria do Tejo
 PT186,,,,Alto Alentejo
 PT187,,,,Alentejo Central
 PT2,Portugal,Região Autónoma dos Açores,,
-PT20,,,,
+PT20,,,Região Autónoma dos Açores,
 PT200,,,,Região Autónoma dos Açores
 PT3,Portugal,Região Autónoma da Madeira,,
-PT30,,,,
+PT30,,,Região Autónoma da Madeira,
 PT300,,,,Região Autónoma da Madeira
+RO1,Romania,Macroregion One,,
 RO11,,,Nord-Vest,
+RO111,,,,Bihor
+RO112,,,,Bistrita-N?s?ud
+RO113,,,,Cluj
+RO114,,,,Maramures
+RO115,,,,Satu Mare
+RO116,,,,S?laj
 RO12,,,Centru,
+RO121,,,,Alba
+RO122,,,,Brasov
+RO123,,,,Covasna
+RO124,,,,Harghita
+RO125,,,,Mures
+RO126,,,,Sibiu
 RO2,Romania,Macroregion Two,,
 RO21,,,Nord-Est,
+RO211,,,,Bac?u
+RO212,,,,Botosani
+RO213,,,,Iasi
+RO214,,,,Neamt
+RO215,,,,Suceava
+RO216,,,,Vaslui
 RO22,,,Sud-Est,
+RO221,,,,Br?ila
+RO222,,,,Buz?u
+RO223,,,,Constanta
+RO224,,,,Galati
+RO225,,,,Tulcea
+RO226,,,,Vrancea
 RO3,Romania,Macroregion Three,,
 RO31,,,Sud-Muntenia,
-RO32,,,Bucure?ti-Ilfov,
+RO311,,,,Arges
+RO312,,,,C?l?rasi
+RO313,,,,Dâmbovita
+RO314,,,,Giurgiu
+RO315,,,,Ialomita
+RO316,,,,Prahova
+RO317,,,,Teleorman
+RO32,,,Bucuresti-Ilfov,
+RO321,,,,Bucuresti
+RO322,, ,,Ilfov
 RO4,Romania,Macroregion Four,,
 RO41,,,Sud-Vest Oltenia,
+RO411,,,,Dolj
+RO412,,,,Gorj
+RO413,,,,Mehedinti
+RO414,,,,Olt
+RO415,,,,Vâlcea
 RO42,,,Vest,
+RO421,,,,Arad
+RO422,,,,Caras-Severin
+RO423,,,,Hunedoara
+RO424,,,,Timis
 RS1,Serbia,Serbia - North,,
 RS11,,,Belgrade region,
 RS12,,,Region of Vojvodina,
