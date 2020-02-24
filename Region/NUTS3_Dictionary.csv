@@ -1423,15 +1423,39 @@ PL925,,,,Siedlecki
 PL926,,,,Zyrardowski
 PT1,Portugal,Continente,,
 PT11,,,Norte,
+PT111,,,,Alto Minho
+PT112,,,,Cávado
+PT119,,,,Ave
+PT11A,,,,Área Metropolitana do Porto
+PT11B,,,,Alto Tâmega
+PT11C,,,,Tâmega e Sousa
+PT11D,,,,Douro
+PT11E,,,,Terras de Trás-os-Montes
 PT15,,,Algarve,
+PT150,,,,Algarve
 PT16,,,Centro (PT),
+PT16B,,,,Oeste
+PT16D,,,,Região de Aveiro
+PT16E,,,,Região de Coimbra
+PT16F,,,,Região de Leiria
+PT16G,,,,Viseu Dão Lafões
+PT16H,,,,Beira Baixa
+PT16I,,,,Médio Tejo
+PT16J,,,,Beiras e Serra da Estrela
 PT17,,,Área Metropolitana de Lisboa,
+PT170,,,,Área Metropolitana de Lisboa
 PT18,,,Alentejo,
+PT181,,,,Alentejo Litoral
+PT184,,,,Baixo Alentejo
+PT185,,,,Lezíria do Tejo
+PT186,,,,Alto Alentejo
+PT187,,,,Alentejo Central
 PT2,Portugal,Região Autónoma dos Açores,,
 PT20,,,,
+PT200,,,,Região Autónoma dos Açores
 PT3,Portugal,Região Autónoma da Madeira,,
 PT30,,,,
-RO1,Romania,Macroregion One,,
+PT300,,,,Região Autónoma da Madeira
 RO11,,,Nord-Vest,
 RO12,,,Centru,
 RO2,Romania,Macroregion Two,,
