@@ -1234,15 +1234,15 @@ LT028,,,,Telšiai county
 LT029,,,,Utena county
 LU0,Luxembourg,Luxembourg,,
 LU00,,,Luxembourg,
-,,,,Luxembourg
+LU000,,,,Luxembourg
 LV0,Latvia,Latvia,,
 LV00,,,Latvia,
-,,,,Kurzeme
-,,,,Latgale
-,,,,R?ga
-,,,,Pier?ga
-,,,,Vidzeme
-,,,,Zemgale
+LV003,,,,Kurzeme
+LV005,,,,Latgale
+LV006,,,,R?ga
+LV007,,,,Pier?ga
+LV008,,,,Vidzeme
+LV009,,,,Zemgale
 ME0,Montenegro,Montenegro,,
 ME00,,,Montenegro,
 ME000,,,,Montenegro
@@ -1688,32 +1688,148 @@ UKG38,,,,Walsall
 UKG39,,,,Wolverhampton
 UKH,United Kingdom,East of England,,
 UKH1,,,East Anglia,
+UKH11,,,,Peterborough
+UKH12,,,,Cambridgeshire CC
+UKH14,,,,Suffolk
+UKH15,,,,Norwich and East Norfolk
+UKH16,,,,North and West Norfolk
+UKH17,,,,Breckland and South Norfolk
 UKH2,,,Bedfordshire and Hertfordshire,
+UKH21,,,,Luton
+UKH23,,,,Hertfordshire
+UKH24,,,,Bedford
+UKH25,,,,Central Bedfordshire
 UKH3,,,Essex,
+UKH31,,,,Southend-on-Sea
+UKH32,,,,Thurrock
+UKH34,,,,Essex Haven Gateway
+UKH35,,,,West Essex
+UKH36,,,,Heart of Essex
+UKH37,,,,Essex Thames Gateway
 UKI,United Kingdom,London,,
 UKI3,,,Inner London — West,
+UKI31,,,,Camden and City of London
+UKI32,,,,Westminster
+UKI33,,,,Kensington & Chelsea and Hammersmith & Fulham
+UKI34,,,,Wandsworth
 UKI4,,,Inner London — East,
+UKI41,,,,Hackney and Newham
+UKI42,,,,Tower Hamlets
+UKI43,,,,Haringey and Islington
+UKI44,,,,Lewisham and Southwark
+UKI45,,,,Lambeth
 UKI5,,,Outer London — East and North East,
+UKI51,,,,Bexley and Greenwich
+UKI52,,,,Barking & Dagenham and Havering
+UKI53,,,,Redbridge and Waltham Forest
+UKI54,,,,Enfield
 UKI6,,,Outer London — South,
+UKI61,,,,Bromley
+UKI62,,,,Croydon
+UKI63,,,,"Merton, Kingston upon Thames and Sutton"
 UKI7,,,Outer London — West and North West,
+UKI71,,,,Barnet
+UKI72,,,,Brent
+UKI73,,,,Ealing
+UKI74,,,,Harrow and Hillingdon
+UKI75,,,,Hounslow and Richmond upon Thames
 UKJ,United Kingdom,South East (England),,
 UKJ1,,,"Berkshire, Buckinghamshire and Oxfordshire",
+UKJ11,,,,Berkshire
+UKJ12,,,,Milton Keynes
+UKJ13,,,,Buckinghamshire CC
+UKJ14,,,,Oxfordshire
 UKJ2,,,"Surrey, East and West Sussex",
+UKJ21,,,,Brighton and Hove
+UKJ22,,,,East Sussex CC
+UKJ25,,,,West Surrey
+UKJ26,,,,East Surrey
+UKJ27,,,,West Sussex (South West)
+UKJ28,,,,West Sussex (North East)
 UKJ3,,,Hampshire and Isle of Wight,
+UKJ31,,,,Portsmouth
+UKJ32,,,,Southampton
+UKJ34,,,,Isle of Wight
+UKJ35,,,,South Hampshire
+UKJ36,,,,Central Hampshire
+UKJ37,,,,North Hampshire
 UKJ4,,,Kent,
+UKJ41,,,,Medway
+UKJ43,,,,Kent Thames Gateway
+UKJ44,,,,East Kent
+UKJ45,,,,Mid Kent
+UKJ46,,,,West Kent
 UKK,United Kingdom,South West (England),,
 UKK1,,,"Gloucestershire, Wiltshire and Bristol/Bath area",
+UKK11,,,,"Bristol, City of"
+UKK12,,,,"Bath and North East Somerset, North Somerset and South Gloucestershire"
+UKK13,,,,Gloucestershire
+UKK14,,,,Swindon
+UKK15,,,,Wiltshire CC
 UKK2,,,Dorset and Somerset,
+UKK23,,,,Somerset
+UKK24,,,,"Bournemouth, Christchurch and Poole"
+UKK25,,,,Dorset
 UKK3,,,Cornwall and Isles of Scilly,
+UKK30,,,,Cornwall and Isles of Scilly
 UKK4,,,Devon,
+UKK41,,,,Plymouth
+UKK42,,,,Torbay
+UKK43,,,,Devon CC
 UKL,United Kingdom,Wales,,
 UKL1,,,West Wales and The Valleys,
+UKL11,,,,Isle of Anglesey
+UKL12,,,,Gwynedd
+UKL13,,,,Conwy and Denbighshire
+UKL14,,,,South West Wales
+UKL15,,,,Central Valleys
+UKL16,,,,Gwent Valleys
+UKL17,,,,Bridgend and Neath Port Talbot
+UKL18,,,,Swansea
 UKL2,,,East Wales,
+UKL21,,,,Monmouthshire and Newport
+UKL22,,,,Cardiff and Vale of Glamorgan
+UKL23,,,,Flintshire and Wrexham
+UKL24,,,,Powys
 UKM,United Kingdom,Scotland,,
 UKM5,,,North Eastern Scotland,
+UKM50,,,,Aberdeen City and Aberdeenshire
 UKM6,,,Highlands and Islands,
+UKM61,,,,Caithness & Sutherland and Ross & Cromarty
+UKM62,,,,"Inverness & Nairn and Moray, Badenoch & Strathspey"
+UKM63,,,,"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute"
+UKM64,,,,Na h-Eileanan Siar (Western Isles)
+UKM65,,,,Orkney Islands
+UKM66,,,,Shetland Islands
 UKM7,,,Eastern Scotland,
+UKM71,,,,Angus and Dundee City
+UKM72,,,,Clackmannanshire and Fife
+UKM73,,,,East Lothian and Midlothian
+UKM75,,,,"Edinburgh, City of"
+UKM76,,,,Falkirk
+UKM77,,,,Perth & Kinross and Stirling
+UKM78,,,,West Lothian
 UKM8,,,West Central Scotland,
+UKM81,,,,"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond"
+UKM82,,,,Glasgow City
+UKM83,,,,"Inverclyde, East Renfrewshire and Renfrewshire"
+UKM84,,,,North Lanarkshire
 UKM9,,,Southern Scotland,
+UKM91,,,,Scottish Borders
+UKM92,,,,Dumfries & Galloway
+UKM93,,,,East Ayrshire and North Ayrshire mainland
+UKM94,,,,South Ayrshire
+UKM95,,,,South Lanarkshire
 UKN,United Kingdom,Northern Ireland,,
-UKN0,,,,
+UKN0,,,Northern Ireland,
+UKN06,,,,Belfast
+UKN07,,,,"Armagh City, Banbridge and Craigavon"
+UKN08,,,,"Newry, Mourne and Down"
+UKN09,,,,Ards and North Down 
+UKN0A,,,,Derry City and Strabane
+UKN0B,,,,Mid Ulster
+UKN0C,,,,Causeway Coast and Glens
+UKN0D,,,,Antrim and Newtownabbey
+UKN0E,,,,Lisburn and Castlereagh
+UKN0F,,,,Mid and East Antrim
+UKN0G,,,,Fermanagh and Omagh
