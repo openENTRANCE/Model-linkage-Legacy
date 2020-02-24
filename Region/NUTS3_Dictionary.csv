@@ -1392,13 +1392,35 @@ PL713,,,,Piotrkowski
 PL714,,,,Sieradzki
 PL715,,,,Skierniewicki
 PL72,,,Swietokrzyskie,
+PL721,,,,Kielecki
+PL722,,,,Sandomiersko-jedrzejowski
 PL8,Poland,Eastern macroregion,,
 PL81,,,Lubelskie,
+PL811,,,,Bialski
+PL812,,,,Chelmsko-zamojski
+PL814,,,,Lubelski
+PL815,,,,Pulawski
 PL82,,,Podkarpackie,
+PL821,,,,Krosnienski
+PL822,,,,Przemyski
+PL823,,,,Rzeszowski
+PL824,,,,Tarnobrzeski
 PL84,,,Podlaskie,
+PL841,,,,Bialostocki
+PL842,,,,Lomzynski
+PL843,,,,Suwalski
 PL9,Poland,Macroregion Mazowieckie Province,,
 PL91,,,Warszawski stoleczny,
+PL911,,,,Miasto Warszawa
+PL912,,,,Warszawski wschodni
+PL913,,,,Warszawski zachodni
 PL92,,,Mazowiecki regionalny,
+PL921,,,,Radomski
+PL922,,,,Ciechanowski
+PL923,,,,Plocki
+PL924,,,,Ostrolecki
+PL925,,,,Siedlecki
+PL926,,,,Zyrardowski
 PT1,Portugal,Continente,,
 PT11,,,Norte,
 PT15,,,Algarve,
