@@ -1,6 +1,6 @@
 ## Dictionary of models
 
-All information considered should be added [here](Model/Model_Suite.yml)
+All information considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/Reorder-Model-Section/Model/Model_Suite.yml)
 
 The model suite:
 
