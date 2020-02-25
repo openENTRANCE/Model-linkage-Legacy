@@ -159,9 +159,9 @@ In addition, electricity demand can be defined as follows:
 
 > PowerDemand
 
-But it has to be in a companion of a definition of the region.
+<!-- But it has to be in a companion of a definition of the region.
 For example:
 
->	Germany|DE21H|Node001
+>	Germany|DE21H|Node001 -->
 
 More details can be found [here](Variable/README.md).
