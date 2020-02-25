@@ -49,7 +49,7 @@ As brief part of the **NUTS Nomenclature** is shown as follows:
 | AT130 | Austria | Ostösterreich  | Wien             | Wien                     |
 
 
-## Dictionary of District
+## Dictionary of Districts
 
 ***Any name is valid here (subject to Pull-request)***. Note that each **district** is below in hierarchy with respect to the **immediate upper level**.
 
@@ -64,7 +64,7 @@ As an example of the **Dictionary of District**:
 | District004 | District 4               |
 | District005 | District 5               |
 
-## Dictionary of Community
+## Dictionary of Communities
 
 ***Any name is valid here (subject to Pull-request)***. Note that each **Community** is below in hierarchy with respect to the **immediate upper level**.
 
@@ -79,7 +79,7 @@ As an example of the **Dictionary of Community**:
 | Community004 | Community 4               |
 | Community005 | Community 5               |
 
-## Dictionary of EndUser
+## Dictionary of EndUsers
 
 ***Any name is valid here (subject to Pull-request)***. Note that each **EndUser** is below in hierarchy with respect to the **immediate upper level**.
 
