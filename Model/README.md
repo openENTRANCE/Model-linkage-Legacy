@@ -1,6 +1,6 @@
 ## Dictionary of models
 
-All information considered should be added [here](Model/Model_Suite.yml)
+All information considered should be added [here]()
 
 The model suite:
 
