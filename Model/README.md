@@ -1,5 +1,7 @@
 ## Dictionary of models
 
+All information considered should be added [here](Model/Model_Suite.yml)
+
 The model suite:
 
 |  __Model__  |  __Version__  |
