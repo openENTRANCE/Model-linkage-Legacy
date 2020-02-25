@@ -137,12 +137,12 @@ Some examples of variables to be considered follow:
 >	 PowerCapacity|GasTurbine|CombinedCycle|Arcos3
 
 It refers to the capacity of a generating unit.
-This example introduces 1) The association of **Arcos3** (a Spanish combined cycle gas turbine) to the technology level 1 (Gas Turbine) and technology level 2 (combined cycle), and, 2) To define its power capacity (e.g., 480 MW).
+This example introduces 1) The association of **Arcos3** (a Spanish combined cycle gas turbine - technology level 3) to the technology level 1 (Gas Turbine) and technology level 2 (combined cycle), and, 2) To define its power capacity (e.g., 480 MW).
 The order defined above:
 
-> Variable|Technology Level 1|Technology Level 2|Power Generator
+> Variable|Technology Level 1|Technology Level 2|Technology Level 3
 
-First, the variable (e.g., Capacity, EmissionRate, LinearVariableCost, etc.) is defined. After that, the order goes from wider (technology level 1) to smaller (power generator).
+First, the variable (e.g., Capacity, EmissionRate, LinearVariableCost, etc.) is defined. After that, the order goes from wider (technology level 1) to smaller (technology level 3).
 The following expression could be used to define the entire **combined cycle gas turbine**:
 
 >	 PowerCapacity|GasTurbine|CombinedCycle
@@ -159,7 +159,8 @@ In addition, electricity demand can be defined as follows:
 
 > PowerDemand
 
-But it has to be in a companion of a definition of the region. For example:
+But it has to be in a companion of a definition of the region.
+For example:
 
 >	Germany|DE21H|Node001
 
