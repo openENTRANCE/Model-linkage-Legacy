@@ -61,7 +61,7 @@ More details can be found [here](Scenario/README.md).
 
 
 ## 3. Region
-It refers to the geographical mapping of the variable. For that purpose, a definition of the set of regions is proposed by combining the possible geographical levels, in the order defined next, using pipes (|). Note that the [NUTS 2021 Nomenclature](https://ec.europa.eu/eurostat/web/nuts/background) is considered.
+It refers to the geographical mapping of the variable. For that purpose, a definition of the set of regions is proposed by combining the possible geographical levels, in the order defined next, using pipes (**|**). Note that the [NUTS 2021 Nomenclature](https://ec.europa.eu/eurostat/web/nuts/background) is considered.
 We propose the following levels for the definition of the locations to be considered:
 
 * Continent: Europe
@@ -108,35 +108,36 @@ For the geographical links (such as electrical circuits), it is important to con
 More details can be found [here](Region/README.md).
 
 ## 4. Variable
-
-Column ‘Variable’ of the extended IAMC format must define the nature/features of the variable whose value is provided. For that purpose, we propose to set up the IAMC column ‘Variable’ by specifying values related to the following data types and combining these, in the order provided next, using pipes (|).
+It defines the nature/features of the variable whose value is provided. For that purpose, we propose to set up the **Variable** by specifying values related to the following data types and combining these, in the order provided next, using pipes (|).
 We propose to consider the following levels of variables:
 
-•	Category: Agriculture.AFOLU.AFOFI, Demography, Economy, Emissions, Employment, Energy, EnergyService, GDP, Investment, Land, Trade, Price, ValueAdded
-•	NonEnergy: Crops, Livestock, Forest, Pasture, BuiltUpArea, OtherLand, Residues
-•	Energy: FinalEnergy, PrimaryEnergy, SecondaryEnergy
-•	TypeOfSecondaryEnergy: Electricity, Heat, Transport
-•	TypeOfFinalEnergy: Commercial, Industry, Other, Residential, TransportationFreight, TransportationPassenger
-•	Technology: The list of ‘technologies’ to consider will be publicly available in an open repository where it will be easily accessible to modelers, who could develop their data processing tools taking it into account.
-•	Generator: name of the generator
-•	Variable: The list of ‘variables’ to consider will be publicly available in an open repository where it will be easily accessible to modelers, who could develop their data processing tools taking it into account. Each variable can be mapped to those models that can use the former as an input or output.
+*	Category: Agriculture, Demography, Economy, Emissions, Employment, Energy, EnergyService, GDP, Investment, Land, Trade, Price, ValueAdded
+*	NonEnergy: Crops, Livestock, Forest, Pasture, BuiltUpArea, OtherLand, Residues
+*	Energy: FinalEnergy, PrimaryEnergy, SecondaryEnergy
+*	TypeOfSecondaryEnergy: Electricity, Heat, Transport
+*	TypeOfFinalEnergy: Commercial, Industry, Other, Residential, TransportationFreight, TransportationPassenger
+*	Technology: The list of **technologies** to consider will be easily accessible to modelers, who could develop their data processing tools taking it into account.
+*	Generator: name of the generator
+*	Variable: The list of **variables** to consider will be easily accessible to modelers, who could develop their data processing tools taking it into account. Each variable can be mapped to those models that can use the former as an input or output.
 
-Names separated by dots (.), as Agriculture.AFOLU.AFOFI for example, mean that all these names are synonyms. This is to be defined in the repository.
+<!-- Names separated by dots (.), as Agriculture.AFOLU.AFOFI for example, mean that all these names are synonyms. This is to be defined in the repository. -->
 We set here some guidelines to ensure consistency across the variable names to be defined:
 
-•	Do not include spaces before and after a `|` sign, but add a space between words
-•	All words must be capitalized (except for linkers or prepositions like “and”, “of”, “in”, “w/”, “w/o”)
-•	Do not use abbreviations (e.g, PHEV) unless strictly necessary
-•	Add hierarchy levels where it might be useful in the future, e.g, rather than having “Plugin-Hybrid Electric Vehicle”, use "Electric Vehicle|Plugin-Hybrid”
-•	Do not use statistical-operation-abbreviations (min, max, avg) but always spell out the word
-•	Do not include words like “level” or “quantity” in the variable (it should be clear anyway from the context)
+* Do not include spaces before and after a (**|**) sign, but add a space between words
+* All words must be capitalized (except for **and**,**w/**, **w/o**)
+* Do not use abbreviations (e.g, **PHEV**) unless strictly necessary
+ add hierarchy levels where it might be useful in the future, e.g, rather than having **Plugin-Hybrid Electric Vehicle**, use **Electric Vehicle|Plugin-Hybrid**
+* Do not use statistical-operation-abbreviations (**min**, **max**, **avg**) but always spell out the word
+* Do not include words like **level** or **quantity** in the variable (it should be clear anyway from the context)
+
+
 
 Some examples of variables to be considered follow:
 
-•	CombinedCycleGasTurbine(CCGT)|Arcos3|ExistingCapacity refers to the capacity of a generating unit.
+*	CombinedCycleGasTurbine(CCGT)|Arcos3|ExistingCapacity refers to the capacity of a generating unit.
 IN THIS EXAMPLE I WANT TO INTRODUCE, ON ONE HAND THE ASSOCIATION OF ARCOS3 (A SPANISH CCGT) TO THE TECHNOLOGY CombinedCycleGasTurbine(CCGT) AND, ON THE OTHER HAND, TO DEFINE ITS CAPACITY (E.G., 480 MW).
 THE ORDER GOES FROM WIDER (TECHNOLOGY) TO SMALLER (CCGT UNIT) AND FINALLY THE CHARACTERISTIC (E.G., Capacity, EmissionRate, LinearVariableCost, ETC.). THIS IS THE ORDER DEFINED ABOVE Technology|Generator|Variable
-•	Electricity|Demand refers to the electricity demand.
+*	Electricity|Demand refers to the electricity demand.
 
 
 
