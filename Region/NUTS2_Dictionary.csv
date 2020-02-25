@@ -1,417 +1,417 @@
 Code,Country,NUTS level 1,NUTS level 2
 AL0,Albania,Albania,
-AL01,,,north
-AL02,,,center
-AL03,,,south
+AL01,Albania,Albania,north
+AL02,Albania,Albania,center
+AL03,Albania,Albania,south
 AT1,Austria,Ostösterreich,
-AT11,,,Burgenland
-AT12,,,Niederösterreich
-AT13,,,Wien
+AT11,Austria,Ostösterreich,Burgenland
+AT12,Austria,Ostösterreich,Niederösterreich
+AT13,Austria,Ostösterreich,Wien
 AT2,Austria,Südösterreich,
-AT21,,,Kärnten
-AT22,,,Steiermark
+AT21,Austria,Südösterreich,Kärnten
+AT22,Austria,Südösterreich,Steiermark
 AT3,Austria,Westösterreich,
-AT31,,,Oberösterreich
-AT32,,,Salzburg
-AT33,,,Tirol
-AT34,,,Vorarlberg
+AT31,Austria,Westösterreich,Oberösterreich
+AT32,Austria,Westösterreich,Salzburg
+AT33,Austria,Westösterreich,Tirol
+AT34,Austria,Westösterreich,Vorarlberg
 BA0,Bosnia And Herzegovina,Bosnia And Herzegovina,
-BA00,,,
+BA00,Bosnia And Herzegovina,Bosnia And Herzegovina,
 BE1,Belgium,Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,
-BE10,,,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest
+BE10,Belgium,Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest
 BE2,Belgium,Vlaams Gewest,
-BE21,,,Prov. Antwerpen
-BE22,,,Prov. Limburg (BE)
-BE23,,,Prov. Oost-Vlaanderen
-BE24,,,Prov. Vlaams-Brabant
-BE25,,,Prov. West-Vlaanderen
+BE21,Belgium,Vlaams Gewest,Prov. Antwerpen
+BE22,Belgium,Vlaams Gewest,Prov. Limburg (BE)
+BE23,Belgium,Vlaams Gewest,Prov. Oost-Vlaanderen
+BE24,Belgium,Vlaams Gewest,Prov. Vlaams-Brabant
+BE25,Belgium,Vlaams Gewest,Prov. West-Vlaanderen
 BE3,Belgium,Région wallonne,
-BE31,,,Prov. Brabant Wallon
-BE32,,,Prov. Hainaut
-BE33,,,Prov. Liège
-BE34,,,Prov. Luxembourg (BE)
-BE35,,,Prov. Namur
+BE31,Belgium,Région wallonne,Prov. Brabant Wallon
+BE32,Belgium,Région wallonne,Prov. Hainaut
+BE33,Belgium,Région wallonne,Prov. Liège
+BE34,Belgium,Région wallonne,Prov. Luxembourg (BE)
+BE35,Belgium,Région wallonne,Prov. Namur
 BG3,Bulgaria,North and Southeast Bulgaria,
-BG31,,,Northwest
-BG32,,,North Central
-BG33,,,Northeast
-BG34,,,Southeast
+BG31,Bulgaria,North and Southeast Bulgaria,Northwest
+BG32,Bulgaria,North and Southeast Bulgaria,North Central
+BG33,Bulgaria,North and Southeast Bulgaria,Northeast
+BG34,Bulgaria,North and Southeast Bulgaria,Southeast
 BG4,Bulgaria,Southwest and South Central Bulgaria,
-BG41,,,Southwestern
-BG42,,,South central
+BG41,Bulgaria,Southwest and South Central Bulgaria,Southwestern
+BG42,Bulgaria,Southwest and South Central Bulgaria,South central
 CH0,Switzerland,Switzerland,
-CH01,,,Région lémanique
-CH02,,,Espace Mittelland
-CH03,,,Nordwestschweiz
-CH04,,,Zürich
-CH05,,,Ostschweiz
-CH06,,,Zentralschweiz
-CH07,,,Ticino
+CH01,Switzerland,Switzerland,Région lémanique
+CH02,Switzerland,Switzerland,Espace Mittelland
+CH03,Switzerland,Switzerland,Nordwestschweiz
+CH04,Switzerland,Switzerland,Zürich
+CH05,Switzerland,Switzerland,Ostschweiz
+CH06,Switzerland,Switzerland,Zentralschweiz
+CH07,Switzerland,Switzerland,Ticino
 CY0,Cyprus,Cyprus,
-CY00,,,
+CY00,Cyprus,Cyprus,
 CZ0,Czech Republic,Czech Republic,
-CZ01,,,Prague
-CZ02,,,Middle Bohemia
-CZ03,,,Southwest
-CZ04,,,Northwest
-CZ05,,,Northeast
-CZ06,,,Southeast
-CZ07,,,Central Moravia
-CZ08,,,Moravskoslezsko
+CZ01,Czech Republic,Czech Republic,Prague
+CZ02,Czech Republic,Czech Republic,Middle Bohemia
+CZ03,Czech Republic,Czech Republic,Southwest
+CZ04,Czech Republic,Czech Republic,Northwest
+CZ05,Czech Republic,Czech Republic,Northeast
+CZ06,Czech Republic,Czech Republic,Southeast
+CZ07,Czech Republic,Czech Republic,Central Moravia
+CZ08,Czech Republic,Czech Republic,Moravskoslezsko
 DE1,Germany,Baden-Württemberg,
-DE11,,,Stuttgart
-DE12,,,Karlsruhe
-DE13,,,Freiburg
-DE14,,,Tübingen
+DE11,Germany,Baden-Württemberg,Stuttgart
+DE12,Germany,Baden-Württemberg,Karlsruhe
+DE13,Germany,Baden-Württemberg,Freiburg
+DE14,Germany,Baden-Württemberg,Tübingen
 DE2,Germany,Bayern,
-DE21,,,Oberbayern
-DE22,,,Niederbayern
-DE23,,,Oberpfalz
-DE24,,,Oberfranken
-DE25,,,Mittelfranken
-DE26,,,Unterfranken
-DE27,,,Schwaben
+DE21,Germany,Bayern,Oberbayern
+DE22,Germany,Bayern,Niederbayern
+DE23,Germany,Bayern,Oberpfalz
+DE24,Germany,Bayern,Oberfranken
+DE25,Germany,Bayern,Mittelfranken
+DE26,Germany,Bayern,Unterfranken
+DE27,Germany,Bayern,Schwaben
 DE3,Germany,Berlin,
-DE30,,,
+DE30,Germany,Berlin,
 DE4,Germany,Brandenburg,
-DE40,,,
+DE40,Germany,Brandenburg,
 DE5,Germany,Bremen,
-DE50,,,
+DE50,Germany,Bremen,
 DE6,Germany,Hamburg,
-DE60,,,
+DE60,Germany,Hamburg,
 DE7,Germany,Hessen,
-DE71,,,Darmstadt
-DE72,,,Gießen
-DE73,,,Kassel
+DE71,Germany,Hessen,Darmstadt
+DE72,Germany,Hessen,Gießen
+DE73,Germany,Hessen,Kassel
 DE8,Germany,Mecklenburg-Vorpommern,
-DE80,,,
+DE80,Germany,Mecklenburg-Vorpommern,
 DE9,Germany,Niedersachsen,
-DE91,,,Braunschweig
-DE92,,,Hannover
-DE93,,,Lüneburg
-DE94,,,Weser-Ems
+DE91,Germany,Niedersachsen,Braunschweig
+DE92,Germany,Niedersachsen,Hannover
+DE93,Germany,Niedersachsen,Lüneburg
+DE94,Germany,Niedersachsen,Weser-Ems
 DEA,Germany,Nordrhein-Westfalen,
-DEA1,,,Düsseldorf
-DEA2,,,Köln
-DEA3,,,Münster
-DEA4,,,Detmold
-DEA5,,,Arnsberg
+DEA1,Germany,Nordrhein-Westfalen,Düsseldorf
+DEA2,Germany,Nordrhein-Westfalen,Köln
+DEA3,Germany,Nordrhein-Westfalen,Münster
+DEA4,Germany,Nordrhein-Westfalen,Detmold
+DEA5,Germany,Nordrhein-Westfalen,Arnsberg
 DEB,Germany,Rheinland-Pfalz,
-DEB1,,,Koblenz
-DEB2,,,Trier
-DEB3,,,Rheinhessen-Pfalz
+DEB1,Germany,Rheinland-Pfalz,Koblenz
+DEB2,Germany,Rheinland-Pfalz,Trier
+DEB3,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz
 DEC,Germany,Saarland,
-Dec-00,,,
+DEC0,Germany,Saarland,
 DED,Germany,Sachsen,
-DED2,,,Dresden
-DED4,,,Chemnitz
-DED5,,,Leipzig
+DED2,Germany,Sachsen,Dresden
+DED4,Germany,Sachsen,Chemnitz
+DED5,Germany,Sachsen,Leipzig
 DEE,Germany,Sachsen-Anhalt,
-DEE0,,,
+DEE0,Germany,Sachsen-Anhalt,
 DEF,Germany,Schleswig-Holstein,
-DEF0,,,
+DEF0,Germany,Schleswig-Holstein,
 DEG,Germany,Thüringen,
-DEG0,,,
+DEG0,Germany,Thüringen,
 DK0,Denmark,Denmark,
-DK01,,,Hovedstaden
-DK02,,,Sjælland
-DK03,,,Syddanmark
-DK04,,,Midtjylland
-DK05,,,Nordjylland
+DK01,Denmark,Denmark,Hovedstaden
+DK02,Denmark,Denmark,Sjælland
+DK03,Denmark,Denmark,Syddanmark
+DK04,Denmark,Denmark,Midtjylland
+DK05,Denmark,Denmark,Nordjylland
 EE0,Estonia,Estonia,
-EE00,,,
+EE00,Estonia,Estonia,
 EL3,Greece,Attica,
-EL30,,,
+EL30,Greece,Attica,
 EL4,Greece,"Aegean Islands, Crete",
-EL41,,,Northern Aegean
-EL42,,,Southern Aegean Sea
-EL43,,,Crete
+EL41,Greece,"Aegean Islands, Crete",Northern Aegean
+EL42,Greece,"Aegean Islands, Crete",Southern Aegean Sea
+EL43,Greece,"Aegean Islands, Crete",Crete
 EL5,Greece,Northern Greece,
-EL51,,,"Eastern Macedonia, Thrace"
-EL52,,,Central Macedonia
-EL53,,,West Macedonia
-EL54,,,Continent
+EL51,Greece,Northern Greece,"Eastern Macedonia, Thrace"
+EL52,Greece,Northern Greece,Central Macedonia
+EL53,Greece,Northern Greece,West Macedonia
+EL54,Greece,Northern Greece,Continent
 EL6,Greece,Central Greece,
-EL61,,,Thessalia
-EL62,,,Ionia Nisia
-EL63,,,Dytiki Elláda
-EL64,,,Sterea Elláda
-EL65,,,Peloponnisos
+EL61,Greece,Central Greece,Thessalia
+EL62,Greece,Central Greece,Ionia Nisia
+EL63,Greece,Central Greece,Dytiki Elláda
+EL64,Greece,Central Greece,Sterea Elláda
+EL65,Greece,Central Greece,Peloponnisos
 ES1,Spain,Northwest,
-ES11,,,Galicia
-ES12,,,Principado de Asturias
-ES13,,,Cantabria
+ES11,Spain,Northwest,Galicia
+ES12,Spain,Northwest,Principado de Asturias
+ES13,Spain,Northwest,Cantabria
 ES2,Spain,Northeast,
-ES21,,,País Vasco
-ES22,,,Comunidad Foral de Navarra
-ES23,,,La Rioja
-ES24,,,Aragón
+ES21,Spain,Northeast,País Vasco
+ES22,Spain,Northeast,Comunidad Foral de Navarra
+ES23,Spain,Northeast,La Rioja
+ES24,Spain,Northeast,Aragón
 ES3,Spain,Madrid's community,
-ES30,,,
+ES30,Spain,Madrid's community,
 ES4,Spain,Center,
-ES41,,,Castilla y León
-ES42,,,Castilla-La Mancha
-ES43,,,Extremadura
+ES41,Spain,Center,Castilla y León
+ES42,Spain,Center,Castilla-La Mancha
+ES43,Spain,Center,Extremadura
 ES5,Spain,East,
-ES51,,,Cataluña
-ES52,,,Comunitat Valenciana 
-ES53,,,Illes Balears
+ES51,Spain,East,Cataluña
+ES52,Spain,East,Comunitat Valenciana 
+ES53,Spain,East,Illes Balears
 ES6,Spain,South,
-ES61,,,Andalucía
-ES62,,,Región de Murcia
-ES63,,,Ciudad de Ceuta
-ES64,,,Ciudad de Melilla
+ES61,Spain,South,Andalucía
+ES62,Spain,South,Región de Murcia
+ES63,Spain,South,Ciudad de Ceuta
+ES64,Spain,South,Ciudad de Melilla
 ES7,Spain,Canary Islands,
-ES70,,,
+ES70,Spain,Canary Islands,
 FI1,Finland,Manner-Suomi,
-FI19,,,Länsi-Suomi
-FI1B,,,Helsinki-Uusimaa
-FI1C,,,Etelä-Suomi
-FI1D,,,Pohjois- ja Itä-Suomi
+FI19,Finland,Manner-Suomi,Länsi-Suomi
+FI1B,Finland,Manner-Suomi,Helsinki-Uusimaa
+FI1C,Finland,Manner-Suomi,Etelä-Suomi
+FI1D,Finland,Manner-Suomi,Pohjois- ja Itä-Suomi
 FI2,Finland,Åland,
-FI20,,,
+FI20,Finland,Åland,
 FR1,France,Ile-de-France,
-FR10,,,
+FR10,France,Ile-de-France,
 FRB,France,Centre — Val de Loire,
-FRB0,,,
+FRB0,France,Centre — Val de Loire,
 FRC,France,Bourgogne-Franche-Comté,
-FRC1,,,Bourgogne
-FRC2,,,Franche-Comté
+FRC1,France,Bourgogne-Franche-Comté,Bourgogne
+FRC2,France,Bourgogne-Franche-Comté,Franche-Comté
 FRD,France,Normandie,
-FRD1,,,Basse-Normandie 
-FRD2,,,Haute-Normandie 
+FRD1,France,Normandie,Basse-Normandie 
+FRD2,France,Normandie,Haute-Normandie 
 FRE,France,Hauts-de-France,
-FRE1,,,Nord-Pas de Calais
-FRE2,,,Picardie
+FRE1,France,Hauts-de-France,Nord-Pas de Calais
+FRE2,France,Hauts-de-France,Picardie
 FRF,France,Grand Est,
-FRF1,,,Alsace
-FRF2,,,Champagne-Ardenne
-FRF3,,,Lorraine
+FRF1,France,Grand Est,Alsace
+FRF2,France,Grand Est,Champagne-Ardenne
+FRF3,France,Grand Est,Lorraine
 FRG,France,Pays de la Loire,
-FRG0,,,
+FRG0,France,Pays de la Loire,
 FRH,France,Bretagne,
-FRH0,,,
+FRH0,France,Bretagne,
 FRI,France,Nouvelle-Aquitaine,
-FRI1,,,Aquitaine
-FRI2,,,Limousin
-FRI3,,,Poitou-Charentes
+FRI1,France,Nouvelle-Aquitaine,Aquitaine
+FRI2,France,Nouvelle-Aquitaine,Limousin
+FRI3,France,Nouvelle-Aquitaine,Poitou-Charentes
 FRJ,France,Occitanie,
-FRJ1,,,Languedoc-Roussillon
-FRJ2,,,Midi-Pyrénées
+FRJ1,France,Occitanie,Languedoc-Roussillon
+FRJ2,France,Occitanie,Midi-Pyrénées
 FRK,France,Auvergne-Rhône-Alpes,
-FRK1,,,Auvergne
-FRK2,,,Rhône-Alpes
+FRK1,France,Auvergne-Rhône-Alpes,Auvergne
+FRK2,France,Auvergne-Rhône-Alpes,Rhône-Alpes
 FRL,France,Provence-Alpes-Côte d’Azur,
-FRL0,,,
+FRL0,France,Provence-Alpes-Côte d’Azur,
 FRM,France,Corse,
-FRM0,,,
+FRM0,France,Corse,
 FRY,France,RUP FR — Régions Ultrapériphériques Françaises,
-FRY1,,,Guadeloupe
-FRY2,,,Martinique 
-FRY3,,,Guyane
-FRY4,,,La Réunion 
-FRY5,,,Mayotte
+FRY1,France,RUP FR — Régions Ultrapériphériques Françaises,Guadeloupe
+FRY2,France,RUP FR — Régions Ultrapériphériques Françaises,Martinique 
+FRY3,France,RUP FR — Régions Ultrapériphériques Françaises,Guyane
+FRY4,France,RUP FR — Régions Ultrapériphériques Françaises,La Réunion 
+FRY5,France,RUP FR — Régions Ultrapériphériques Françaises,Mayotte
 HR0,Croatia,Hrvatska,
-HR02,,,Panonska Hrvatska
-HR03,,,Jadranska Hrvatska
-HR05,,,Grad Zagreb
-HR06,,,Sjeverna Hrvatska
+HR02,Croatia,Hrvatska,Panonska Hrvatska
+HR03,Croatia,Hrvatska,Jadranska Hrvatska
+HR05,Croatia,Hrvatska,Grad Zagreb
+HR06,Croatia,Hrvatska,Sjeverna Hrvatska
 HU1,Hungary,Közép-Magyarország,
-HU11,,,Budapest
-HU12,,,Pest
+HU11,Hungary,Közép-Magyarország,Budapest
+HU12,Hungary,Közép-Magyarország,Pest
 HU2,Hungary,Dunántúl,
-HU21,,,Közép-Dunántúl
-HU22,,,Nyugat-Dunántúl
-HU23,,,Dél-Dunántúl
+HU21,Hungary,Dunántúl,Közép-Dunántúl
+HU22,Hungary,Dunántúl,Nyugat-Dunántúl
+HU23,Hungary,Dunántúl,Dél-Dunántúl
 HU3,Hungary,Alföld és Észak,
-HU31,,,Észak-Magyarország
-HU32,,,Észak-Alföld
-HU33,,,Dél-Alföld
+HU31,Hungary,Alföld és Észak,Észak-Magyarország
+HU32,Hungary,Alföld és Észak,Észak-Alföld
+HU33,Hungary,Alföld és Észak,Dél-Alföld
 IE0,Ireland,Ireland,
-IE04,,,Northern and Western
-IE05,,,Southern
-IE06,,,Eastern and Midland
+IE04,Ireland,Ireland,Northern and Western
+IE05,Ireland,Ireland,Southern
+IE06,Ireland,Ireland,Eastern and Midland
 ITC,Italy,Northwest,
-ITC1,,,Piemonte
-ITC2,,,Valle d’Aosta/Vallée d’Aoste
-ITC3,,,Liguria
-ITC4,,,Lombardia
+ITC1,Italy,Northwest,Piemonte
+ITC2,Italy,Northwest,Valle d’Aosta/Vallée d’Aoste
+ITC3,Italy,Northwest,Liguria
+ITC4,Italy,Northwest,Lombardia
 ITF,Italy,South,
-ITF1,,,Abruzzo
-ITF2,,,Molise
-ITF3,,,Campania
-ITF4,,,Puglia
-ITF5,,,Basilicata
-ITF6,,,Calabria
+ITF1,Italy,South,Abruzzo
+ITF2,Italy,South,Molise
+ITF3,Italy,South,Campania
+ITF4,Italy,South,Puglia
+ITF5,Italy,South,Basilicata
+ITF6,Italy,South,Calabria
 ITG,Italy,Islands,
-ITG1,,,Sicilia
-ITG2,,,Sardegna
+ITG1,Italy,Islands,Sicilia
+ITG2,Italy,Islands,Sardegna
 ITH,Italy,North East,
-ITH1,,,Provincia Autonoma di Bolzano/Bozen
-ITH2,,,Provincia Autonoma di Trento
-ITH3,,,Veneto
-ITH4,,,Friuli-Venezia Giulia
-ITH5,,,Emilia-Romagna
+ITH1,Italy,North East,Provincia Autonoma di Bolzano/Bozen
+ITH2,Italy,North East,Provincia Autonoma di Trento
+ITH3,Italy,North East,Veneto
+ITH4,Italy,North East,Friuli-Venezia Giulia
+ITH5,Italy,North East,Emilia-Romagna
 ITI,Italy,Center,
-ITI1,,,Toscana
-ITI2,,,Umbria
-ITI3,,,Marche
-ITI4,,,Lazio
+ITI1,Italy,Center,Toscana
+ITI2,Italy,Center,Umbria
+ITI3,Italy,Center,Marche
+ITI4,Italy,Center,Lazio
 LT0,Lithuania,Lietuva,
-LT01,,,Capital Region
-LT02,,,Central and Western Lithuania region
+LT01,Lithuania,Lietuva,Capital Region
+LT02,Lithuania,Lietuva,Central and Western Lithuania region
 LU0,Luxembourg,Luxembourg,
-LU00,,,
+LU00,Luxembourg,Luxembourg,
 LV0,Latvia,Latvia,
-LV00,,,
+LV00,Latvia,Latvia,
 ME0,Montenegro,Montenegro,
-ME00,,,
+ME00,Montenegro,Montenegro,
 MT0,Malta,Malta,
-MT00,,,
+MT00,Malta,Malta,
 NL1,Netherlands,North Netherlands,
-NL11,,,Groningen
-NL12,,,Friesland (NL)
-NL13,,,Drenthe
+NL11,Netherlands,North Netherlands,Groningen
+NL12,Netherlands,North Netherlands,Friesland (NL)
+NL13,Netherlands,North Netherlands,Drenthe
 NL2,Netherlands,East Holland,
-NL21,,,Overijssel
-NL22,,,Gelderland
-NL23,,,Flevoland
+NL21,Netherlands,East Holland,Overijssel
+NL22,Netherlands,East Holland,Gelderland
+NL23,Netherlands,East Holland,Flevoland
 NL3,Netherlands,West Netherlands,
-NL31,,,Utrecht
-NL32,,,Noord-Holland
-NL33,,,Zuid-Holland
-NL34,,,Zeeland
+NL31,Netherlands,West Netherlands,Utrecht
+NL32,Netherlands,West Netherlands,Noord-Holland
+NL33,Netherlands,West Netherlands,Zuid-Holland
+NL34,Netherlands,West Netherlands,Zeeland
 NL4,Netherlands,South of the Netherlands,
-NL41,,,Noord-Brabant
-NL42,,,Limburg (NL)
+NL41,Netherlands,South of the Netherlands,Noord-Brabant
+NL42,Netherlands,South of the Netherlands,Limburg (NL)
 NO0,Norway,Norway,
-NO02,,,Innlandet
-NO06,,,Trøndelag
-NO07,,,Nord-Norge
-NO08,,,Oslo og Viken
-NO09,,,Agder og Sør-Østlandet
-NO0A,,,Vestlandet
+NO02,Norway,Norway,Innlandet
+NO06,Norway,Norway,Trøndelag
+NO07,Norway,Norway,Nord-Norge
+NO08,Norway,Norway,Oslo og Viken
+NO09,Norway,Norway,Agder og Sør-Østlandet
+NO0A,Norway,Norway,Vestlandet
 PL2,Poland,Southern macroregion,
-PL21,,,Lesser
-PL22,,,Silesian
+PL21,Poland,Southern macroregion,Lesser
+PL22,Poland,Southern macroregion,Silesian
 PL4,Poland,Northwestern Macroregion,
-PL41,,,Wielkopolskie
-PL42,,,Zachodniopomorskie
-PL43,,,Lubuskie
+PL41,Poland,Northwestern Macroregion,Wielkopolskie
+PL42,Poland,Northwestern Macroregion,Zachodniopomorskie
+PL43,Poland,Northwestern Macroregion,Lubuskie
 PL5,Poland,Southwestern macroregion,
-PL51,,,Dolnoslaskie
-PL52,,,Opolskie
+PL51,Poland,Southwestern macroregion,Dolnoslaskie
+PL52,Poland,Southwestern macroregion,Opolskie
 PL6,Poland,Northern macroregion,
-PL61,,,Kujawsko-pomorskie
-PL62,,,Warminsko-mazurskie
-PL63,,,Pomorskie
+PL61,Poland,Northern macroregion,Kujawsko-pomorskie
+PL62,Poland,Northern macroregion,Warminsko-mazurskie
+PL63,Poland,Northern macroregion,Pomorskie
 PL7,Poland,Central macroregion,
-PL71,,,tódzkie
-PL72,,,Swietokrzyskie
+PL71,Poland,Central macroregion,tódzkie
+PL72,Poland,Central macroregion,Swietokrzyskie
 PL8,Poland,Eastern macroregion,
-PL81,,,Lubelskie
-PL82,,,Podkarpackie
-PL84,,,Podlaskie
+PL81,Poland,Eastern macroregion,Lubelskie
+PL82,Poland,Eastern macroregion,Podkarpackie
+PL84,Poland,Eastern macroregion,Podlaskie
 PL9,Poland,Macroregion Mazowieckie Province,
-PL91,,,Warszawski stoleczny
-PL92,,,Mazowiecki regionalny
+PL91,Poland,Macroregion Mazowieckie Province,Warszawski stoleczny
+PL92,Poland,Macroregion Mazowieckie Province,Mazowiecki regionalny
 PT1,Portugal,Continente,
-PT11,,,Norte
-PT15,,,Algarve
-PT16,,,Centro (PT)
-PT17,,,Área Metropolitana de Lisboa
-PT18,,,Alentejo
+PT11,Portugal,Continente,Norte
+PT15,Portugal,Continente,Algarve
+PT16,Portugal,Continente,Centro (PT)
+PT17,Portugal,Continente,Área Metropolitana de Lisboa
+PT18,Portugal,Continente,Alentejo
 PT2,Portugal,Região Autónoma dos Açores,
-PT20,,,
+PT20,Portugal,Região Autónoma dos Açores,
 PT3,Portugal,Região Autónoma da Madeira,
-PT30,,,
+PT30,Portugal,Região Autónoma da Madeira,
 RO1,Romania,Macroregion One,
-RO11,,,Nord-Vest
-RO12,,,Centru
+RO11,Romania,Macroregion One,Nord-Vest
+RO12,Romania,Macroregion One,Centru
 RO2,Romania,Macroregion Two,
-RO21,,,Nord-Est
-RO22,,,Sud-Est
+RO21,Romania,Macroregion Two,Nord-Est
+RO22,Romania,Macroregion Two,Sud-Est
 RO3,Romania,Macroregion Three,
-RO31,,,Sud-Muntenia
-RO32,,,Bucure?ti-Ilfov
+RO31,Romania,Macroregion Three,Sud-Muntenia
+RO32,Romania,Macroregion Three,Bucure?ti-Ilfov
 RO4,Romania,Macroregion Four,
-RO41,,,Sud-Vest Oltenia
-RO42,,,Vest
+RO41,Romania,Macroregion Four,Sud-Vest Oltenia
+RO42,Romania,Macroregion Four,Vest
 RS1,Serbia,Serbia - North,
-RS11,,,Belgrade region
-RS12,,,Region of Vojvodina
+RS11,Serbia,Serbia - North,Belgrade region
+RS12,Serbia,Serbia - North,Region of Vojvodina
 RS2,Serbia,Serbia - South,
-RS21,,,Sumadija and Western Serbia region
-RS22,,,Region of Southern and Eastern Serbia
+RS21,Serbia,Serbia - South,Sumadija and Western Serbia region
+RS22,Serbia,Serbia - South,Region of Southern and Eastern Serbia
 SE1,Sweden,East Sweden,
-SE11,,,Stockholm
-SE12,,,Östra Mellansverige
+SE11,Sweden,East Sweden,Stockholm
+SE12,Sweden,East Sweden,Östra Mellansverige
 SE2,Sweden,Southern Sweden,
-SE21,,,Småland med öarna
-SE22,,,Sydsverige
-SE23,,,Västsverige
+SE21,Sweden,Southern Sweden,Småland med öarna
+SE22,Sweden,Southern Sweden,Sydsverige
+SE23,Sweden,Southern Sweden,Västsverige
 SE3,Sweden,North Sweden,
-SE31,,,Norra Mellansverige
-SE32,,,Mellersta Norrland
-SE33,,,Övre Norrland
+SE31,Sweden,North Sweden,Norra Mellansverige
+SE32,Sweden,North Sweden,Mellersta Norrland
+SE33,Sweden,North Sweden,Övre Norrland
 SI0,Slovenia,Slovenia,
-SI03,,,Vzhodna Slovenija
-SI04,,,Zahodna Slovenija
+SI03,Slovenia,Slovenia,Vzhodna Slovenija
+SI04,Slovenia,Slovenia,Zahodna Slovenija
 SK0,Slovakia,Slovakia,
-SK01,,,Bratislavský kraj
-SK02,,,Západné Slovensko
-SK03,,,Stredné Slovensko
-SK04,,,Východné Slovensko
+SK01,Slovakia,Slovakia,Bratislavský kraj
+SK02,Slovakia,Slovakia,Západné Slovensko
+SK03,Slovakia,Slovakia,Stredné Slovensko
+SK04,Slovakia,Slovakia,Východné Slovensko
 UKC,United Kingdom,North East (England),
-UKC1,,,Tees Valley and Durham
-UKC2,,,Northumberland and Tyne and Wear
+UKC1,United Kingdom,North East (England),Tees Valley and Durham
+UKC2,United Kingdom,North East (England),Northumberland and Tyne and Wear
 UKD,United Kingdom,North West (England),
-UKD1,,,Cumbria
-UKD3,,,Greater Manchester
-UKD4,,,Lancashire
-UKD6,,,Cheshire
-UKD7,,,Merseyside
+UKD1,United Kingdom,North West (England),Cumbria
+UKD3,United Kingdom,North West (England),Greater Manchester
+UKD4,United Kingdom,North West (England),Lancashire
+UKD6,United Kingdom,North West (England),Cheshire
+UKD7,United Kingdom,North West (England),Merseyside
 UKE,United Kingdom,Yorkshire and the Humber,
-UKE1,,,East Yorkshire and Northern Lincolnshire
-UKE2,,,North Yorkshire
-UKE3,,,South Yorkshire
-UKE4,,,West Yorkshire
+UKE1,United Kingdom,Yorkshire and the Humber,East Yorkshire and Northern Lincolnshire
+UKE2,United Kingdom,Yorkshire and the Humber,North Yorkshire
+UKE3,United Kingdom,Yorkshire and the Humber,South Yorkshire
+UKE4,United Kingdom,Yorkshire and the Humber,West Yorkshire
 UKF,United Kingdom,East Midlands (England),
-UKF1,,,Derbyshire and Nottinghamshire
-UKF2,,,"Leicestershire, Rutland and Northamptonshire"
-UKF3,,,Lincolnshire
+UKF1,United Kingdom,East Midlands (England),Derbyshire and Nottinghamshire
+UKF2,United Kingdom,East Midlands (England),"Leicestershire, Rutland and Northamptonshire"
+UKF3,United Kingdom,East Midlands (England),Lincolnshire
 UKG,United Kingdom,West Midlands (England),
-UKG1,,,"Herefordshire, Worcestershire and Warwickshire"
-UKG2,,,Shropshire and Staffordshire
-UKG3,,,West Midlands
+UKG1,United Kingdom,West Midlands (England),"Herefordshire, Worcestershire and Warwickshire"
+UKG2,United Kingdom,West Midlands (England),Shropshire and Staffordshire
+UKG3,United Kingdom,West Midlands (England),West Midlands
 UKH,United Kingdom,East of England,
-UKH1,,,East Anglia
-UKH2,,,Bedfordshire and Hertfordshire
-UKH3,,,Essex
+UKH1,United Kingdom,East of England,East Anglia
+UKH2,United Kingdom,East of England,Bedfordshire and Hertfordshire
+UKH3,United Kingdom,East of England,Essex
 UKI,United Kingdom,London,
-UKI3,,,Inner London — West
-UKI4,,,Inner London — East
-UKI5,,,Outer London — East and North East
-UKI6,,,Outer London — South
-UKI7,,,Outer London — West and North West
+UKI3,United Kingdom,London,Inner London — West
+UKI4,United Kingdom,London,Inner London — East
+UKI5,United Kingdom,London,Outer London — East and North East
+UKI6,United Kingdom,London,Outer London — South
+UKI7,United Kingdom,London,Outer London — West and North West
 UKJ,United Kingdom,South East (England),
-UKJ1,,,"Berkshire, Buckinghamshire and Oxfordshire"
-UKJ2,,,"Surrey, East and West Sussex"
-UKJ3,,,Hampshire and Isle of Wight
-UKJ4,,,Kent
+UKJ1,United Kingdom,South East (England),"Berkshire, Buckinghamshire and Oxfordshire"
+UKJ2,United Kingdom,South East (England),"Surrey, East and West Sussex"
+UKJ3,United Kingdom,South East (England),Hampshire and Isle of Wight
+UKJ4,United Kingdom,South East (England),Kent
 UKK,United Kingdom,South West (England),
-UKK1,,,"Gloucestershire, Wiltshire and Bristol/Bath area"
-UKK2,,,Dorset and Somerset
-UKK3,,,Cornwall and Isles of Scilly
-UKK4,,,Devon
+UKK1,United Kingdom,South West (England),"Gloucestershire, Wiltshire and Bristol/Bath area"
+UKK2,United Kingdom,South West (England),Dorset and Somerset
+UKK3,United Kingdom,South West (England),Cornwall and Isles of Scilly
+UKK4,United Kingdom,South West (England),Devon
 UKL,United Kingdom,Wales,
-UKL1,,,West Wales and The Valleys
-UKL2,,,East Wales
+UKL1,United Kingdom,Wales,West Wales and The Valleys
+UKL2,United Kingdom,Wales,East Wales
 UKM,United Kingdom,Scotland,
-UKM5,,,North Eastern Scotland
-UKM6,,,Highlands and Islands
-UKM7,,,Eastern Scotland
-UKM8,,,West Central Scotland
-UKM9,,,Southern Scotland
+UKM5,United Kingdom,Scotland,North Eastern Scotland
+UKM6,United Kingdom,Scotland,Highlands and Islands
+UKM7,United Kingdom,Scotland,Eastern Scotland
+UKM8,United Kingdom,Scotland,West Central Scotland
+UKM9,United Kingdom,Scotland,Southern Scotland
 UKN,United Kingdom,Northern Ireland,
-UKN0,,,
+UKN0,United Kingdom,Northern Ireland,

@@ -1,0 +1,444 @@
+-
+   Code: AL0
+   Country: Albania
+   NUTS level 1: Albania
+-
+   Code: AT1
+   Country: Austria
+   NUTS level 1: Ostösterreich
+-
+   Code: AT2
+   Country: Austria
+   NUTS level 1: Südösterreich
+-
+   Code: AT3
+   Country: Austria
+   NUTS level 1: Westösterreich
+-
+   Code: BA0
+   Country: Bosnia And Herzegovina
+   NUTS level 1: Bosnia And Herzegovina
+-
+   Code: BE1
+   Country: Belgium
+   NUTS level 1: Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest
+-
+   Code: BE2
+   Country: Belgium
+   NUTS level 1: Vlaams Gewest
+-
+   Code: BE3
+   Country: Belgium
+   NUTS level 1: Région wallonne
+-
+   Code: BG3
+   Country: Bulgaria
+   NUTS level 1: North and Southeast Bulgaria
+-
+   Code: BG4
+   Country: Bulgaria
+   NUTS level 1: Southwest and South Central Bulgaria
+-
+   Code: CH0
+   Country: Switzerland
+   NUTS level 1: Switzerland
+-
+   Code: CY0
+   Country: Cyprus
+   NUTS level 1: Cyprus
+-
+   Code: CZ0
+   Country: Czech Republic
+   NUTS level 1: Czech Republic
+-
+   Code: DE1
+   Country: Germany
+   NUTS level 1: Baden-Württemberg
+-
+   Code: DE2
+   Country: Germany
+   NUTS level 1: Bayern
+-
+   Code: DE3
+   Country: Germany
+   NUTS level 1: Berlin
+-
+   Code: DE4
+   Country: Germany
+   NUTS level 1: Brandenburg
+-
+   Code: DE5
+   Country: Germany
+   NUTS level 1: Bremen
+-
+   Code: DE6
+   Country: Germany
+   NUTS level 1: Hamburg
+-
+   Code: DE7
+   Country: Germany
+   NUTS level 1: Hessen
+-
+   Code: DE8
+   Country: Germany
+   NUTS level 1: Mecklenburg-Vorpommern
+-
+   Code: DE9
+   Country: Germany
+   NUTS level 1: Niedersachsen
+-
+   Code: DEA
+   Country: Germany
+   NUTS level 1: Nordrhein-Westfalen
+-
+   Code: DEB
+   Country: Germany
+   NUTS level 1: Rheinland-Pfalz
+-
+   Code: DEC
+   Country: Germany
+   NUTS level 1: Saarland
+-
+   Code: DED
+   Country: Germany
+   NUTS level 1: Sachsen
+-
+   Code: DEE
+   Country: Germany
+   NUTS level 1: Sachsen-Anhalt
+-
+   Code: DEF
+   Country: Germany
+   NUTS level 1: Schleswig-Holstein
+-
+   Code: DEG
+   Country: Germany
+   NUTS level 1: Thüringen
+-
+   Code: DK0
+   Country: Denmark
+   NUTS level 1: Denmark
+-
+   Code: EE0
+   Country: Estonia
+   NUTS level 1: Estonia
+-
+   Code: EL3
+   Country: Greece
+   NUTS level 1: Attica
+-
+   Code: EL4
+   Country: Greece
+   NUTS level 1: Aegean Islands, Crete
+-
+   Code: EL5
+   Country: Greece
+   NUTS level 1: Northern Greece
+-
+   Code: EL6
+   Country: Greece
+   NUTS level 1: Central Greece
+-
+   Code: ES1
+   Country: Spain
+   NUTS level 1: Northwest
+-
+   Code: ES2
+   Country: Spain
+   NUTS level 1: Northeast
+-
+   Code: ES3
+   Country: Spain
+   NUTS level 1: Madrid's community
+-
+   Code: ES4
+   Country: Spain
+   NUTS level 1: Center
+-
+   Code: ES5
+   Country: Spain
+   NUTS level 1: East
+-
+   Code: ES6
+   Country: Spain
+   NUTS level 1: South
+-
+   Code: ES7
+   Country: Spain
+   NUTS level 1: Canary Islands
+-
+   Code: FI1
+   Country: Finland
+   NUTS level 1: Manner-Suomi
+-
+   Code: FI2
+   Country: Finland
+   NUTS level 1: Åland
+-
+   Code: FR1
+   Country: France
+   NUTS level 1: Ile-de-France
+-
+   Code: FRB
+   Country: France
+   NUTS level 1: Centre — Val de Loire
+-
+   Code: FRC
+   Country: France
+   NUTS level 1: Bourgogne-Franche-Comté
+-
+   Code: FRD
+   Country: France
+   NUTS level 1: Normandie
+-
+   Code: FRE
+   Country: France
+   NUTS level 1: Hauts-de-France
+-
+   Code: FRF
+   Country: France
+   NUTS level 1: Grand Est
+-
+   Code: FRG
+   Country: France
+   NUTS level 1: Pays de la Loire
+-
+   Code: FRH
+   Country: France
+   NUTS level 1: Bretagne
+-
+   Code: FRI
+   Country: France
+   NUTS level 1: Nouvelle-Aquitaine
+-
+   Code: FRJ
+   Country: France
+   NUTS level 1: Occitanie
+-
+   Code: FRK
+   Country: France
+   NUTS level 1: Auvergne-Rhône-Alpes
+-
+   Code: FRL
+   Country: France
+   NUTS level 1: Provence-Alpes-Côte d’Azur
+-
+   Code: FRM
+   Country: France
+   NUTS level 1: Corse
+-
+   Code: FRY
+   Country: France
+   NUTS level 1: RUP FR — Régions Ultrapériphériques Françaises
+-
+   Code: HR0
+   Country: Croatia
+   NUTS level 1: Hrvatska
+-
+   Code: HU1
+   Country: Hungary
+   NUTS level 1: Közép-Magyarország
+-
+   Code: HU2
+   Country: Hungary
+   NUTS level 1: Dunántúl
+-
+   Code: HU3
+   Country: Hungary
+   NUTS level 1: Alföld és Észak
+-
+   Code: IE0
+   Country: Ireland
+   NUTS level 1: Ireland
+-
+   Code: ITC
+   Country: Italy
+   NUTS level 1: Northwest
+-
+   Code: ITF
+   Country: Italy
+   NUTS level 1: South
+-
+   Code: ITG
+   Country: Italy
+   NUTS level 1: Islands
+-
+   Code: ITH
+   Country: Italy
+   NUTS level 1: North East
+-
+   Code: ITI
+   Country: Italy
+   NUTS level 1: Center
+-
+   Code: LT0
+   Country: Lithuania
+   NUTS level 1: Lietuva
+-
+   Code: LU0
+   Country: Luxembourg
+   NUTS level 1: Luxembourg
+-
+   Code: LV0
+   Country: Latvia
+   NUTS level 1: Latvia
+-
+   Code: ME0
+   Country: Montenegro
+   NUTS level 1: Montenegro
+-
+   Code: MT0
+   Country: Malta
+   NUTS level 1: Malta
+-
+   Code: NL1
+   Country: Netherlands
+   NUTS level 1: North Netherlands
+-
+   Code: NL2
+   Country: Netherlands
+   NUTS level 1: East Holland
+-
+   Code: NL3
+   Country: Netherlands
+   NUTS level 1: West Netherlands
+-
+   Code: NL4
+   Country: Netherlands
+   NUTS level 1: South of the Netherlands
+-
+   Code: NO0
+   Country: Norway
+   NUTS level 1: Norway
+-
+   Code: PL2
+   Country: Poland
+   NUTS level 1: Southern macroregion
+-
+   Code: PL4
+   Country: Poland
+   NUTS level 1: Northwestern Macroregion
+-
+   Code: PL5
+   Country: Poland
+   NUTS level 1: Southwestern macroregion
+-
+   Code: PL6
+   Country: Poland
+   NUTS level 1: Northern macroregion
+-
+   Code: PL7
+   Country: Poland
+   NUTS level 1: Central macroregion
+-
+   Code: PL8
+   Country: Poland
+   NUTS level 1: Eastern macroregion
+-
+   Code: PL9
+   Country: Poland
+   NUTS level 1: Macroregion Mazowieckie Province
+-
+   Code: PT1
+   Country: Portugal
+   NUTS level 1: Continente
+-
+   Code: PT2
+   Country: Portugal
+   NUTS level 1: Região Autónoma dos Açores
+-
+   Code: PT3
+   Country: Portugal
+   NUTS level 1: Região Autónoma da Madeira
+-
+   Code: RO1
+   Country: Romania
+   NUTS level 1: Macroregion One
+-
+   Code: RO2
+   Country: Romania
+   NUTS level 1: Macroregion Two
+-
+   Code: RO3
+   Country: Romania
+   NUTS level 1: Macroregion Three
+-
+   Code: RO4
+   Country: Romania
+   NUTS level 1: Macroregion Four
+-
+   Code: RS1
+   Country: Serbia
+   NUTS level 1: Serbia - North
+-
+   Code: RS2
+   Country: Serbia
+   NUTS level 1: Serbia - South
+-
+   Code: SE1
+   Country: Sweden
+   NUTS level 1: East Sweden
+-
+   Code: SE2
+   Country: Sweden
+   NUTS level 1: Southern Sweden
+-
+   Code: SE3
+   Country: Sweden
+   NUTS level 1: North Sweden
+-
+   Code: SI0
+   Country: Slovenia
+   NUTS level 1: Slovenia
+-
+   Code: SK0
+   Country: Slovakia
+   NUTS level 1: Slovakia
+-
+   Code: UKC
+   Country: United Kingdom
+   NUTS level 1: North East (England)
+-
+   Code: UKD
+   Country: United Kingdom
+   NUTS level 1: North West (England)
+-
+   Code: UKE
+   Country: United Kingdom
+   NUTS level 1: Yorkshire and the Humber
+-
+   Code: UKF
+   Country: United Kingdom
+   NUTS level 1: East Midlands (England)
+-
+   Code: UKG
+   Country: United Kingdom
+   NUTS level 1: West Midlands (England)
+-
+   Code: UKH
+   Country: United Kingdom
+   NUTS level 1: East of England
+-
+   Code: UKI
+   Country: United Kingdom
+   NUTS level 1: London
+-
+   Code: UKJ
+   Country: United Kingdom
+   NUTS level 1: South East (England)
+-
+   Code: UKK
+   Country: United Kingdom
+   NUTS level 1: South West (England)
+-
+   Code: UKL
+   Country: United Kingdom
+   NUTS level 1: Wales
+-
+   Code: UKM
+   Country: United Kingdom
+   NUTS level 1: Scotland
+-
+   Code: UKN
+   Country: United Kingdom
+   NUTS level 1: Northern Ireland
