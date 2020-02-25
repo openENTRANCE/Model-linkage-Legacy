@@ -1,0 +1,135 @@
+-
+   Technology Level 1: VehicleTransportation
+   Technology Level 2: BatteryElectricVehicle(BEV)
+-
+   Technology Level 1: EnergyStorageSystem
+   Technology Level 2: BatteryEnergyStorage(BES)
+-
+   Technology Level 1: BiomassToPower
+   Technology Level 2: BiomassWCCS
+-
+   Technology Level 1: BiomassToPower
+   Technology Level 2: BiomassWOCCS
+-
+   Technology Level 1: ThermalMachine
+   Technology Level 2: Boiler
+-
+   Technology Level 1: DirectAirCaptureMachine
+   Technology Level 2: CarbonCaptureAndStorage(CCS)
+-
+   Technology Level 1: ThermalMachine
+   Technology Level 2: Chiller
+-
+   Technology Level 1: CoalToPower
+   Technology Level 2: CoalWCCS
+-
+   Technology Level 1: CoalToPower
+   Technology Level 2: CoalWOCCS
+-
+   Technology Level 1: Cogeneration
+   Technology Level 2: Cogeneration.CombinedHeatAndPower(CHP)
+-
+   Technology Level 1: GasTurbine
+   Technology Level 2: CombinedCycleGasTurbine(CCGT)
+-
+   Technology Level 1: EnergyStorageSystem
+   Technology Level 2: Compressed-AirEnergyStorage(CAES)
+-
+   Technology Level 1: ThermalMachine
+   Technology Level 2: CondensingPlant
+-
+   Technology Level 1: ThermalMachine
+   Technology Level 2: CoolingProcess
+-
+   Technology Level 1: ElectricityStrategy
+   Technology Level 2: DemandResponse
+-
+   Technology Level 1: VehicleTransportation
+   Technology Level 2: FuelCellElectricVehicle(FCEV)
+-
+   Technology Level 1: GasToPower
+   Technology Level 2: Gas-firedPower
+-
+   Technology Level 1: GeothermalToPower
+   Technology Level 2:
+-
+   Technology Level 1: HardcoalToPower
+   Technology Level 2:
+-
+   Technology Level 1: ThermalMachine
+   Technology Level 2: HeatPump
+-
+   Technology Level 1: EnergyStorage
+   Technology Level 2: Hydrogen(H2)
+-
+   Technology Level 1: HydroToPower
+   Technology Level 2: HydropowerLarge
+-
+   Technology Level 1: HydroToPower
+   Technology Level 2: HydropowerSmall
+-
+   Technology Level 1: VehicleTransportation
+   Technology Level 2: Internal-CombustionEngineVehicles(ICEV)
+-
+   Technology Level 1: LigniteToPower
+   Technology Level 2:
+-
+   Technology Level 1: Methane
+   Technology Level 2:
+-
+   Technology Level 1: GasToPower
+   Technology Level 2: NaturalGasWCCS
+-
+   Technology Level 1: GasToPower
+   Technology Level 2: NaturalGasWOCCS
+-
+   Technology Level 1: NuclearToPower
+   Technology Level 2:
+-
+   Technology Level 1: OceanToPower
+   Technology Level 2:
+-
+   Technology Level 1: OilToPower
+   Technology Level 2:
+-
+   Technology Level 1: VehicleTransportation
+   Technology Level 2: OverheadLineElectricTruck
+-
+   Technology Level 1: VehicleTransportation
+   Technology Level 2: Plug-inHybridElectricVehicle(PHEV),RangeExtenderElectricVehicle(REEV)
+-
+   Technology Level 1: PowerTransmission
+   Technology Level 2:
+-
+   Technology Level 1: PowerToGas
+   Technology Level 2:
+-
+   Technology Level 1: PowerToHeat
+   Technology Level 2:
+-
+   Technology Level 1: EnergyStorageSystem
+   Technology Level 2: Pumped-StorageHydro(PHS)
+-
+   Technology Level 1: RenewableEnergySource
+   Technology Level 2: SolarPVRooftop
+-
+   Technology Level 1: RenewableEnergySource
+   Technology Level 2: SolarPVUtility
+-
+   Technology Level 1: RenerableEnergySource
+   Technology Level 2: SolarThermal(CSP)
+-
+   Technology Level 1: RenewableEnergySource
+   Technology Level 2: WindOffshore
+-
+   Technology Level 1: RenewableEnergySource
+   Technology Level 2: WindOnshore
+-
+   Technology Level 1: ElectricityStrategy
+   Technology Level 2: EnergyNotSupplied
+-
+   Technology Level 1: Petrol
+   Technology Level 2:
+-
+   Technology Level 1: SyntheticGas
+   Technology Level 2:

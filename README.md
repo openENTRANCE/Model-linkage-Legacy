@@ -61,7 +61,7 @@ More details can be found [here](Scenario/README.md).
 
 
 ## 3. Region
-It refers to the geographical mapping of the variable. For that purpose, a definition of the set of regions is proposed by combining the possible geographical levels, in the order defined next, using pipes (|). Note that the [NUTS 2021 Nomenclature](https://ec.europa.eu/eurostat/web/nuts/background) is considered.
+It refers to the geographical mapping of the variable. For that purpose, a definition of the set of regions is proposed by combining the possible geographical levels, in the order defined next, using pipes (**|**). Note that the [NUTS 2021 Nomenclature](https://ec.europa.eu/eurostat/web/nuts/background) is considered.
 We propose the following levels for the definition of the locations to be considered:
 
 * Continent: Europe
@@ -106,3 +106,62 @@ For the geographical links (such as electrical circuits), it is important to con
 
 
 More details can be found [here](Region/README.md).
+
+## 4. Variable
+It defines the nature/features of the variable whose value is provided. For that purpose, we propose to set up the **Variable** by specifying values related to the following data types and combining these, in the order provided next, using pipes (|).
+We propose to consider the following levels of variables:
+
+*	Category: Agriculture, Demography, Economy, Emissions, Employment, Energy, EnergyService, GDP, Investment, Land, Trade, Price, ValueAdded
+*	NonEnergy: Crops, Livestock, Forest, Pasture, BuiltUpArea, OtherLand, Residues
+*	Energy: FinalEnergy, PrimaryEnergy, SecondaryEnergy
+*	TypeOfSecondaryEnergy: Electricity, Heat, Transport
+*	TypeOfFinalEnergy: Commercial, Industry, Other, Residential, TransportationFreight, TransportationPassenger
+*	Technology: The list of **technologies** to consider will be easily accessible to modelers, who could develop their data processing tools taking it into account.
+*	Generator: name of the generator
+*	Variable: The list of **variables** to consider will be easily accessible to modelers, who could develop their data processing tools taking it into account. Each variable can be mapped to those models that can use the former as an input or output.
+
+<!-- Names separated by dots (.), as Agriculture.AFOLU.AFOFI for example, mean that all these names are synonyms. This is to be defined in the repository. -->
+We set here some guidelines to ensure consistency across the variable names to be defined:
+
+* Do not include spaces before and after a (**|**) sign, but add a space between words
+* All words must be capitalized (except for **and**,**w/**, **w/o**)
+* Do not use abbreviations (e.g, **PHEV**) unless strictly necessary
+ add hierarchy levels where it might be useful in the future, e.g, rather than having **Plugin-Hybrid Electric Vehicle**, use **Electric Vehicle|Plugin-Hybrid**
+* Do not use statistical-operation-abbreviations (**min**, **max**, **avg**) but always spell out the word
+* Do not include words like **level** or **quantity** in the variable (it should be clear anyway from the context)
+
+
+
+Some examples of variables to be considered follow:
+
+>	 PowerCapacity|GasTurbine|CombinedCycle|Arcos3
+
+It refers to the capacity of a generating unit.
+This example introduces 1) The association of **Arcos3** (a Spanish combined cycle gas turbine - technology level 3) to the technology level 1 (Gas Turbine) and technology level 2 (combined cycle), and, 2) To define its power capacity (e.g., 480 MW).
+The order defined above:
+
+> Variable|Technology Level 1|Technology Level 2|Technology Level 3
+
+First, the variable (e.g., Capacity, EmissionRate, LinearVariableCost, etc.) is defined. After that, the order goes from wider (technology level 1) to smaller (technology level 3).
+The following expression could be used to define the entire **combined cycle gas turbine**:
+
+>	 PowerCapacity|GasTurbine|CombinedCycle
+
+The following expression could be used to define the total **combined cycle gas turbine** plus **open cycle gas turbine**:
+
+>	 PowerCapacity|GasTurbine
+
+And, the total power plant capacity of the power system (assuming this is an electricity-only model - to be generic in a multi-commodity setting)
+
+>	 PowerCapacity
+
+In addition, electricity demand can be defined as follows:
+
+> PowerDemand
+
+But it has to be in a companion of a definition of the region.
+For example:
+
+>	Germany|DE21H|Node001
+
+More details can be found [here](Variable/README.md).
