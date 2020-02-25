@@ -1,6 +1,6 @@
 ## Dictionary of Category
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/Category.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/Category.yml).
 
 As brief part of the **Dictionary of Category** is shown as follows:
 | Category                  |
@@ -15,7 +15,7 @@ As brief part of the **Dictionary of Category** is shown as follows:
 
 ## Dictionary of NonEnergy
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/NonEnergy.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/NonEnergy.yml).
 
 As brief part of the **Dictionary of NonEnergy** is shown as follows:
 | NonEnergy     |
@@ -30,7 +30,7 @@ As brief part of the **Dictionary of NonEnergy** is shown as follows:
 
 ## Dictionary of Energy
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/Energy.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/Energy.yml).
 
 As brief part of the **Dictionary of Energy** is shown as follows:
 | Energy          |
@@ -42,7 +42,7 @@ As brief part of the **Dictionary of Energy** is shown as follows:
 
 ## Dictionary of TypeOfSecondaryEnergy
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/TypeOfSecondaryEnergy.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/Variable/Region/TypeOfSecondaryEnergy.yml).
 
 As brief part of the **Dictionary of TypeOfSecondaryEnergy**:
 | TypeOfSecondaryEnergy |
@@ -54,7 +54,7 @@ As brief part of the **Dictionary of TypeOfSecondaryEnergy**:
 
 ## Dictionary of TypeOfFinalEnergy
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/TypeOfFinalEnergy.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/TypeOfFinalEnergy.yml).
 
 As brief part of the **Dictionary of TypeOfFinalEnergy**:
 | TypeOfFinalEnergy       |
@@ -69,7 +69,7 @@ As brief part of the **Dictionary of TypeOfFinalEnergy**:
 
 ## Dictionary of Technology Level 1 and 2
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/Technology_Level12.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/Technology_Level12.yml).
 
 As brief part of the **Dictionary of Technology 1 and 2**:
 | Technology Level 1      | Technology Level 2                                                         |
@@ -84,7 +84,7 @@ As brief part of the **Dictionary of Technology 1 and 2**:
 
 ## Dictionary of Nodes
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/Technology_Level3.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/Technology_Level3.yml).
 
 As brief part of the **Dictionary of Technology 3**:
 | Technology Level 3 |
@@ -94,7 +94,7 @@ As brief part of the **Dictionary of Technology 3**:
 
 ## Dictionary of Variable
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/Variable_Dictionary.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/Variable_Dictionary.yml).
 
 As brief part of the **Dictionary of Variable**:
 | Variable                                                                    | Definition                                                                                                                            |
