@@ -134,11 +134,33 @@ We set here some guidelines to ensure consistency across the variable names to b
 
 Some examples of variables to be considered follow:
 
-*	CombinedCycleGasTurbine(CCGT)|Arcos3|ExistingCapacity refers to the capacity of a generating unit.
-IN THIS EXAMPLE I WANT TO INTRODUCE, ON ONE HAND THE ASSOCIATION OF ARCOS3 (A SPANISH CCGT) TO THE TECHNOLOGY CombinedCycleGasTurbine(CCGT) AND, ON THE OTHER HAND, TO DEFINE ITS CAPACITY (E.G., 480 MW).
-THE ORDER GOES FROM WIDER (TECHNOLOGY) TO SMALLER (CCGT UNIT) AND FINALLY THE CHARACTERISTIC (E.G., Capacity, EmissionRate, LinearVariableCost, ETC.). THIS IS THE ORDER DEFINED ABOVE Technology|Generator|Variable
-*	Electricity|Demand refers to the electricity demand.
+>	 PowerCapacity|GasTurbine|CombinedCycle|Arcos3
 
+It refers to the capacity of a generating unit.
+This example introduces 1) The association of **Arcos3** (a Spanish combined cycle gas turbine) to the technology level 1 (Gas Turbine) and technology level 2 (combined cycle), and, 2) To define its power capacity (e.g., 480 MW).
+The order defined above:
 
+> Variable|Technology Level 1|Technology Level 2|Power Generator
+
+First, the variable (e.g., Capacity, EmissionRate, LinearVariableCost, etc.) is defined. After that, the order goes from wider (technology level 1) to smaller (power generator).
+The following expression could be used to define the entire **combined cycle gas turbine**:
+
+>	 PowerCapacity|GasTurbine|CombinedCycle
+
+The following expression could be used to define the total **combined cycle gas turbine** plus **open cycle gas turbine**:
+
+>	 PowerCapacity|GasTurbine
+
+And, the total power plant capacity of the power system (assuming this is an electricity-only model - to be generic in a multi-commodity setting)
+
+>	 PowerCapacity
+
+In addition, electricity demand can be defined as follows:
+
+> PowerDemand
+
+But it has to be in a companion of a definition of the region. For example:
+
+>	Germany|DE21H|Node001
 
 More details can be found [here](Variable/README.md).
