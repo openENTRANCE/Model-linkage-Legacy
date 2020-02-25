@@ -96,7 +96,7 @@ As an example of the **Dictionary of EndUser**:
 
 ## Dictionary of Nodes
 
-***Any name is valid here (subject to Pull-request)***. Note that each node is below in hierarchy with respect to the immediate upper level.
+***Any name is valid here (subject to Pull-request)***. Note that each **node** is below in hierarchy with respect to the immediate upper level.
 If it is only one node for each immediate upper level, the node could be equivalent to the immediate upper level.
 
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/Nodes_Dictionary.yml).
@@ -109,3 +109,18 @@ As an example of the **Dictionary of Nodes**:
 | N003 | Node 3               |
 | N004 | Node 4               |
 | N005 | Node 5               |
+
+## Dictionary of Circuits
+
+***Any name is valid here (subject to Pull-request)***.
+Note that each code of circuits should have to refer to the type of circuit or link between nodes
+
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/Nodes_Dictionary.yml).
+
+As an example of the **Dictionary of Circuits**:
+| Code  | Type of circuit          |
+|-------|--------------------------|
+| AC001 | Electrical circuit in AC |
+| AC002 | Electrical circuit in AC |
+| DC001 | Electrical circuit in DC |
+| DC002 | Electrical circuit in DC |
