@@ -1,4 +1,5 @@
 ## Dictionary of Scenario
+All information considered should be added [here](Model/Model_Suite.yml)
 
 <table>
 <tr><th> Study </th><th> Scenario </th></tr>
