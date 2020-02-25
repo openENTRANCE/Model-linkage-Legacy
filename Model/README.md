@@ -1,6 +1,6 @@
 ## Dictionary of models
 
-All information considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/Model/Model_Suite.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/Model/Model_Suite.yml).
 
 The model suite:
 
