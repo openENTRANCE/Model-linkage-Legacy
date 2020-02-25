@@ -1,36 +1,36 @@
 -
-   __Model__: EMPIRE
-   __Version__: 1.0.0
+   Model: EMPIRE
+   Version: 1.0.0
 -
-   __Model__: e-Transport
-   __Version__: 1.0.0
+   Model: e-Transport
+   Version: 1.0.0
 -
-   __Model__: EXIOMOD
-   __Version__: 2.0.0
+   Model: EXIOMOD
+   Version: 2.0.0
 -
-   __Model__: FanSi
-   __Version__: 1.0.0
+   Model: FanSi
+   Version: 1.0.0
 -
-   __Model__: FRESH:COM
-   __Version__: 1.0.0
+   Model: FRESH:COM
+   Version: 1.0.0
 -
-   __Model__: GENeSYS-MOD
-   __Version__: 1.0.0
+   Model: GENeSYS-MOD
+   Version: 1.0.0
 -
-   __Model__: HERO
-   __Version__: 1.0.0
+   Model: HERO
+   Version: 1.0.0
 -
-   __Model__: openTEPES
-   __Version__: 1.6.12
+   Model: openTEPES
+   Version: 1.6.12
 -
-   __Model__: OSCARS
-   __Version__: 1.0.0
+   Model: OSCARS
+   Version: 1.0.0
 -
-   __Model__: Plan4EU
-   __Version__: 1.0.0
+   Model: Plan4EU
+   Version: 1.0.0
 -
-   __Model__: REMES-EU
-   __Version__: 1.0.0
+   Model: REMES-EU
+   Version: 1.0.0
 -
-   __Model__: SCOPE-SD
-   __Version__: 1.0.0
+   Model: SCOPE-SD
+   Version: 1.0.0
