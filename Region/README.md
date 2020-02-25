@@ -53,7 +53,7 @@ As brief part of the **NUTS Nomenclature** is shown as follows:
 
 ***Any name is valid here (subject to Pull-request)***. Note that each **district** is below in hierarchy with respect to the **immediate upper level**.
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/RegionsEuropa_Dictionary.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/District_Dictionary.yml).
 
 As an example of the **Dictionary of District**:
 | Code        | District                 |
@@ -68,7 +68,7 @@ As an example of the **Dictionary of District**:
 
 ***Any name is valid here (subject to Pull-request)***. Note that each **Community** is below in hierarchy with respect to the **immediate upper level**.
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/RegionsEuropa_Dictionary.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/Community_Dictionary.yml).
 
 As an example of the **Dictionary of Community**:
 | Code         | Community                 |
@@ -83,7 +83,7 @@ As an example of the **Dictionary of Community**:
 
 ***Any name is valid here (subject to Pull-request)***. Note that each **EndUser** is below in hierarchy with respect to the **immediate upper level**.
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/RegionsEuropa_Dictionary.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/EndUser_Dictionary.yml).
 
 As an example of the **Dictionary of EndUser**:
 | Code    | EndUser              |
@@ -99,7 +99,7 @@ As an example of the **Dictionary of EndUser**:
 ***Any name is valid here (subject to Pull-request)***. Note that each node is below in hierarchy with respect to the immediate upper level.
 If it is only one node for each immediate upper level, the node could be equivalent to the immediate upper level.
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/RegionsEuropa_Dictionary.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/Nodes_Dictionary.yml).
 
 As an example of the **Dictionary of Nodes**:
 | Code | Nodes                |
