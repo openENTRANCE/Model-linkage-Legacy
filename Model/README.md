@@ -6,18 +6,18 @@ The model suite:
 
 |  __Model__  |  __Version__  |
 |-------------|---------------|
-| EMPIRE      |               |
-| e-Transport |               |
+| EMPIRE      | 1.0.0         |
+| e-Transport | 1.0.0         |
 | EXIOMOD     | 2.0.0         |
-| FanSi       |               |
-| FRESH:COM   |               |
-| GENeSYS-MOD |               |
-| HERO        |               |
+| FanSi       | 1.0.0         |
+| FRESH:COM   | 1.0.0         |
+| GENeSYS-MOD | 1.0.0         |
+| HERO        | 1.0.0         |
 | openTEPES   | 1.6.12        |
-| OSCARS      |               |
-| Plan4EU     |               |
-| REMES-EU    |               |
-| SCOPE-SD    |               |
+| OSCARS      | 1.0.0         |
+| Plan4EU     | 1.0.0         |
+| REMES-EU    | 1.0.0         |
+| SCOPE-SD    | 1.0.0         |
 
 ## Description of models
 
