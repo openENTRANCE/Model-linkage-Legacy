@@ -1,5 +1,7 @@
 ## Dictionary of Scenario
 
+All information considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/Reorder_Scenario_Section/Scenario/Scenario_Suite.yml)
+
 <table>
 <tr><th> Study </th><th> Scenario </th></tr>
 <tr><td>
@@ -50,7 +52,7 @@
 
 | Study | Name                                                         | Description                                                                                                                                                                                                                                                                                      |
 |-------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| CS1   | Case Study 1: Demand response – the behaviour of individuals     | It will evaluate the potential flexibility from demand response from household consumers and study its impact on the integrated European electricity system cost, operation, and investment needs.                                                                                               |
+| CS1   | Case Study 1: Demand response – the behavior of individuals     | It will evaluate the potential flexibility from demand response from household consumers and study its impact on the integrated European electricity system cost, operation, and investment needs.                                                                                               |
 | CS2   | Case Study 2: Communities of actors                          | It will study shared energy management in different local energy community concepts, taking into account the individual preferences of the actors involved. Based on comprehensive modeling, the quantitative results will be up-scaled on the country and the European level.                        |
 | CS3   | Case Study 3 - Need for flexibility: Storage                 | It will analyze how the uses of flexible hydropower and more generally of different kinds of storages (pumped-hydro, batteries, gas….) can tackle some of the main challenges of the energy transition.                                                                                          |
 | CS4   | Case Study 4 – Need for flexibility: Sector coupling         | It will be dedicated to cross-sector integration, with a specific focus on the flexibilities provided by electric vehicle owners to the electricity system.                                                                                                                                      |
