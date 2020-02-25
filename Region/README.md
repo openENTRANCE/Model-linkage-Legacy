@@ -115,7 +115,7 @@ As an example of the **Dictionary of Nodes**:
 ***Any name is valid here (subject to Pull-request)***.
 Note that each code of circuits should have to refer to the type of circuit or link between nodes
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/Nodes_Dictionary.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/Circuits_Dictionary.yml).
 
 As an example of the **Dictionary of Circuits**:
 | Code  | Type of circuit          |
