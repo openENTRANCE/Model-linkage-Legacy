@@ -1,6 +1,6 @@
 ## Dictionary of Scenario
 
-All information considered should be added [here](Scenario/Scenario_Suite.yml)
+All information considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Scenario/Scenario_Suite.yml).
 
 <table>
 <tr><th> Study </th><th> Scenario </th></tr>
