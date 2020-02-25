@@ -42,7 +42,7 @@ As brief part of the **Dictionary of Energy** is shown as follows:
 
 ## Dictionary of TypeOfSecondaryEnergy
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/Variable/Region/TypeOfSecondaryEnergy.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/TypeOfSecondaryEnergy.yml).
 
 As brief part of the **Dictionary of TypeOfSecondaryEnergy**:
 | TypeOfSecondaryEnergy |
@@ -74,12 +74,12 @@ All information to be considered should be added [here](https://github.com/openE
 As brief part of the **Dictionary of Technology 1 and 2**:
 | Technology Level 1      | Technology Level 2                                                         |
 |-------------------------|----------------------------------------------------------------------------|
-| VehicleTransportation   | BatteryElectricVehicle\(BEV\)                                              |
-| EnergyStorageSystem     | BatteryEnergyStorage\(BES\)                                                |
-| BiomassToPower          | BiomassWCCS                                                                |
-| BiomassToPower          | BiomassWOCCS                                                               |
+| VehicleTransportation   | BatteryElectricVehicle                                                     |
+| EnergyStorageSystem     | BatteryEnergyStorage                                                       |
+| BiomassToPower          | BiomassW/CCS                                                               |
+| BiomassToPower          | BiomassW/oCCS                                                              |
 | ThermalMachine          | Boiler                                                                     |
-| DirectAirCaptureMachine | CarbonCaptureAndStorage\(CCS\)                                             |
+| DirectAirCaptureMachine | CarbonCaptureAndStorage                                                    |
 
 
 ## Dictionary of Nodes
