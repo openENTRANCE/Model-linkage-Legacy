@@ -9,6 +9,7 @@ This dictionary is divided into:
 
 ## Month
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Subannual/Months_Dictionary.yml).
+
 A brief part of the **Dictionary of Months** is shown as follows:
 | Month |
 |-------|
@@ -21,6 +22,7 @@ A brief part of the **Dictionary of Months** is shown as follows:
 
 ## Week
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Subannual/Weeks_Dictionary.yml).
+
 A brief part of the **Dictionary of Weeks** is shown as follows:
 | Week |
 |------|
@@ -33,6 +35,7 @@ A brief part of the **Dictionary of Weeks** is shown as follows:
 
 ## Day
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Subannual/Days_Dictionary.yml).
+
 A brief part of the **Dictionary of Days** is shown as follows:
 | Day  |
 |------|
@@ -45,13 +48,14 @@ A brief part of the **Dictionary of Days** is shown as follows:
 
 ## Hour
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Subannual/Hours_Dictionary.yml).
+
 A brief part of the **Dictionary of Hours** is shown as follows:
-| Hour              |
-|-------------------|
-| '01/01/2030 00:00 |
-| '01/01/2030 01:00 |
-| '01/01/2030 02:00 |
-| '01/01/2030 03:00 |
-| '01/01/2030 04:00 |
-| '01/01/2030 05:00 |
-| '01/01/2030 06:00 |
+| Type  | Hour              |
+|-------|-------------------|
+| Type1 | '01/01/2030 00:00 |
+| Type1 | '01/01/2030 01:00 |
+| Type1 | '01/01/2030 02:00 |
+| Type1 | '01/01/2030 03:00 |
+| Type1 | '01/01/2030 04:00 |
+| Type1 | '01/01/2030 05:00 |
+| Type1 | '01/01/2030 06:00 |
