@@ -2,7 +2,7 @@
 
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Unit/Units_Dictionary.yml).
 
-As brief part of the **Dictionary of Units** is shown as follows:
+A brief part of the **Dictionary of Units** is shown as follows:
 | Unit                          |
 |-------------------------------|
 | %                             |

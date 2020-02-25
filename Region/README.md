@@ -2,7 +2,7 @@
 
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/CountriesEuropa_Dictionary.yml).
 
-As brief part of the **dictionary of countries** is shown as follows:
+A brief part of the **dictionary of countries** is shown as follows:
 | Code | Country                |
 |------|------------------------|
 | AL   | Albania                |
@@ -15,7 +15,7 @@ As brief part of the **dictionary of countries** is shown as follows:
 
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/RegionsEuropa_Dictionary.yml).
 
-As brief part of the **dictionary of countries** is shown as follows:
+A brief part of the **dictionary of countries** is shown as follows:
 | Code | European                     | Country                |
 |------|------------------------------|------------------------|
 | CCE  | Continental\-Central\-Europe | Austria                |
@@ -29,7 +29,7 @@ As brief part of the **dictionary of countries** is shown as follows:
 This dictionary has 4 levels: Country, NUTS1, NUTS2, and NUTS3.
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/NUTS_Dictionary.yml).
 
-As brief part of the **NUTS Nomenclature** is shown as follows:
+A brief part of the **NUTS Nomenclature** is shown as follows:
 | Code  | Country | NUTS level 1   | NUTS level 2     | NUTS level 3             |
 |-------|---------|----------------|------------------|--------------------------|
 | AT1   | Austria | Ostösterreich  |                  |                          |

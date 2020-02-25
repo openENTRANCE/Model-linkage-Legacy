@@ -167,7 +167,24 @@ For example:
 More details can be found [here](Variable/README.md).
 
 
-## 5. Units
-This dictionary of units refers to the physical, economic, or other type of unit in which the value provided for the variable is to be measured in the openENTRANCE project.
+## 5. Unit
+This dictionary refers to the physical, economic, or other type of unit in which the value provided for the variable is to be measured in the openENTRANCE project.
 
 More details can be found [here](Unit/README.md).
+
+
+
+## 6. Subannual
+This dictionary refers to the period of time that the value provided for the variable refers to. We propose to set up this column by setting values for the data types **year**, **month**, **day**, or **hour**, and concatenating them by pipes (**|**).
+<!-- It is convenient to use Microsoft Excel format for data on dates, to keep compatibility with Excel and the possibility of using Excel to convert data to other formats.  -->
+Additionally, this section can also use categories for representing periods like: **summer day**, **summer night**, **winter day**, **winter night**.
+<!-- There is no need to develop temporal mapping information if all the data follows the time standards. -->
+Possible values to be included as follow:
+
+>	01/01/2030 00:00
+
+It defines the hourly value of a certain variable
+
+The possibility of defining a smaller time period, e.g., quarter of an hour, five minutes, is just a question of extending the time domain to minutes.
+
+More details can be found [here](Subannual/README.md).
