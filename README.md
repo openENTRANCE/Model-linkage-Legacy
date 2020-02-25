@@ -165,3 +165,9 @@ For example:
 >	Germany|DE21H|Node001
 
 More details can be found [here](Variable/README.md).
+
+
+## 5. Units
+This dictionary of units refers to the physical, economic, or other type of unit in which the value provided for the variable is to be measured in the openENTRANCE project.
+
+More details can be found [here](Unit/README.md).
