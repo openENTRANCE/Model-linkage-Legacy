@@ -4138,3 +4138,6861 @@
    NUTS level 1: Denmark
    NUTS level 2: Nordjylland
    NUTS level 3: Nordjylland
+-
+   EE0: EE00
+   Estonia: Estonia
+   Estonia: Estonia
+   : Estonia
+   :
+-
+   EE0: EE001
+   Estonia: Estonia
+   Estonia: Estonia
+   : Estonia
+   : Põhja-Eesti
+-
+   EE0: EE004
+   Estonia: Estonia
+   Estonia: Estonia
+   : Estonia
+   : Lääne-Eesti
+-
+   EE0: EE008
+   Estonia: Estonia
+   Estonia: Estonia
+   : Estonia
+   : Lõuna-Eesti
+-
+   EE0: EE009
+   Estonia: Estonia
+   Estonia: Estonia
+   : Estonia
+   : Kesk-Eesti
+-
+   EE0: EE00A
+   Estonia: Estonia
+   Estonia: Estonia
+   : Estonia
+   : Kirde-Eesti
+-
+   EE0: EL3
+   Estonia: Greece
+   Estonia: Attica
+   :
+   :
+-
+   EE0: EL30
+   Estonia: Greece
+   Estonia: Attica
+   : Attica
+   :
+-
+   EE0: EL301
+   Estonia: Greece
+   Estonia: Attica
+   : Attica
+   : Northern Division of Athens
+-
+   EE0: EL302
+   Estonia: Greece
+   Estonia: Attica
+   : Attica
+   : Western Sector of Athens
+-
+   EE0: EL303
+   Estonia: Greece
+   Estonia: Attica
+   : Attica
+   : Athens Central Sector
+-
+   EE0: EL304
+   Estonia: Greece
+   Estonia: Attica
+   : Attica
+   : Southern Section of Athens
+-
+   EE0: EL305
+   Estonia: Greece
+   Estonia: Attica
+   : Attica
+   : East Attica
+-
+   EE0: EL306
+   Estonia: Greece
+   Estonia: Attica
+   : Attica
+   : West Attica
+-
+   EE0: EL307
+   Estonia: Greece
+   Estonia: Attica
+   : Attica
+   : Piraeus, Islands
+-
+   EE0: EL4
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   :
+   :
+-
+   EE0: EL41
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Northern Aegean
+   :
+-
+   EE0: EL411
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Northern Aegean
+   : Lesvos, Lemnos
+-
+   EE0: EL412
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Northern Aegean
+   : Ikaria, Samos
+-
+   EE0: EL413
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Northern Aegean
+   : Chios
+-
+   EE0: EL42
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Southern Aegean Sea
+   :
+-
+   EE0: EL421
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Southern Aegean Sea
+   : Kalymnos, Karpathos - Heroic Island of Kasos, Kos, Rhodes
+-
+   EE0: EL422
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Southern Aegean Sea
+   : Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros, Syros, Tinos
+-
+   EE0: EL43
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Crete
+   :
+-
+   EE0: EL431
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Crete
+   : Heraklion
+-
+   EE0: EL432
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Crete
+   : Lasithi
+-
+   EE0: EL433
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Crete
+   : Rethimno
+-
+   EE0: EL434
+   Estonia: Greece
+   Estonia: Aegean Islands, Crete
+   : Crete
+   : Chania
+-
+   EE0: EL5
+   Estonia: Greece
+   Estonia: Northern Greece
+   :
+   :
+-
+   EE0: EL51
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Eastern Macedonia, Thrace
+   :
+-
+   EE0: EL511
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Eastern Macedonia, Thrace
+   : Evros
+-
+   EE0: EL512
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Eastern Macedonia, Thrace
+   : Blonde
+-
+   EE0: EL513
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Eastern Macedonia, Thrace
+   : Rhodope
+-
+   EE0: EL514
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Eastern Macedonia, Thrace
+   : Drama
+-
+   EE0: EL515
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Eastern Macedonia, Thrace
+   : Thasos, Kavala
+-
+   EE0: EL52
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Central Macedonia
+   :
+-
+   EE0: EL521
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Central Macedonia
+   : Imathia
+-
+   EE0: EL522
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Central Macedonia
+   : Thessaloniki
+-
+   EE0: EL523
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Central Macedonia
+   : Kilkis
+-
+   EE0: EL524
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Central Macedonia
+   : Pella
+-
+   EE0: EL525
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Central Macedonia
+   : Pieria
+-
+   EE0: EL526
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Central Macedonia
+   : Serres
+-
+   EE0: EL527
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Central Macedonia
+   : Chalcidice
+-
+   EE0: EL53
+   Estonia: Greece
+   Estonia: Northern Greece
+   : West Macedonia
+   :
+-
+   EE0: EL531
+   Estonia: Greece
+   Estonia: Northern Greece
+   : West Macedonia
+   : Grevena, Kozani
+-
+   EE0: EL532
+   Estonia: Greece
+   Estonia: Northern Greece
+   : West Macedonia
+   : Kastoria
+-
+   EE0: EL533
+   Estonia: Greece
+   Estonia: Northern Greece
+   : West Macedonia
+   : Florina
+-
+   EE0: EL54
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Continent
+   :
+-
+   EE0: EL541
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Continent
+   : Arta, Preveza
+-
+   EE0: EL542
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Continent
+   : Thesprotia
+-
+   EE0: EL543
+   Estonia: Greece
+   Estonia: Northern Greece
+   : Continent
+   : Janina
+-
+   EE0: EL6
+   Estonia: Greece
+   Estonia: Central Greece
+   :
+   :
+-
+   EE0: EL61
+   Estonia: Greece
+   Estonia: Central Greece
+   : Thessalia
+   :
+-
+   EE0: EL611
+   Estonia: Greece
+   Estonia: Central Greece
+   : Thessalia
+   : Karditsa, Trikala
+-
+   EE0: EL612
+   Estonia: Greece
+   Estonia: Central Greece
+   : Thessalia
+   : Larissa
+-
+   EE0: EL613
+   Estonia: Greece
+   Estonia: Central Greece
+   : Thessalia
+   : Magnesia, Sporades
+-
+   EE0: EL62
+   Estonia: Greece
+   Estonia: Central Greece
+   : Ionia Nisia
+   :
+-
+   EE0: EL621
+   Estonia: Greece
+   Estonia: Central Greece
+   : Ionia Nisia
+   : Zante
+-
+   EE0: EL622
+   Estonia: Greece
+   Estonia: Central Greece
+   : Ionia Nisia
+   : Corfu
+-
+   EE0: EL623
+   Estonia: Greece
+   Estonia: Central Greece
+   : Ionia Nisia
+   : Ithaca, Kefallinia
+-
+   EE0: EL624
+   Estonia: Greece
+   Estonia: Central Greece
+   : Ionia Nisia
+   : Lefkada
+-
+   EE0: EL63
+   Estonia: Greece
+   Estonia: Central Greece
+   : Dytiki Elláda
+   :
+-
+   EE0: EL631
+   Estonia: Greece
+   Estonia: Central Greece
+   : Dytiki Elláda
+   : Etoloakarnania
+-
+   EE0: EL632
+   Estonia: Greece
+   Estonia: Central Greece
+   : Dytiki Elláda
+   : Achaia
+-
+   EE0: EL633
+   Estonia: Greece
+   Estonia: Central Greece
+   : Dytiki Elláda
+   : Ilia
+-
+   EE0: EL64
+   Estonia: Greece
+   Estonia: Central Greece
+   : Sterea Elláda
+   :
+-
+   EE0: EL641
+   Estonia: Greece
+   Estonia: Central Greece
+   : Sterea Elláda
+   : Boeotia
+-
+   EE0: EL642
+   Estonia: Greece
+   Estonia: Central Greece
+   : Sterea Elláda
+   : Euboea
+-
+   EE0: EL643
+   Estonia: Greece
+   Estonia: Central Greece
+   : Sterea Elláda
+   : Evritania
+-
+   EE0: EL644
+   Estonia: Greece
+   Estonia: Central Greece
+   : Sterea Elláda
+   : Phthiotis
+-
+   EE0: EL645
+   Estonia: Greece
+   Estonia: Central Greece
+   : Sterea Elláda
+   : Seal
+-
+   EE0: EL65
+   Estonia: Greece
+   Estonia: Central Greece
+   : Peloponnisos
+   :
+-
+   EE0: EL651
+   Estonia: Greece
+   Estonia: Central Greece
+   : Peloponnisos
+   : Argolida, Arcadia
+-
+   EE0: EL652
+   Estonia: Greece
+   Estonia: Central Greece
+   : Peloponnisos
+   : Corinthia
+-
+   EE0: EL653
+   Estonia: Greece
+   Estonia: Central Greece
+   : Peloponnisos
+   : Laconia, Messinia
+-
+   EE0: ES1
+   Estonia: Spain
+   Estonia: Northwest
+   :
+   :
+-
+   EE0: ES11
+   Estonia: Spain
+   Estonia: Northwest
+   : Galicia
+   :
+-
+   EE0: ES111
+   Estonia: Spain
+   Estonia: Northwest
+   : Galicia
+   : A Coruña
+-
+   EE0: ES112
+   Estonia: Spain
+   Estonia: Northwest
+   : Galicia
+   : Lugo
+-
+   EE0: ES113
+   Estonia: Spain
+   Estonia: Northwest
+   : Galicia
+   : Ourense
+-
+   EE0: ES114
+   Estonia: Spain
+   Estonia: Northwest
+   : Galicia
+   : Pontevedra
+-
+   EE0: ES12
+   Estonia: Spain
+   Estonia: Northwest
+   : Principado de Asturias
+   :
+-
+   EE0: ES120
+   Estonia: Spain
+   Estonia: Northwest
+   : Principado de Asturias
+   : Asturias
+-
+   EE0: ES13
+   Estonia: Spain
+   Estonia: Northwest
+   : Cantabria
+   :
+-
+   EE0: ES130
+   Estonia: Spain
+   Estonia: Northwest
+   : Cantabria
+   : Cantabria
+-
+   EE0: ES2
+   Estonia: Spain
+   Estonia: Northeast
+   :
+   :
+-
+   EE0: ES21
+   Estonia: Spain
+   Estonia: Northeast
+   : País Vasco
+   :
+-
+   EE0: ES211
+   Estonia: Spain
+   Estonia: Northeast
+   : País Vasco
+   : Araba/Álava
+-
+   EE0: ES212
+   Estonia: Spain
+   Estonia: Northeast
+   : País Vasco
+   : Gipuzkoa
+-
+   EE0: ES213
+   Estonia: Spain
+   Estonia: Northeast
+   : País Vasco
+   : Bizkaia
+-
+   EE0: ES22
+   Estonia: Spain
+   Estonia: Northeast
+   : Comunidad Foral de Navarra
+   :
+-
+   EE0: ES220
+   Estonia: Spain
+   Estonia: Northeast
+   : Comunidad Foral de Navarra
+   : Navarra
+-
+   EE0: ES23
+   Estonia: Spain
+   Estonia: Northeast
+   : La Rioja
+   :
+-
+   EE0: ES230
+   Estonia: Spain
+   Estonia: Northeast
+   : La Rioja
+   : La Rioja
+-
+   EE0: ES24
+   Estonia: Spain
+   Estonia: Northeast
+   : Aragón
+   :
+-
+   EE0: ES241
+   Estonia: Spain
+   Estonia: Northeast
+   : Aragón
+   : Huesca
+-
+   EE0: ES242
+   Estonia: Spain
+   Estonia: Northeast
+   : Aragón
+   : Teruel
+-
+   EE0: ES243
+   Estonia: Spain
+   Estonia: Northeast
+   : Aragón
+   : Zaragoza
+-
+   EE0: ES3
+   Estonia: Spain
+   Estonia: Madrid's community
+   :
+   :
+-
+   EE0: ES30
+   Estonia: Spain
+   Estonia: Madrid's community
+   : Madrid
+   :
+-
+   EE0: ES300
+   Estonia: Spain
+   Estonia: Madrid's community
+   : Madrid
+   : Madrid
+-
+   EE0: ES4
+   Estonia: Spain
+   Estonia: Center
+   :
+   :
+-
+   EE0: ES41
+   Estonia: Spain
+   Estonia: Center
+   : Castilla y León
+   :
+-
+   EE0: ES411
+   Estonia: Spain
+   Estonia: Center
+   : Castilla y León
+   : Ávila
+-
+   EE0: ES412
+   Estonia: Spain
+   Estonia: Center
+   : Castilla y León
+   : Burgos
+-
+   EE0: ES413
+   Estonia: Spain
+   Estonia: Center
+   : Castilla y León
+   : León
+-
+   EE0: ES414
+   Estonia: Spain
+   Estonia: Center
+   : Castilla y León
+   : Palencia
+-
+   EE0: ES415
+   Estonia: Spain
+   Estonia: Center
+   : Castilla y León
+   : Salamanca
+-
+   EE0: ES416
+   Estonia: Spain
+   Estonia: Center
+   : Castilla y León
+   : Segovia
+-
+   EE0: ES417
+   Estonia: Spain
+   Estonia: Center
+   : Castilla y León
+   : Soria
+-
+   EE0: ES418
+   Estonia: Spain
+   Estonia: Center
+   : Castilla y León
+   : Valladolid
+-
+   EE0: ES419
+   Estonia: Spain
+   Estonia: Center
+   : Castilla y León
+   : Zamora
+-
+   EE0: ES42
+   Estonia: Spain
+   Estonia: Center
+   : Castilla-La Mancha
+   :
+-
+   EE0: ES421
+   Estonia: Spain
+   Estonia: Center
+   : Castilla-La Mancha
+   : Albacete
+-
+   EE0: ES422
+   Estonia: Spain
+   Estonia: Center
+   : Castilla-La Mancha
+   : Ciudad Real
+-
+   EE0: ES423
+   Estonia: Spain
+   Estonia: Center
+   : Castilla-La Mancha
+   : Cuenca
+-
+   EE0: ES424
+   Estonia: Spain
+   Estonia: Center
+   : Castilla-La Mancha
+   : Guadalajara
+-
+   EE0: ES425
+   Estonia: Spain
+   Estonia: Center
+   : Castilla-La Mancha
+   : Toledo
+-
+   EE0: ES43
+   Estonia: Spain
+   Estonia: Center
+   : Extremadura
+   :
+-
+   EE0: ES431
+   Estonia: Spain
+   Estonia: Center
+   : Extremadura
+   : Badajoz
+-
+   EE0: ES432
+   Estonia: Spain
+   Estonia: Center
+   : Extremadura
+   : Cáceres
+-
+   EE0: ES5
+   Estonia: Spain
+   Estonia: East
+   :
+   :
+-
+   EE0: ES51
+   Estonia: Spain
+   Estonia: East
+   : Cataluña
+   :
+-
+   EE0: ES511
+   Estonia: Spain
+   Estonia: East
+   : Cataluña
+   : Barcelona
+-
+   EE0: ES512
+   Estonia: Spain
+   Estonia: East
+   : Cataluña
+   : Girona
+-
+   EE0: ES513
+   Estonia: Spain
+   Estonia: East
+   : Cataluña
+   : Lleida
+-
+   EE0: ES514
+   Estonia: Spain
+   Estonia: East
+   : Cataluña
+   : Tarragona
+-
+   EE0: ES52
+   Estonia: Spain
+   Estonia: East
+   : Comunitat Valenciana
+   :
+-
+   EE0: ES521
+   Estonia: Spain
+   Estonia: East
+   : Comunitat Valenciana
+   : Alicante/Alacant
+-
+   EE0: ES522
+   Estonia: Spain
+   Estonia: East
+   : Comunitat Valenciana
+   : Castellón/Castelló
+-
+   EE0: ES523
+   Estonia: Spain
+   Estonia: East
+   : Comunitat Valenciana
+   : Valencia/València
+-
+   EE0: ES53
+   Estonia: Spain
+   Estonia: East
+   : Illes Balears
+   :
+-
+   EE0: ES531
+   Estonia: Spain
+   Estonia: East
+   : Illes Balears
+   : Eivissa y Formentera
+-
+   EE0: ES532
+   Estonia: Spain
+   Estonia: East
+   : Illes Balears
+   : Mallorca
+-
+   EE0: ES533
+   Estonia: Spain
+   Estonia: East
+   : Illes Balears
+   : Menorca
+-
+   EE0: ES6
+   Estonia: Spain
+   Estonia: South
+   :
+   :
+-
+   EE0: ES61
+   Estonia: Spain
+   Estonia: South
+   : Andalucía
+   :
+-
+   EE0: ES611
+   Estonia: Spain
+   Estonia: South
+   : Andalucía
+   : Almería
+-
+   EE0: ES612
+   Estonia: Spain
+   Estonia: South
+   : Andalucía
+   : Cádiz
+-
+   EE0: ES613
+   Estonia: Spain
+   Estonia: South
+   : Andalucía
+   : Córdoba
+-
+   EE0: ES614
+   Estonia: Spain
+   Estonia: South
+   : Andalucía
+   : Granada
+-
+   EE0: ES615
+   Estonia: Spain
+   Estonia: South
+   : Andalucía
+   : Huelva
+-
+   EE0: ES616
+   Estonia: Spain
+   Estonia: South
+   : Andalucía
+   : Jaén
+-
+   EE0: ES617
+   Estonia: Spain
+   Estonia: South
+   : Andalucía
+   : Málaga
+-
+   EE0: ES618
+   Estonia: Spain
+   Estonia: South
+   : Andalucía
+   : Sevilla
+-
+   EE0: ES62
+   Estonia: Spain
+   Estonia: South
+   : Región de Murcia
+   :
+-
+   EE0: ES620
+   Estonia: Spain
+   Estonia: South
+   : Región de Murcia
+   : Murcia
+-
+   EE0: ES63
+   Estonia: Spain
+   Estonia: South
+   : Ciudad de Ceuta
+   :
+-
+   EE0: ES630
+   Estonia: Spain
+   Estonia: South
+   : Ciudad de Ceuta
+   : Ceuta
+-
+   EE0: ES64
+   Estonia: Spain
+   Estonia: South
+   : Ciudad de Melilla
+   :
+-
+   EE0: ES640
+   Estonia: Spain
+   Estonia: South
+   : Ciudad de Melilla
+   : Melilla
+-
+   EE0: ES7
+   Estonia: Spain
+   Estonia: Canary Islands
+   :
+   :
+-
+   EE0: ES70
+   Estonia: Spain
+   Estonia: Canary Islands
+   : Canary Islands
+   :
+-
+   EE0: ES703
+   Estonia: Spain
+   Estonia: Canary Islands
+   : Canary Islands
+   : El Hierro
+-
+   EE0: ES704
+   Estonia: Spain
+   Estonia: Canary Islands
+   : Canary Islands
+   : Fuerteventura
+-
+   EE0: ES705
+   Estonia: Spain
+   Estonia: Canary Islands
+   : Canary Islands
+   : Gran Canaria
+-
+   EE0: ES706
+   Estonia: Spain
+   Estonia: Canary Islands
+   : Canary Islands
+   : La Gomera
+-
+   EE0: ES707
+   Estonia: Spain
+   Estonia: Canary Islands
+   : Canary Islands
+   : La Palma
+-
+   EE0: ES708
+   Estonia: Spain
+   Estonia: Canary Islands
+   : Canary Islands
+   : Lanzarote
+-
+   EE0: ES709
+   Estonia: Spain
+   Estonia: Canary Islands
+   : Canary Islands
+   : Tenerife
+-
+   EE0: FI1
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   :
+   :
+-
+   EE0: FI19
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Länsi-Suomi
+   :
+-
+   EE0: FI193
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Länsi-Suomi
+   : Keski-Suomi
+-
+   EE0: FI194
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Länsi-Suomi
+   : Etelä-Pohjanmaa
+-
+   EE0: FI195
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Länsi-Suomi
+   : Pohjanmaa
+-
+   EE0: FI196
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Länsi-Suomi
+   : Satakunta
+-
+   EE0: FI197
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Länsi-Suomi
+   : Pirkanmaa
+-
+   EE0: FI1B
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Helsinki-Uusimaa
+   :
+-
+   EE0: FI1B1
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Helsinki-Uusimaa
+   : Helsinki-Uusimaa
+-
+   EE0: FI1C
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Etelä-Suomi
+   :
+-
+   EE0: FI1C1
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Etelä-Suomi
+   : Varsinais-Suomi
+-
+   EE0: FI1C2
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Etelä-Suomi
+   : Kanta-Häme
+-
+   EE0: FI1C3
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Etelä-Suomi
+   : Päijät-Häme
+-
+   EE0: FI1C4
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Etelä-Suomi
+   : Kymenlaakso
+-
+   EE0: FI1C5
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Etelä-Suomi
+   : Etelä-Karjala
+-
+   EE0: FI1D
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Pohjois- ja Itä-Suomi
+   :
+-
+   EE0: FI1D1
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Pohjois- ja Itä-Suomi
+   : Etelä-Savo
+-
+   EE0: FI1D2
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Pohjois- ja Itä-Suomi
+   : Pohjois-Savo
+-
+   EE0: FI1D3
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Pohjois- ja Itä-Suomi
+   : Pohjois-Karjala
+-
+   EE0: FI1D5
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Pohjois- ja Itä-Suomi
+   : Keski-Pohjanmaa
+-
+   EE0: FI1D7
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Pohjois- ja Itä-Suomi
+   : Lappi
+-
+   EE0: FI1D8
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Pohjois- ja Itä-Suomi
+   : Kainuu
+-
+   EE0: FI1D9
+   Estonia: Finland
+   Estonia: Manner-Suomi
+   : Pohjois- ja Itä-Suomi
+   : Pohjois-Pohjanmaa
+-
+   EE0: FI2
+   Estonia: Finland
+   Estonia: Åland
+   :
+   :
+-
+   EE0: FI20
+   Estonia: Finland
+   Estonia: Åland
+   : Åland
+   :
+-
+   EE0: FI200
+   Estonia: Finland
+   Estonia: Åland
+   : Åland
+   : Åland
+-
+   EE0: FR1
+   Estonia: France
+   Estonia: Ile-de-France
+   :
+   :
+-
+   EE0: FR10
+   Estonia: France
+   Estonia: Ile-de-France
+   : Ile-de-France
+   :
+-
+   EE0: FR101
+   Estonia: France
+   Estonia: Ile-de-France
+   : Ile-de-France
+   : Paris
+-
+   EE0: FR102
+   Estonia: France
+   Estonia: Ile-de-France
+   : Ile-de-France
+   : Seine-et-Marne
+-
+   EE0: FR103
+   Estonia: France
+   Estonia: Ile-de-France
+   : Ile-de-France
+   : Yvelines
+-
+   EE0: FR104
+   Estonia: France
+   Estonia: Ile-de-France
+   : Ile-de-France
+   : Essonne
+-
+   EE0: FR105
+   Estonia: France
+   Estonia: Ile-de-France
+   : Ile-de-France
+   : Hauts-de-Seine
+-
+   EE0: FR106
+   Estonia: France
+   Estonia: Ile-de-France
+   : Ile-de-France
+   : Seine-Saint-Denis
+-
+   EE0: FR107
+   Estonia: France
+   Estonia: Ile-de-France
+   : Ile-de-France
+   : Val-de-Marne
+-
+   EE0: FR108
+   Estonia: France
+   Estonia: Ile-de-France
+   : Ile-de-France
+   : Val-d’Oise
+-
+   EE0: FRB
+   Estonia: France
+   Estonia: Centre — Val de Loire
+   :
+   :
+-
+   EE0: FRB0
+   Estonia: France
+   Estonia: Centre — Val de Loire
+   : Centre — Val de Loire
+   :
+-
+   EE0: FRB01
+   Estonia: France
+   Estonia: Centre — Val de Loire
+   : Centre — Val de Loire
+   : Cher
+-
+   EE0: FRB02
+   Estonia: France
+   Estonia: Centre — Val de Loire
+   : Centre — Val de Loire
+   : Eure-et-Loir
+-
+   EE0: FRB03
+   Estonia: France
+   Estonia: Centre — Val de Loire
+   : Centre — Val de Loire
+   : Indre
+-
+   EE0: FRB04
+   Estonia: France
+   Estonia: Centre — Val de Loire
+   : Centre — Val de Loire
+   : Indre-et-Loire
+-
+   EE0: FRB05
+   Estonia: France
+   Estonia: Centre — Val de Loire
+   : Centre — Val de Loire
+   : Loir-et-Cher
+-
+   EE0: FRB06
+   Estonia: France
+   Estonia: Centre — Val de Loire
+   : Centre — Val de Loire
+   : Loiret
+-
+   EE0: FRC
+   Estonia: France
+   Estonia: Bourgogne-Franche-Comté
+   :
+   :
+-
+   EE0: FRC1
+   Estonia: France
+   Estonia: Bourgogne-Franche-Comté
+   : Bourgogne
+   :
+-
+   EE0: FRC11
+   Estonia: France
+   Estonia: Bourgogne-Franche-Comté
+   : Bourgogne
+   : Côte-d’Or
+-
+   EE0: FRC12
+   Estonia: France
+   Estonia: Bourgogne-Franche-Comté
+   : Bourgogne
+   : Nièvre
+-
+   EE0: FRC13
+   Estonia: France
+   Estonia: Bourgogne-Franche-Comté
+   : Bourgogne
+   : Saône-et-Loire
+-
+   EE0: FRC14
+   Estonia: France
+   Estonia: Bourgogne-Franche-Comté
+   : Bourgogne
+   : Yonne
+-
+   EE0: FRC2
+   Estonia: France
+   Estonia: Bourgogne-Franche-Comté
+   : Franche-Comté
+   :
+-
+   EE0: FRC21
+   Estonia: France
+   Estonia: Bourgogne-Franche-Comté
+   : Franche-Comté
+   : Doubs
+-
+   EE0: FRC22
+   Estonia: France
+   Estonia: Bourgogne-Franche-Comté
+   : Franche-Comté
+   : Jura
+-
+   EE0: FRC23
+   Estonia: France
+   Estonia: Bourgogne-Franche-Comté
+   : Franche-Comté
+   : Haute-Saône
+-
+   EE0: FRC24
+   Estonia: France
+   Estonia: Bourgogne-Franche-Comté
+   : Franche-Comté
+   : Territoire de Belfort
+-
+   EE0: FRD
+   Estonia: France
+   Estonia: Normandie
+   :
+   :
+-
+   EE0: FRD1
+   Estonia: France
+   Estonia: Normandie
+   : Basse-Normandie
+   :
+-
+   EE0: FRD11
+   Estonia: France
+   Estonia: Normandie
+   : Basse-Normandie
+   : Calvados
+-
+   EE0: FRD12
+   Estonia: France
+   Estonia: Normandie
+   : Basse-Normandie
+   : Manche
+-
+   EE0: FRD13
+   Estonia: France
+   Estonia: Normandie
+   : Basse-Normandie
+   : Orne
+-
+   EE0: FRD2
+   Estonia: France
+   Estonia: Normandie
+   : Haute-Normandie
+   :
+-
+   EE0: FRD21
+   Estonia: France
+   Estonia: Normandie
+   : Haute-Normandie
+   : Eure
+-
+   EE0: FRD22
+   Estonia: France
+   Estonia: Normandie
+   : Haute-Normandie
+   : Seine-Maritime
+-
+   EE0: FRE
+   Estonia: France
+   Estonia: Hauts-de-France
+   :
+   :
+-
+   EE0: FRE1
+   Estonia: France
+   Estonia: Hauts-de-France
+   : Nord-Pas de Calais
+   :
+-
+   EE0: FRE11
+   Estonia: France
+   Estonia: Hauts-de-France
+   : Nord-Pas de Calais
+   : Nord
+-
+   EE0: FRE12
+   Estonia: France
+   Estonia: Hauts-de-France
+   : Nord-Pas de Calais
+   : Pas-de-Calais
+-
+   EE0: FRE2
+   Estonia: France
+   Estonia: Hauts-de-France
+   : Picardie
+   :
+-
+   EE0: FRE21
+   Estonia: France
+   Estonia: Hauts-de-France
+   : Picardie
+   : Aisne
+-
+   EE0: FRE22
+   Estonia: France
+   Estonia: Hauts-de-France
+   : Picardie
+   : Oise
+-
+   EE0: FRE23
+   Estonia: France
+   Estonia: Hauts-de-France
+   : Picardie
+   : Somme
+-
+   EE0: FRF
+   Estonia: France
+   Estonia: Grand Est
+   :
+   :
+-
+   EE0: FRF1
+   Estonia: France
+   Estonia: Grand Est
+   : Alsace
+   :
+-
+   EE0: FRF11
+   Estonia: France
+   Estonia: Grand Est
+   : Alsace
+   : Bas-Rhin
+-
+   EE0: FRF12
+   Estonia: France
+   Estonia: Grand Est
+   : Alsace
+   : Haut-Rhin
+-
+   EE0: FRF2
+   Estonia: France
+   Estonia: Grand Est
+   : Champagne-Ardenne
+   :
+-
+   EE0: FRF21
+   Estonia: France
+   Estonia: Grand Est
+   : Champagne-Ardenne
+   : Ardennes
+-
+   EE0: FRF22
+   Estonia: France
+   Estonia: Grand Est
+   : Champagne-Ardenne
+   : Aube
+-
+   EE0: FRF23
+   Estonia: France
+   Estonia: Grand Est
+   : Champagne-Ardenne
+   : Marne
+-
+   EE0: FRF24
+   Estonia: France
+   Estonia: Grand Est
+   : Champagne-Ardenne
+   : Haute-Marne
+-
+   EE0: FRF3
+   Estonia: France
+   Estonia: Grand Est
+   : Lorraine
+   :
+-
+   EE0: FRF31
+   Estonia: France
+   Estonia: Grand Est
+   : Lorraine
+   : Meurthe-et-Moselle
+-
+   EE0: FRF32
+   Estonia: France
+   Estonia: Grand Est
+   : Lorraine
+   : Meuse
+-
+   EE0: FRF33
+   Estonia: France
+   Estonia: Grand Est
+   : Lorraine
+   : Moselle
+-
+   EE0: FRF34
+   Estonia: France
+   Estonia: Grand Est
+   : Lorraine
+   : Vosges
+-
+   EE0: FRG
+   Estonia: France
+   Estonia: Pays de la Loire
+   :
+   :
+-
+   EE0: FRG0
+   Estonia: France
+   Estonia: Pays de la Loire
+   : Pays de la Loire
+   :
+-
+   EE0: FRG01
+   Estonia: France
+   Estonia: Pays de la Loire
+   : Pays de la Loire
+   : Loire-Atlantique
+-
+   EE0: FRG02
+   Estonia: France
+   Estonia: Pays de la Loire
+   : Pays de la Loire
+   : Maine-et-Loire
+-
+   EE0: FRG03
+   Estonia: France
+   Estonia: Pays de la Loire
+   : Pays de la Loire
+   : Mayenne
+-
+   EE0: FRG04
+   Estonia: France
+   Estonia: Pays de la Loire
+   : Pays de la Loire
+   : Sarthe
+-
+   EE0: FRG05
+   Estonia: France
+   Estonia: Pays de la Loire
+   : Pays de la Loire
+   : Vendée
+-
+   EE0: FRH
+   Estonia: France
+   Estonia: Bretagne
+   :
+   :
+-
+   EE0: FRH0
+   Estonia: France
+   Estonia: Bretagne
+   : Bretagne
+   :
+-
+   EE0: FRH01
+   Estonia: France
+   Estonia: Bretagne
+   : Bretagne
+   : Côtes-d’Armor
+-
+   EE0: FRH02
+   Estonia: France
+   Estonia: Bretagne
+   : Bretagne
+   : Finistère
+-
+   EE0: FRH03
+   Estonia: France
+   Estonia: Bretagne
+   : Bretagne
+   : Ille-et-Vilaine
+-
+   EE0: FRH04
+   Estonia: France
+   Estonia: Bretagne
+   : Bretagne
+   : Morbihan
+-
+   EE0: FRI
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   :
+   :
+-
+   EE0: FRI1
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Aquitaine
+   :
+-
+   EE0: FRI11
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Aquitaine
+   : Dordogne
+-
+   EE0: FRI12
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Aquitaine
+   : Gironde
+-
+   EE0: FRI13
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Aquitaine
+   : Landes
+-
+   EE0: FRI14
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Aquitaine
+   : Lot-et-Garonne
+-
+   EE0: FRI15
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Aquitaine
+   : Pyrénées-Atlantiques
+-
+   EE0: FRI2
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Limousin
+   :
+-
+   EE0: FRI21
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Limousin
+   : Corrèze
+-
+   EE0: FRI22
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Limousin
+   : Creuse
+-
+   EE0: FRI23
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Limousin
+   : Haute-Vienne
+-
+   EE0: FRI3
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Poitou-Charentes
+   :
+-
+   EE0: FRI31
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Poitou-Charentes
+   : Charente
+-
+   EE0: FRI32
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Poitou-Charentes
+   : Charente-Maritime
+-
+   EE0: FRI33
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Poitou-Charentes
+   : Deux-Sèvres
+-
+   EE0: FRI34
+   Estonia: France
+   Estonia: Nouvelle-Aquitaine
+   : Poitou-Charentes
+   : Vienne
+-
+   EE0: FRJ
+   Estonia: France
+   Estonia: Occitanie
+   :
+   :
+-
+   EE0: FRJ1
+   Estonia: France
+   Estonia: Occitanie
+   : Languedoc-Roussillon
+   :
+-
+   EE0: FRJ11
+   Estonia: France
+   Estonia: Occitanie
+   : Languedoc-Roussillon
+   : Aude
+-
+   EE0: FRJ12
+   Estonia: France
+   Estonia: Occitanie
+   : Languedoc-Roussillon
+   : Gard
+-
+   EE0: FRJ13
+   Estonia: France
+   Estonia: Occitanie
+   : Languedoc-Roussillon
+   : Hérault
+-
+   EE0: FRJ14
+   Estonia: France
+   Estonia: Occitanie
+   : Languedoc-Roussillon
+   : Lozère
+-
+   EE0: FRJ15
+   Estonia: France
+   Estonia: Occitanie
+   : Languedoc-Roussillon
+   : Pyrénées-Orientales
+-
+   EE0: FRJ2
+   Estonia: France
+   Estonia: Occitanie
+   : Midi-Pyrénées
+   :
+-
+   EE0: FRJ21
+   Estonia: France
+   Estonia: Occitanie
+   : Midi-Pyrénées
+   : Ariège
+-
+   EE0: FRJ22
+   Estonia: France
+   Estonia: Occitanie
+   : Midi-Pyrénées
+   : Aveyron
+-
+   EE0: FRJ23
+   Estonia: France
+   Estonia: Occitanie
+   : Midi-Pyrénées
+   : Haute-Garonne
+-
+   EE0: FRJ24
+   Estonia: France
+   Estonia: Occitanie
+   : Midi-Pyrénées
+   : Gers
+-
+   EE0: FRJ25
+   Estonia: France
+   Estonia: Occitanie
+   : Midi-Pyrénées
+   : Lot
+-
+   EE0: FRJ26
+   Estonia: France
+   Estonia: Occitanie
+   : Midi-Pyrénées
+   : Hautes-Pyrénées
+-
+   EE0: FRJ27
+   Estonia: France
+   Estonia: Occitanie
+   : Midi-Pyrénées
+   : Tarn
+-
+   EE0: FRJ28
+   Estonia: France
+   Estonia: Occitanie
+   : Midi-Pyrénées
+   : Tarn-et-Garonne
+-
+   EE0: FRK
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   :
+   :
+-
+   EE0: FRK1
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Auvergne
+   :
+-
+   EE0: FRK11
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Auvergne
+   : Allier
+-
+   EE0: FRK12
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Auvergne
+   : Cantal
+-
+   EE0: FRK13
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Auvergne
+   : Haute-Loire
+-
+   EE0: FRK14
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Auvergne
+   : Puy-de-Dôme
+-
+   EE0: FRK2
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Rhône-Alpes
+   :
+-
+   EE0: FRK21
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Rhône-Alpes
+   : Ain
+-
+   EE0: FRK22
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Rhône-Alpes
+   : Ardèche
+-
+   EE0: FRK23
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Rhône-Alpes
+   : Drôme
+-
+   EE0: FRK24
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Rhône-Alpes
+   : Isère
+-
+   EE0: FRK25
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Rhône-Alpes
+   : Loire
+-
+   EE0: FRK26
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Rhône-Alpes
+   : Rhône
+-
+   EE0: FRK27
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Rhône-Alpes
+   : Savoie
+-
+   EE0: FRK28
+   Estonia: France
+   Estonia: Auvergne-Rhône-Alpes
+   : Rhône-Alpes
+   : Haute-Savoie
+-
+   EE0: FRL
+   Estonia: France
+   Estonia: Provence-Alpes-Côte d’Azur
+   :
+   :
+-
+   EE0: FRL0
+   Estonia: France
+   Estonia: Provence-Alpes-Côte d’Azur
+   : Provence-Alpes-Côte d’Azur
+   :
+-
+   EE0: FRL01
+   Estonia: France
+   Estonia: Provence-Alpes-Côte d’Azur
+   : Provence-Alpes-Côte d’Azur
+   : Alpes-de-Haute-Provence
+-
+   EE0: FRL02
+   Estonia: France
+   Estonia: Provence-Alpes-Côte d’Azur
+   : Provence-Alpes-Côte d’Azur
+   : Hautes-Alpes
+-
+   EE0: FRL03
+   Estonia: France
+   Estonia: Provence-Alpes-Côte d’Azur
+   : Provence-Alpes-Côte d’Azur
+   : Alpes-Maritimes
+-
+   EE0: FRL04
+   Estonia: France
+   Estonia: Provence-Alpes-Côte d’Azur
+   : Provence-Alpes-Côte d’Azur
+   : Bouches-du-Rhône
+-
+   EE0: FRL05
+   Estonia: France
+   Estonia: Provence-Alpes-Côte d’Azur
+   : Provence-Alpes-Côte d’Azur
+   : Var
+-
+   EE0: FRL06
+   Estonia: France
+   Estonia: Provence-Alpes-Côte d’Azur
+   : Provence-Alpes-Côte d’Azur
+   : Vaucluse
+-
+   EE0: FRM
+   Estonia: France
+   Estonia: Corse
+   :
+   :
+-
+   EE0: FRM0
+   Estonia: France
+   Estonia: Corse
+   : Corse
+   :
+-
+   EE0: FRM01
+   Estonia: France
+   Estonia: Corse
+   : Corse
+   : Corse-du-Sud
+-
+   EE0: FRM02
+   Estonia: France
+   Estonia: Corse
+   : Corse
+   : Haute-Corse
+-
+   EE0: FRY
+   Estonia: France
+   Estonia: RUP FR — Régions Ultrapériphériques Françaises
+   :
+   :
+-
+   EE0: FRY1
+   Estonia: France
+   Estonia: RUP FR — Régions Ultrapériphériques Françaises
+   : Guadeloupe
+   :
+-
+   EE0: FRY10
+   Estonia: France
+   Estonia: RUP FR — Régions Ultrapériphériques Françaises
+   : Guadeloupe
+   : Guadeloupe
+-
+   EE0: FRY2
+   Estonia: France
+   Estonia: RUP FR — Régions Ultrapériphériques Françaises
+   : Martinique
+   :
+-
+   EE0: FRY20
+   Estonia: France
+   Estonia: RUP FR — Régions Ultrapériphériques Françaises
+   : Martinique
+   : Martinique
+-
+   EE0: FRY3
+   Estonia: France
+   Estonia: RUP FR — Régions Ultrapériphériques Françaises
+   : Guyane
+   :
+-
+   EE0: FRY30
+   Estonia: France
+   Estonia: RUP FR — Régions Ultrapériphériques Françaises
+   : Guyane
+   : Guyane
+-
+   EE0: FRY4
+   Estonia: France
+   Estonia: RUP FR — Régions Ultrapériphériques Françaises
+   : La Réunion
+   :
+-
+   EE0: FRY40
+   Estonia: France
+   Estonia: RUP FR — Régions Ultrapériphériques Françaises
+   : La Réunion
+   : La Réunion
+-
+   EE0: FRY5
+   Estonia: France
+   Estonia: RUP FR — Régions Ultrapériphériques Françaises
+   : Mayotte
+   :
+-
+   EE0: FRY50
+   Estonia: France
+   Estonia: RUP FR — Régions Ultrapériphériques Françaises
+   : Mayotte
+   : Mayotte
+-
+   EE0: HR0
+   Estonia: Croatia
+   Estonia: Hrvatska
+   :
+   :
+-
+   EE0: HR02
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Panonska Hrvatska
+   :
+-
+   EE0: HR021
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Panonska Hrvatska
+   : County of Bjelovar-Bilogora
+-
+   EE0: HR022
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Panonska Hrvatska
+   : County of Virovitica-Podravina
+-
+   EE0: HR023
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Panonska Hrvatska
+   : County of Požega-Slavonia
+-
+   EE0: HR024
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Panonska Hrvatska
+   : County of Brod-Posavina
+-
+   EE0: HR025
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Panonska Hrvatska
+   : Osijek-Baranja County
+-
+   EE0: HR026
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Panonska Hrvatska
+   : Vukovar-Srijem County
+-
+   EE0: HR027
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Panonska Hrvatska
+   : Karlovac County
+-
+   EE0: HR028
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Panonska Hrvatska
+   : Sisak-Moslavina County
+-
+   EE0: HR03
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Jadranska Hrvatska
+   :
+-
+   EE0: HR031
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Jadranska Hrvatska
+   : County of Primorje-Gorski kotar
+-
+   EE0: HR032
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Jadranska Hrvatska
+   : County of Lika-Senj
+-
+   EE0: HR033
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Jadranska Hrvatska
+   : Zadar County
+-
+   EE0: HR034
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Jadranska Hrvatska
+   : Šibenik-Knin County
+-
+   EE0: HR035
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Jadranska Hrvatska
+   : Split-Dalmatia County
+-
+   EE0: HR036
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Jadranska Hrvatska
+   : County of Istria
+-
+   EE0: HR037
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Jadranska Hrvatska
+   : Dubrovnik-Neretva County
+-
+   EE0: HR05
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Grad Zagreb
+   :
+-
+   EE0: HR050
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Grad Zagreb
+   : City of Zagreb
+-
+   EE0: HR06
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Sjeverna Hrvatska
+   :
+-
+   EE0: HR061
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Sjeverna Hrvatska
+   : County of Medimurje
+-
+   EE0: HR062
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Sjeverna Hrvatska
+   : Varaždin County
+-
+   EE0: HR063
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Sjeverna Hrvatska
+   : County of Koprivnica-Križevci
+-
+   EE0: HR064
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Sjeverna Hrvatska
+   : County of Krapina-Zagorje
+-
+   EE0: HR065
+   Estonia: Croatia
+   Estonia: Hrvatska
+   : Sjeverna Hrvatska
+   : Zagreb County
+-
+   EE0: HU1
+   Estonia: Hungary
+   Estonia: Közép-Magyarország
+   :
+   :
+-
+   EE0: HU11
+   Estonia: Hungary
+   Estonia: Közép-Magyarország
+   : Budapest
+   :
+-
+   EE0: HU110
+   Estonia: Hungary
+   Estonia: Közép-Magyarország
+   : Budapest
+   : Budapest
+-
+   EE0: HU12
+   Estonia: Hungary
+   Estonia: Közép-Magyarország
+   : Pest
+   :
+-
+   EE0: HU120
+   Estonia: Hungary
+   Estonia: Közép-Magyarország
+   : Pest
+   : Pest
+-
+   EE0: HU2
+   Estonia: Hungary
+   Estonia: Dunántúl
+   :
+   :
+-
+   EE0: HU21
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Közép-Dunántúl
+   :
+-
+   EE0: HU211
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Közép-Dunántúl
+   : Fejér
+-
+   EE0: HU212
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Közép-Dunántúl
+   : Komárom-Esztergom
+-
+   EE0: HU213
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Közép-Dunántúl
+   : Veszprém
+-
+   EE0: HU22
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Nyugat-Dunántúl
+   :
+-
+   EE0: HU221
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Nyugat-Dunántúl
+   : Gyor-Moson-Sopron
+-
+   EE0: HU222
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Nyugat-Dunántúl
+   : Vas
+-
+   EE0: HU223
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Nyugat-Dunántúl
+   : Zala
+-
+   EE0: HU23
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Dél-Dunántúl
+   :
+-
+   EE0: HU231
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Dél-Dunántúl
+   : Baranya
+-
+   EE0: HU232
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Dél-Dunántúl
+   : Somogy
+-
+   EE0: HU233
+   Estonia: Hungary
+   Estonia: Dunántúl
+   : Dél-Dunántúl
+   : Tolna
+-
+   EE0: HU3
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   :
+   :
+-
+   EE0: HU31
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Észak-Magyarország
+   :
+-
+   EE0: HU311
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Észak-Magyarország
+   : Borsod-Abaúj-Zemplén
+-
+   EE0: HU312
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Észak-Magyarország
+   : Heves
+-
+   EE0: HU313
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Észak-Magyarország
+   : Nógrád
+-
+   EE0: HU32
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Észak-Alföld
+   :
+-
+   EE0: HU321
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Észak-Alföld
+   : Hajdú-Bihar
+-
+   EE0: HU322
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Észak-Alföld
+   : Jász-Nagykun-Szolnok
+-
+   EE0: HU323
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Észak-Alföld
+   : Szabolcs-Szatmár-Bereg
+-
+   EE0: HU33
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Dél-Alföld
+   :
+-
+   EE0: HU331
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Dél-Alföld
+   : Bács-Kiskun
+-
+   EE0: HU332
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Dél-Alföld
+   : Békés
+-
+   EE0: HU333
+   Estonia: Hungary
+   Estonia: Alföld és Észak
+   : Dél-Alföld
+   : Csongrád
+-
+   EE0: IE0
+   Estonia: Ireland
+   Estonia: Ireland
+   :
+   :
+-
+   EE0: IE04
+   Estonia: Ireland
+   Estonia: Ireland
+   : Northern and Western
+   :
+-
+   EE0: IE041
+   Estonia: Ireland
+   Estonia: Ireland
+   : Northern and Western
+   : Border
+-
+   EE0: IE042
+   Estonia: Ireland
+   Estonia: Ireland
+   : Northern and Western
+   : West
+-
+   EE0: IE05
+   Estonia: Ireland
+   Estonia: Ireland
+   : Southern
+   :
+-
+   EE0: IE051
+   Estonia: Ireland
+   Estonia: Ireland
+   : Southern
+   : Mid-West
+-
+   EE0: IE052
+   Estonia: Ireland
+   Estonia: Ireland
+   : Southern
+   : South-East
+-
+   EE0: IE053
+   Estonia: Ireland
+   Estonia: Ireland
+   : Southern
+   : South-West
+-
+   EE0: IE06
+   Estonia: Ireland
+   Estonia: Ireland
+   : Eastern and Midland
+   :
+-
+   EE0: IE061
+   Estonia: Ireland
+   Estonia: Ireland
+   : Eastern and Midland
+   : Dublin
+-
+   EE0: IE062
+   Estonia: Ireland
+   Estonia: Ireland
+   : Eastern and Midland
+   : Mid-East
+-
+   EE0: IE063
+   Estonia: Ireland
+   Estonia: Ireland
+   : Eastern and Midland
+   : Midland
+-
+   EE0: ITC
+   Estonia: Italy
+   Estonia: Northwest
+   :
+   :
+-
+   EE0: ITC1
+   Estonia: Italy
+   Estonia: Northwest
+   : Piemonte
+   :
+-
+   EE0: ITC11
+   Estonia: Italy
+   Estonia: Northwest
+   : Piemonte
+   : Torino
+-
+   EE0: ITC12
+   Estonia: Italy
+   Estonia: Northwest
+   : Piemonte
+   : Vercelli
+-
+   EE0: ITC13
+   Estonia: Italy
+   Estonia: Northwest
+   : Piemonte
+   : Biella
+-
+   EE0: ITC14
+   Estonia: Italy
+   Estonia: Northwest
+   : Piemonte
+   : Verbano-Cusio-Ossola
+-
+   EE0: ITC15
+   Estonia: Italy
+   Estonia: Northwest
+   : Piemonte
+   : Novara
+-
+   EE0: ITC16
+   Estonia: Italy
+   Estonia: Northwest
+   : Piemonte
+   : Cuneo
+-
+   EE0: ITC17
+   Estonia: Italy
+   Estonia: Northwest
+   : Piemonte
+   : Asti
+-
+   EE0: ITC18
+   Estonia: Italy
+   Estonia: Northwest
+   : Piemonte
+   : Alessandria
+-
+   EE0: ITC2
+   Estonia: Italy
+   Estonia: Northwest
+   : Valle d’Aosta/Vallée d’Aoste
+   :
+-
+   EE0: ITC20
+   Estonia: Italy
+   Estonia: Northwest
+   : Valle d’Aosta/Vallée d’Aoste
+   : Valle d’Aosta/Vallée d’Aoste
+-
+   EE0: ITC3
+   Estonia: Italy
+   Estonia: Northwest
+   : Liguria
+   :
+-
+   EE0: ITC31
+   Estonia: Italy
+   Estonia: Northwest
+   : Liguria
+   : Imperia
+-
+   EE0: ITC32
+   Estonia: Italy
+   Estonia: Northwest
+   : Liguria
+   : Savona
+-
+   EE0: ITC33
+   Estonia: Italy
+   Estonia: Northwest
+   : Liguria
+   : Genova
+-
+   EE0: ITC34
+   Estonia: Italy
+   Estonia: Northwest
+   : Liguria
+   : La Spezia
+-
+   EE0: ITC4
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   :
+-
+   EE0: ITC41
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Varese
+-
+   EE0: ITC42
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Como
+-
+   EE0: ITC43
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Lecco
+-
+   EE0: ITC44
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Sondrio
+-
+   EE0: ITC46
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Bergamo
+-
+   EE0: ITC47
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Brescia
+-
+   EE0: ITC48
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Pavia
+-
+   EE0: ITC49
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Lodi
+-
+   EE0: ITC4A
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Cremona
+-
+   EE0: ITC4B
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Mantova
+-
+   EE0: ITC4C
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Milano
+-
+   EE0: ITC4D
+   Estonia: Italy
+   Estonia: Northwest
+   : Lombardia
+   : Monza e della Brianza
+-
+   EE0: ITF
+   Estonia: Italy
+   Estonia: South
+   :
+   :
+-
+   EE0: ITF1
+   Estonia: Italy
+   Estonia: South
+   : Abruzzo
+   :
+-
+   EE0: ITF11
+   Estonia: Italy
+   Estonia: South
+   : Abruzzo
+   : L’Aquila
+-
+   EE0: ITF12
+   Estonia: Italy
+   Estonia: South
+   : Abruzzo
+   : Teramo
+-
+   EE0: ITF13
+   Estonia: Italy
+   Estonia: South
+   : Abruzzo
+   : Pescara
+-
+   EE0: ITF14
+   Estonia: Italy
+   Estonia: South
+   : Abruzzo
+   : Chieti
+-
+   EE0: ITF2
+   Estonia: Italy
+   Estonia: South
+   : Molise
+   :
+-
+   EE0: ITF21
+   Estonia: Italy
+   Estonia: South
+   : Molise
+   : Isernia
+-
+   EE0: ITF22
+   Estonia: Italy
+   Estonia: South
+   : Molise
+   : Campobasso
+-
+   EE0: ITF3
+   Estonia: Italy
+   Estonia: South
+   : Campania
+   :
+-
+   EE0: ITF31
+   Estonia: Italy
+   Estonia: South
+   : Campania
+   : Caserta
+-
+   EE0: ITF32
+   Estonia: Italy
+   Estonia: South
+   : Campania
+   : Benevento
+-
+   EE0: ITF33
+   Estonia: Italy
+   Estonia: South
+   : Campania
+   : Napoli
+-
+   EE0: ITF34
+   Estonia: Italy
+   Estonia: South
+   : Campania
+   : Avellino
+-
+   EE0: ITF35
+   Estonia: Italy
+   Estonia: South
+   : Campania
+   : Salerno
+-
+   EE0: ITF4
+   Estonia: Italy
+   Estonia: South
+   : Puglia
+   :
+-
+   EE0: ITF43
+   Estonia: Italy
+   Estonia: South
+   : Puglia
+   : Taranto
+-
+   EE0: ITF44
+   Estonia: Italy
+   Estonia: South
+   : Puglia
+   : Brindisi
+-
+   EE0: ITF45
+   Estonia: Italy
+   Estonia: South
+   : Puglia
+   : Lecce
+-
+   EE0: ITF46
+   Estonia: Italy
+   Estonia: South
+   : Puglia
+   : Foggia
+-
+   EE0: ITF47
+   Estonia: Italy
+   Estonia: South
+   : Puglia
+   : Bari
+-
+   EE0: ITF48
+   Estonia: Italy
+   Estonia: South
+   : Puglia
+   : Barletta-Andria-Trani
+-
+   EE0: ITF5
+   Estonia: Italy
+   Estonia: South
+   : Basilicata
+   :
+-
+   EE0: ITF51
+   Estonia: Italy
+   Estonia: South
+   : Basilicata
+   : Potenza
+-
+   EE0: ITF52
+   Estonia: Italy
+   Estonia: South
+   : Basilicata
+   : Matera
+-
+   EE0: ITF6
+   Estonia: Italy
+   Estonia: South
+   : Calabria
+   :
+-
+   EE0: ITF61
+   Estonia: Italy
+   Estonia: South
+   : Calabria
+   : Cosenza
+-
+   EE0: ITF62
+   Estonia: Italy
+   Estonia: South
+   : Calabria
+   : Crotone
+-
+   EE0: ITF63
+   Estonia: Italy
+   Estonia: South
+   : Calabria
+   : Catanzaro
+-
+   EE0: ITF64
+   Estonia: Italy
+   Estonia: South
+   : Calabria
+   : Vibo Valentia
+-
+   EE0: ITF65
+   Estonia: Italy
+   Estonia: South
+   : Calabria
+   : Reggio di Calabria
+-
+   EE0: ITG
+   Estonia: Italy
+   Estonia: Islands
+   :
+   :
+-
+   EE0: ITG1
+   Estonia: Italy
+   Estonia: Islands
+   : Sicilia
+   :
+-
+   EE0: ITG11
+   Estonia: Italy
+   Estonia: Islands
+   : Sicilia
+   : Trapani
+-
+   EE0: ITG12
+   Estonia: Italy
+   Estonia: Islands
+   : Sicilia
+   : Palermo
+-
+   EE0: ITG13
+   Estonia: Italy
+   Estonia: Islands
+   : Sicilia
+   : Messina
+-
+   EE0: ITG14
+   Estonia: Italy
+   Estonia: Islands
+   : Sicilia
+   : Agrigento
+-
+   EE0: ITG15
+   Estonia: Italy
+   Estonia: Islands
+   : Sicilia
+   : Caltanissetta
+-
+   EE0: ITG16
+   Estonia: Italy
+   Estonia: Islands
+   : Sicilia
+   : Enna
+-
+   EE0: ITG17
+   Estonia: Italy
+   Estonia: Islands
+   : Sicilia
+   : Catania
+-
+   EE0: ITG18
+   Estonia: Italy
+   Estonia: Islands
+   : Sicilia
+   : Ragusa
+-
+   EE0: ITG19
+   Estonia: Italy
+   Estonia: Islands
+   : Sicilia
+   : Siracusa
+-
+   EE0: ITG2
+   Estonia: Italy
+   Estonia: Islands
+   : Sardegna
+   :
+-
+   EE0: ITG2D
+   Estonia: Italy
+   Estonia: Islands
+   : Sardegna
+   : Sassari
+-
+   EE0: ITG2E
+   Estonia: Italy
+   Estonia: Islands
+   : Sardegna
+   : Nuoro
+-
+   EE0: ITG2F
+   Estonia: Italy
+   Estonia: Islands
+   : Sardegna
+   : Cagliari
+-
+   EE0: ITG2G
+   Estonia: Italy
+   Estonia: Islands
+   : Sardegna
+   : Oristano
+-
+   EE0: ITG2H
+   Estonia: Italy
+   Estonia: Islands
+   : Sardegna
+   : Sud Sardegna
+-
+   EE0: ITH
+   Estonia: Italy
+   Estonia: North East
+   :
+   :
+-
+   EE0: ITH1
+   Estonia: Italy
+   Estonia: North East
+   : Provincia Autonoma di Bolzano/Bozen
+   :
+-
+   EE0: ITH10
+   Estonia: Italy
+   Estonia: North East
+   : Provincia Autonoma di Bolzano/Bozen
+   : Bolzano-Bozen
+-
+   EE0: ITH2
+   Estonia: Italy
+   Estonia: North East
+   : Provincia Autonoma di Trento
+   :
+-
+   EE0: ITH20
+   Estonia: Italy
+   Estonia: North East
+   : Provincia Autonoma di Trento
+   : Trento
+-
+   EE0: ITH3
+   Estonia: Italy
+   Estonia: North East
+   : Veneto
+   :
+-
+   EE0: ITH31
+   Estonia: Italy
+   Estonia: North East
+   : Veneto
+   : Verona
+-
+   EE0: ITH32
+   Estonia: Italy
+   Estonia: North East
+   : Veneto
+   : Vicenza
+-
+   EE0: ITH33
+   Estonia: Italy
+   Estonia: North East
+   : Veneto
+   : Belluno
+-
+   EE0: ITH34
+   Estonia: Italy
+   Estonia: North East
+   : Veneto
+   : Treviso
+-
+   EE0: ITH35
+   Estonia: Italy
+   Estonia: North East
+   : Veneto
+   : Venezia
+-
+   EE0: ITH36
+   Estonia: Italy
+   Estonia: North East
+   : Veneto
+   : Padova
+-
+   EE0: ITH37
+   Estonia: Italy
+   Estonia: North East
+   : Veneto
+   : Rovigo
+-
+   EE0: ITH4
+   Estonia: Italy
+   Estonia: North East
+   : Friuli-Venezia Giulia
+   :
+-
+   EE0: ITH41
+   Estonia: Italy
+   Estonia: North East
+   : Friuli-Venezia Giulia
+   : Pordenone
+-
+   EE0: ITH42
+   Estonia: Italy
+   Estonia: North East
+   : Friuli-Venezia Giulia
+   : Udine
+-
+   EE0: ITH43
+   Estonia: Italy
+   Estonia: North East
+   : Friuli-Venezia Giulia
+   : Gorizia
+-
+   EE0: ITH44
+   Estonia: Italy
+   Estonia: North East
+   : Friuli-Venezia Giulia
+   : Trieste
+-
+   EE0: ITH5
+   Estonia: Italy
+   Estonia: North East
+   : Emilia-Romagna
+   :
+-
+   EE0: ITH51
+   Estonia: Italy
+   Estonia: North East
+   : Emilia-Romagna
+   : Piacenza
+-
+   EE0: ITH52
+   Estonia: Italy
+   Estonia: North East
+   : Emilia-Romagna
+   : Parma
+-
+   EE0: ITH53
+   Estonia: Italy
+   Estonia: North East
+   : Emilia-Romagna
+   : Reggio nell’Emilia
+-
+   EE0: ITH54
+   Estonia: Italy
+   Estonia: North East
+   : Emilia-Romagna
+   : Modena
+-
+   EE0: ITH55
+   Estonia: Italy
+   Estonia: North East
+   : Emilia-Romagna
+   : Bologna
+-
+   EE0: ITH56
+   Estonia: Italy
+   Estonia: North East
+   : Emilia-Romagna
+   : Ferrara
+-
+   EE0: ITH57
+   Estonia: Italy
+   Estonia: North East
+   : Emilia-Romagna
+   : Ravenna
+-
+   EE0: ITH58
+   Estonia: Italy
+   Estonia: North East
+   : Emilia-Romagna
+   : Forlì-Cesena
+-
+   EE0: ITH59
+   Estonia: Italy
+   Estonia: North East
+   : Emilia-Romagna
+   : Rimini
+-
+   EE0: ITI1
+   Estonia: Italy
+   Estonia: North East
+   : Toscana
+   :
+-
+   EE0: ITI11
+   Estonia: Italy
+   Estonia: North East
+   : Toscana
+   : Massa-Carrara
+-
+   EE0: ITI12
+   Estonia: Italy
+   Estonia: North East
+   : Toscana
+   : Lucca
+-
+   EE0: ITI13
+   Estonia: Italy
+   Estonia: North East
+   : Toscana
+   : Pistoia
+-
+   EE0: ITI14
+   Estonia: Italy
+   Estonia: North East
+   : Toscana
+   : Firenze
+-
+   EE0: ITI15
+   Estonia: Italy
+   Estonia: North East
+   : Toscana
+   : Prato
+-
+   EE0: ITI16
+   Estonia: Italy
+   Estonia: North East
+   : Toscana
+   : Livorno
+-
+   EE0: ITI17
+   Estonia: Italy
+   Estonia: North East
+   : Toscana
+   : Pisa
+-
+   EE0: ITI18
+   Estonia: Italy
+   Estonia: North East
+   : Toscana
+   : Arezzo
+-
+   EE0: ITI19
+   Estonia: Italy
+   Estonia: North East
+   : Toscana
+   : Siena
+-
+   EE0: ITI1A
+   Estonia: Italy
+   Estonia: North East
+   : Toscana
+   : Grosseto
+-
+   EE0: ITI2
+   Estonia: Italy
+   Estonia: North East
+   : Umbria
+   :
+-
+   EE0: ITI21
+   Estonia: Italy
+   Estonia: North East
+   : Umbria
+   : Perugia
+-
+   EE0: ITI22
+   Estonia: Italy
+   Estonia: North East
+   : Umbria
+   : Terni
+-
+   EE0: ITI3
+   Estonia: Italy
+   Estonia: North East
+   : Marche
+   :
+-
+   EE0: ITI31
+   Estonia: Italy
+   Estonia: North East
+   : Marche
+   : Pesaro e Urbino
+-
+   EE0: ITI32
+   Estonia: Italy
+   Estonia: North East
+   : Marche
+   : Ancona
+-
+   EE0: ITI33
+   Estonia: Italy
+   Estonia: North East
+   : Marche
+   : Macerata
+-
+   EE0: ITI34
+   Estonia: Italy
+   Estonia: North East
+   : Marche
+   : Ascoli Piceno
+-
+   EE0: ITI35
+   Estonia: Italy
+   Estonia: North East
+   : Marche
+   : Fermo
+-
+   EE0: ITI4
+   Estonia: Italy
+   Estonia: North East
+   : Lazio
+   :
+-
+   EE0: ITI41
+   Estonia: Italy
+   Estonia: North East
+   : Lazio
+   : Viterbo
+-
+   EE0: ITI42
+   Estonia: Italy
+   Estonia: North East
+   : Lazio
+   : Rieti
+-
+   EE0: ITI43
+   Estonia: Italy
+   Estonia: North East
+   : Lazio
+   : Roma
+-
+   EE0: ITI44
+   Estonia: Italy
+   Estonia: North East
+   : Lazio
+   : Latina
+-
+   EE0: ITI45
+   Estonia: Italy
+   Estonia: North East
+   : Lazio
+   : Frosinone
+-
+   EE0: LT0
+   Estonia: Lithuania
+   Estonia: Lietuva
+   :
+   :
+-
+   EE0: LT01
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Capital Region
+   :
+-
+   EE0: LT011
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Capital Region
+   : Vilnius County
+-
+   EE0: LT02
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Central and Western Lithuania region
+   :
+-
+   EE0: LT021
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Central and Western Lithuania region
+   : Alytus county
+-
+   EE0: LT022
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Central and Western Lithuania region
+   : Kaunas County
+-
+   EE0: LT023
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Central and Western Lithuania region
+   : Klaipeda county
+-
+   EE0: LT024
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Central and Western Lithuania region
+   : Marijampole County
+-
+   EE0: LT025
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Central and Western Lithuania region
+   : Panevezys county
+-
+   EE0: LT026
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Central and Western Lithuania region
+   : Siauliai county
+-
+   EE0: LT027
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Central and Western Lithuania region
+   : Taurage county
+-
+   EE0: LT028
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Central and Western Lithuania region
+   : Telšiai county
+-
+   EE0: LT029
+   Estonia: Lithuania
+   Estonia: Lietuva
+   : Central and Western Lithuania region
+   : Utena county
+-
+   EE0: LU0
+   Estonia: Luxembourg
+   Estonia: Luxembourg
+   :
+   :
+-
+   EE0: LU00
+   Estonia: Luxembourg
+   Estonia: Luxembourg
+   : Luxembourg
+   :
+-
+   EE0: LU000
+   Estonia: Luxembourg
+   Estonia: Luxembourg
+   : Luxembourg
+   : Luxembourg
+-
+   EE0: LV0
+   Estonia: Latvia
+   Estonia: Latvia
+   :
+   :
+-
+   EE0: LV00
+   Estonia: Latvia
+   Estonia: Latvia
+   : Latvia
+   :
+-
+   EE0: LV003
+   Estonia: Latvia
+   Estonia: Latvia
+   : Latvia
+   : Kurzeme
+-
+   EE0: LV005
+   Estonia: Latvia
+   Estonia: Latvia
+   : Latvia
+   : Latgale
+-
+   EE0: LV006
+   Estonia: Latvia
+   Estonia: Latvia
+   : Latvia
+   : R?ga
+-
+   EE0: LV007
+   Estonia: Latvia
+   Estonia: Latvia
+   : Latvia
+   : Pier?ga
+-
+   EE0: LV008
+   Estonia: Latvia
+   Estonia: Latvia
+   : Latvia
+   : Vidzeme
+-
+   EE0: LV009
+   Estonia: Latvia
+   Estonia: Latvia
+   : Latvia
+   : Zemgale
+-
+   EE0: ME0
+   Estonia: Montenegro
+   Estonia: Montenegro
+   :
+   :
+-
+   EE0: ME00
+   Estonia: Montenegro
+   Estonia: Montenegro
+   : Montenegro
+   :
+-
+   EE0: ME000
+   Estonia: Montenegro
+   Estonia: Montenegro
+   : Montenegro
+   : Montenegro
+-
+   EE0: MT0
+   Estonia: Malta
+   Estonia: Malta
+   :
+   :
+-
+   EE0: MT00
+   Estonia: Malta
+   Estonia: Malta
+   : Malta
+   :
+-
+   EE0: MT001
+   Estonia: Malta
+   Estonia: Malta
+   : Malta
+   : malta
+-
+   EE0: MT002
+   Estonia: Malta
+   Estonia: Malta
+   : Malta
+   : Gozo and Comino / Gozo and Comino
+-
+   EE0: NL1
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   :
+   :
+-
+   EE0: NL11
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Groningen
+   :
+-
+   EE0: NL111
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Groningen
+   : Oost-Groningen
+-
+   EE0: NL112
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Groningen
+   : Delfzijl en omgeving
+-
+   EE0: NL113
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Groningen
+   : Overig Groningen
+-
+   EE0: NL12
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Friesland (NL)
+   :
+-
+   EE0: NL124
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Friesland (NL)
+   : Noord-Friesland
+-
+   EE0: NL125
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Friesland (NL)
+   : Zuidwest-Friesland
+-
+   EE0: NL126
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Friesland (NL)
+   : Zuidoost-Friesland
+-
+   EE0: NL13
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Drenthe
+   :
+-
+   EE0: NL131
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Drenthe
+   : Noord-Drenthe
+-
+   EE0: NL132
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Drenthe
+   : Zuidoost-Drenthe
+-
+   EE0: NL133
+   Estonia: Netherlands
+   Estonia: North Netherlands
+   : Drenthe
+   : Zuidwest-Drenthe
+-
+   EE0: NL2
+   Estonia: Netherlands
+   Estonia: East Holland
+   :
+   :
+-
+   EE0: NL21
+   Estonia: Netherlands
+   Estonia: East Holland
+   : Overijssel
+   :
+-
+   EE0: NL211
+   Estonia: Netherlands
+   Estonia: East Holland
+   : Overijssel
+   : Noord-Overijssel
+-
+   EE0: NL212
+   Estonia: Netherlands
+   Estonia: East Holland
+   : Overijssel
+   : Zuidwest-Overijssel
+-
+   EE0: NL213
+   Estonia: Netherlands
+   Estonia: East Holland
+   : Overijssel
+   : Twente
+-
+   EE0: NL22
+   Estonia: Netherlands
+   Estonia: East Holland
+   : Gelderland
+   :
+-
+   EE0: NL221
+   Estonia: Netherlands
+   Estonia: East Holland
+   : Gelderland
+   : Veluwe
+-
+   EE0: NL224
+   Estonia: Netherlands
+   Estonia: East Holland
+   : Gelderland
+   : Zuidwest-Gelderland
+-
+   EE0: NL225
+   Estonia: Netherlands
+   Estonia: East Holland
+   : Gelderland
+   : Achterhoek
+-
+   EE0: NL226
+   Estonia: Netherlands
+   Estonia: East Holland
+   : Gelderland
+   : Arnhem/Nijmegen
+-
+   EE0: NL23
+   Estonia: Netherlands
+   Estonia: East Holland
+   : Flevoland
+   :
+-
+   EE0: NL230
+   Estonia: Netherlands
+   Estonia: East Holland
+   : Flevoland
+   : Flevoland
+-
+   EE0: NL3
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   :
+   :
+-
+   EE0: NL31
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Utrecht
+   :
+-
+   EE0: NL310
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Utrecht
+   : Utrecht
+-
+   EE0: NL32
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Noord-Holland
+   :
+-
+   EE0: NL321
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Noord-Holland
+   : Kop van Noord-Holland
+-
+   EE0: NL323
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Noord-Holland
+   : IJmond
+-
+   EE0: NL324
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Noord-Holland
+   : Agglomeratie Haarlem
+-
+   EE0: NL325
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Noord-Holland
+   : Zaanstreek
+-
+   EE0: NL327
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Noord-Holland
+   : Het Gooi en Vechtstreek
+-
+   EE0: NL328
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Noord-Holland
+   : Alkmaar en omgeving
+-
+   EE0: NL329
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Noord-Holland
+   : Groot-Amsterdam
+-
+   EE0: NL33
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Zuid-Holland
+   :
+-
+   EE0: NL332
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Zuid-Holland
+   : Agglomeratie ’s-Gravenhage
+-
+   EE0: NL333
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Zuid-Holland
+   : Delft en Westland
+-
+   EE0: NL337
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Zuid-Holland
+   : Agglomeratie Leiden en Bollenstreek
+-
+   EE0: NL33A
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Zuid-Holland
+   : Zuidoost-Zuid-Holland
+-
+   EE0: NL33B
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Zuid-Holland
+   : Oost-Zuid-Holland
+-
+   EE0: NL33C
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Zuid-Holland
+   : Groot-Rijnmond
+-
+   EE0: NL34
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Zeeland
+   :
+-
+   EE0: NL341
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Zeeland
+   : Zeeuwsch-Vlaanderen
+-
+   EE0: NL342
+   Estonia: Netherlands
+   Estonia: West Netherlands
+   : Zeeland
+   : Overig Zeeland
+-
+   EE0: NL4
+   Estonia: Netherlands
+   Estonia: South of the Netherlands
+   :
+   :
+-
+   EE0: NL41
+   Estonia: Netherlands
+   Estonia: South of the Netherlands
+   : Noord-Brabant
+   :
+-
+   EE0: NL411
+   Estonia: Netherlands
+   Estonia: South of the Netherlands
+   : Noord-Brabant
+   : West-Noord-Brabant
+-
+   EE0: NL412
+   Estonia: Netherlands
+   Estonia: South of the Netherlands
+   : Noord-Brabant
+   : Midden-Noord-Brabant
+-
+   EE0: NL413
+   Estonia: Netherlands
+   Estonia: South of the Netherlands
+   : Noord-Brabant
+   : Noordoost-Noord-Brabant
+-
+   EE0: NL414
+   Estonia: Netherlands
+   Estonia: South of the Netherlands
+   : Noord-Brabant
+   : Zuidoost-Noord-Brabant
+-
+   EE0: NL42
+   Estonia: Netherlands
+   Estonia: South of the Netherlands
+   : Limburg (NL)
+   :
+-
+   EE0: NL421
+   Estonia: Netherlands
+   Estonia: South of the Netherlands
+   : Limburg (NL)
+   : Noord-Limburg
+-
+   EE0: NL422
+   Estonia: Netherlands
+   Estonia: South of the Netherlands
+   : Limburg (NL)
+   : Midden-Limburg
+-
+   EE0: NL423
+   Estonia: Netherlands
+   Estonia: South of the Netherlands
+   : Limburg (NL)
+   : Zuid-Limburg
+-
+   EE0: NO0
+   Estonia: Norway
+   Estonia: Norway
+   :
+   :
+-
+   EE0: NO02
+   Estonia: Norway
+   Estonia: Norway
+   : Innlandet
+   :
+-
+   EE0: NO020
+   Estonia: Norway
+   Estonia: Norway
+   : Innlandet
+   : Innlandet
+-
+   EE0: NO06
+   Estonia: Norway
+   Estonia: Norway
+   : Trøndelag
+   :
+-
+   EE0: NO060
+   Estonia: Norway
+   Estonia: Norway
+   : Trøndelag
+   : Trøndelag
+-
+   EE0: NO07
+   Estonia: Norway
+   Estonia: Norway
+   : Nord-Norge
+   :
+-
+   EE0: NO071
+   Estonia: Norway
+   Estonia: Norway
+   : Nord-Norge
+   : Nordland
+-
+   EE0: NO074
+   Estonia: Norway
+   Estonia: Norway
+   : Nord-Norge
+   : Troms og Finnmark
+-
+   EE0: NO08
+   Estonia: Norway
+   Estonia: Norway
+   : Oslo og Viken
+   :
+-
+   EE0: NO081
+   Estonia: Norway
+   Estonia: Norway
+   : Oslo og Viken
+   : Oslo
+-
+   EE0: NO082
+   Estonia: Norway
+   Estonia: Norway
+   : Oslo og Viken
+   : Viken
+-
+   EE0: NO09
+   Estonia: Norway
+   Estonia: Norway
+   : Agder og Sør-Østlandet
+   :
+-
+   EE0: NO091
+   Estonia: Norway
+   Estonia: Norway
+   : Agder og Sør-Østlandet
+   : Vestfold og Telemark
+-
+   EE0: NO092
+   Estonia: Norway
+   Estonia: Norway
+   : Agder og Sør-Østlandet
+   : Agder
+-
+   EE0: NO0A
+   Estonia: Norway
+   Estonia: Norway
+   : Vestlandet
+   :
+-
+   EE0: NO0A1
+   Estonia: Norway
+   Estonia: Norway
+   : Vestlandet
+   : Rogaland
+-
+   EE0: NO0A2
+   Estonia: Norway
+   Estonia: Norway
+   : Vestlandet
+   : Vestland
+-
+   EE0: NO0A3
+   Estonia: Norway
+   Estonia: Norway
+   : Vestlandet
+   : Møre og Romsdal
+-
+   EE0: PL2
+   Estonia: Poland
+   Estonia: Southern macroregion
+   :
+   :
+-
+   EE0: PL21
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Lesser
+   :
+-
+   EE0: PL213
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Lesser
+   : The city of Krakow
+-
+   EE0: PL214
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Lesser
+   : Krakowski
+-
+   EE0: PL217
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Lesser
+   : Tarnowski
+-
+   EE0: PL218
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Lesser
+   : nowosadecki
+-
+   EE0: PL219
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Lesser
+   : nowotarski
+-
+   EE0: PL21A
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Lesser
+   : Oswiecimski
+-
+   EE0: PL22
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Silesian
+   :
+-
+   EE0: PL224
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Silesian
+   : Czestochowski
+-
+   EE0: PL225
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Silesian
+   : Bielski
+-
+   EE0: PL227
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Silesian
+   : Rybnicki
+-
+   EE0: PL228
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Silesian
+   : Bytomski
+-
+   EE0: PL229
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Silesian
+   : Gliwicki
+-
+   EE0: PL22A
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Silesian
+   : Katowicki
+-
+   EE0: PL22B
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Silesian
+   : Sosnowiecki
+-
+   EE0: PL22C
+   Estonia: Poland
+   Estonia: Southern macroregion
+   : Silesian
+   : Tyski
+-
+   EE0: PL4
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   :
+   :
+-
+   EE0: PL41
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Wielkopolskie
+   :
+-
+   EE0: PL411
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Wielkopolskie
+   : Pilski
+-
+   EE0: PL414
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Wielkopolskie
+   : Koninski
+-
+   EE0: PL415
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Wielkopolskie
+   : Miasto Poznan
+-
+   EE0: PL416
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Wielkopolskie
+   : Kaliski
+-
+   EE0: PL417
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Wielkopolskie
+   : Leszczynski
+-
+   EE0: PL418
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Wielkopolskie
+   : Poznanski
+-
+   EE0: PL42
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Zachodniopomorskie
+   :
+-
+   EE0: PL424
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Zachodniopomorskie
+   : Miasto Szczecin
+-
+   EE0: PL426
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Zachodniopomorskie
+   : Koszali?ski
+-
+   EE0: PL427
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Zachodniopomorskie
+   : Szczecinecko-pyrzycki
+-
+   EE0: PL428
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Zachodniopomorskie
+   : Szczeci?ski
+-
+   EE0: PL43
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Lubuskie
+   :
+-
+   EE0: PL431
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Lubuskie
+   : Gorzowski
+-
+   EE0: PL432
+   Estonia: Poland
+   Estonia: Northwestern Macroregion
+   : Lubuskie
+   : Zielonogórski
+-
+   EE0: PL5
+   Estonia: Poland
+   Estonia: Southwestern macroregion
+   :
+   :
+-
+   EE0: PL51
+   Estonia: Poland
+   Estonia: Southwestern macroregion
+   : Dolnoslaskie
+   :
+-
+   EE0: PL514
+   Estonia: Poland
+   Estonia: Southwestern macroregion
+   : Dolnoslaskie
+   : Wroclaw city
+-
+   EE0: PL515
+   Estonia: Poland
+   Estonia: Southwestern macroregion
+   : Dolnoslaskie
+   : jeleniogórski
+-
+   EE0: PL516
+   Estonia: Poland
+   Estonia: Southwestern macroregion
+   : Dolnoslaskie
+   : Legnica-G?ogów
+-
+   EE0: PL517
+   Estonia: Poland
+   Estonia: Southwestern macroregion
+   : Dolnoslaskie
+   : walbrzyski
+-
+   EE0: PL518
+   Estonia: Poland
+   Estonia: Southwestern macroregion
+   : Dolnoslaskie
+   : Wroclaw
+-
+   EE0: PL52
+   Estonia: Poland
+   Estonia: Southwestern macroregion
+   : Opolskie
+   :
+-
+   EE0: PL523
+   Estonia: Poland
+   Estonia: Southwestern macroregion
+   : Opolskie
+   : Nyski
+-
+   EE0: PL524
+   Estonia: Poland
+   Estonia: Southwestern macroregion
+   : Opolskie
+   : Opolski
+-
+   EE0: PL6
+   Estonia: Poland
+   Estonia: Northern macroregion
+   :
+   :
+-
+   EE0: PL61
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Kujawsko-pomorskie
+   :
+-
+   EE0: PL613
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Kujawsko-pomorskie
+   : Bydgosko-torunski
+-
+   EE0: PL616
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Kujawsko-pomorskie
+   : Grudziadzki
+-
+   EE0: PL617
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Kujawsko-pomorskie
+   : Inowroclawski
+-
+   EE0: PL618
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Kujawsko-pomorskie
+   : Swiecki
+-
+   EE0: PL619
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Kujawsko-pomorskie
+   : Wloclawski
+-
+   EE0: PL62
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Warminsko-mazurskie
+   :
+-
+   EE0: PL621
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Warminsko-mazurskie
+   : Elblaski
+-
+   EE0: PL622
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Warminsko-mazurskie
+   : Olsztynski
+-
+   EE0: PL623
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Warminsko-mazurskie
+   : Elcki
+-
+   EE0: PL63
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Pomorskie
+   :
+-
+   EE0: PL633
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Pomorskie
+   : Trójmiejski
+-
+   EE0: PL634
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Pomorskie
+   : Gdanski
+-
+   EE0: PL636
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Pomorskie
+   : Slupski
+-
+   EE0: PL637
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Pomorskie
+   : Chojnicki
+-
+   EE0: PL638
+   Estonia: Poland
+   Estonia: Northern macroregion
+   : Pomorskie
+   : Starogardzki
+-
+   EE0: PL7
+   Estonia: Poland
+   Estonia: Central macroregion
+   :
+   :
+-
+   EE0: PL71
+   Estonia: Poland
+   Estonia: Central macroregion
+   : tódzkie
+   :
+-
+   EE0: PL711
+   Estonia: Poland
+   Estonia: Central macroregion
+   : tódzkie
+   : Lódz City
+-
+   EE0: PL712
+   Estonia: Poland
+   Estonia: Central macroregion
+   : tódzkie
+   : Lódzki
+-
+   EE0: PL713
+   Estonia: Poland
+   Estonia: Central macroregion
+   : tódzkie
+   : Piotrkowski
+-
+   EE0: PL714
+   Estonia: Poland
+   Estonia: Central macroregion
+   : tódzkie
+   : Sieradzki
+-
+   EE0: PL715
+   Estonia: Poland
+   Estonia: Central macroregion
+   : tódzkie
+   : Skierniewicki
+-
+   EE0: PL72
+   Estonia: Poland
+   Estonia: Central macroregion
+   : Swietokrzyskie
+   :
+-
+   EE0: PL721
+   Estonia: Poland
+   Estonia: Central macroregion
+   : Swietokrzyskie
+   : Kielecki
+-
+   EE0: PL722
+   Estonia: Poland
+   Estonia: Central macroregion
+   : Swietokrzyskie
+   : Sandomiersko-jedrzejowski
+-
+   EE0: PL8
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   :
+   :
+-
+   EE0: PL81
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Lubelskie
+   :
+-
+   EE0: PL811
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Lubelskie
+   : Bialski
+-
+   EE0: PL812
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Lubelskie
+   : Chelmsko-zamojski
+-
+   EE0: PL814
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Lubelskie
+   : Lubelski
+-
+   EE0: PL815
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Lubelskie
+   : Pulawski
+-
+   EE0: PL82
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Podkarpackie
+   :
+-
+   EE0: PL821
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Podkarpackie
+   : Krosnienski
+-
+   EE0: PL822
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Podkarpackie
+   : Przemyski
+-
+   EE0: PL823
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Podkarpackie
+   : Rzeszowski
+-
+   EE0: PL824
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Podkarpackie
+   : Tarnobrzeski
+-
+   EE0: PL84
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Podlaskie
+   :
+-
+   EE0: PL841
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Podlaskie
+   : Bialostocki
+-
+   EE0: PL842
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Podlaskie
+   : Lomzynski
+-
+   EE0: PL843
+   Estonia: Poland
+   Estonia: Eastern macroregion
+   : Podlaskie
+   : Suwalski
+-
+   EE0: PL9
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   :
+   :
+-
+   EE0: PL91
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   : Warszawski stoleczny
+   :
+-
+   EE0: PL911
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   : Warszawski stoleczny
+   : Miasto Warszawa
+-
+   EE0: PL912
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   : Warszawski stoleczny
+   : Warszawski wschodni
+-
+   EE0: PL913
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   : Warszawski stoleczny
+   : Warszawski zachodni
+-
+   EE0: PL92
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   : Mazowiecki regionalny
+   :
+-
+   EE0: PL921
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   : Mazowiecki regionalny
+   : Radomski
+-
+   EE0: PL922
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   : Mazowiecki regionalny
+   : Ciechanowski
+-
+   EE0: PL923
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   : Mazowiecki regionalny
+   : Plocki
+-
+   EE0: PL924
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   : Mazowiecki regionalny
+   : Ostrolecki
+-
+   EE0: PL925
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   : Mazowiecki regionalny
+   : Siedlecki
+-
+   EE0: PL926
+   Estonia: Poland
+   Estonia: Macroregion Mazowieckie Province
+   : Mazowiecki regionalny
+   : Zyrardowski
+-
+   EE0: PT1
+   Estonia: Portugal
+   Estonia: Continente
+   :
+   :
+-
+   EE0: PT11
+   Estonia: Portugal
+   Estonia: Continente
+   : Norte
+   :
+-
+   EE0: PT111
+   Estonia: Portugal
+   Estonia: Continente
+   : Norte
+   : Alto Minho
+-
+   EE0: PT112
+   Estonia: Portugal
+   Estonia: Continente
+   : Norte
+   : Cávado
+-
+   EE0: PT119
+   Estonia: Portugal
+   Estonia: Continente
+   : Norte
+   : Ave
+-
+   EE0: PT11A
+   Estonia: Portugal
+   Estonia: Continente
+   : Norte
+   : Área Metropolitana do Porto
+-
+   EE0: PT11B
+   Estonia: Portugal
+   Estonia: Continente
+   : Norte
+   : Alto Tâmega
+-
+   EE0: PT11C
+   Estonia: Portugal
+   Estonia: Continente
+   : Norte
+   : Tâmega e Sousa
+-
+   EE0: PT11D
+   Estonia: Portugal
+   Estonia: Continente
+   : Norte
+   : Douro
+-
+   EE0: PT11E
+   Estonia: Portugal
+   Estonia: Continente
+   : Norte
+   : Terras de Trás-os-Montes
+-
+   EE0: PT15
+   Estonia: Portugal
+   Estonia: Continente
+   : Algarve
+   :
+-
+   EE0: PT150
+   Estonia: Portugal
+   Estonia: Continente
+   : Algarve
+   : Algarve
+-
+   EE0: PT16
+   Estonia: Portugal
+   Estonia: Continente
+   : Centro (PT)
+   :
+-
+   EE0: PT16B
+   Estonia: Portugal
+   Estonia: Continente
+   : Centro (PT)
+   : Oeste
+-
+   EE0: PT16D
+   Estonia: Portugal
+   Estonia: Continente
+   : Centro (PT)
+   : Região de Aveiro
+-
+   EE0: PT16E
+   Estonia: Portugal
+   Estonia: Continente
+   : Centro (PT)
+   : Região de Coimbra
+-
+   EE0: PT16F
+   Estonia: Portugal
+   Estonia: Continente
+   : Centro (PT)
+   : Região de Leiria
+-
+   EE0: PT16G
+   Estonia: Portugal
+   Estonia: Continente
+   : Centro (PT)
+   : Viseu Dão Lafões
+-
+   EE0: PT16H
+   Estonia: Portugal
+   Estonia: Continente
+   : Centro (PT)
+   : Beira Baixa
+-
+   EE0: PT16I
+   Estonia: Portugal
+   Estonia: Continente
+   : Centro (PT)
+   : Médio Tejo
+-
+   EE0: PT16J
+   Estonia: Portugal
+   Estonia: Continente
+   : Centro (PT)
+   : Beiras e Serra da Estrela
+-
+   EE0: PT17
+   Estonia: Portugal
+   Estonia: Continente
+   : Área Metropolitana de Lisboa
+   :
+-
+   EE0: PT170
+   Estonia: Portugal
+   Estonia: Continente
+   : Área Metropolitana de Lisboa
+   : Área Metropolitana de Lisboa
+-
+   EE0: PT18
+   Estonia: Portugal
+   Estonia: Continente
+   : Alentejo
+   :
+-
+   EE0: PT181
+   Estonia: Portugal
+   Estonia: Continente
+   : Alentejo
+   : Alentejo Litoral
+-
+   EE0: PT184
+   Estonia: Portugal
+   Estonia: Continente
+   : Alentejo
+   : Baixo Alentejo
+-
+   EE0: PT185
+   Estonia: Portugal
+   Estonia: Continente
+   : Alentejo
+   : Lezíria do Tejo
+-
+   EE0: PT186
+   Estonia: Portugal
+   Estonia: Continente
+   : Alentejo
+   : Alto Alentejo
+-
+   EE0: PT187
+   Estonia: Portugal
+   Estonia: Continente
+   : Alentejo
+   : Alentejo Central
+-
+   EE0: PT2
+   Estonia: Portugal
+   Estonia: Região Autónoma dos Açores
+   :
+   :
+-
+   EE0: PT20
+   Estonia: Portugal
+   Estonia: Região Autónoma dos Açores
+   : Região Autónoma dos Açores
+   :
+-
+   EE0: PT200
+   Estonia: Portugal
+   Estonia: Região Autónoma dos Açores
+   : Região Autónoma dos Açores
+   : Região Autónoma dos Açores
+-
+   EE0: PT3
+   Estonia: Portugal
+   Estonia: Região Autónoma da Madeira
+   :
+   :
+-
+   EE0: PT30
+   Estonia: Portugal
+   Estonia: Região Autónoma da Madeira
+   : Região Autónoma da Madeira
+   :
+-
+   EE0: PT300
+   Estonia: Portugal
+   Estonia: Região Autónoma da Madeira
+   : Região Autónoma da Madeira
+   : Região Autónoma da Madeira
+-
+   EE0: RO1
+   Estonia: Romania
+   Estonia: Macroregion One
+   :
+   :
+-
+   EE0: RO11
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Nord-Vest
+   :
+-
+   EE0: RO111
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Nord-Vest
+   : Bihor
+-
+   EE0: RO112
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Nord-Vest
+   : Bistrita-Nasaud
+-
+   EE0: RO113
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Nord-Vest
+   : Cluj
+-
+   EE0: RO114
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Nord-Vest
+   : Maramures
+-
+   EE0: RO115
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Nord-Vest
+   : Satu Mare
+-
+   EE0: RO116
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Nord-Vest
+   : Salaj
+-
+   EE0: RO12
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Centru
+   :
+-
+   EE0: RO121
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Centru
+   : Alba
+-
+   EE0: RO122
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Centru
+   : Brasov
+-
+   EE0: RO123
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Centru
+   : Covasna
+-
+   EE0: RO124
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Centru
+   : Harghita
+-
+   EE0: RO125
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Centru
+   : Mures
+-
+   EE0: RO126
+   Estonia: Romania
+   Estonia: Macroregion One
+   : Centru
+   : Sibiu
+-
+   EE0: RO2
+   Estonia: Romania
+   Estonia: Macroregion Two
+   :
+   :
+-
+   EE0: RO21
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Nord-Est
+   :
+-
+   EE0: RO211
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Nord-Est
+   : Bacau
+-
+   EE0: RO212
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Nord-Est
+   : Botosani
+-
+   EE0: RO213
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Nord-Est
+   : Iasi
+-
+   EE0: RO214
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Nord-Est
+   : Neamt
+-
+   EE0: RO215
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Nord-Est
+   : Suceava
+-
+   EE0: RO216
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Nord-Est
+   : Vaslui
+-
+   EE0: RO22
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Sud-Est
+   :
+-
+   EE0: RO221
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Sud-Est
+   : Braila
+-
+   EE0: RO222
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Sud-Est
+   : Buzau
+-
+   EE0: RO223
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Sud-Est
+   : Constanta
+-
+   EE0: RO224
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Sud-Est
+   : Galati
+-
+   EE0: RO225
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Sud-Est
+   : Tulcea
+-
+   EE0: RO226
+   Estonia: Romania
+   Estonia: Macroregion Two
+   : Sud-Est
+   : Vrancea
+-
+   EE0: RO3
+   Estonia: Romania
+   Estonia: Macroregion Three
+   :
+   :
+-
+   EE0: RO31
+   Estonia: Romania
+   Estonia: Macroregion Three
+   : Sud-Muntenia
+   :
+-
+   EE0: RO311
+   Estonia: Romania
+   Estonia: Macroregion Three
+   : Sud-Muntenia
+   : Arges
+-
+   EE0: RO312
+   Estonia: Romania
+   Estonia: Macroregion Three
+   : Sud-Muntenia
+   : Calarasi
+-
+   EE0: RO313
+   Estonia: Romania
+   Estonia: Macroregion Three
+   : Sud-Muntenia
+   : Dâmbovita
+-
+   EE0: RO314
+   Estonia: Romania
+   Estonia: Macroregion Three
+   : Sud-Muntenia
+   : Giurgiu
+-
+   EE0: RO315
+   Estonia: Romania
+   Estonia: Macroregion Three
+   : Sud-Muntenia
+   : Ialomita
+-
+   EE0: RO316
+   Estonia: Romania
+   Estonia: Macroregion Three
+   : Sud-Muntenia
+   : Prahova
+-
+   EE0: RO317
+   Estonia: Romania
+   Estonia: Macroregion Three
+   : Sud-Muntenia
+   : Teleorman
+-
+   EE0: RO32
+   Estonia: Romania
+   Estonia: Macroregion Three
+   : Bucuresti-Ilfov
+   :
+-
+   EE0: RO321
+   Estonia: Romania
+   Estonia: Macroregion Three
+   : Bucuresti-Ilfov
+   : Bucuresti
+-
+   EE0: RO322
+   Estonia: Romania
+   Estonia: Macroregion Three
+   : Bucuresti-Ilfov
+   : Ilfov
+-
+   EE0: RO4
+   Estonia: Romania
+   Estonia: Macroregion Four
+   :
+   :
+-
+   EE0: RO41
+   Estonia: Romania
+   Estonia: Macroregion Four
+   : Sud-Vest Oltenia
+   :
+-
+   EE0: RO411
+   Estonia: Romania
+   Estonia: Macroregion Four
+   : Sud-Vest Oltenia
+   : Dolj
+-
+   EE0: RO412
+   Estonia: Romania
+   Estonia: Macroregion Four
+   : Sud-Vest Oltenia
+   : Gorj
+-
+   EE0: RO413
+   Estonia: Romania
+   Estonia: Macroregion Four
+   : Sud-Vest Oltenia
+   : Mehedinti
+-
+   EE0: RO414
+   Estonia: Romania
+   Estonia: Macroregion Four
+   : Sud-Vest Oltenia
+   : Olt
+-
+   EE0: RO415
+   Estonia: Romania
+   Estonia: Macroregion Four
+   : Sud-Vest Oltenia
+   : Vâlcea
+-
+   EE0: RO42
+   Estonia: Romania
+   Estonia: Macroregion Four
+   : Vest
+   :
+-
+   EE0: RO421
+   Estonia: Romania
+   Estonia: Macroregion Four
+   : Vest
+   : Arad
+-
+   EE0: RO422
+   Estonia: Romania
+   Estonia: Macroregion Four
+   : Vest
+   : Caras-Severin
+-
+   EE0: RO423
+   Estonia: Romania
+   Estonia: Macroregion Four
+   : Vest
+   : Hunedoara
+-
+   EE0: RO424
+   Estonia: Romania
+   Estonia: Macroregion Four
+   : Vest
+   : Timis
+-
+   EE0: RS1
+   Estonia: Serbia
+   Estonia: Serbia - North
+   :
+   :
+-
+   EE0: RS11
+   Estonia: Serbia
+   Estonia: Serbia - North
+   : Belgrade region
+   :
+-
+   EE0: RS110
+   Estonia: Serbia
+   Estonia: Serbia - North
+   : Belgrade region
+   : Belgrade area
+-
+   EE0: RS12
+   Estonia: Serbia
+   Estonia: Serbia - North
+   : Region of Vojvodina
+   :
+-
+   EE0: RS121
+   Estonia: Serbia
+   Estonia: Serbia - North
+   : Region of Vojvodina
+   : West Backa oblast
+-
+   EE0: RS122
+   Estonia: Serbia
+   Estonia: Serbia - North
+   : Region of Vojvodina
+   : South Banat area
+-
+   EE0: RS123
+   Estonia: Serbia
+   Estonia: Serbia - North
+   : Region of Vojvodina
+   : South Backa oblast
+-
+   EE0: RS124
+   Estonia: Serbia
+   Estonia: Serbia - North
+   : Region of Vojvodina
+   : North Banat area
+-
+   EE0: RS125
+   Estonia: Serbia
+   Estonia: Serbia - North
+   : Region of Vojvodina
+   : North Backa oblast
+-
+   EE0: RS126
+   Estonia: Serbia
+   Estonia: Serbia - North
+   : Region of Vojvodina
+   : Central Banat area
+-
+   EE0: RS127
+   Estonia: Serbia
+   Estonia: Serbia - North
+   : Region of Vojvodina
+   : Srem region
+-
+   EE0: RS2
+   Estonia: Serbia
+   Estonia: Serbia - South
+   :
+   :
+-
+   EE0: RS21
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Sumadija and Western Serbia region
+   :
+-
+   EE0: RS211
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Sumadija and Western Serbia region
+   : Zlatibor area
+-
+   EE0: RS212
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Sumadija and Western Serbia region
+   : Kolubarska oblast
+-
+   EE0: RS213
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Sumadija and Western Serbia region
+   : Macvan region
+-
+   EE0: RS214
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Sumadija and Western Serbia region
+   : Moravian Region
+-
+   EE0: RS215
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Sumadija and Western Serbia region
+   : Maritime Region
+-
+   EE0: RS216
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Sumadija and Western Serbia region
+   : Rasinska oblast
+-
+   EE0: RS217
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Sumadija and Western Serbia region
+   : Raska Region
+-
+   EE0: RS218
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Sumadija and Western Serbia region
+   : Sumadia area
+-
+   EE0: RS22
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Region of Southern and Eastern Serbia
+   :
+-
+   EE0: RS221
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Region of Southern and Eastern Serbia
+   : Bor area
+-
+   EE0: RS222
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Region of Southern and Eastern Serbia
+   : Branicevskaya oblast
+-
+   EE0: RS223
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Region of Southern and Eastern Serbia
+   : Zajecar area
+-
+   EE0: RS224
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Region of Southern and Eastern Serbia
+   : Jablanica area
+-
+   EE0: RS225
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Region of Southern and Eastern Serbia
+   : Nišava region
+-
+   EE0: RS226
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Region of Southern and Eastern Serbia
+   : Pirot Oblast
+-
+   EE0: RS227
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Region of Southern and Eastern Serbia
+   : Danube Region
+-
+   EE0: RS228
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Region of Southern and Eastern Serbia
+   : P?inja Region
+-
+   EE0: RS229
+   Estonia: Serbia
+   Estonia: Serbia - South
+   : Region of Southern and Eastern Serbia
+   : Toplica oblast
+-
+   EE0: SE1
+   Estonia: Sweden
+   Estonia: East Sweden
+   :
+   :
+-
+   EE0: SE11
+   Estonia: Sweden
+   Estonia: East Sweden
+   : Stockholm
+   :
+-
+   EE0: SE110
+   Estonia: Sweden
+   Estonia: East Sweden
+   : Stockholm
+   : Stockholms län
+-
+   EE0: SE12
+   Estonia: Sweden
+   Estonia: East Sweden
+   : Östra Mellansverige
+   :
+-
+   EE0: SE121
+   Estonia: Sweden
+   Estonia: East Sweden
+   : Östra Mellansverige
+   : Uppsala län
+-
+   EE0: SE122
+   Estonia: Sweden
+   Estonia: East Sweden
+   : Östra Mellansverige
+   : Södermanlands län
+-
+   EE0: SE123
+   Estonia: Sweden
+   Estonia: East Sweden
+   : Östra Mellansverige
+   : Östergötlands län
+-
+   EE0: SE124
+   Estonia: Sweden
+   Estonia: East Sweden
+   : Östra Mellansverige
+   : Örebro län
+-
+   EE0: SE125
+   Estonia: Sweden
+   Estonia: East Sweden
+   : Östra Mellansverige
+   : Västmanlands län
+-
+   EE0: SE2
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   :
+   :
+-
+   EE0: SE21
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   : Småland med öarna
+   :
+-
+   EE0: SE211
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   : Småland med öarna
+   : Jönköpings län
+-
+   EE0: SE212
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   : Småland med öarna
+   : Kronobergs län
+-
+   EE0: SE213
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   : Småland med öarna
+   : Kalmar län
+-
+   EE0: SE214
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   : Småland med öarna
+   : Gotlands län
+-
+   EE0: SE22
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   : Sydsverige
+   :
+-
+   EE0: SE221
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   : Sydsverige
+   : Blekinge län
+-
+   EE0: SE224
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   : Sydsverige
+   : Skåne län
+-
+   EE0: SE23
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   : Västsverige
+   :
+-
+   EE0: SE231
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   : Västsverige
+   : Hallands län
+-
+   EE0: SE232
+   Estonia: Sweden
+   Estonia: Southern Sweden
+   : Västsverige
+   : Västra Götalands län
+-
+   EE0: SE3
+   Estonia: Sweden
+   Estonia: North Sweden
+   :
+   :
+-
+   EE0: SE31
+   Estonia: Sweden
+   Estonia: North Sweden
+   : Norra Mellansverige
+   :
+-
+   EE0: SE311
+   Estonia: Sweden
+   Estonia: North Sweden
+   : Norra Mellansverige
+   : Värmlands län
+-
+   EE0: SE312
+   Estonia: Sweden
+   Estonia: North Sweden
+   : Norra Mellansverige
+   : Dalarnas län
+-
+   EE0: SE313
+   Estonia: Sweden
+   Estonia: North Sweden
+   : Norra Mellansverige
+   : Gävleborgs län
+-
+   EE0: SE32
+   Estonia: Sweden
+   Estonia: North Sweden
+   : Mellersta Norrland
+   :
+-
+   EE0: SE321
+   Estonia: Sweden
+   Estonia: North Sweden
+   : Mellersta Norrland
+   : Västernorrlands län
+-
+   EE0: SE322
+   Estonia: Sweden
+   Estonia: North Sweden
+   : Mellersta Norrland
+   : Jämtlands län
+-
+   EE0: SE33
+   Estonia: Sweden
+   Estonia: North Sweden
+   : Övre Norrland
+   :
+-
+   EE0: SE331
+   Estonia: Sweden
+   Estonia: North Sweden
+   : Övre Norrland
+   : Västerbottens län
+-
+   EE0: SE332
+   Estonia: Sweden
+   Estonia: North Sweden
+   : Övre Norrland
+   : Norrbottens län
+-
+   EE0: SI0
+   Estonia: Slovenia
+   Estonia: Slovenia
+   :
+   :
+-
+   EE0: SI03
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Vzhodna Slovenija
+   :
+-
+   EE0: SI031
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Vzhodna Slovenija
+   : Pomurska
+-
+   EE0: SI032
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Vzhodna Slovenija
+   : Podravska
+-
+   EE0: SI033
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Vzhodna Slovenija
+   : Koroška
+-
+   EE0: SI034
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Vzhodna Slovenija
+   : Savinjska
+-
+   EE0: SI035
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Vzhodna Slovenija
+   : Zasavska
+-
+   EE0: SI036
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Vzhodna Slovenija
+   : Posavska
+-
+   EE0: SI037
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Vzhodna Slovenija
+   : Jugovzhodna Slovenija
+-
+   EE0: SI038
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Vzhodna Slovenija
+   : Primorsko-notranjska
+-
+   EE0: SI04
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Zahodna Slovenija
+   :
+-
+   EE0: SI041
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Zahodna Slovenija
+   : Osrednjeslovenska
+-
+   EE0: SI042
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Zahodna Slovenija
+   : Gorenjska
+-
+   EE0: SI043
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Zahodna Slovenija
+   : Goriška
+-
+   EE0: SI044
+   Estonia: Slovenia
+   Estonia: Slovenia
+   : Zahodna Slovenija
+   : Obalno-kraška
+-
+   EE0: SK0
+   Estonia: Slovakia
+   Estonia: Slovakia
+   :
+   :
+-
+   EE0: SK01
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Bratislavský kraj
+   :
+-
+   EE0: SK010
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Bratislavský kraj
+   : Bratislavský kraj
+-
+   EE0: SK02
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Západné Slovensko
+   :
+-
+   EE0: SK021
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Západné Slovensko
+   : Trnavský kraj
+-
+   EE0: SK022
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Západné Slovensko
+   : Tren?iansky kraj
+-
+   EE0: SK023
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Západné Slovensko
+   : Nitriansky kraj
+-
+   EE0: SK03
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Stredné Slovensko
+   :
+-
+   EE0: SK031
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Stredné Slovensko
+   : Žilinský kraj
+-
+   EE0: SK032
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Stredné Slovensko
+   : Banskobystrický kraj
+-
+   EE0: SK04
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Východné Slovensko
+   :
+-
+   EE0: SK041
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Východné Slovensko
+   : Prešovský kraj
+-
+   EE0: SK042
+   Estonia: Slovakia
+   Estonia: Slovakia
+   : Východné Slovensko
+   : Košický kraj
+-
+   EE0: UKC
+   Estonia: United Kingdom
+   Estonia: North East (England)
+   :
+   :
+-
+   EE0: UKC1
+   Estonia: United Kingdom
+   Estonia: North East (England)
+   : Tees Valley and Durham
+   :
+-
+   EE0: UKC11
+   Estonia: United Kingdom
+   Estonia: North East (England)
+   : Tees Valley and Durham
+   : Hartlepool and Stockton-on-Tees
+-
+   EE0: UKC12
+   Estonia: United Kingdom
+   Estonia: North East (England)
+   : Tees Valley and Durham
+   : South Teesside
+-
+   EE0: UKC13
+   Estonia: United Kingdom
+   Estonia: North East (England)
+   : Tees Valley and Durham
+   : Darlington
+-
+   EE0: UKC14
+   Estonia: United Kingdom
+   Estonia: North East (England)
+   : Tees Valley and Durham
+   : Durham CC
+-
+   EE0: UKC2
+   Estonia: United Kingdom
+   Estonia: North East (England)
+   : Northumberland and Tyne and Wear
+   :
+-
+   EE0: UKC21
+   Estonia: United Kingdom
+   Estonia: North East (England)
+   : Northumberland and Tyne and Wear
+   : Northumberland
+-
+   EE0: UKC22
+   Estonia: United Kingdom
+   Estonia: North East (England)
+   : Northumberland and Tyne and Wear
+   : Tyneside
+-
+   EE0: UKC23
+   Estonia: United Kingdom
+   Estonia: North East (England)
+   : Northumberland and Tyne and Wear
+   : Sunderland
+-
+   EE0: UKD
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   :
+   :
+-
+   EE0: UKD1
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Cumbria
+   :
+-
+   EE0: UKD11
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Cumbria
+   : West Cumbria
+-
+   EE0: UKD12
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Cumbria
+   : East Cumbria
+-
+   EE0: UKD3
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Greater Manchester
+   :
+-
+   EE0: UKD33
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Greater Manchester
+   : Manchester
+-
+   EE0: UKD34
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Greater Manchester
+   : Greater Manchester South West
+-
+   EE0: UKD35
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Greater Manchester
+   : Greater Manchester South East
+-
+   EE0: UKD36
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Greater Manchester
+   : Greater Manchester North West
+-
+   EE0: UKD37
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Greater Manchester
+   : Greater Manchester North East
+-
+   EE0: UKD4
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Lancashire
+   :
+-
+   EE0: UKD41
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Lancashire
+   : Blackburn with Darwen
+-
+   EE0: UKD42
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Lancashire
+   : Blackpool
+-
+   EE0: UKD44
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Lancashire
+   : Lancaster and Wyre
+-
+   EE0: UKD45
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Lancashire
+   : Mid Lancashire
+-
+   EE0: UKD46
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Lancashire
+   : East Lancashire
+-
+   EE0: UKD47
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Lancashire
+   : Chorley and West Lancashire
+-
+   EE0: UKD6
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Cheshire
+   :
+-
+   EE0: UKD61
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Cheshire
+   : Warrington
+-
+   EE0: UKD62
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Cheshire
+   : Cheshire East
+-
+   EE0: UKD63
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Cheshire
+   : Cheshire West and Chester
+-
+   EE0: UKD7
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Merseyside
+   :
+-
+   EE0: UKD71
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Merseyside
+   : East Merseyside
+-
+   EE0: UKD72
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Merseyside
+   : Liverpool
+-
+   EE0: UKD73
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Merseyside
+   : Sefton
+-
+   EE0: UKD74
+   Estonia: United Kingdom
+   Estonia: North West (England)
+   : Merseyside
+   : Wirral
+-
+   EE0: UKE
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   :
+   :
+-
+   EE0: UKE1
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : East Yorkshire and Northern Lincolnshire
+   :
+-
+   EE0: UKE11
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : East Yorkshire and Northern Lincolnshire
+   : Kingston upon Hull, City of
+-
+   EE0: UKE12
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : East Yorkshire and Northern Lincolnshire
+   : East Riding of Yorkshire
+-
+   EE0: UKE13
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : East Yorkshire and Northern Lincolnshire
+   : North and North East Lincolnshire
+-
+   EE0: UKE2
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : North Yorkshire
+   :
+-
+   EE0: UKE21
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : North Yorkshire
+   : York
+-
+   EE0: UKE22
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : North Yorkshire
+   : North Yorkshire CC
+-
+   EE0: UKE3
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : South Yorkshire
+   :
+-
+   EE0: UKE31
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : South Yorkshire
+   : Barnsley, Doncaster and Rotherham
+-
+   EE0: UKE32
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : South Yorkshire
+   : Sheffield
+-
+   EE0: UKE4
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : West Yorkshire
+   :
+-
+   EE0: UKE41
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : West Yorkshire
+   : Bradford
+-
+   EE0: UKE42
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : West Yorkshire
+   : Leeds
+-
+   EE0: UKE44
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : West Yorkshire
+   : Calderdale and Kirklees
+-
+   EE0: UKE45
+   Estonia: United Kingdom
+   Estonia: Yorkshire and the Humber
+   : West Yorkshire
+   : Wakefield
+-
+   EE0: UKF
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   :
+   :
+-
+   EE0: UKF1
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Derbyshire and Nottinghamshire
+   :
+-
+   EE0: UKF11
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Derbyshire and Nottinghamshire
+   : Derby
+-
+   EE0: UKF12
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Derbyshire and Nottinghamshire
+   : East Derbyshire
+-
+   EE0: UKF13
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Derbyshire and Nottinghamshire
+   : South and West Derbyshire
+-
+   EE0: UKF14
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Derbyshire and Nottinghamshire
+   : Nottingham
+-
+   EE0: UKF15
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Derbyshire and Nottinghamshire
+   : North Nottinghamshire
+-
+   EE0: UKF16
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Derbyshire and Nottinghamshire
+   : South Nottinghamshire
+-
+   EE0: UKF2
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Leicestershire, Rutland and Northamptonshire
+   :
+-
+   EE0: UKF21
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Leicestershire, Rutland and Northamptonshire
+   : Leicester
+-
+   EE0: UKF22
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Leicestershire, Rutland and Northamptonshire
+   : Leicestershire CC and Rutland
+-
+   EE0: UKF24
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Leicestershire, Rutland and Northamptonshire
+   : West Northamptonshire
+-
+   EE0: UKF25
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Leicestershire, Rutland and Northamptonshire
+   : North Northamptonshire
+-
+   EE0: UKF3
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Lincolnshire
+   :
+-
+   EE0: UKF30
+   Estonia: United Kingdom
+   Estonia: East Midlands (England)
+   : Lincolnshire
+   : Lincolnshire
+-
+   EE0: UKG
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   :
+   :
+-
+   EE0: UKG1
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : Herefordshire, Worcestershire and Warwickshire
+   :
+-
+   EE0: UKG11
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : Herefordshire, Worcestershire and Warwickshire
+   : Herefordshire, County of
+-
+   EE0: UKG12
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : Herefordshire, Worcestershire and Warwickshire
+   : Worcestershire
+-
+   EE0: UKG13
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : Herefordshire, Worcestershire and Warwickshire
+   : Warwickshire
+-
+   EE0: UKG2
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : Shropshire and Staffordshire
+   :
+-
+   EE0: UKG21
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : Shropshire and Staffordshire
+   : Telford and Wrekin
+-
+   EE0: UKG22
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : Shropshire and Staffordshire
+   : Shropshire CC
+-
+   EE0: UKG23
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : Shropshire and Staffordshire
+   : Stoke-on-Trent
+-
+   EE0: UKG24
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : Shropshire and Staffordshire
+   : Staffordshire CC
+-
+   EE0: UKG3
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : West Midlands
+   :
+-
+   EE0: UKG31
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : West Midlands
+   : Birmingham
+-
+   EE0: UKG32
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : West Midlands
+   : Solihull
+-
+   EE0: UKG33
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : West Midlands
+   : Coventry
+-
+   EE0: UKG36
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : West Midlands
+   : Dudley
+-
+   EE0: UKG37
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : West Midlands
+   : Sandwell
+-
+   EE0: UKG38
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : West Midlands
+   : Walsall
+-
+   EE0: UKG39
+   Estonia: United Kingdom
+   Estonia: West Midlands (England)
+   : West Midlands
+   : Wolverhampton
+-
+   EE0: UKH
+   Estonia: United Kingdom
+   Estonia: East of England
+   :
+   :
+-
+   EE0: UKH1
+   Estonia: United Kingdom
+   Estonia: East of England
+   : East Anglia
+   :
+-
+   EE0: UKH11
+   Estonia: United Kingdom
+   Estonia: East of England
+   : East Anglia
+   : Peterborough
+-
+   EE0: UKH12
+   Estonia: United Kingdom
+   Estonia: East of England
+   : East Anglia
+   : Cambridgeshire CC
+-
+   EE0: UKH14
+   Estonia: United Kingdom
+   Estonia: East of England
+   : East Anglia
+   : Suffolk
+-
+   EE0: UKH15
+   Estonia: United Kingdom
+   Estonia: East of England
+   : East Anglia
+   : Norwich and East Norfolk
+-
+   EE0: UKH16
+   Estonia: United Kingdom
+   Estonia: East of England
+   : East Anglia
+   : North and West Norfolk
+-
+   EE0: UKH17
+   Estonia: United Kingdom
+   Estonia: East of England
+   : East Anglia
+   : Breckland and South Norfolk
+-
+   EE0: UKH2
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Bedfordshire and Hertfordshire
+   :
+-
+   EE0: UKH21
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Bedfordshire and Hertfordshire
+   : Luton
+-
+   EE0: UKH23
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Bedfordshire and Hertfordshire
+   : Hertfordshire
+-
+   EE0: UKH24
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Bedfordshire and Hertfordshire
+   : Bedford
+-
+   EE0: UKH25
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Bedfordshire and Hertfordshire
+   : Central Bedfordshire
+-
+   EE0: UKH3
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Essex
+   :
+-
+   EE0: UKH31
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Essex
+   : Southend-on-Sea
+-
+   EE0: UKH32
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Essex
+   : Thurrock
+-
+   EE0: UKH34
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Essex
+   : Essex Haven Gateway
+-
+   EE0: UKH35
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Essex
+   : West Essex
+-
+   EE0: UKH36
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Essex
+   : Heart of Essex
+-
+   EE0: UKH37
+   Estonia: United Kingdom
+   Estonia: East of England
+   : Essex
+   : Essex Thames Gateway
+-
+   EE0: UKI
+   Estonia: United Kingdom
+   Estonia: London
+   :
+   :
+-
+   EE0: UKI3
+   Estonia: United Kingdom
+   Estonia: London
+   : Inner London — West
+   :
+-
+   EE0: UKI31
+   Estonia: United Kingdom
+   Estonia: London
+   : Inner London — West
+   : Camden and City of London
+-
+   EE0: UKI32
+   Estonia: United Kingdom
+   Estonia: London
+   : Inner London — West
+   : Westminster
+-
+   EE0: UKI33
+   Estonia: United Kingdom
+   Estonia: London
+   : Inner London — West
+   : Kensington & Chelsea and Hammersmith & Fulham
+-
+   EE0: UKI34
+   Estonia: United Kingdom
+   Estonia: London
+   : Inner London — West
+   : Wandsworth
+-
+   EE0: UKI4
+   Estonia: United Kingdom
+   Estonia: London
+   : Inner London — East
+   :
+-
+   EE0: UKI41
+   Estonia: United Kingdom
+   Estonia: London
+   : Inner London — East
+   : Hackney and Newham
+-
+   EE0: UKI42
+   Estonia: United Kingdom
+   Estonia: London
+   : Inner London — East
+   : Tower Hamlets
+-
+   EE0: UKI43
+   Estonia: United Kingdom
+   Estonia: London
+   : Inner London — East
+   : Haringey and Islington
+-
+   EE0: UKI44
+   Estonia: United Kingdom
+   Estonia: London
+   : Inner London — East
+   : Lewisham and Southwark
+-
+   EE0: UKI45
+   Estonia: United Kingdom
+   Estonia: London
+   : Inner London — East
+   : Lambeth
+-
+   EE0: UKI5
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — East and North East
+   :
+-
+   EE0: UKI51
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — East and North East
+   : Bexley and Greenwich
+-
+   EE0: UKI52
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — East and North East
+   : Barking & Dagenham and Havering
+-
+   EE0: UKI53
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — East and North East
+   : Redbridge and Waltham Forest
+-
+   EE0: UKI54
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — East and North East
+   : Enfield
+-
+   EE0: UKI6
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — South
+   :
+-
+   EE0: UKI61
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — South
+   : Bromley
+-
+   EE0: UKI62
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — South
+   : Croydon
+-
+   EE0: UKI63
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — South
+   : Merton, Kingston upon Thames and Sutton
+-
+   EE0: UKI7
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — West and North West
+   :
+-
+   EE0: UKI71
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — West and North West
+   : Barnet
+-
+   EE0: UKI72
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — West and North West
+   : Brent
+-
+   EE0: UKI73
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — West and North West
+   : Ealing
+-
+   EE0: UKI74
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — West and North West
+   : Harrow and Hillingdon
+-
+   EE0: UKI75
+   Estonia: United Kingdom
+   Estonia: London
+   : Outer London — West and North West
+   : Hounslow and Richmond upon Thames
+-
+   EE0: UKJ
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   :
+   :
+-
+   EE0: UKJ1
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Berkshire, Buckinghamshire and Oxfordshire
+   :
+-
+   EE0: UKJ11
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Berkshire, Buckinghamshire and Oxfordshire
+   : Berkshire
+-
+   EE0: UKJ12
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Berkshire, Buckinghamshire and Oxfordshire
+   : Milton Keynes
+-
+   EE0: UKJ13
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Berkshire, Buckinghamshire and Oxfordshire
+   : Buckinghamshire CC
+-
+   EE0: UKJ14
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Berkshire, Buckinghamshire and Oxfordshire
+   : Oxfordshire
+-
+   EE0: UKJ2
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Surrey, East and West Sussex
+   :
+-
+   EE0: UKJ21
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Surrey, East and West Sussex
+   : Brighton and Hove
+-
+   EE0: UKJ22
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Surrey, East and West Sussex
+   : East Sussex CC
+-
+   EE0: UKJ25
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Surrey, East and West Sussex
+   : West Surrey
+-
+   EE0: UKJ26
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Surrey, East and West Sussex
+   : East Surrey
+-
+   EE0: UKJ27
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Surrey, East and West Sussex
+   : West Sussex (South West)
+-
+   EE0: UKJ28
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Surrey, East and West Sussex
+   : West Sussex (North East)
+-
+   EE0: UKJ3
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Hampshire and Isle of Wight
+   :
+-
+   EE0: UKJ31
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Hampshire and Isle of Wight
+   : Portsmouth
+-
+   EE0: UKJ32
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Hampshire and Isle of Wight
+   : Southampton
+-
+   EE0: UKJ34
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Hampshire and Isle of Wight
+   : Isle of Wight
+-
+   EE0: UKJ35
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Hampshire and Isle of Wight
+   : South Hampshire
+-
+   EE0: UKJ36
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Hampshire and Isle of Wight
+   : Central Hampshire
+-
+   EE0: UKJ37
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Hampshire and Isle of Wight
+   : North Hampshire
+-
+   EE0: UKJ4
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Kent
+   :
+-
+   EE0: UKJ41
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Kent
+   : Medway
+-
+   EE0: UKJ43
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Kent
+   : Kent Thames Gateway
+-
+   EE0: UKJ44
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Kent
+   : East Kent
+-
+   EE0: UKJ45
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Kent
+   : Mid Kent
+-
+   EE0: UKJ46
+   Estonia: United Kingdom
+   Estonia: South East (England)
+   : Kent
+   : West Kent
+-
+   EE0: UKK
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   :
+   :
+-
+   EE0: UKK1
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Gloucestershire, Wiltshire and Bristol/Bath area
+   :
+-
+   EE0: UKK11
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Gloucestershire, Wiltshire and Bristol/Bath area
+   : Bristol, City of
+-
+   EE0: UKK12
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Gloucestershire, Wiltshire and Bristol/Bath area
+   : Bath and North East Somerset, North Somerset and South Gloucestershire
+-
+   EE0: UKK13
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Gloucestershire, Wiltshire and Bristol/Bath area
+   : Gloucestershire
+-
+   EE0: UKK14
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Gloucestershire, Wiltshire and Bristol/Bath area
+   : Swindon
+-
+   EE0: UKK15
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Gloucestershire, Wiltshire and Bristol/Bath area
+   : Wiltshire CC
+-
+   EE0: UKK2
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Dorset and Somerset
+   :
+-
+   EE0: UKK23
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Dorset and Somerset
+   : Somerset
+-
+   EE0: UKK24
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Dorset and Somerset
+   : Bournemouth, Christchurch and Poole
+-
+   EE0: UKK25
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Dorset and Somerset
+   : Dorset
+-
+   EE0: UKK3
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Cornwall and Isles of Scilly
+   :
+-
+   EE0: UKK30
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Cornwall and Isles of Scilly
+   : Cornwall and Isles of Scilly
+-
+   EE0: UKK4
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Devon
+   :
+-
+   EE0: UKK41
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Devon
+   : Plymouth
+-
+   EE0: UKK42
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Devon
+   : Torbay
+-
+   EE0: UKK43
+   Estonia: United Kingdom
+   Estonia: South West (England)
+   : Devon
+   : Devon CC
+-
+   EE0: UKL
+   Estonia: United Kingdom
+   Estonia: Wales
+   :
+   :
+-
+   EE0: UKL1
+   Estonia: United Kingdom
+   Estonia: Wales
+   : West Wales and The Valleys
+   :
+-
+   EE0: UKL11
+   Estonia: United Kingdom
+   Estonia: Wales
+   : West Wales and The Valleys
+   : Isle of Anglesey
+-
+   EE0: UKL12
+   Estonia: United Kingdom
+   Estonia: Wales
+   : West Wales and The Valleys
+   : Gwynedd
+-
+   EE0: UKL13
+   Estonia: United Kingdom
+   Estonia: Wales
+   : West Wales and The Valleys
+   : Conwy and Denbighshire
+-
+   EE0: UKL14
+   Estonia: United Kingdom
+   Estonia: Wales
+   : West Wales and The Valleys
+   : South West Wales
+-
+   EE0: UKL15
+   Estonia: United Kingdom
+   Estonia: Wales
+   : West Wales and The Valleys
+   : Central Valleys
+-
+   EE0: UKL16
+   Estonia: United Kingdom
+   Estonia: Wales
+   : West Wales and The Valleys
+   : Gwent Valleys
+-
+   EE0: UKL17
+   Estonia: United Kingdom
+   Estonia: Wales
+   : West Wales and The Valleys
+   : Bridgend and Neath Port Talbot
+-
+   EE0: UKL18
+   Estonia: United Kingdom
+   Estonia: Wales
+   : West Wales and The Valleys
+   : Swansea
+-
+   EE0: UKL2
+   Estonia: United Kingdom
+   Estonia: Wales
+   : East Wales
+   :
+-
+   EE0: UKL21
+   Estonia: United Kingdom
+   Estonia: Wales
+   : East Wales
+   : Monmouthshire and Newport
+-
+   EE0: UKL22
+   Estonia: United Kingdom
+   Estonia: Wales
+   : East Wales
+   : Cardiff and Vale of Glamorgan
+-
+   EE0: UKL23
+   Estonia: United Kingdom
+   Estonia: Wales
+   : East Wales
+   : Flintshire and Wrexham
+-
+   EE0: UKL24
+   Estonia: United Kingdom
+   Estonia: Wales
+   : East Wales
+   : Powys
+-
+   EE0: UKM
+   Estonia: United Kingdom
+   Estonia: Scotland
+   :
+   :
+-
+   EE0: UKM5
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : North Eastern Scotland
+   :
+-
+   EE0: UKM50
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : North Eastern Scotland
+   : Aberdeen City and Aberdeenshire
+-
+   EE0: UKM6
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Highlands and Islands
+   :
+-
+   EE0: UKM61
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Highlands and Islands
+   : Caithness & Sutherland and Ross & Cromarty
+-
+   EE0: UKM62
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Highlands and Islands
+   : Inverness & Nairn and Moray, Badenoch & Strathspey
+-
+   EE0: UKM63
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Highlands and Islands
+   : Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute
+-
+   EE0: UKM64
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Highlands and Islands
+   : Na h-Eileanan Siar (Western Isles)
+-
+   EE0: UKM65
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Highlands and Islands
+   : Orkney Islands
+-
+   EE0: UKM66
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Highlands and Islands
+   : Shetland Islands
+-
+   EE0: UKM7
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Eastern Scotland
+   :
+-
+   EE0: UKM71
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Eastern Scotland
+   : Angus and Dundee City
+-
+   EE0: UKM72
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Eastern Scotland
+   : Clackmannanshire and Fife
+-
+   EE0: UKM73
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Eastern Scotland
+   : East Lothian and Midlothian
+-
+   EE0: UKM75
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Eastern Scotland
+   : Edinburgh, City of
+-
+   EE0: UKM76
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Eastern Scotland
+   : Falkirk
+-
+   EE0: UKM77
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Eastern Scotland
+   : Perth & Kinross and Stirling
+-
+   EE0: UKM78
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Eastern Scotland
+   : West Lothian
+-
+   EE0: UKM8
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : West Central Scotland
+   :
+-
+   EE0: UKM81
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : West Central Scotland
+   : East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond
+-
+   EE0: UKM82
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : West Central Scotland
+   : Glasgow City
+-
+   EE0: UKM83
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : West Central Scotland
+   : Inverclyde, East Renfrewshire and Renfrewshire
+-
+   EE0: UKM84
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : West Central Scotland
+   : North Lanarkshire
+-
+   EE0: UKM9
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Southern Scotland
+   :
+-
+   EE0: UKM91
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Southern Scotland
+   : Scottish Borders
+-
+   EE0: UKM92
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Southern Scotland
+   : Dumfries & Galloway
+-
+   EE0: UKM93
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Southern Scotland
+   : East Ayrshire and North Ayrshire mainland
+-
+   EE0: UKM94
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Southern Scotland
+   : South Ayrshire
+-
+   EE0: UKM95
+   Estonia: United Kingdom
+   Estonia: Scotland
+   : Southern Scotland
+   : South Lanarkshire
+-
+   EE0: UKN
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   :
+   :
+-
+   EE0: UKN0
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   :
+-
+   EE0: UKN06
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   : Belfast
+-
+   EE0: UKN07
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   : Armagh City, Banbridge and Craigavon
+-
+   EE0: UKN08
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   : Newry, Mourne and Down
+-
+   EE0: UKN09
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   : Ards and North Down
+-
+   EE0: UKN0A
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   : Derry City and Strabane
+-
+   EE0: UKN0B
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   : Mid Ulster
+-
+   EE0: UKN0C
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   : Causeway Coast and Glens
+-
+   EE0: UKN0D
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   : Antrim and Newtownabbey
+-
+   EE0: UKN0E
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   : Lisburn and Castlereagh
+-
+   EE0: UKN0F
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   : Mid and East Antrim
+-
+   EE0: UKN0G
+   Estonia: United Kingdom
+   Estonia: Northern Ireland
+   : Northern Ireland
+   : Fermanagh and Omagh
