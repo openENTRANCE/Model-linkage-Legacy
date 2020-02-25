@@ -27,7 +27,7 @@ As brief part of the **dictionary of countries** is shown as follows:
 ## NUTS Nomenclature
 
 This dictionary has 4 levels: Country, NUTS1, NUTS2, and NUTS3.
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/RegionsEuropa_Dictionary.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Region/NUTS_Dictionary.yml).
 
 As brief part of the **NUTS Nomenclature** is shown as follows:
 | Code  | Country | NUTS level 1   | NUTS level 2     | NUTS level 3             |
