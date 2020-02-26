@@ -43,7 +43,7 @@ This dictionary of model can be linked through this exchange format. Given the i
 
 > openTEPES|1.6.12
 
-More details can be found [here](Model/README.md).
+More details about the dictionary can be found [here](Model/README.md).
 
 
 ## 2. Scenario
@@ -57,7 +57,7 @@ Thus, stochastic/random scenario names can be used. For example, possible forms 
 Where the data given belong to the random scenario **Scen001** of the analysis/case scenario **Distributed PV all over Europe**.
 
 
-More details can be found [here](Scenario/README.md).
+More details about the dictionaries can be found [here](Scenario/README.md).
 
 
 ## 3. Region
@@ -105,7 +105,7 @@ For the geographical links (such as electrical circuits), it is important to con
 
 
 
-More details can be found [here](Region/README.md).
+More details about the dictionaries can be found [here](Region/README.md).
 
 ## 4. Variable
 It defines the nature/features of the variable whose value is provided. For that purpose, we propose to set up the **Variable** by specifying values related to the following data types and combining these, in the order provided next, using pipes (|).
@@ -164,13 +164,13 @@ For example:
 
 >	Germany|DE21H|Node001 -->
 
-More details can be found [here](Variable/README.md).
+More details about the dictionaries can be found [here](Variable/README.md).
 
 
 ## 5. Unit
 This dictionary refers to the physical, economic, or other type of unit in which the value provided for the variable is to be measured in the openENTRANCE project.
 
-More details can be found [here](Unit/README.md).
+More details about the dictionary can be found [here](Unit/README.md).
 
 
 
@@ -187,4 +187,4 @@ It defines the hourly value of a certain variable
 
 The possibility of defining a smaller time period, e.g., quarter of an hour, five minutes, is just a question of extending the time domain to minutes.
 
-More details can be found [here](Subannual/README.md).
+More details about the dictionaries can be found [here](Subannual/README.md).
