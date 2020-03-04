@@ -24,7 +24,7 @@ As brief part of the **Dictionary of NonEnergy** is shown as follows:
 | Livestock     |
 | Forest        |
 | Pasture       |
-| Built\-upArea |
+| Built\-up Area|
 | OtherLand     |
 
 
@@ -35,9 +35,9 @@ All information to be considered should be added [here](https://github.com/openE
 As brief part of the **Dictionary of Energy** is shown as follows:
 | Energy          |
 |-----------------|
-| FinalEnergy     |
-| PrimaryEnergy   |
-| SecondaryEnergy |
+| Final Energy    |
+| Primary Energy  |
+| Secondary Energy|
 
 
 ## Dictionary of TypeOfSecondaryEnergy
@@ -45,11 +45,11 @@ As brief part of the **Dictionary of Energy** is shown as follows:
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/TypeOfSecondaryEnergy.yml).
 
 As brief part of the **Dictionary of TypeOfSecondaryEnergy**:
-| TypeOfSecondaryEnergy |
-|-----------------------|
-| Electricity           |
-| Heat                  |
-| Transport             |
+| Type Of Secondary Energy|
+|-------------------------|
+| Electricity             |
+| Heat                    |
+| Transport               |
 
 
 ## Dictionary of TypeOfFinalEnergy
@@ -57,14 +57,14 @@ As brief part of the **Dictionary of TypeOfSecondaryEnergy**:
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/TypeOfFinalEnergy.yml).
 
 As brief part of the **Dictionary of TypeOfFinalEnergy**:
-| TypeOfFinalEnergy       |
+| Type Of Final Energy    |
 |-------------------------|
 | Commercial              |
 | Industry                |
 | Other                   |
 | Residential             |
-| TransportationFreight   |
-| TransportationPassenger |
+| Transportation Freight  |
+| Transportation Passenger|
 
 
 ## Dictionary of Technology Level 1 and 2
