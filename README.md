@@ -135,7 +135,7 @@ We set here some guidelines to ensure consistency across the variable names to b
 Some examples of variables to be considered follow:
 
 >	 PowerCapacity|GasTurbine|CombinedCycle|Arcos3
-
+<!--
 It refers to the capacity of a generating unit.
 This example introduces 1) The association of **Arcos3** (a Spanish combined cycle gas turbine - technology level 3) to the technology level 1 (Gas Turbine) and technology level 2 (combined cycle), and, 2) To define its power capacity (e.g., 480 MW).
 The order defined above:
@@ -164,7 +164,7 @@ For example:
 
 >	Germany|DE21H|Node001 -->
 
-More details about the dictionaries can be found [here](Variable/README.md).
+More details about the dictionaries can be found [here](Variable/README.md). -->
 
 
 ## 5. Unit
