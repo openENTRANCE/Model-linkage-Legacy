@@ -92,9 +92,9 @@ As brief part of the **Dictionary of Technology 3**:
 | PowerGenerator1    |
 | PowerGenerator2    |
 
-## Dictionary of Variable
+## Definition of Variable
 
-All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/Variable_Dictionary.yml).
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/Variable_Definition.yml).
 
 As brief part of the **Dictionary of Variable**:
 | Variable                                                                    | Definition                                                                                                                            |
@@ -111,3 +111,8 @@ As brief part of the **Dictionary of Variable**:
 
 
 Note that **Definition** in blank next to be defined.
+
+
+## Dictionary of Variable
+
+All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/Variable_Dictionary.yml).
