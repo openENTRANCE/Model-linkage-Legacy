@@ -1,0 +1,765 @@
+-
+   Variable: AdditionalTradeCapacity
+   Definition:
+-
+   Variable: AgriculturalDemand
+   Definition:
+-
+   Variable: AgriculturalProduction
+   Definition: Total production of food  non-food and feed products (crops and livestock) and bioenergy crops (1st & 2nd generation)
+-
+   Variable: AirCondition
+   Definition: Share of air conditionning in ActivePowerDemand
+-
+   Variable: AnnualEmissionLimit.AnnualExogenousEmission.CarbonBudget
+   Definition: Carbon emission budget (to be considered by emission market constraints)
+-
+   Variable: AnnualSectoralEmissionLimit
+   Definition:
+-
+   Variable: Availability
+   Definition: Availability profile (e.g. maintenance)
+-
+   Variable: BaseYearProduction
+   Definition:
+-
+   Variable: BioPrices
+   Definition: Bio price
+-
+   Variable: CanBuildTechnology
+   Definition:
+-
+   Variable: CanFuelBeProducedByModeByTech
+   Definition:
+-
+   Variable: CanFuelBeProducedByTech
+   Definition:
+-
+   Variable: CanFuelBeProducedInTimeslice
+   Definition:
+-
+   Variable: CanFuelBeUsedByModeByTech
+   Definition:
+-
+   Variable: CanFuelBeUsedByTech
+   Definition:
+-
+   Variable: CanFuelBeUsedInTimeslice
+   Definition:
+-
+   Variable: CapacityBetweenRegions
+   Definition: Net Transmission capacity from one region to another
+-
+   Variable: CapacityFactor
+   Definition:
+-
+   Variable: CapacityToActivityUnit
+   Definition:
+-
+   Variable: ChargingEfficiency
+   Definition: Thermal storage charging efficiency
+-
+   Variable: Chargingofprosumeri'sbattery
+   Definition:
+-
+   Variable: ChargingProfile
+   Definition: SOC min and SOC max profiles for every technology combination
+-
+   Variable: Condensingmodeefficiency
+   Definition: Efficiency of CHP unit
+-
+   Variable: ConstTerm
+   Definition: Fixed cost
+-
+   Variable: Consumption
+   Definition: Consumption of any kind
+-
+   Variable: ConventionalPumpedHydroTurbineEfficiency
+   Definition: Equivalent pumped hydro turbine conversion factor
+-
+   Variable: ConventionalPumpEfficiency
+   Definition: Equivalent pumped hydro pump conversion factor
+-
+   Variable: ConventionalTurbineEfficiency
+   Definition: Equivalent conventional turbine conversion factor
+-
+   Variable: Coefficient Of Performance
+   Definition: COP profile for heat pump unit
+-
+   Variable: Curtailment
+   Definition: Curtailed power
+-
+   Variable: CurtailmentCostFactor
+   Definition:
+-
+   Variable: DeltaRampDown
+   Definition: Maximum ramping down
+-
+   Variable: DeltaRampUp
+   Definition: Maximum ramping up
+-
+   Variable: Demand
+   Definition: Demand of any kind
+-
+   Variable: DepreciationMethod
+   Definition:
+-
+   Variable: DischargeFromReservoir
+   Definition:
+-
+   Variable: DischargingEfficiency
+   Definition: Thermal storage discharging efficiency
+-
+   Variable: DischargingOfProsumerBattery
+   Definition:
+-
+   Variable: Efficiency
+   Definition: Efficiency of a plant
+-
+   Variable: ElecHeating
+   Definition: Share of electric heating in ActivePowerDemand
+-
+   Variable: ElectricBackupCapacityRatio
+   Definition: Electric backup unit capacity ratio (power-specific)
+-
+   Variable: ElectricBackupEfficiency
+   Definition: Efficiency of electric backup unit (e.g. heat pump -> COP  direct resistive heating)
+-
+   Variable: ElectricDrivingShare
+   Definition: The share of electric driving for hybrid technology combinations  (PHEV, REEV, OH truck)
+-
+   Variable: ElectricityPrice
+   Definition: Dual variable of market clearing constraints
+-
+   Variable: ElectricVehicle
+   Definition: Share of electric vehicles in ActivePowerDemand
+-
+   Variable: EmissionActivityRatio
+   Definition:
+-
+   Variable: EmissionBC
+   Definition:
+-
+   Variable: EmissionCF4
+   Definition:
+-
+   Variable: EmissionCH4
+   Definition:
+-
+   Variable: EmissionCO
+   Definition:
+-
+   Variable: EmissionCO2
+   Definition:
+-
+   Variable: EmissionContentPerFuel
+   Definition:
+-
+   Variable: EmissionF-Gases
+   Definition:
+-
+   Variable: EmissionHFC
+   Definition:
+-
+   Variable: EmissionKyotoGases
+   Definition:
+-
+   Variable: EmissionN2O
+   Definition:
+-
+   Variable: EmissionNH3
+   Definition:
+-
+   Variable: EmissionNOx
+   Definition:
+-
+   Variable: EmissionsPenalty
+   Definition:
+-
+   Variable: EmissionsPenaltyTagTechnology
+   Definition:
+-
+   Variable: EmissionsPetrol
+   Definition:
+-
+   Variable: EmissionSulfur
+   Definition:
+-
+   Variable: EmissionVolatileOrganicCompound
+   Definition: Volatile organic compound
+-
+   Variable: Employment
+   Definition: Number of employed inhabitants (based on ILO classification) (please indicate in comments if this includes informal labor or not)
+-
+   Variable: EnergyNotSuppliedPrice
+   Definition: Value of lost load
+-
+   Variable: FinalEnergy
+   Definition: Total final energy consumption of all fuels by all end-use sectors  excluding transmission/distribution losses
+-
+   Variable: FixedCost.Investment.CapitalCost
+   Definition: Overnight fixed cost
+-
+   Variable: FlexibilityPowerDemand
+   Definition: Percent change in demand when power price increase or decrease. Different flexibility can be specified for different types of demand
+-
+   Variable: FoodDemand
+   Definition: Food demand in calories per person and per day (conversion factor: 1 kcal = 4.1868 kJ)
+-
+   Variable: FullLoadHours
+   Definition: Annual utilisation factor
+-
+   Variable: Gamma
+   Definition: Uncertainty factor (parameter)
+-
+   Variable: GasNetworkCosts
+   Definition: Network charges for using natural gas infrastructure
+-
+   Variable: GeneralDiscountRate
+   Definition:
+-
+   Variable: Generation.Production
+   Definition:
+-
+   Variable: GrowthRateTradeCapacity
+   Definition:
+-
+   Variable: Impedance
+   Definition: Impedance of the line
+-
+   Variable: Inertia
+   Definition: Contribution to inertia
+-
+   Variable: InertiaDemand
+   Definition: Need of inertia
+-
+   Variable: Inflow.NaturalInflow
+   Definition: Historical time series with inflow to hydropower resevoirs. Equivalent natural inflow profile for equivalent hydro valley system
+-
+   Variable: InputActivityRatio
+   Definition:
+-
+   Variable: InstalledCapacity.ExistingCapacity
+   Definition: (optional) Installed capacities or time series
+-
+   Variable: InvestmentCost
+   Definition: Annual investment cost (annuitized CAPEX plus fixed OPEX)
+-
+   Variable: InvestmentCostBackup
+   Definition: Annual investment cost for installed backup unit capacity (annuitized CAPEX plus fixed OPEX)
+-
+   Variable: InvestmentCostElectricBackup
+   Definition: Annual investment cost for installed electric backup unit capacity (annuitized CAPEX plus fixed OPEX)
+-
+   Variable: InvestmentCostRooftop
+   Definition: Annual investment cost (annuitized CAPEX plus fixed OPEX)
+-
+   Variable: InvestmentCostSolarthermal
+   Definition: Annual investment cost for installed solarthermal unit capacity (annuitized CAPEX plus fixed OPEX)
+-
+   Variable: InvestmentCostStorage
+   Definition: Annual investment cost for installed storage unit capacity (annuitized CAPEX plus fixed OPEX)
+-
+   Variable: InvestmentCostThermalBackup
+   Definition: Annual investment cost for installed thermal backup unit capacity (annuitized CAPEX plus fixed OPEX)
+-
+   Variable: InvestmentCostUtilityScale
+   Definition: Annual investment cost (annuitized CAPEX plus fixed OPEX)
+-
+   Variable: InvestmentLimit
+   Definition:
+-
+   Variable: LandCover
+   Definition: Total land cover
+-
+   Variable: Latitude
+   Definition: Geographical latitude
+-
+   Variable: Lifetime.OperationalLife
+   Definition:
+-
+   Variable: LinearTerm.SlopeVarCost.VariableOperatingCost
+   Definition: Proportional cost. Variable OPEX
+-
+   Variable: Longitude
+   Definition: Geographical longitude
+-
+   Variable: Marginalemissions
+   Definition:
+-
+   Variable: MarketAreaShare
+   Definition: Market area participation share for hydropower systems located at market area borders
+-
+   Variable: MarketExchangeRate(MER)
+   Definition: GDP at market exchange rate
+-
+   Variable: MaxBypass
+   Definition:
+-
+   Variable: MaxDischarge
+   Definition:
+-
+   Variable: Maximum(dis)chargingpowerofprosumeri'sbattery
+   Definition:
+-
+   Variable: Maximumcapacityofprosumeri'sbattery
+   Definition:
+-
+   Variable: MaximumLevelReservoir.CapacityReservoir
+   Definition:
+-
+   Variable: MaximalPotential
+   Definition: Maximal surface potential
+-
+   Variable: MaximumPower.MaximumCapacityPlant.UnitCapacity
+   Definition: Maximum Power
+-
+   Variable: MaximumPowerFlow.NetTransferCapacity
+   Definition: Maximum Flow in a line
+-
+   Variable: MaximumSpillage
+   Definition: Maximum equivalent spillage capacity
+-
+   Variable: MaximumTransmissionCapacityAB
+   Definition: Net cross-border transfer capacity from market area A to B; is a theoretical upper limit if TEP is included
+-
+   Variable: MaximumTransmissionCapacityAB
+   Definition: Transmission line expansion (if TEP included)
+-
+   Variable: MaximumTransmissionCapacityBA
+   Definition: Net cross-border transfer capacity from market area B to A; is a theoretical upper limit if TEP is included
+-
+   Variable: MaximumTransmissionCapacityBA
+   Definition: Transmission line expansion (if TEP included)
+-
+   Variable: MaximumVolume
+   Definition: Maximum volume of storage
+-
+   Variable: MinimumCapacity
+   Definition: Minimal capacity for every market area
+-
+   Variable: MaximumCapacity
+   Definition: Maximal capacity for every market area
+-
+   Variable: MinimumConventionalTurbineCapacity
+   Definition: Conventional turbine generation capacity (sum over all conventional turbine plants in a hydro valley system)
+-
+   Variable: MaximumConventionalTurbineCapacity
+   Definition: Conventional turbine generation capacity (sum over all conventional turbine plants in a hydro valley system)
+-
+   Variable: MinimumMarketShare
+   Definition: Market share of technology option in affiliated transport markets
+-
+   Variable: MaximumMarketShare
+   Definition: Market share of technology option in affiliated transport markets
+-
+   Variable: MinimumPumpCapacity
+   Definition: Pumped hydro pump consumption capacity (sum over all pumped hydro pump plants in a hydro valley system)
+-
+   Variable: MaximumPumpCapacity
+   Definition: Pumped hydro pump consumption capacity (sum over all pumped hydro pump plants in a hydro valley system)
+-
+   Variable: MinimumPumpedHydroTurbineCapacity
+   Definition: Pumped hydro turbine generation capacity (sum over all pumped hydro turbine plants in a hydro valley system)
+-
+   Variable: MaximumPumpedHydroTurbineCapacity
+   Definition: Pumped hydro turbine generation capacity (sum over all pumped hydro turbine plants in a hydro valley system)
+-
+   Variable: MinimumPumpedReservoirStorageCapacity
+   Definition: Equivalent pumped hydro storage capacity of all hydro reservoir in a hydro valley system (synthetic)
+-
+   Variable: MaximumPumpedReservoirStorageCapacity
+   Definition: Equivalent pumped hydro storage capacity of all hydro reservoir in a hydro valley system (synthetic)
+-
+   Variable: MinimumReservoirStorageCapacity
+   Definition: Equivalent storage capacity of all hydro reservoir in a hydro valley system (incl. pumped hydro)
+-
+   Variable: MaximumReservoirStorageCapacity
+   Definition: Equivalent storage capacity of all hydro reservoir in a hydro valley system (incl. pumped hydro)
+-
+   Variable: MinimumDownTime
+   Definition: Minimum time down
+-
+   Variable: MinimumLevelReservoir
+   Definition:
+-
+   Variable: MinimumProduction
+   Definition: Minimum power production for a plant
+-
+   Variable: MinimumPower
+   Definition: Minimum Power (negative if pumping)
+-
+   Variable: MinimumPowerFlow
+   Definition: Minimum Flow in a line
+-
+   Variable: MinimumStorageCharge
+   Definition:
+-
+   Variable: MinimumUpTime
+   Definition: Minimum time started
+-
+   Variable: MinimumVolume
+   Definition: Maximum volume of storage
+-
+   Variable: ModalSplitByFuelAndModalType
+   Definition:
+-
+   Variable: ModelPeriodEmissionLimit
+   Definition:
+-
+   Variable: ModelPeriodExogenousEmission
+   Definition:
+-
+   Variable: NaturalInflowPumpedHydro
+   Definition: Equivalent pumped hydro natural inflow profile for equivalent hydro valley system
+-
+   Variable: NewRESCapacity
+   Definition:
+-
+   Variable: nonthermo
+   Definition: The rest of ActivePowerDemand : non thermosensitive / non electric vehicle share
+-
+   Variable: OperationalLifeStorage
+   Definition:
+-
+   Variable: OutputActivityRatio
+   Definition:
+-
+   Variable: Overflow
+   Definition:
+-
+   Variable: Pauxiliary
+   Definition: Power consumed by Auxiliary Engines
+-
+   Variable: PhaseIn
+   Definition:
+-
+   Variable: PhaseOut
+   Definition:
+-
+   Variable: PollutantCO2
+   Definition: Limit of emissions
+-
+   Variable: PollutantRate
+   Definition: rate of pollutant emission
+-
+   Variable: Population
+   Definition: Total population
+-
+   Variable: PowerChangeCost
+   Definition: Optional OPEX
+-
+   Variable: PowerDemandConventional
+   Definition: Conventional electricity consumption including efficiency measures and excluding current heat-based electricity consumption
+-
+   Variable: PowerDemandCooling
+   Definition: Electricity consumption for cooling applications
+-
+   Variable: PowerDemandIndustry
+   Definition: Demand in Active Power for industry
+-
+   Variable: PowerDemandResidentals
+   Definition: Demand in Active Power for residentals
+-
+   Variable: PowerDemandTransmissionLosses
+   Definition: Internal transmission losses per market area
+-
+   Variable: PowerDemandTransport
+   Definition: Demand in Active Power for transport
+-
+   Variable: Powerfromprosumeritoprosumerj
+   Definition: Energy traded within the community
+-
+   Variable: Powerfromprosumeritothegrid
+   Definition: Feeding into the grid
+-
+   Variable: Powerfromthegridtoprosumeri
+   Definition: Buying from the retailer
+-
+   Variable: PowerLossCoefficient
+   Definition: Power loss coefficient of the power-to-heat diagram of the CHP unit
+-
+   Variable: PowerProduction
+   Definition: Generated power of gas turbines for one year
+-
+   Variable: PowerStability
+   Definition:
+-
+   Variable: PowerToHeatRatio
+   Definition: Power-to-heat ration of the power-to-heat diagram of the CHP unit (backpressure line)
+-
+   Variable: PrimaryDemand
+   Definition: Demand in Primary reserve
+-
+   Variable: PrimaryEnergy
+   Definition: Total primary energy supply (direct equivalent)
+-
+   Variable: PrimaryRho
+   Definition: Contribution factor  to Primary reserve : PrimaryRho*ActivePower is the maximum possible contribution
+-
+   Variable: PumpedHydroPumpConsumption
+   Definition: Pumped hydro pump consumption
+-
+   Variable: PumpedHydroTurbineGeneration
+   Definition: Pumped hydro turbine generation
+-
+   Variable: PumpedReservoirStorageLevel
+   Definition: Equivalent pumped hydro reservoir storage level evolution
+-
+   Variable: PumpingEfficiency
+   Definition: Efficiency of charging (link between energy storage and power consumption
+-
+   Variable: PurchasingPowerParity
+   Definition: GDP at purchasing power parity
+-
+   Variable: PureDemandFuel
+   Definition:
+-
+   Variable: PhotoVoltaicPowerProductionPerYear
+   Definition: PV power production per year. A profile hour-by-hour is given by SolarResources below
+-
+   Variable: PhotoVoltaicproductionofprosumeri
+   Definition: PV power production hourly 1)
+-
+   Variable: QuadTerm
+   Definition: Quadratic cost
+-
+   Variable: Reactance
+   Definition: Line reactance
+-
+   Variable: RegionalAnnualEmissionLimit
+   Definition:
+-
+   Variable: RegionalBaseYearProduction
+   Definition:
+-
+   Variable: RegionalModelPeriodEmissionLimit
+   Definition:
+-
+   Variable: REMinProductionTarget
+   Definition:
+-
+   Variable: ReserveRequirement
+   Definition: Reserve requirement for a plant
+-
+   Variable: ReservoirStorageLevel
+   Definition: Equivalent reservoir storage level evolution
+-
+   Variable: ResidualCapacity
+   Definition:
+-
+   Variable: ResidualStorageCapacity
+   Definition:
+-
+   Variable: Resistance
+   Definition: Line resistance
+-
+   Variable: RETagFuel
+   Definition:
+-
+   Variable: RETagTechnology
+   Definition:
+-
+   Variable: Retailer'selectricityprice
+   Definition:
+-
+   Variable: RiverTopology
+   Definition: Destination for discharge, bypass, overflow
+-
+   Variable: RotatingConsumption
+   Definition: Power consumed when on
+-
+   Variable: SecondaryDemand
+   Definition: Demand in secondary reserve
+-
+   Variable: SecondaryRho
+   Definition: Contribution factor  to Secondary reserve : SecondaryRho*ActivePower is the maximum possible contribution
+-
+   Variable: SelfDischargeLossFactor
+   Definition: Loss factor for battery self discharge
+-
+   Variable: SelfSufficiency
+   Definition:
+-
+   Variable: ShareFlexibleChargingBehaviour
+   Definition: The share of vehicle owners willing to charge in a flexible (i.e. system-friendly) way
+-
+   Variable: SocialDiscountRate
+   Definition:
+-
+   Variable: Solarpowerproduction
+   Definition:
+-
+   Variable: Solarresources
+   Definition: Historical timeserie with solar resources
+-
+   Variable: Spillage
+   Definition:
+-
+   Variable: StartUpCost
+   Definition: Start up cost
+-
+   Variable: StartUpCosts
+   Definition: Start up costs for a plant
+-
+   Variable: StartYear
+   Definition:
+-
+   Variable: Stateofchargeofprosumeri'sbattery
+   Definition:
+-
+   Variable: StorageCapacityRatio
+   Definition: Storage capacity ratio (power-specific)
+-
+   Variable: StorageLevel
+   Definition: Power consumption
+-
+   Variable: StorageLoss
+   Definition: Storage losses
+-
+   Variable: StorageLosses
+   Definition: Battery storage cycling losses
+-
+   Variable: StorageMaximumChargeRate
+   Definition:
+-
+   Variable: StorageMaximumDischargeRate
+   Definition:
+-
+   Variable: SurplusInProduction
+   Definition:
+-
+   Variable: TagDispatchableTechnology
+   Definition:
+-
+   Variable: TagTechnologyToModalType
+   Definition:
+-
+   Variable: TagTechnologyToSector
+   Definition:
+-
+   Variable: TechnologyDiscountRate
+   Definition:
+-
+   Variable: TechnologyFromStorage
+   Definition:
+-
+   Variable: TechnologyToStorage
+   Definition:
+-
+   Variable: ThermalBackupCapacityRatio
+   Definition: Thermal backup unit capacity ratio (power-specific)
+-
+   Variable: ThermalStorageLevel
+   Definition: Thermal storage level evolution
+-
+   Variable: TotalAnnualMaximumCapacity
+   Definition:
+-
+   Variable: TotalAnnualMaximumCapacityInvestment
+   Definition:
+-
+   Variable: TotalAnnualMinimumCapacity
+   Definition:
+-
+   Variable: TotalAnnualMinimumCapacityInvestment
+   Definition:
+-
+   Variable: TotalTechnologyAnnualActivityLowerLimit
+   Definition:
+-
+   Variable: TotalTechnologyAnnualActivityUpperLimit
+   Definition:
+-
+   Variable: TotalTechnologyModelPeriodActivityLowerLimit
+   Definition:
+-
+   Variable: TotalTechnologyModelPeriodActivityUpperLimit
+   Definition:
+-
+   Variable: Totalwelfare
+   Definition:
+-
+   Variable: TradeCapacity
+   Definition:
+-
+   Variable: TradeCapacityGrowthCosts
+   Definition:
+-
+   Variable: TradeCosts
+   Definition:
+-
+   Variable: TradeLossBetweenRegions
+   Definition:
+-
+   Variable: TradeRoute
+   Definition:
+-
+   Variable: TrajectoryLowerLimit
+   Definition:
+-
+   Variable: TrajectoryUpperLimit
+   Definition:
+-
+   Variable: TransmissionCapacityAB
+   Definition: Net cross-border transfer capacity from market area A to B; is a theoretical upper limit if TEP is included
+-
+   Variable: TransmissionCapacityBA
+   Definition: Net cross-border transfer capacity from market area B to A; is a theoretical upper limit if TEP is included
+-
+   Variable: TransmissionInvestmentCost
+   Definition: Annual investment cost for transmission infrastructure (annuitised CAPEX plus fixed OPEX)
+-
+   Variable: TransmissionLossesAB
+   Definition: Net cross-border transfer losses
+-
+   Variable: TransmissionLossesBA
+   Definition: Net cross-border transfer losses
+-
+   Variable: TransmissionLossFactor.LossesTransmissionLine.PowerLossesTransmissionLine
+   Definition: Linear transmission line loss factor based on a line length-dependent HVDC/HVAC loss model
+-
+   Variable: TransportDemandFreight
+   Definition: Road performance freight transport
+-
+   Variable: TransportDemandPassenger
+   Definition: Road performance individual passenger transport
+-
+   Variable: TransportFinalEnergyDemand
+   Definition: Annual final energy (driving) demand profile
+-
+   Variable: TransportFinalEnergyDemandAnnualSum
+   Definition: Annual final energy (driving) demand
+-
+   Variable: TransportMarketSupplyShare
+   Definition: Supply share of a technology for its affiliated transport market
+-
+   Variable: TurbineEfficiency
+   Definition: Efficiency of discharging (link between energy discharge and power generation)
+-
+   Variable: Unemployment
+   Definition: Number of unemployed inhabitants (based on ILO classification)
+-
+   Variable: ValueAdded
+   Definition: Total value added
+-
+   Variable: WaterValue
+   Definition: Dual variable for hydropower reservoir balance constraint
+-
+   Variable: Willingness-to-Pay
+   Definition:
+-
+   Variable: WindPowerProduction
+   Definition: Wind power production. A profile hour-by-hour is given by WindResources below
+-
+   Variable: WindResources
+   Definition: Historical timeseries with wind resources
+-
+   Variable: YearlyDifferenceMultiplier
+   Definition:
+-
+   Variable: YearSplit
+   Definition:
+-
+   Variable: YearVal
+   Definition:
