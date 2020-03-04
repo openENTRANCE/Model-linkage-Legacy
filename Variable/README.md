@@ -21,11 +21,12 @@ As brief part of the **Dictionary of NonEnergy** is shown as follows:
 | NonEnergy     |
 |---------------|
 | Crops         |
-| Livestock     |
+| Live stock    |
 | Forest        |
 | Pasture       |
 | Built\-up Area|
-| OtherLand     |
+
+| Other Land    |
 
 
 ## Dictionary of Energy
@@ -40,7 +41,7 @@ As brief part of the **Dictionary of Energy** is shown as follows:
 | Secondary Energy|
 
 
-## Dictionary of TypeOfSecondaryEnergy
+## Dictionary of Secondary Energy
 
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/TypeOfSecondaryEnergy.yml).
 
@@ -52,7 +53,7 @@ As brief part of the **Dictionary of Secondary Energy**:
 | Transport               |
 
 
-## Dictionary of TypeOfFinalEnergy
+## Dictionary of Final Energy
 
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/TypeOfFinalEnergy.yml).
 
@@ -99,15 +100,15 @@ All information to be considered should be added [here](https://github.com/openE
 As brief part of the **Dictionary of Variable**:
 | Variable                                                                    | Definition                                                                                                                            |
 |-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| AdditionalTradeCapacity                                                     |                                                                                                                                       |
-| AgriculturalDemand                                                          |                                                                                                                                       |
-| AgriculturalProduction                                                      | Total production of food  non\-food and feed products \(crops and livestock\) and bioenergy crops \(1st & 2nd generation\)            |
-| AirCondition                                                                | Share of air conditionning in ActivePowerDemand                                                                                       |
-| AnnualEmissionLimit\.AnnualExogenousEmission\.CarbonBudget                  | Carbon emission budget \(to be considered by emission market constraints\)                                                            |
-| AnnualSectoralEmissionLimit                                                 |                                                                                                                                       |
+| Additional Trade Capacity                                                     |                                                                                                                                       |
+| Agricultural Demand                                                          |                                                                                                                                       |
+| Agricultural Production                                                      | Total production of food  non\-food and feed products \(crops and livestock\) and bioenergy crops \(1st & 2nd generation\)            |
+| Air Condition                                                                | Share of air conditionning in Active Power Demand                                                                                       |
+| Annual Emission Limit                  | Carbon emission budget \(to be considered by emission market constraints\)                                                            |
+| Annual Sectoral Emission Limit                                                 |                                                                                                                                       |
 | Availability                                                                | Availability profile \(e\.g\. maintenance\)                                                                                           |
-| BaseYearProduction                                                          |                                                                                                                                       |
-| BioPrices                                                                   | Bio price                                                                                                                             |
+| Base Year Production                                                          |                                                                                                                                       |
+| Bio Prices                                                                   | Bio price                                                                                                                             |
 
 
 Note that **Definition** in blank next to be defined.
