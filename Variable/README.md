@@ -44,7 +44,7 @@ As brief part of the **Dictionary of Energy** is shown as follows:
 
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/TypeOfSecondaryEnergy.yml).
 
-As brief part of the **Dictionary of TypeOfSecondaryEnergy**:
+As brief part of the **Dictionary of Secondary Energy**:
 | Type Of Secondary Energy|
 |-------------------------|
 | Electricity             |
@@ -56,7 +56,7 @@ As brief part of the **Dictionary of TypeOfSecondaryEnergy**:
 
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/TypeOfFinalEnergy.yml).
 
-As brief part of the **Dictionary of TypeOfFinalEnergy**:
+As brief part of the **Dictionary of Final Energy**:
 | Type Of Final Energy    |
 |-------------------------|
 | Commercial              |
@@ -67,7 +67,7 @@ As brief part of the **Dictionary of TypeOfFinalEnergy**:
 | Transportation Passenger|
 
 
-## Dictionary of Technology Level 1 and 2
+<!-- ## Dictionary of Technology Level 1 and 2
 
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/Technology_Level12.yml).
 
@@ -79,10 +79,10 @@ As brief part of the **Dictionary of Technology 1 and 2**:
 | BiomassToPower          | BiomassW/CCS                                                               |
 | BiomassToPower          | BiomassW/oCCS                                                              |
 | ThermalMachine          | Boiler                                                                     |
-| DirectAirCaptureMachine | CarbonCaptureAndStorage                                                    |
+| DirectAirCaptureMachine | CarbonCaptureAndStorage                                                    | -->
 
 
-## Dictionary of Nodes
+<!-- ## Dictionary of Nodes
 
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/Technology_Level3.yml).
 
@@ -90,7 +90,7 @@ As brief part of the **Dictionary of Technology 3**:
 | Technology Level 3 |
 |--------------------|
 | PowerGenerator1    |
-| PowerGenerator2    |
+| PowerGenerator2    | -->
 
 ## Definition of Variable
 
