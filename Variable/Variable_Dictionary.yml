@@ -1,999 +1,222 @@
 -
-   Level 1: Primary Energy
-   Level 2: Fossil
-   Level 3: Coal
-   Level 4: w/ CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Primary Energy|Fossil|Coal|w/ CCS
 -
-   Level 1: Primary Energy
-   Level 2: Fossil
-   Level 3: Coal
-   Level 4: w/o CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Primary Energy|Fossil|Coal|w/o CCS
 -
-   Level 1: Primary Energy
-   Level 2: Fossil
-   Level 3: Oil
-   Level 4: w/ CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Primary Energy|Fossil|Oil|w/ CCS
 -
-   Level 1: Primary Energy
-   Level 2: Fossil
-   Level 3: Oil
-   Level 4: w/o CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Primary Energy|Fossil|Oil|w/o CCS
 -
-   Level 1: Primary Energy
-   Level 2: Fossil
-   Level 3: Gas
-   Level 4: w/ CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Primary Energy|Fossil|Gas|w/ CCS
 -
-   Level 1: Primary Energy
-   Level 2: Fossil
-   Level 3: Gas
-   Level 4: w/o CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Primary Energy|Fossil|Gas|w/o CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Coal
-   Level 4: w/ CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Coal|w/ CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Coal
-   Level 4: w/o CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Coal|w/o CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Oil
-   Level 4: w/ CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Oil|w/ CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Oil
-   Level 4: w/o CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Oil|w/o CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Gas
-   Level 4: w/ CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Gas|w/ CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Gas
-   Level 4: w/o CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Gas|w/o CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Biomass
-   Level 4: w/ CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Biomass|w/ CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Biomass
-   Level 4: w/o CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Biomass|w/o CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Nuclear
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Nuclear
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Hydro
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Hydro
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Solar
-   Level 4: Photovoltaic
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Solar|Photovoltaic
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Solar
-   Level 4: Concentrated Solar Power
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Solar|Concentrated Solar Power
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Wind
-   Level 4: Onshore
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Wind|Onshore
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Wind
-   Level 4: Offshore
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Wind|Offshore
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Geothermal
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Geothermal
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Ocean
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Ocean
 -
-   Level 1: Secondary Energy
-   Level 2: Electricity
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Electricity|Other
 -
-   Level 1: Secondary Energy
-   Level 2: Hydrogen
-   Level 3: Coal
-   Level 4: w/ CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Hydrogen|Coal|w/ CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Hydrogen
-   Level 3: Coal
-   Level 4: w/o CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Hydrogen|Coal|w/o CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Hydrogen
-   Level 3: Gas
-   Level 4: w/ CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Hydrogen|Gas|w/ CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Hydrogen
-   Level 3: Gas
-   Level 4: w/o CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Hydrogen|Gas|w/o CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Hydrogen
-   Level 3: Biomass
-   Level 4: w/ CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Hydrogen|Biomass|w/ CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Hydrogen
-   Level 3: Biomass
-   Level 4: w/o CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Hydrogen|Biomass|w/o CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Hydrogen
-   Level 3: Nuclear
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Hydrogen|Nuclear
 -
-   Level 1: Secondary Energy
-   Level 2: Hydrogen
-   Level 3: Solar
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Hydrogen|Solar
 -
-   Level 1: Secondary Energy
-   Level 2: Hydrogen
-   Level 3: Electricity
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Hydrogen|Electricity
 -
-   Level 1: Secondary Energy
-   Level 2: Hydrogen
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Hydrogen|Other
 -
-   Level 1: Secondary Energy
-   Level 2: Liquids
-   Level 3: Coal
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Liquids|Coal
 -
-   Level 1: Secondary Energy
-   Level 2: Liquids
-   Level 3: Gas
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Liquids|Gas
 -
-   Level 1: Secondary Energy
-   Level 2: Liquids
-   Level 3: Oil
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Liquids|Oil
 -
-   Level 1: Secondary Energy
-   Level 2: Liquids
-   Level 3: Biomass
-   Level 4: w/ CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Liquids|Biomass|w/ CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Liquids
-   Level 3: Biomass
-   Level 4: w/o CCS
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Liquids|Biomass|w/o CCS
 -
-   Level 1: Secondary Energy
-   Level 2: Liquids
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Liquids|Other
 -
-   Level 1: Secondary Energy
-   Level 2: Gases
-   Level 3: Coal
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Gases|Coal
 -
-   Level 1: Secondary Energy
-   Level 2: Gases
-   Level 3: Natural Gas
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Gases|Natural Gas
 -
-   Level 1: Secondary Energy
-   Level 2: Gases
-   Level 3: Biomass
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Gases|Biomass
 -
-   Level 1: Secondary Energy
-   Level 2: Gases
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Gases|Other
 -
-   Level 1: Secondary Energy
-   Level 2: Solids
-   Level 3: Coal
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Solids|Coal
 -
-   Level 1: Secondary Energy
-   Level 2: Solids
-   Level 3: Biomass
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Solids|Biomass
 -
-   Level 1: Secondary Energy
-   Level 2: Solids
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Solids|Other
 -
-   Level 1: Secondary Energy
-   Level 2: Solids
-   Level 3: Coal
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Solids|Coal
 -
-   Level 1: Secondary Energy
-   Level 2: Solids
-   Level 3: Biomass
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Solids|Biomass
 -
-   Level 1: Secondary Energy
-   Level 2: Solids
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Solids|Other
 -
-   Level 1: Secondary Energy
-   Level 2: Heat
-   Level 3: Coal
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Heat|Coal
 -
-   Level 1: Secondary Energy
-   Level 2: Heat
-   Level 3: Oil
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Heat|Oil
 -
-   Level 1: Secondary Energy
-   Level 2: Heat
-   Level 3: Gas
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Heat|Gas
 -
-   Level 1: Secondary Energy
-   Level 2: Heat
-   Level 3: Biomass
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Heat|Biomass
 -
-   Level 1: Secondary Energy
-   Level 2: Heat
-   Level 3: Nuclear
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Heat|Nuclear
 -
-   Level 1: Secondary Energy
-   Level 2: Heat
-   Level 3: Solar
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Heat|Solar
 -
-   Level 1: Secondary Energy
-   Level 2: Heat
-   Level 3: Geothermal
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Heat|Geothermal
 -
-   Level 1: Secondary Energy
-   Level 2: Heat
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Heat|Other
 -
-   Level 1: Secondary Energy
-   Level 2: Other Carrier
-   Level 3: Coal
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Other Carrier|Coal
 -
-   Level 1: Secondary Energy
-   Level 2: Other Carrier
-   Level 3: Oil
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Other Carrier|Oil
 -
-   Level 1: Secondary Energy
-   Level 2: Other Carrier
-   Level 3: Gas
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Other Carrier|Gas
 -
-   Level 1: Secondary Energy
-   Level 2: Other Carrier
-   Level 3: Biomass
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Other Carrier|Biomass
 -
-   Level 1: Secondary Energy
-   Level 2: Other Carrier
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Secondary Energy|Other Carrier|Other
 -
-   Level 1: Final Energy
-   Level 2: Industry
-   Level 3: Solids
-   Level 4: Coal
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Industry|Solids|Coal
 -
-   Level 1: Final Energy
-   Level 2: Industry
-   Level 3: Solids
-   Level 4: Biomass
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Industry|Solids|Biomass
 -
-   Level 1: Final Energy
-   Level 2: Industry
-   Level 3: Liquids
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Industry|Liquids
 -
-   Level 1: Final Energy
-   Level 2: Industry
-   Level 3: Gases
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Industry|Gases
 -
-   Level 1: Final Energy
-   Level 2: Industry
-   Level 3: Electricity
-   Level 4: Ancillary services
-   Level 5: Primary demand
-   Level 6:
-   Level 7:
    Variable: Final Energy|Industry|Electricity|Ancillary services|Primary demand
 -
-   Level 1: Final Energy
-   Level 2: Industry
-   Level 3: Electricity
-   Level 4: Ancillary services
-   Level 5: Inertia demand
-   Level 6:
-   Level 7:
    Variable: Final Energy|Industry|Electricity|Ancillary services|Inertia demand
 -
-   Level 1: Final Energy
-   Level 2: Industry
-   Level 3: Hydrogen
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Industry|Hydrogen
 -
-   Level 1: Final Energy
-   Level 2: Industry
-   Level 3: Heat
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Industry|Heat
 -
-   Level 1: Final Energy
-   Level 2: Industry
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Industry|Other
 -
-   Level 1: Final Energy
-   Level 2: Residential and Commercial
-   Level 3: Solids
-   Level 4: Coal
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Residential and Commercial|Solids|Coal
 -
-   Level 1: Final Energy
-   Level 2: Residential and Commercial
-   Level 3: Solids
-   Level 4: Biomass
-   Level 5: Modern
-   Level 6:
-   Level 7:
    Variable: Final Energy|Residential and Commercial|Solids|Biomass|Modern
 -
-   Level 1: Final Energy
-   Level 2: Residential and Commercial
-   Level 3: Solids
-   Level 4: Biomass
-   Level 5: Traditional
-   Level 6:
-   Level 7:
    Variable: Final Energy|Residential and Commercial|Solids|Biomass|Traditional
 -
-   Level 1: Final Energy
-   Level 2: Residential and Commercial
-   Level 3: Liquids
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Residential and Commercial|Liquids
 -
-   Level 1: Final Energy
-   Level 2: Residential and Commercial
-   Level 3: Gases
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Residential and Commercial|Gases
 -
-   Level 1: Final Energy
-   Level 2: Residential and Commercial
-   Level 3: Electricity
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Residential and Commercial|Electricity
 -
-   Level 1: Final Energy
-   Level 2: Residential and Commercial
-   Level 3: Hydrogen
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Residential and Commercial|Hydrogen
 -
-   Level 1: Final Energy
-   Level 2: Residential and Commercial
-   Level 3: Heat
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Residential and Commercial|Heat
 -
-   Level 1: Final Energy
-   Level 2: Residential and Commercial
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Residential and Commercial|Other
 -
-   Level 1: Final Energy
-   Level 2: Transportation
-   Level 3: Liquids
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Transportation|Liquids
 -
-   Level 1: Final Energy
-   Level 2: Transportation
-   Level 3: Gases
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Transportation|Gases
 -
-   Level 1: Final Energy
-   Level 2: Transportation
-   Level 3: Hydrogen
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Transportation|Hydrogen
 -
-   Level 1: Final Energy
-   Level 2: Transportation
-   Level 3: Electricity
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Transportation|Electricity
 -
-   Level 1: Final Energy
-   Level 2: Transportation
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Transportation|Other
 -
-   Level 1: Final Energy
-   Level 2: Other Sector
-   Level 3: Solids
-   Level 4: Coal
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Other Sector|Solids|Coal
 -
-   Level 1: Final Energy
-   Level 2: Other Sector
-   Level 3: Solids
-   Level 4: Biomass
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Other Sector|Solids|Biomass
 -
-   Level 1: Final Energy
-   Level 2: Other Sector
-   Level 3: Liquids
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Other Sector|Liquids
 -
-   Level 1: Final Energy
-   Level 2: Other Sector
-   Level 3: Gases
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Other Sector|Gases
 -
-   Level 1: Final Energy
-   Level 2: Other Sector
-   Level 3: Electricity
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Final Energy|Other Sector|Electricity
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Biomass
-   Level 5: Energy
-   Level 6: Demand
-   Level 7: Industry
    Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Demand|Industry
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Biomass
-   Level 5: Energy
-   Level 6: Supply
-   Level 7: Electricity
    Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Supply|Electricity
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Biomass
-   Level 5: Energy
-   Level 6: Supply
-   Level 7: Gases
    Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Supply|Gases
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Biomass
-   Level 5: Energy
-   Level 6: Supply
-   Level 7: Hydrogen
    Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Supply|Hydrogen
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Biomass
-   Level 5: Energy
-   Level 6: Supply
-   Level 7: Liquids
    Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Supply|Liquids
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Biomass
-   Level 5: Energy
-   Level 6: Supply
-   Level 7: Other
    Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Supply|Other
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Fossil
-   Level 5: Energy
-   Level 6: Demand
-   Level 7: Industry
    Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Demand|Industry
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Fossil
-   Level 5: Energy
-   Level 6: Supply
-   Level 7: Electricity
    Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Supply|Electricity
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Fossil
-   Level 5: Energy
-   Level 6: Supply
-   Level 7: Gases
    Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Supply|Gases
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Fossil
-   Level 5: Energy
-   Level 6: Supply
-   Level 7: Hydrogen
    Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Supply|Hydrogen
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Fossil
-   Level 5: Energy
-   Level 6: Supply
-   Level 7: Liquids
    Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Supply|Liquids
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Fossil
-   Level 5: Energy
-   Level 6: Supply
-   Level 7: Other
    Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Supply|Other
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: CCS
-   Level 4: Industrial Processes
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Emissions|Carbon Sequestration|CCS|Industrial Processes
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: Land Use
-   Level 4: Afforestation
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Emissions|Carbon Sequestration|Land Use|Afforestation
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: Land Use
-   Level 4: Biochar
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Emissions|Carbon Sequestration|Land Use|Biochar
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: Land Use
-   Level 4: Soil Carbon Management
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Emissions|Carbon Sequestration|Land Use|Soil Carbon Management
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: Direct Air Capture
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Emissions|Carbon Sequestration|Direct Air Capture
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: Enhanced Weathering
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Emissions|Carbon Sequestration|Enhanced Weathering
 -
-   Level 1: Emissions
-   Level 2: Carbon Sequestration
-   Level 3: Other
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Emissions|Carbon Sequestration|Other
 -
-   Level 1: Electricity Grid
-   Level 2: Impedance
-   Level 3:
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Electricity Grid|Impedance
 -
-   Level 1: Electricity Grid
-   Level 2: Maximum Flow
-   Level 3:
-   Level 4:
-   Level 5:
-   Level 6:
-   Level 7:
    Variable: Electricity Grid|Maximum Flow
