@@ -25,6 +25,7 @@ As brief part of the **Dictionary of NonEnergy** is shown as follows:
 | Forest        |
 | Pasture       |
 | Built\-up Area|
+
 | Other Land    |
 
 
@@ -45,6 +46,7 @@ As brief part of the **Dictionary of Energy** is shown as follows:
 All information to be considered should be added [here](https://github.com/openENTRANCE/Model-linkage/blob/master/Variable/TypeOfSecondaryEnergy.yml).
 
 As brief part of the **Dictionary of TypeOfSecondaryEnergy**:
+
 | Type Of Secondary Energy |
 |--------------------------|
 | Electricity              |
