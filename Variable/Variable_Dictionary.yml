@@ -1,222 +1,366 @@
 -
-   Variable: Primary Energy|Fossil|Coal|w/ CCS
+   Variable: Population
 -
-   Variable: Primary Energy|Fossil|Coal|w/o CCS
+   Variable: Consumption
 -
-   Variable: Primary Energy|Fossil|Oil|w/ CCS
+   Variable: GDP|MER
 -
-   Variable: Primary Energy|Fossil|Oil|w/o CCS
+   Variable: GDP|PPP
 -
-   Variable: Primary Energy|Fossil|Gas|w/ CCS
+   Variable: Price|Primary Energy|Biomass
 -
-   Variable: Primary Energy|Fossil|Gas|w/o CCS
+   Variable: Price|Primary Energy|Coal
 -
-   Variable: Secondary Energy|Electricity|Coal|w/ CCS
+   Variable: Price|Primary Energy|Gas
 -
-   Variable: Secondary Energy|Electricity|Coal|w/o CCS
+   Variable: Price|Primary Energy|Oil
 -
-   Variable: Secondary Energy|Electricity|Oil|w/ CCS
+   Variable: Value Added
 -
-   Variable: Secondary Energy|Electricity|Oil|w/o CCS
+   Variable: Value Added|Agriculture
 -
-   Variable: Secondary Energy|Electricity|Gas|w/ CCS
+   Variable: Value Added|Services
 -
-   Variable: Secondary Energy|Electricity|Gas|w/o CCS
+   Variable: Value Added|Energy Supply
+-
+   Variable: Value Added|Industry
+-
+   Variable: Value Added|Transportation
+-
+   Variable: Minimum Market Share
+-
+   Variable: Maximum Market Share
+-
+   Variable: Share Flexible Charging Behaviour
+-
+   Variable: Power production|Electricity|Power Generation
+-
+   Variable: Maximum capacity|Electricity|Power Generation
+-
+   Variable: Minimum capacity|Electricity|Power Generation
+-
+   Variable: Maximum spillage|Electricity|Power Generation|Wind
+-
+   Variable: Start up Cost|Electricity|Power Generation
+-
+   Variable: Variable Cost|Electricity|Power Generation
+-
+   Variable: Minimum On duration|Electricity|Power Generation
+-
+   Variable: Minimum Off duration|Electricity|Power Generation
+-
+   Variable: Investment Cost|Electricity|Power Generation
+-
+   Variable: Rate Primary Ancillary Services|Electricity|Power Generation
+-
+   Variable: Primary Demand Ancillary Services|Electricity
+-
+   Variable: Inertia Demand Ancillary Services|Electricity
+-
+   Variable: Impedance|Electricity|Power Network
+-
+   Variable: Maximum Flow AB|Electricity|Power Network
+-
+   Variable: Maximum Flow BA|Electricity|Power Network
+-
+   Variable: Transmission Losses AB|Electricity|Power Network
+-
+   Variable: Transmission Losses BA|Electricity|Power Network
+-
+   Variable: Power flow AB|Electricity|Power Network
+-
+   Variable: Power flow BA|Electricity|Power Network
+-
+   Variable: Investment Cost|Electricity|Power Network
+-
+   Variable: Electricity|Power Demand
+-
+   Variable: Emissions|CO2
+-
+   Variable: Emissions|CO2|AFOLU
+-
+   Variable: Emissions|CO2|Energy
+-
+   Variable: Emissions|CO2|Energy and Industrial Processes
+-
+   Variable: Emissions|CO2|Energy|Demand
+-
+   Variable: Emissions|CO2|Energy|Demand|Commercial
+-
+   Variable: Emissions|CO2|Energy|Demand|Industry
+-
+   Variable: Emissions|CO2|Energy|Demand|Other Sector
+-
+   Variable: Emissions|CO2|Energy|Demand|Residential
+-
+   Variable: Emissions|CO2|Energy|Demand|Residential and Commercial
+-
+   Variable: Emissions|CO2|Energy|Demand|Transportation
+-
+   Variable: Emissions|CO2|Energy|Supply
+-
+   Variable: Emissions|CO2|Industrial Processes
+-
+   Variable: Emissions|CO2|Other
+-
+   Variable: Emissions|F-Gases
+-
+   Variable: Emissions|Kyoto Gases
+-
+   Variable: Emissions|N2O
+-
+   Variable: Emissions|CH4
+-
+   Variable: Emissions|NH3
+-
+   Variable: Emissions|NOx
+-
+   Variable: Emissions|OC
+-
+   Variable: Emissions|Sulfur
+-
+   Variable: Emissions|VOC
+-
+   Variable: Employment
+-
+   Variable: Unemployment
+-
+   Variable: Final Energy
+-
+   Variable: Final Energy|Commercial
+-
+   Variable: Final Energy|Electricity
+-
+   Variable: Final Energy|Electricity|Transportation
+-
+   Variable: Final Energy|Electricity|Heat
+-
+   Variable: Final Energy|Electricity|Cooling
+-
+   Variable: Final Energy|Electricity|Other
+-
+   Variable: Final Energy|Gases
+-
+   Variable: Final Energy|Geothermal
+-
+   Variable: Final Energy|Heat
+-
+   Variable: Final Energy|Hydrogen
+-
+   Variable: Final Energy|Industry
+-
+   Variable: Final Energy|Liquids
+-
+   Variable: Final Energy|Non-Energy Use
+-
+   Variable: Final Energy|Residential
+-
+   Variable: Final Energy|Residential and Commercial
+-
+   Variable: Final Energy|Solar
+-
+   Variable: Final Energy|Solids
+-
+   Variable: Final Energy|Solids|Biomass
+-
+   Variable: Final Energy|Solids|Biomass|Traditional
+-
+   Variable: Final Energy|Solids|Coal
+-
+   Variable: Final Energy|Transportation
+-
+   Variable: Final Energy|Transportation|Freight
+-
+   Variable: Final Energy|Transportation|Passenger
+-
+   Variable: Primary Energy
+-
+   Variable: Primary Energy|Biomass
+-
+   Variable: Primary Energy|Coal
+-
+   Variable: Primary Energy|Coal|w/ CCS
+-
+   Variable: Primary Energy|Coal|w/o CCS
+-
+   Variable: Primary Energy|Gas
+-
+   Variable: Primary Energy|Gas|w/ CCS
+-
+   Variable: Primary Energy|Gas|w/o CCS
+-
+   Variable: Primary Energy|Geothermal
+-
+   Variable: Primary Energy|Hydro
+-
+   Variable: Primary Energy|Non-Biomass Renewables
+-
+   Variable: Primary Energy|Nuclear
+-
+   Variable: Primary Energy|Ocean
+-
+   Variable: Primary Energy|Oil
+-
+   Variable: Primary Energy|Oil|w/ CCS
+-
+   Variable: Primary Energy|Oil|w/o CCS
+-
+   Variable: Primary Energy|Other
+-
+   Variable: Primary Energy|Solar
+-
+   Variable: Primary Energy|Wind
+-
+   Variable: Secondary Energy|Electricity
+-
+   Variable: Secondary Energy|Electricity|Biomass
 -
    Variable: Secondary Energy|Electricity|Biomass|w/ CCS
 -
    Variable: Secondary Energy|Electricity|Biomass|w/o CCS
 -
-   Variable: Secondary Energy|Electricity|Nuclear
+   Variable: Secondary Energy|Electricity|Coal
 -
-   Variable: Secondary Energy|Electricity|Hydro
+   Variable: Secondary Energy|Electricity|Coal|w/ CCS
 -
-   Variable: Secondary Energy|Electricity|Solar|Photovoltaic
+   Variable: Secondary Energy|Electricity|Coal|w/o CCS
 -
-   Variable: Secondary Energy|Electricity|Solar|Concentrated Solar Power
+   Variable: Secondary Energy|Electricity|Gas
 -
-   Variable: Secondary Energy|Electricity|Wind|Onshore
+   Variable: Secondary Energy|Electricity|Gas|w/ CCS
 -
-   Variable: Secondary Energy|Electricity|Wind|Offshore
+   Variable: Secondary Energy|Electricity|Gas|w/o CCS
 -
    Variable: Secondary Energy|Electricity|Geothermal
 -
+   Variable: Secondary Energy|Electricity|Hydro
+-
+   Variable: Secondary Energy|Electricity|Non-Biomass Renewables
+-
+   Variable: Secondary Energy|Electricity|Nuclear
+-
    Variable: Secondary Energy|Electricity|Ocean
 -
-   Variable: Secondary Energy|Electricity|Other
+   Variable: Secondary Energy|Electricity|Oil
 -
-   Variable: Secondary Energy|Hydrogen|Coal|w/ CCS
+   Variable: Secondary Energy|Electricity|Oil|w/ CCS
 -
-   Variable: Secondary Energy|Hydrogen|Coal|w/o CCS
+   Variable: Secondary Energy|Electricity|Oil|w/o CCS
 -
-   Variable: Secondary Energy|Hydrogen|Gas|w/ CCS
+   Variable: Secondary Energy|Electricity|Solar
 -
-   Variable: Secondary Energy|Hydrogen|Gas|w/o CCS
+   Variable: Secondary Energy|Electricity|Solar|CSP
 -
-   Variable: Secondary Energy|Hydrogen|Biomass|w/ CCS
+   Variable: Secondary Energy|Electricity|Solar|PV
 -
-   Variable: Secondary Energy|Hydrogen|Biomass|w/o CCS
+   Variable: Secondary Energy|Electricity|Wind
 -
-   Variable: Secondary Energy|Hydrogen|Nuclear
+   Variable: Secondary Energy|Electricity|Wind|Offshore
 -
-   Variable: Secondary Energy|Hydrogen|Solar
+   Variable: Secondary Energy|Electricity|Wind|Onshore
 -
-   Variable: Secondary Energy|Hydrogen|Electricity
+   Variable: Energy Service|Floor Space|Commercial
 -
-   Variable: Secondary Energy|Hydrogen|Other
+   Variable: Energy Service|Floor Space|Residential
 -
-   Variable: Secondary Energy|Liquids|Coal
+   Variable: Energy Service|Floor Space|Residential and Commercial
 -
-   Variable: Secondary Energy|Liquids|Gas
+   Variable: Energy Service|Transportation|Freight
 -
-   Variable: Secondary Energy|Liquids|Oil
+   Variable: Energy Service|Transportation|Passenger
 -
-   Variable: Secondary Energy|Liquids|Biomass|w/ CCS
+   Variable: Heat|Heat Demand
 -
-   Variable: Secondary Energy|Liquids|Biomass|w/o CCS
+   Variable: Heat|Thermal Backup Capacity Ratio
 -
-   Variable: Secondary Energy|Liquids|Other
+   Variable: Heat|Thermal Backup Efficiency
 -
-   Variable: Secondary Energy|Gases|Coal
+   Variable: Heat|Heat Storage Capacity
 -
-   Variable: Secondary Energy|Gases|Natural Gas
+   Variable: Heat|Heat Discharging Efficiency
 -
-   Variable: Secondary Energy|Gases|Biomass
+   Variable: Heat|Heat Charging Efficiency
 -
-   Variable: Secondary Energy|Gases|Other
+   Variable: Heat|Condensing Mode Efficiency
 -
-   Variable: Secondary Energy|Solids|Coal
+   Variable: Investment|Energy Efficiency
 -
-   Variable: Secondary Energy|Solids|Biomass
+   Variable: Investment|Energy Supply
 -
-   Variable: Secondary Energy|Solids|Other
+   Variable: Investment|Energy Supply|Electricity
 -
-   Variable: Secondary Energy|Solids|Coal
+   Variable: Investment|Energy Supply|Extraction|Coal
 -
-   Variable: Secondary Energy|Solids|Biomass
+   Variable: Investment|Energy Supply|Extraction|Gas
 -
-   Variable: Secondary Energy|Solids|Other
+   Variable: Investment|Energy Supply|Extraction|Oil
 -
-   Variable: Secondary Energy|Heat|Coal
+   Variable: Investment|Energy Supply|Hydrogen
 -
-   Variable: Secondary Energy|Heat|Oil
+   Variable: Investment|Energy Supply|Liquids|Biomass
 -
-   Variable: Secondary Energy|Heat|Gas
+   Variable: Investment|Energy Supply|Liquids|Coal and Gas
 -
-   Variable: Secondary Energy|Heat|Biomass
+   Variable: Investment|Energy Supply|Liquids|Oil
 -
-   Variable: Secondary Energy|Heat|Nuclear
+   Variable: Agricultural Production
 -
-   Variable: Secondary Energy|Heat|Solar
+   Variable: Agricultural Production|Energy
 -
-   Variable: Secondary Energy|Heat|Geothermal
+   Variable: Agricultural Production|Energy|Crops
 -
-   Variable: Secondary Energy|Heat|Other
+   Variable: Agricultural Production|Energy|Residues
 -
-   Variable: Secondary Energy|Other Carrier|Coal
+   Variable: Agricultural Production|Non-Energy
 -
-   Variable: Secondary Energy|Other Carrier|Oil
+   Variable: Agricultural Production|Non-Energy|Crops
 -
-   Variable: Secondary Energy|Other Carrier|Gas
+   Variable: Agricultural Production|Non-Energy|Livestock
 -
-   Variable: Secondary Energy|Other Carrier|Biomass
+   Variable: Food Demand
 -
-   Variable: Secondary Energy|Other Carrier|Other
+   Variable: Land Cover
 -
-   Variable: Final Energy|Industry|Solids|Coal
+   Variable: Land Cover|Built-up Area
 -
-   Variable: Final Energy|Industry|Solids|Biomass
+   Variable: Land Cover|Cropland
 -
-   Variable: Final Energy|Industry|Liquids
+   Variable: Land Cover|Forest
 -
-   Variable: Final Energy|Industry|Gases
+   Variable: Land Cover|Other Land
 -
-   Variable: Final Energy|Industry|Electricity|Ancillary services|Primary demand
+   Variable: Land Cover|Pasture
 -
-   Variable: Final Energy|Industry|Electricity|Ancillary services|Inertia demand
+   Variable: Trade|Primary Energy|Biomass|Value
 -
-   Variable: Final Energy|Industry|Hydrogen
+   Variable: Trade|Primary Energy|Biomass|Volume
 -
-   Variable: Final Energy|Industry|Heat
+   Variable: Trade|Primary Energy|Coal|Value
 -
-   Variable: Final Energy|Industry|Other
+   Variable: Trade|Primary Energy|Coal|Volume
 -
-   Variable: Final Energy|Residential and Commercial|Solids|Coal
+   Variable: Trade|Primary Energy|Gas|Value
 -
-   Variable: Final Energy|Residential and Commercial|Solids|Biomass|Modern
+   Variable: Trade|Primary Energy|Gas|Volume
 -
-   Variable: Final Energy|Residential and Commercial|Solids|Biomass|Traditional
+   Variable: Trade|Primary Energy|Oil|Value
 -
-   Variable: Final Energy|Residential and Commercial|Liquids
+   Variable: Trade|Primary Energy|Oil|Volume
 -
-   Variable: Final Energy|Residential and Commercial|Gases
+   Variable: Trade|Secondary Energy|Electricity|Value
 -
-   Variable: Final Energy|Residential and Commercial|Electricity
+   Variable: Trade|Secondary Energy|Electricity|Volume
 -
-   Variable: Final Energy|Residential and Commercial|Hydrogen
+   Variable: Trade|Secondary Energy|Hydrogen|Value
 -
-   Variable: Final Energy|Residential and Commercial|Heat
+   Variable: Trade|Secondary Energy|Hydrogen|Volume
 -
-   Variable: Final Energy|Residential and Commercial|Other
+   Variable: Trade|Secondary Energy|Liquids|Biomass|Value
 -
-   Variable: Final Energy|Transportation|Liquids
+   Variable: Trade|Secondary Energy|Liquids|Biomass|Volume
 -
-   Variable: Final Energy|Transportation|Gases
+   Variable: Trade|Secondary Energy|Liquids|Oil|Value
 -
-   Variable: Final Energy|Transportation|Hydrogen
+   Variable: Trade|Secondary Energy|Liquids|Oil|Volume
 -
-   Variable: Final Energy|Transportation|Electricity
--
-   Variable: Final Energy|Transportation|Other
--
-   Variable: Final Energy|Other Sector|Solids|Coal
--
-   Variable: Final Energy|Other Sector|Solids|Biomass
--
-   Variable: Final Energy|Other Sector|Liquids
--
-   Variable: Final Energy|Other Sector|Gases
--
-   Variable: Final Energy|Other Sector|Electricity
--
-   Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Demand|Industry
--
-   Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Supply|Electricity
--
-   Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Supply|Gases
--
-   Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Supply|Hydrogen
--
-   Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Supply|Liquids
--
-   Variable: Emissions|Carbon Sequestration|CCS|Biomass|Energy|Supply|Other
--
-   Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Demand|Industry
--
-   Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Supply|Electricity
--
-   Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Supply|Gases
--
-   Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Supply|Hydrogen
--
-   Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Supply|Liquids
--
-   Variable: Emissions|Carbon Sequestration|CCS|Fossil|Energy|Supply|Other
--
-   Variable: Emissions|Carbon Sequestration|CCS|Industrial Processes
--
-   Variable: Emissions|Carbon Sequestration|Land Use|Afforestation
--
-   Variable: Emissions|Carbon Sequestration|Land Use|Biochar
--
-   Variable: Emissions|Carbon Sequestration|Land Use|Soil Carbon Management
--
-   Variable: Emissions|Carbon Sequestration|Direct Air Capture
--
-   Variable: Emissions|Carbon Sequestration|Enhanced Weathering
--
-   Variable: Emissions|Carbon Sequestration|Other
--
-   Variable: Electricity Grid|Impedance
--
-   Variable: Electricity Grid|Maximum Flow
+   Variable: Trade|Value
